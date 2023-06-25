@@ -1,0 +1,24 @@
+HELLO FRIENDS !! :) 
+TODAY LIKE A LITTLE BONUS TO MY WORK I GIVE YOU READER WITH CARD'S GENERALLY FOR POLAND AND EU.
+THIS LINE HAVE LIMIT ON SERVER FOR MAX ONLY 2 SID SAME TIME. AFTER WATCH MORE THAN 2 SID'S SAME TIME 
+YOU WILL BE WAIT MONTH IN FAILBAN. READER HAVE BLOCK WITH 2 ECM'S. IF YOU WANT TO RESHARE ASK ME ABOUT IT.
+If you want to support me and make this reader liveing longer than 1 month after publish support me:
+BITCOIN 3LVPzHnSvShPy7FsxwzouEjMsdDBWzoEuJ
+https://www.paypal.com/paypalme/plixfast
+
+
+[reader]
+label                         = JOHNNY_TEST_2023
+enable                        = 1
+protocol                      = cs357x
+device                        = plix.name,12016
+ipv4force                     = 1
+user                          = JOHNY_FOR_ALL
+password                      = JOHNNY_2023
+inactivitytimeout             = 30
+keepalive                     = 1
+group                         = 1
+disablecrccws                 = 1
+ratelimitecm                  = 2
+ratelimittime                 = 9000
+srvidholdtime                 = 2000
