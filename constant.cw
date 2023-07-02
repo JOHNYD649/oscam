@@ -1,3 +1,8 @@
+
+# SoftCam.Org & DVBSaT.org Team constant.cw
+# Created Time: 22/Nov/2022 22:52
+# This constant.cw key file for CCcam
+# Php&Sql writen & web Designed by @tonytr
 #TV8
 2600:000000:0001:0020:1FFF::10 00 00 00 00 00 00 00 10 00 00 00 00 00 00 00
 #Mega
@@ -408,3 +413,4 @@
 2600:000000:1A0E:1A0E:1FFF::A5 EB 22 B2 57 6F 75 3B A5 EB 22 B2 57 6F 75 3B
 #TRT AVAZ
 2600:000000:C41D:04B5:1FFF::AF 19 13 DB 23 71 BC 50 AF 19 13 DB 23 71 BC 50
+# SoftCam.Org Team Members:  @admin @tonytr @alimansur @asus @janponican @dzhack @SEVMEK46
