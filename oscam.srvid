@@ -1,7 +1,7 @@
 ## PROVIDER: CyfrowyPolsat
 ## CAID: 1803,1861,186C,06ED,1870
-## PROVID: 007101
-## CREATE: 2023.07.02 08:39:16
+## PROVID: 000000
+## CREATE: 2023.07.05 11:00:40
 1803,1861,186C,06ED,1870:3E26|CyfrowyPolsat|13 Ulica HD
 1803,1861,186C,06ED,1870:428F|CyfrowyPolsat|4 Fun Dance
 1803,1861,186C,06ED,1870:428E|CyfrowyPolsat|4 Fun Kids
@@ -237,7 +237,7 @@
 ## PROVIDER: Canal-plus-seca
 ## CAID: 0100,1813
 ## PROVID: 000068
-## CREATE: 2023.07.02 08:39:17
+## CREATE: 2023.07.05 11:00:41
 0100,1813:3E26|Canal-plus-seca|13 Ulica HD
 0100,1813:428F|Canal-plus-seca|4 Fun Dance
 0100,1813:428E|Canal-plus-seca|4 Fun Kids
@@ -365,7 +365,6 @@
 0100,1813:29E5|Canal-plus-seca|Mezzo
 0100,1813:32E0|Canal-plus-seca|MiniMini  HD
 0100,1813:32FE|Canal-plus-seca|MiniMini  HD
-0100,1813:1137|Canal-plus-seca|Motowizja HD
 0100,1813:3D56|Canal-plus-seca|Motowizja HD
 0100,1813:0008|Canal-plus-seca|MTV 00s
 0100,1813:1CB9|Canal-plus-seca|MTV 90s
@@ -472,7 +471,7 @@
 ## PROVIDER: Canal-plus
 ## CAID: 0B01,1884
 ## PROVID: 000000
-## CREATE: 2023.07.02 08:39:18
+## CREATE: 2023.07.05 11:00:42
 0B01,1884:3E26|Canal-plus|13 Ulica HD
 0B01,1884:428F|Canal-plus|4 Fun Dance
 0B01,1884:428E|Canal-plus|4 Fun Kids
@@ -600,7 +599,6 @@
 0B01,1884:29E5|Canal-plus|Mezzo
 0B01,1884:32E0|Canal-plus|MiniMini  HD
 0B01,1884:32FE|Canal-plus|MiniMini  HD
-0B01,1884:1137|Canal-plus|Motowizja HD
 0B01,1884:3D56|Canal-plus|Motowizja HD
 0B01,1884:0008|Canal-plus|MTV 00s
 0B01,1884:1CB9|Canal-plus|MTV 90s
@@ -707,7 +705,7 @@
 ## PROVIDER: Orange-Polska
 ## CAID: 0500
 ## PROVID: 032A00
-## CREATE: 2023.07.02 08:39:19
+## CREATE: 2023.07.05 11:00:42
 0500:3E26|Orange-Polska|13 Ulica HD
 0500:428F|Orange-Polska|4 Fun Dance
 0500:428E|Orange-Polska|4 Fun Kids
@@ -875,7 +873,7 @@
 ## PROVIDER: CS-Link
 ## CAID: 0D0F,0666
 ## PROVID: 000000
-## CREATE: 2023.07.02 08:39:19
+## CREATE: 2023.07.05 11:00:43
 0D0F,0666:3B75|CS-Link|AMC Central Europe
 0D0F,0666:36FB|CS-Link|AMC Cesko
 0D0F,0666:3C29|CS-Link|Arena Sport 1 HD
@@ -1069,7 +1067,7 @@
 ## PROVIDER: DigitAlb
 ## CAID: 0B00
 ## PROVID: 000000
-## CREATE: 2023.07.02 08:39:20
+## CREATE: 2023.07.05 11:00:44
 0B00:03FD|DigitAlb|24 Kitchen Srbija
 0B00:0CE4|DigitAlb|A2 HD
 0B00:0CBC|DigitAlb|ABC HD
@@ -1154,7 +1152,7 @@
 ## PROVIDER: ORF
 ## CAID: 0D95,0D98,0648,0650
 ## PROVID: 000000
-## CREATE: 2023.07.02 08:39:21
+## CREATE: 2023.07.05 11:00:45
 0D95,0D98,0648,0650:3338|ORF|4Mediathek info card
 0D95,0D98,0648,0650:33FF|ORF|Aristo TV
 0D95,0D98,0648,0650:3355|ORF|AstroTV HD
@@ -1231,7 +1229,7 @@
 ## PROVIDER: Skylink
 ## CAID: 0D96,0624
 ## PROVID: 000000
-## CREATE: 2023.07.02 08:39:21
+## CREATE: 2023.07.05 11:00:46
 0D96,0624:3B75|Skylink|AMC Central Europe
 0D96,0624:36FB|Skylink|AMC Cesko
 0D96,0624:3C29|Skylink|Arena Sport 1 HD
@@ -1424,8 +1422,8 @@
 
 ## PROVIDER: HDplus
 ## CAID: 1830,1843,1860,186A,186D
-## PROVID: 008011
-## CREATE: 2023.07.02 08:39:22
+## PROVID: 000000
+## CREATE: 2023.07.05 11:00:46
 1830,1843,1860,186A,186D:6FEC|HDplus|Comedy Central Deutschland HD
 1830,1843,1860,186A,186D:157F|HDplus|Deluxe Music HD
 1830,1843,1860,186A,186D:157C|HDplus|Disney Channel Deutschland HD
@@ -1460,7 +1458,7 @@
 ## PROVIDER: SkyDeutschland
 ## CAID: 09C4,098C,098D
 ## PROVID: 000000
-## CREATE: 2023.07.02 08:39:23
+## CREATE: 2023.07.05 11:00:47
 09C4,098C,098D:0296|SkyDeutschland|1-2-3 TV
 09C4,098C,098D:157E|SkyDeutschland|1-2-3 TV HD
 09C4,098C,098D:007F|SkyDeutschland|13th Street Deutschland HD
@@ -1499,7 +1497,6 @@
 09C4,098C,098D:7004|SkyDeutschland|Comedy Central Deutschland
 09C4,098C,098D:7008|SkyDeutschland|Comedy Central Deutschland 1
 09C4,098C,098D:0192|SkyDeutschland|Crime  Investigation Deutschland
-09C4,098C,098D:0031|SkyDeutschland|Curiosity Channel Powered by Spiegel
 09C4,098C,098D:6DCA|SkyDeutschland|Das Erste
 09C4,098C,098D:283D|SkyDeutschland|Das Erste HD
 09C4,098C,098D:0084|SkyDeutschland|DAZN 1 Deutschland HD
@@ -1672,6 +1669,8 @@
 09C4,098C,098D:000E|SkyDeutschland|Sky Comedy HD
 09C4,098C,098D:000D|SkyDeutschland|Sky Crime HD
 09C4,098C,098D:0070|SkyDeutschland|Sky Documentaries HD
+09C4,098C,098D:0089|SkyDeutschland|Sky Documentaries HD
+09C4,098C,098D:0031|SkyDeutschland|Sky info card
 09C4,098C,098D:0017|SkyDeutschland|Sky Krimi HD
 09C4,098C,098D:0076|SkyDeutschland|Sky Nature HD
 09C4,098C,098D:1C7A|SkyDeutschland|Sky News International
@@ -1703,7 +1702,6 @@
 09C4,098C,098D:0229|SkyDeutschland|Sky Sport UHD
 09C4,098C,098D:0020|SkyDeutschland|Sonnenklar TV
 09C4,098C,098D:1518|SkyDeutschland|Sonnenklar TV HD
-09C4,098C,098D:0089|SkyDeutschland|Spiegel Geschichte HD
 09C4,098C,098D:0384|SkyDeutschland|Sport 1
 09C4,098C,098D:10CD|SkyDeutschland|Sport 1 HD
 09C4,098C,098D:1581|SkyDeutschland|Sport 1 HD
@@ -1773,7 +1771,7 @@
 ## PROVIDER: SkyItalia-Tivusat
 ## CAID: 09CD,183D,183E
 ## PROVID: 000000
-## CREATE: 2023.07.02 08:39:24
+## CREATE: 2023.07.05 11:00:48
 09CD,183D,183E:0078|SkyItalia-Tivusat|20 Mediaset HD
 09CD,183D,183E:0087|SkyItalia-Tivusat|27 Twentyseven HD
 09CD,183D,183E:064D|SkyItalia-Tivusat|ACI Sport TV HD
@@ -2007,6 +2005,8 @@
 09CD,183D,183E:1E5F|SkyItalia-Tivusat|Sky Sport 7 HD
 09CD,183D,183E:1E5C|SkyItalia-Tivusat|Sky Sport 8 HD
 09CD,183D,183E:2D5D|SkyItalia-Tivusat|Sky Sport 9
+09CD,183D,183E:2DC0|SkyItalia-Tivusat|Sky Sport Action
+09CD,183D,183E:1C50|SkyItalia-Tivusat|Sky Sport Action HD
 09CD,183D,183E:2AA9|SkyItalia-Tivusat|Sky Sport Arena
 09CD,183D,183E:2B10|SkyItalia-Tivusat|Sky Sport Arena HD
 09CD,183D,183E:0DE9|SkyItalia-Tivusat|Sky Sport Bar 1 HD
@@ -2016,8 +2016,6 @@
 09CD,183D,183E:1C29|SkyItalia-Tivusat|Sky Sport Calcio HD
 09CD,183D,183E:2D5A|SkyItalia-Tivusat|Sky Sport F1
 09CD,183D,183E:2506|SkyItalia-Tivusat|Sky Sport F1 HD
-09CD,183D,183E:2DC0|SkyItalia-Tivusat|Sky Sport Football
-09CD,183D,183E:1C50|SkyItalia-Tivusat|Sky Sport Football HD
 09CD,183D,183E:2DD2|SkyItalia-Tivusat|Sky Sport Golf
 09CD,183D,183E:1E58|SkyItalia-Tivusat|Sky Sport Golf HD
 09CD,183D,183E:0F4D|SkyItalia-Tivusat|Sky Sport HD
@@ -2066,7 +2064,7 @@
 ## PROVIDER: SkyUK
 ## CAID: 0960,0961,0963
 ## PROVID: 000000
-## CREATE: 2023.07.02 08:39:26
+## CREATE: 2023.07.05 11:00:50
 0960,0961,0963:1C29|SkyUK|4Music
 0960,0961,0963:5302|SkyUK|4Seven
 0960,0961,0963:083D|SkyUK|5 Action
@@ -2362,8 +2360,8 @@
 0960,0961,0963:D7B2|SkyUK|Horror Xtra 1
 0960,0961,0963:D76A|SkyUK|Hum Masala UK
 0960,0961,0963:D78D|SkyUK|Hum TV Europe
-0960,0961,0963:CBB6|SkyUK|Ideal World Extra
-0960,0961,0963:C440|SkyUK|Ideal World HD
+0960,0961,0963:CBB6|SkyUK|Ideal World info card
+0960,0961,0963:C440|SkyUK|Ideal World info card HD
 0960,0961,0963:5859|SkyUK|Imam Hussein TV 3
 0960,0961,0963:C4FA|SkyUK|India Today UK
 0960,0961,0963:C4D6|SkyUK|Inspiration TV
@@ -2503,6 +2501,7 @@
 0960,0961,0963:5722|SkyUK|QVC Style UK HD
 0960,0961,0963:5721|SkyUK|QVC UK HD
 0960,0961,0963:C7B0|SkyUK|Racing TV
+0960,0961,0963:CB96|SkyUK|Racing TV
 0960,0961,0963:D7E8|SkyUK|Racing TV HD
 0960,0961,0963:255B|SkyUK|Radio Khushkhabri
 0960,0961,0963:2557|SkyUK|Radio X
@@ -2702,7 +2701,6 @@
 0960,0961,0963:D3CE|SkyUK|TV X 40
 0960,0961,0963:C6CF|SkyUK|TVC News
 0960,0961,0963:D760|SkyUK|TWR United Kingdom
-0960,0961,0963:585C|SkyUK|UK 44
 0960,0961,0963:D3C4|SkyUK|Utsav Bharat
 0960,0961,0963:C6C9|SkyUK|Utsav Gold
 0960,0961,0963:0FC0|SkyUK|Utsav Gold HD
@@ -2741,7 +2739,7 @@
 ## PROVIDER: C-NL-VLLANDREEN
 ## CAID: 0100
 ## PROVID: 000000
-## CREATE: 2023.07.02 08:39:27
+## CREATE: 2023.07.05 11:00:51
 0100:5253|C-NL-VLLANDREEN|100 NL
 0100:177F|C-NL-VLLANDREEN|192 TV
 0100:17F0|C-NL-VLLANDREEN|Arrow Classic Rock
@@ -2844,7 +2842,7 @@
 ## PROVIDER: BisTV
 ## CAID: 0500
 ## PROVID: 000000
-## CREATE: 2023.07.02 08:39:27
+## CREATE: 2023.07.05 11:00:52
 0500:0142|BisTV|6ter
 0500:01C4|BisTV|AB 1
 0500:01CD|BisTV|Action HD
@@ -2889,7 +2887,7 @@
 ## PROVIDER: Fransat
 ## CAID: 0500
 ## PROVID: 000000
-## CREATE: 2023.07.02 08:39:28
+## CREATE: 2023.07.05 11:00:53
 0500:01A6|Fransat|6ter HD
 0500:00CB|Fransat|AB 1 HD
 0500:00D4|Fransat|Action HD
@@ -3032,7 +3030,7 @@
 ## PROVIDER: Antik-Sat
 ## CAID: 0B00
 ## PROVID: 000000
-## CREATE: 2023.07.02 08:39:29
+## CREATE: 2023.07.05 11:00:53
 0B00:0AA0|Antik-Sat|360 Tune Box
 0B00:047F|Antik-Sat|AMC Central Europe HD
 0B00:125C|Antik-Sat|Animal Planet Europe HD
@@ -3117,7 +3115,7 @@
 ## PROVIDER: Meo
 ## CAID: 0100,4106,5221
 ## PROVID: 000000
-## CREATE: 2023.07.02 08:39:29
+## CREATE: 2023.07.05 11:00:54
 0100,4106,5221:0192|Meo|24 Kitchen Portugal HD
 0100,4106,5221:0473|Meo|80s RFM
 0100,4106,5221:006C|Meo|A Bola TV
@@ -3221,7 +3219,7 @@
 ## PROVIDER: Kabelio
 ## CAID: 4AFC
 ## PROVID: 000000
-## CREATE: 2023.07.02 08:39:30
+## CREATE: 2023.07.05 11:00:55
 4AFC:0064|Kabelio|3 HD
 4AFC:428F|Kabelio|4 Fun Dance
 4AFC:428D|Kabelio|4 Fun TV
@@ -3369,7 +3367,7 @@
 ## PROVIDER: A1
 ## CAID: 0B00
 ## PROVID: 000000
-## CREATE: 2023.07.02 08:39:31
+## CREATE: 2023.07.05 11:00:55
 0B00:0065|A1|Aljazeera Balkans HD
 0B00:0076|A1|AMC Balkan
 0B00:03EC|A1|Animal Planet Europe HD
@@ -3469,7 +3467,7 @@
 ## PROVIDER: DigitAlb
 ## CAID: 0B00
 ## PROVID: 000000
-## CREATE: 2023.07.02 08:39:31
+## CREATE: 2023.07.05 11:00:56
 0B00:03FD|DigitAlb|24 Kitchen Srbija
 0B00:0CE4|DigitAlb|A2 HD
 0B00:0CBC|DigitAlb|ABC HD
@@ -3554,7 +3552,7 @@
 ## PROVIDER: Bulsatcom
 ## CAID: 4AEE
 ## PROVID: 000000
-## CREATE: 2023.07.02 08:39:32
+## CREATE: 2023.07.05 11:00:57
 4AEE:0024|Bulsatcom|24 Kitchen Bulgaria
 4AEE:0020|Bulsatcom|78 TV
 4AEE:0028|Bulsatcom|Action Box
