@@ -82,3 +82,538 @@
 1803,1861,1870:D2E7|VOD 202 2-gi dzień
 1803,1861,1870:D322|VOD 203
 1803,1861,1870:7EEA|VOD 204-207
+
+0100:4106|Digital+ Visionar
+0100:4108| * * Digital+ Visionar
+0100:5001| * * Digital+ Visionar
+0500:0000|test ViaName for 00
+0500:0001|test ViaName for 01 HRT
+0500:0002|test ViaName for 02 HRT
+0500:0003|test ViaName for 03 HRT
+0500:0004|test ViaName for 04 HRT
+0500:0006|test ViaName for 06 Orange
+0500:0008|test ViaName for 08 Orange
+0500:0017|test ViaName for 17 5+
+0500:001A|test ViaName for 1A Orange
+0500:0020|test ViaName for 20 Orange
+0500:0021|test ViaName for 21 5+
+0500:002B|test ViaName for 2B 5+
+0500:0048|test ViaName for 48 Orange
+0500:0049|test ViaName for 49 Orange
+0500:0064|test ViaName for 64 5+
+0500:006E|test ViaName for 6E 5+
+0500:007A|test ViaName for 7A TNTSAT
+0604:0026|(Old) Úplne všetko
+0604:0027|(Old) FilmBox
+0604:7FFD|10-day  service Camcrypt
+0604:7FFE|30-day  service
+0604:FFD8|10-day  service
+0624,0D96:03E9|*CT1, CT2, CTsport, CT:D, CT:art
+0624,0D96:03EA|*Prima(+1), PrimaCOOL, PrimaLOVE, PrimaZOOM, PrimaMAX, PrimaComedyCentral, Barrandov(Plus), KinoBarrandov, Nova(Int-SK), NovaCinema, Fanda, Smichov, Telka, KinoSvet, Retro, MnamTV, Ochutnavka
+0624,0D96:03EB|*STV1, STV2
+0624,0D96:03EC|*Markiza, Doma, Dajto, Joj, JojPlus, Wau
+0624,0D96:03ED|*JOJ(SK), JOJ+1(SK), JOJPlus(SK), JOJFamily(CZ), WAU, Markiza, Markiza(Int-CZ), Doma, Dajto
+0624,0D96:03F2|DIGITAL package
+0624,0D96:03F3|(Old) Markiza HD
+0624,0D96:07D1|*Sport5, NovaSport, Sport1, GolfChannel, Slovak Sport, FaH, NG, NGWild(HD), ViasatExplore/Spice, ViasatHistory, ViasatNature, Minimax, JimJam, DisneyChannel, duckTV, Nickelodeon, AMC, Filmbox, Filmbox Plus, Film+, MTV, LeoTV
+0624,0D96:07D2|*HistoryHD, AXN, Kino CS, Muzika CS, Doku CS, Brazzers TV Europe, Universal Cannel, RiK, Mnam TV, Sport2 HD
+0624,0D96:07D3|*(Old) Madarsky balicek (automaticky po zaplateni poplatku 257,- Kc; / 9,95 eur)
+0624,0D96:07D4|*CSFilm, CS Mini, HororFilm
+0624,0D96:07D6|*KinoCS, DokuCS, MuzikaCS
+0624,0D96:07D9|*EXXTRA
+0624,0D96:07DA|*Man-X
+0624,0D96:07DB|*Paprika, MTV 80s, VH1, Penthouse, Boomerang, Animal Planet
+0624,0D96:07DE|*Film Europe Channel HD
+0624,0D96:07DF|SMART package (CS Film, CS Mini, HororFilm, Film+, arenasport1, Minimax, duck, ViasatExplore, Viasat Nature, Spice, RealityKings, Československo, Festival , AXN, RiK, JOJ Cinema, E! Entertainment, Penthouse1, Leo TV, MTV CZ, Nickelodeon, Fishing and Hunting, History, CI, Sport 5, Filmbox, esports)
+0624,0D96:07E0|*Filmbox HD, Filmbox Family, Filmbox Extra, Fightbox HD, Docubox
+0624,0D96:07E1|*EroXXX HD
+0624,0D96:07E4|MINI package
+0624,0D96:0BB9|*BravaHDTV, HistoryHD, FilmboxHD, iConcertsHD, Unitel Classica HD
+0624,0D96:0BBA|*NovaSportHD, Travel XP HD, Sport2 HD, NG Wild HD, NatGeo HD, Spektrum HD, Viasat HD, Film Europe HD
+0624,0D96:0BBB|HBO HD
+0624,0D96:0BBC|*Hustler HD
+0624,0D96:0FB7|F7 Filmbox HD
+0624,0D96:0FF5|F10 (Animal,CS History,Disney,Epic,FB Extra,FB premium,JOJ Cinema,Minimax,novaSport,UP Network)
+0624,0D96:0FF6|F7 Brava HD
+0624,0D96:0FFB|F10
+0624,0D96:0FFE|F10
+0624,0D96:0FFF|F10
+0624,0D96:1005|F7 iConcerts
+0624,0D96:100E|F7 Brazzers TV
+0624,0D96:1010|F7 Spice
+0624,0D96:1015|F7 Unitel Classica HD
+0624,0D96:101C|F10 (uz neobnovene)
+0624,0D96:1025|F7 Penthouse
+0624,0D96:1027|F10
+0624,0D96:102D|F7 RiK
+0624,0D96:1033|F10
+0624,0D96:1037|F10
+0624,0D96:1048|F10
+0624,0D96:1057|PRIMA karta CNN
+0624,0D96:1069|CT karta
+0624,0D96:106A|CT karta CT
+0624,0D96:106B|PRIMA karta
+0624,0D96:1389|(Old) Global Free
+0624,0D96:138A|(Old) Global Free
+0624,0D96:138B|(Old) Global Free
+0624,0D96:138E|(Old) Global Free 2012
+0624,0D96:138F|(Old) Global Free 2012
+0624,0D96:1392|Promo balik
+0624,0D96:14B5| * * M7- servis:check 1392
+0624,0D96:1771|Blocking SVK
+0624,0D96:1772|Blocking CZK
+0624,0D96:1774|(Old) HUN region
+0624,0D96:7FFC|* Skylink Service (30 dni) / block 4K
+0624,0D96:7FFD|* Skylink Service (10 dni) / Camcrypt
+0624,0D96:7FFE|* Skylink Service (30 dni) *
+0624,0D96:FFB0|* Skylink Service (30 dni)+1 *
+0624,0D96:FFD0| * * (Old) Skylink Service (30 ???) / (Old) Penthouse HD CZ
+0624,0D96:FFD8|* Skylink Service (10 dni) *
+0624,0D96:FFE0|* Skylink Service (30 dni)+1 *
+0624:0001|Madarsky balicek CZK/Hungary package CZK
+0624:0002|Madarsky balicek SVK/Hungary package SVK
+0624:0004|CANAL+ Sport SK
+0624:07D5|*HBO HD, HBO 2 HD, HBO 3 HD
+0624:07D8|*Cinemax HD, Cinemax2 HD
+0628:0008|SCT/Hustler HD/Redlight HD
+0628:EFF1| * * service SCT/Hustler/Redlight
+0628:EFF2| * * service SCT/Hustler/Redlight
+0648,0650,0D95,0D98:0001|ORF
+0648,0650,0D95,0D98:0002|ATV/PULS4/Servus
+0648,0650,0D95,0D98:000D|ORF DEMO  provider1
+0648,0650,0D95,0D98:0010|(OLD)
+0648,0650,0D95,0D98:0015|HD AUSTRIA
+0648,0650,0D95,0D98:0016|HD AUSTRIA
+0648,0650,0D95,0D98:0017|HD AUSTRIA
+0648,0650,0D95,0D98:001D|HD AUSTRIA DEMO  provider2
+0648,0650,0D95,0D98:002A|PLUS AUSTRIA
+0648,0650,0D95,0D98:002B|PLUS AUSTRIA XXX
+0648,0650,0D95,0D98:002C|PLUS AUSTRIA
+0648,0650,0D95,0D98:002D|PLUS AUSTRIA
+0648,0650,0D95,0D98:0031|PLUS AUSTRIA DEMO  provider4
+0648,0650,0D95,0D98:7FF4|10-day  service  provider4
+0648,0650,0D95,0D98:7FF6|10-day  service  provider2
+0648,0650,0D95,0D98:7FF7|10-day  service  provider1
+0648,0650,0D95,0D98:7FF8|30-day  service  provider4
+0648,0650,0D95,0D98:7FFA|30-day  service  provider2
+0648,0650,0D95,0D98:7FFB|30-day  service  provider1
+0648,0650,0D95,0D98:F000|(OLD)
+0648,0650,0D95,0D98:FFD8|ORF DEMO  service (30/28 day)  provider1
+0648,0650,0D95,0D98:FFD9|HD AUSTRIA DEMO  service (30/28 day)  provider2
+0648,0650,0D95,0D98:FFDB|PLUS AUSTRIA DEMO  service (30/28 day)  provider4
+0648,0650,0D95,0D98:FFE0|  service  provider1
+0648,0650,0D95,0D98:FFE1|  service  provider2
+0648,0650,0D95,0D98:FFE3|  service  provider4
+0653,0D97:0001|VIP
+0653,0D97:0002|Fem3/Izaura
+0653,0D97:0008|History
+0653,0D97:000A|EpicDrama
+0653,0D97:000B|ATV/CC/Cool/DirectOne/Disney/duck/Duna/Film4/FilmMania/Film+HD/FilmBox/FilmboxPremiumRO/F&H/Izaura
+0653,0D97:000C|Boomerang/Fem3
+0653,0D97:000E|Arena4 HD/BBC Earth HD/Digi Sport 1 HD/
+0653,0D97:000F|Bloomberg/club MTV/CNBC/Fashion
+0653,0D97:0011|CNN/FilmCafe
+0653,0D97:0012|History HD
+0653,0D97:0015|DunaWorld
+0653,0D97:0021|(UnUsed or spec.serv)
+0653,0D97:0022|(UnUsed or spec.serv)
+0653,0D97:0064|Blocking HUN
+0653,0D97:0065|Blocking CZK
+0653,0D97:0066|Blocking SVK
+0653,0D97:03E9|Hustler TV/Private TV/
+0653,0D97:03EA|freeSat Medium HD/CBS/CS/CTart/Disney/duck/ExtremeSports/Film4/FilmCafe/FilmMania/MTV
+0653,0D97:03EB|(Old)
+0653,0D97:03EC|Cinemax pack
+0653,0D97:03ED|freeSat Plus HD/AutoMotorSport/AXN CE/Blue Hustler/Boomerang./Cartoon Network/FilmBox/Hir
+0653,0D97:03EE|freeSat Light SD/CTsport/DunaWorld/Filmbox Family
+0653,0D97:03EF|Docubox/Fightbox/FilmboxExtra/FilmboxPremium/FilmboxStarsCZ
+0653,0D97:03F0|HBO SD
+0653,0D97:03F1|HBO HD
+0653,0D97:03F2|HistoryHD/RTL/NOVA/Discovery/HD pack
+0653,0D97:03F3|m1/m2 SD
+0653,0D97:03F4|Arena Sport HD/Sundance HD
+0653,0D97:0BC5|Duna
+0653,0D97:1E87|History Europe
+0653,0D97:1E88|CrimeInvestigation
+0653,0D97:1F41|23E-1f41
+0653,0D97:1F42|23E-1f42
+0653,0D97:1F43|23E-1f43
+0653,0D97:1F44|23E-1f44
+0653,0D97:1F45|23E-1f45
+0653,0D97:1F47|23E-1f47
+0653,0D97:1F4C|23E-1f4c
+0653,0D97:4E21|ATV
+0653,0D97:4E22|Blue Hustler
+0653,0D97:4E23|Boomerang
+0653,0D97:4E24|Cartoon Network
+0653,0D97:4E26|Cool Hungary
+0653,0D97:4E27|Private TV
+0653,0D97:4E28|Spektrum Home
+0653,0D97:4E29|Disney Channel
+0653,0D97:4E2A|ducktv
+0653,0D97:4E2B|Echo TV
+0653,0D97:4E2C|Prime
+0653,0D97:4E2D|Film+ Czech
+0653,0D97:4E2E|Film+ HD Hungary
+0653,0D97:4E2F|Film Mania
+0653,0D97:4E30|Hustler TV
+0653,0D97:4E31|JimJam
+0653,0D97:4E32|AMC Central Europe
+0653,0D97:4E33|Minimax Cz
+0653,0D97:4E34|National Geographic
+0653,0D97:4E34|Nick Junior Czech
+0653,0D97:4E35|National Geographic Wild
+0653,0D97:4E37|Spektrum Hungary
+0653,0D97:4E38|Spektrum Czech
+0653,0D97:4E3A|Sport1 Czech
+0653,0D97:4E3B|Sport1 Hungary
+0653,0D97:4E3C|Sport2 Czech
+0653,0D97:4E3D|Sport2 Hungary
+0653,0D97:4E3E|TV Paprika
+0653,0D97:4E3F|Mozi+
+0653,0D97:4E40|m1/m2 SD
+0653,0D97:4E41|Minimax Hungary
+0653,0D97:4E42|C8 Hungary
+0653,0D97:4E45|Sundance
+0653,0D97:4E46|Megamax
+0653,0D97:4E47|SportM
+0653,0D97:4E48|FilmBoxSK
+0653,0D97:4E4A|FilmBox Stars International
+0653,0D97:4E4B|Filmbox Family
+0653,0D97:4E4C|Filmbox Stars CZ
+0653,0D97:4E4D|Film Cafe Hungary
+0653,0D97:4E4E|Film Cafe Romania
+0653,0D97:4E4F|SuperTV2
+0653,0D97:4E50|RTL Klub SD
+0653,0D97:4E51|RTL Klub HD
+0653,0D97:4E52|Sport 2 HD Hungary
+0653,0D97:4E53|Sport 1 HD Hungary
+0653,0D97:4E54|Arena Sport 1 SD
+0653,0D97:4E55|upc direct Medium/Arena Sport 1 HD/CT1
+0653,0D97:4E56|AMC Hungary
+0653,0D97:4E57|Hustler
+0653,0D97:4E58|National Geographic Romania
+0653,0D97:4E5B|RTL2
+0653,0D97:4E5C|RTL+
+0653,0D97:4E5D|Muzsika TV
+0653,0D97:4E5E|Sorozat+
+0653,0D97:4E62|Filmbox Premium
+0653,0D97:4E63|Filmbox Extra HD
+0653,0D97:4E7C|FilmBox
+0653,0D97:4E7D|Filmbox Premium RO
+0653,0D97:4E86|Arena4
+0653,0D97:4E87|Arena4 HD
+0653,0D97:7531|CNN Prima News HD/CT24+3/Duna/Dvojka/Film+/JOJ Family/Markiza Internacional/Prima TV
+0653,0D97:7532|JimJam
+0653,0D97:7533|Coool/CT/Doma/JOJ Plus
+0653,0D97:7534|Bloomberg/Canal+ Domo/club MTV/CNBC/CC Family/CC/DunaHD/EpicDrama/Fashion/Film+/FilmBoxSK/F&H
+0653,0D97:7535|Arena4/ATV Spirit/BBC Earth/DigiSport1/Dikh/Film+/FilmBox/History/Hustler/Kiwi/m5/Spike/Viasat3+6/Zenebutik
+0653,0D97:7536|Markiza HD pack/Film+/Mozi+/m5/Nick Junior Czech/Nova International/Nova Sport 2 HD/Prime/SuperTV2/WauHD
+0653,0D97:7537|Arena Sport 1 HD/AXN Black/AXN Czech/AXN White
+0653,0D97:7538|CC Extra/Fem3/Spiler TV
+0653,0D97:7539|Zenebutik
+0653,0D97:753A|Viasat3
+0653,0D97:753C|Fem3/Humor+/Izaura/Kiwi/Spiler TV/Viasat3+6
+0653,0D97:753D|Cinemax
+0653,0D97:753E|Cinemax
+0653,0D97:753F|Cinemax
+0653,0D97:7541|Filmbox Stars INT
+0653,0D97:7542|(UnUsed or spec.serv)
+0653,0D97:7543|HBO HD Czech
+0653,0D97:7544|HBO+HBO2 Czech
+0653,0D97:7545|HBO HD Czech
+0653,0D97:7546|HBO 3 Hungary
+0653,0D97:7547|HBO HD Hungary
+0653,0D97:7548|HBO 3 Hungary
+0653,0D97:7549|Nova HD
+0653,0D97:754A|BBC Earth HD/DigiSport1HD/National Geographic HD Hungary
+0653,0D97:754B|(UnUsed or spec.serv)
+0653,0D97:754C|Eroxxx
+0653,0D97:754D|Eroxxx
+0653,0D97:754E|(UnUsed or spec.serv)
+0653,0D97:754E|Eroxxx
+0653,0D97:7551|(UnUsed or spec.serv)
+0653,0D97:7552|CT
+0653,0D97:7554|(UnUsed or spec.serv)
+0653,0D97:7562|Viasat6
+0653,0D97:7D0C|Sport1 HD Hungary
+0653,0D97:7FFD|.*.* freeSat (10 dni) EMM-S-66
+0653,0D97:7FFE| * * freeSat (30 dni) EMM-S-74
+0653,0D97:FFD8|(Old) *.* freeSat (10 dni) spec.serv
+0666:001E|(Old) CSlink 1E
+0666:002E|(Old) CSlink 2E
+0666:0030|(Old) CSlink 30
+0666:0034|(Old) CSlink 34
+0666:0035|(Old) CSlink 35
+0666:1771|(Old) region CSlink
+0666:7FFD|(Old) service CSlink
+0666:7FFE|(Old) service CSlink
+0666:FFD8|(Old) service CSlink
+0668,069A:0001|(Old) PlusTelka
+0668,069A:0002|PlusTelka
+0668,069A:0006|RTVS sat
+0668,069A:0007|VolnaTelka sat (STV)
+0668,069A:0008|(Old) PlusTelka sat
+0668,069A:000B|(Old) PlusTelka Markiza
+0668,069A:000C|PlusTelka Eroxxx
+0668,069A:000D|PlusTelka Viac
+0668,069A:0061|Towerhome VIP1
+0668,069A:0062|Towerhome VIP2
+0668,069A:7FFD| * * service PlusTelka (10 dni)
+0668,069A:7FFE| * * service VolnaTelka (30 dni)
+0668,069A:FFD8| * * service PlusTelka (10 dni)
+06CB:001E|Freenet
+06CB:0028|Freenet
+06CB:003C|Freenet
+06CB:0063|Freenet
+06E2:0001|ORF
+06E2:0002|ATV/PULS4/Servus
+06E2:000D|ORF DEMO
+06E2:0033|HD AUSTRIA-Comedy Central/Deluxe Music/Disney/DMAX/Eurosport1/kabel eins/MTV/n-tv/Pro7MAXX/Pro7/PULS4HD/RTL/RTL2/RTLUHD/Sat1GOLD/Sat1/sixx/TLC/VOX
+06E2:0038|HD AUSTRIA-DMAX/Eurosport1/kabel eins/n-tv/Pro7MAXX/Pro7/PULS4HD/RTL/RTL2/Sat1GOLD/Sat1/sixx/TLC/VOX
+06E2:003B|HD AUSTRIA-Comedy Central/Deluxe Music/Disney/DMAX/Eurosport1/kabel eins/MTV/n-tv/Pro7MAXX/Pro7/PULS4HD/RTL/RTL2/Sat1GOLD/Sat1/sixx/TLC/VOX
+0919,093B,09CD:0003|Vip
+0919,093B,09CD:0218|Focus HD
+0919,093B,09CD:0219|Mondo HD
+0919,093B,09CD:021B|Cinema
+0919,093B,09CD:0222|Sport HD
+0919,093B,09CD:0224|Sky Play IT
+0919,093B,09CD:0226|Mondo
+0919,093B,09CD:0228|Sport
+0919,093B,09CD:0229|Disney Channel
+0919,093B,09CD:022A|Inter Channel
+0919,093B,09CD:022B|Milan Channel
+0919,093B,09CD:022C|Roma Channel
+0919,093B,09CD:022D|Classica
+0919,093B,09CD:022E|Music & News
+0919,093B,09CD:022F|Caccia e Pesca
+0919,093B,09CD:023C|Multiv. Bambini
+0919,093B,09CD:023D|Juventus Channel
+0919,093B,09CD:023E|Moto TV
+0919,093B,09CD:024E|Service
+0919,093B,09CD:026B|Calcio HD
+0919,093B,09CD:0275|Promo
+0919,093B,09CD:0279|Conto TV
+0919,093B,09CD:028D|SCT
+0919,093B,09CD:0294|Doctor-life
+0919,093B,09CD:0295|Calcio
+0919,093B,09CD:0296|Serie B
+0919,093B,09CD:029A|Gest. coll. telef.
+0919,093B,09CD:029B|Intrattenimento
+0919,093B,09CD:029C|Documentari
+0919,093B,09CD:029D|Bambini
+0919,093B,09CD:029E|Musica
+0919,093B,09CD:029F|News
+0919,093B,09CD:02A7|Conto TV
+0919,093B,09CD:02AA|Skystar
+0919,093B,09CD:02B0|Sky Italia
+0919,093B,09CD:02F3|Sport 3D
+0919,093B,09CD:02FE|PPV
+0919,093B,09CD:02FF|MySky
+0919,093B,09CD:0320|Promo
+0919,093B,09CD:0CE2|Tk Serie B
+0960,0963:0003|Package 1_0003
+0960,0963:000B|Package 2_000B
+0960,0963:001D|Package 3_001D
+0960,0963:0D65|Package 4_0D65
+0960,0963:0D66|Package 5_0D66
+0960,0963:0D72|Package 6_0D72
+0960,0963:0D73|Package 7_0D73
+0960,0963:0E60|Package 8_0E60
+09B6:0064|TeleClub
+09B6:00F3|TeleClub
+09B6:0136|TeleClub
+09B6:0137|TeleClub
+09B6:0138|TeleClub
+09B6:0139|TeleClub
+098C,098D,098E,09C4:0027|KabelBW (DVBC)
+098C,098D,098E,09C4:0028|Highlights SD
+098C,098D,098E,09C4:0029|HD-Option HD+
+098C,098D,098E,09C4:002A|Highlights HD
+098C,098D,098E,09C4:002B|Allstars HD
+098C,098D,098E,09C4:002C|Bonus
+098C,098D,098E,09C4:0037|Sky Starter
+098C,098D,098E,09C4:0038|Sky Starter
+098C,098D,098E,09C4:003A|Sky Entertainment SD + HD
+098C,098D,098E,09C4:003B|Sky Entertainment (Pro7FUN HD)
+098C,098D,098E,09C4:003C|Sky Cinema / Starter
+098C,098D,098E,09C4:003D|Sky Cinema (kabel1classics)
+098C,098D,098E,09C4:003E|Sky Cinema HD
+098C,098D,098E,09C4:003F|Sky Sport News
+098C,098D,098E,09C4:0041|Sky Entertainment
+098C,098D,098E,09C4:0046|HD+ / Big Brother (Gratisjahr)
+098C,098D,098E,09C4:0047|ORF HD-Austria
+098C,098D,098E,09C4:0051|Telecolumbus HD Basic
+098C,098D,098E,09C4:0056|Sky 3D Welt
+098C,098D,098E,09C4:0057|Sky 3D Film
+098C,098D,098E,09C4:0058|Sky 3D Sport
+098C,098D,098E,09C4:005A|Sky Sport HD Extra
+098C,098D,098E,09C4:0066|Sky HD Bundesliga Fanzone
+098C,098D,098E,09C4:007B|A&E HD/Sat.1 Gold HD/TNT Serie
+098C,098D,098E,09C4:007C|Sky Film / Starter
+098C,098D,098E,09C4:007D|Sky Sport SD / Sport Austria SD
+098C,098D,098E,09C4:0080|KabelBW (DVBC)
+098C,098D,098E,09C4:0081|Sky Bundesliga SD
+098C,098D,098E,09C4:0082|Sky Film / Starter
+098C,098D,098E,09C4:008A|KabelBW/UnityMedia
+098C,098D,098E,09C4:008B|Allstars/UM-KBW
+098C,098D,098E,09C4:008C|Allstars/UM-KBW
+098C,098D,098E,09C4:008E|Beate-Uhse.TV
+098C,098D,098E,09C4:008F|Sky Film / Starter
+098C,098D,098E,09C4:0095|Allstars/UM-KBW
+098C,098D,098E,09C4:00A1|Allstars/UM-KBW
+098C,098D,098E,09C4:00A2|Allstars/UM-KBW
+098C,098D,098E,09C4:00A6|Allstars/UM-KBW
+098C,098D,098E,09C4:00A7|Allstars/UM-KBW
+098C,098D,098E,09C4:00AA|Allstars/UM-KBW
+098C,098D,098E,09C4:00B5|Sky Sport 3D
+098C,098D,098E,09C4:00B6|Sky Cinema 3D
+098C,098D,098E,09C4:00B8|Sky Bundesliga 3D
+098C,098D,098E,09C4:00BC|ORF
+098C,098D,098E,09C4:00BD|ATV/Puls4
+098C,098D,098E,09C4:00BE|ORF Puls4
+098C,098D,098E,09C4:00C0|Sky Starter Welt Extra (Sky Welt) or Sky Bundesliga HD
+098C,098D,098E,09C4:00C1|Sky Sport HD
+098C,098D,098E,09C4:00C3|KabelBW (DVBC)
+098C,098D,098E,09C4:00C4|Sportdigital
+098C,098D,098E,09C4:00C7|Sky Starter Welt (Sky Starter)
+098C,098D,098E,09C4:00C8|Sky Cinema SD
+098C,098D,098E,09C4:00C9|Sky Entertainment HD
+098C,098D,098E,09C4:00CA|Sky Cinema HD
+098C,098D,098E,09C4:00CB|Sky Sport HD
+098C,098D,098E,09C4:00D4|HD+ (Abo)
+098C,098D,098E,09C4:00DD|Allstars/UM-KBW
+098C,098D,098E,09C4:00E4|Sky Bundesliga HD
+098C,098D,098E,09C4:00E5|Sky Sport HD / Sport Austria HD
+098C,098D,098E,09C4:00F0|Erstkarte
+098C,098D,098E,09C4:00F3|Sky Blue Movie
+098C,098D,098E,09C4:00FA|Sky Blue Movie HD
+098C,098D,098E,09C4:00FF|KabelBW (DVBC) or Sky AT/DE
+098C,098D,098E,09C4:DBB5|Sky Select Bestellung
+0B00:1010|Telekarta & Kabelvision 6 & MTV preview Technisat
+0B00:1020|Telekarta
+0B00:1030|MSAT & Telekarta
+0B00:1040|Telekarta
+0B00:1050|Telekarta
+0B00:2010|MTV/MSAT preview 1
+0B00:2011|MTV preview 2
+0B00:267A|(Old) KabelKiosk PPV
+0B00:4000|FlixTV DobraTV
+0B00:4001|FlixTV LepsiaTV
+0B00:4002|FlixTV HBO Maxpak
+0B00:4003|FlixTV Aktivni
+0B00:4004|FlixTV -empty-
+0B00:4010|Bulgarian Mux
+0B00:5000|AntikSAT Film (Cinemax+HBO)
+0B00:5001|AntikSAT Vsetko
+0B00:5002|AntikSAT Zaciatok
+0B00:5003|AntikSAT AXN Black&White
+0B00:5004|AntikSAT -empty-
+0B00:6010|Canal+ Nordic
+0B00:6020|MTV 12 month & Kabelvision & (Old) Nordic 1
+0B00:6030|Nordic 2
+0B00:6040|Nordic 3
+0B00:6050|TSS
+0B00:6060|Nordic 4
+0B00:6070|Nordic 5
+0B00:6080|Nordic HD
+0B00:7501|(Old) Private Gold
+0B00:8010|Telenor 0
+0B00:8011|Telenor 1
+0B00:8013|Telenor 3
+0B00:8014|Telenor 4
+0B00:F004|Kabelvision 3
+0B00:F005|Stellar 2
+0B00:F006|Kabelvision 5
+0B00:F008|Kabelvision 7
+0B00:F009|Kabelvision 8
+0B01:1010|(Old) ITI Neovision
+0B01:1020|(Old) ITI Neovision VOD
+0B01:1050|ITI Neovision
+0B01:1060|ITI Neovision Contego
+0B02:1010|TVR package
+0B02:E060|TVN package
+0BAA:1010|(Old) OlcsoTV&HelloHD EVISION
+0BAA:1050|(Old) OlcsoTV&HelloHD MTVA
+1802,1804,1805:0100|Gallery
+1802,1804,1805:0114|Promo Gallery
+1802,1804,1805:0128|Calcio
+1802,1804,1805:0129|Gallery + Calcio
+1802,1804,1805:013C|Promo Tutto Premium 2 Mesi
+1802,1804,1805:0164|Promo Tutto Premium 1 Mese
+1802,1804,1805:0166|Fantasy
+1802,1804,1805:0179|Moto GP
+1802,1804,1805:017F|Tutto Mediaset Premium VIP
+1813,1884:0022|CINEMAX
+1813,1884:002C|FILMBOX PACK
+1813,1884:004A|ELEVEN SPORTS
+1813,1884:004E|DARMOWY
+1813,1884:0061|VOD
+1813,1884:0062|62-
+1813,1884:0063|FOX Play, NAT GEO Play
+1813,1884:0064|CANAL+ VOD
+1813,1884:0068|SPORTKLUB HD/MOTOWIZJA HD
+1813,1884:0071|ADVENTURE HD
+1813,1884:0074|OPTIMUM+
+1813,1884:0075|CANAL+ (11)
+1813,1884:007A|CANAL+ (2) LIVE
+1813,1884:007C|Multimanpack
+1813,1884:0087|POLSAT SPORT PREMIUM
+1813,1884:0089|CANAL+ (11)
+1813,1884:008D|HBO
+1813,1884:008E|HISTORY 2 HD
+1813,1884:0090|SUNDANCE HD
+1813,1884:0092|HISTORY HD
+1813,1884:0093|FILMBOX PACK
+1813,1884:0094|REDLIGHT HD
+1813,1884:0095|HUSTLER HD/BLUE HUSTLER/PRIVATE HD
+1813,1884:00AA|START DVB-T
+1813,1884:00AF|RELAX+
+1813,1884:00B0|START+
+1813,1884:00B5|COMFORT+
+1813,1884:00B9|EXTRA+
+1830,1843,1860:0064|HD+ freeYear (HD01)
+1830,1843,1860:0065|HD+ (not used)
+1830,1843,1860:0066|HD+ freeYear (HD02)
+1830,1843,1860:0067|HD+ (not used)
+1830,1843,1860:0BB8|Monatsabo HD+
+1830,1843,1860:0BEA|Jahresabo HD+
+1830,1843,1860:0FA0|Eurosport Trial
+1830:0001|Osnovi
+1861:150A|
+1861:7EE5|
+1861:7EE6|
+1861:7EE7|
+1861:7EE8|
+1861:7EEA|
+1861:7EFD|
+1861:7F0B|
+1861:7F0C|
+1861:7F0D|
+1861:7F0E|
+1861:7F0F|
+1861:7F10|
+1861:7F11|
+1861:7F12|
+1861:7F13|
+1861:7F14|
+1861:7F15|
+1861:7F16|
+1861:7F17|
+1861:7F18|
+1861:7F79|
+1861:905D|
+1861:9873|
+1861:9D2F|
+1861:B1DE|
+1882:0006|Standart
+1882:0008|Extra HU +
+1882:000A|Maxi
+1882:000E|Promo
+1882:0014|Extra
+1882:001E|Sport
+1882:001F|Extra Sport HD
+1882:0022|Extra HBO
+1884:00BB|CANAL+ 4K
+1884:00BC|BC-
+FFFF:FFFF|EnoSat|01.05.2023
