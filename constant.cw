@@ -1,6 +1,6 @@
 
 # SoftCam.Org & DVBSaT.org Team constant.cw
-# Created Time: 22/Nov/2022 22:52
+# Created Time: 11/Sep/2023 02:27
 # This constant.cw key file for CCcam
 # Php&Sql writen & web Designed by @tonytr
 #TV8
@@ -33,6 +33,8 @@
 2600:00005B:2979:005B:1FFF::01 02 03 00 04 05 06 00 01 02 03 00 04 05 06 00
 #Ictimai TV Azerbaycan
 2600:000000:0003:0020:1FFF::12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12
+#TRT2
+2600:000000:002a:00DC:1FFF::2D 26 04 57 11 DE 81 70 2D 26 04 57 11 DE 81 70
 #USUK TV
 2600:000000:0064:0101:1FFF::10 00 00 00 00 00 00 00 10 00 00 00 00 00 00 00
 #TRT SPOR-TRT3

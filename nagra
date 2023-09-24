@@ -1,3 +1,8 @@
+
+# SoftCam & DVBSaT Team SoftCam.Key
+# Created Time: 18/Sep/2023 22:54
+# This nagra key file for gbox
+# Php&Sql writen & web Designed by @tonytr
 # IRD -> Boxkey -> RSA4N2camcrypt (only if required, 64 bytes) ->>
 # B: { A0 E0 00 0F { 92 14 23 B5 D8 5D 30 AF }} Boxkey Card1
 # B: { A0 E0 00 0F { 92 14 23 B5 D8 5D 30 AF }} Boxkey Card2
@@ -13,3 +18,4 @@ I: { 21 11 01 { 2B E0 76 13 41 67 AF 94 38 41 0D E3 7E 0C 8F 6E }}   Digi TV rom
 I: { 21 11 00 { 69 AA 57 C7 6A FC AA EE F4 04 81 83 CB 19 39 5E }}   Digi TV romania cabel
 I: { 73 01 01 { 5F D2 84 AA 40 E9 A4 A3 54 84 30 5C 41 A3 C3 F5 }}   Cablecom Swiss cable
 I: { 73 01 00 { DB 69 7B 9C C1 91 22 AD 0A 92 58 60 91 B6 4A 73 }}   Cablecom Swiss cable
+; SoftCam & DVBSaT Team Members: @admin @tonytr @alimansur @asus @janponican @dzhack @SEVMEK46
