@@ -1,0 +1,1530 @@
+                                                                                                                                    
+ .NNNNN.   NNN  (NNN   JNNNNN.    .NNNNN.   NNN  (NNN   JNNNNN.   NNN)        JNNNNN.   NNN) (NN)   .JNNNL    NNNNNNNN)  NNN  JNNN)  
+(NNNNNNN.  NNN  (NNN  (NNNNNNN   (NNNNNNN.  NNN  (NNN  (NNNNNNN   NNN)       (NNNNNNN   NNN  (NN)  .NNNNNNN   NNNNNNNN)  NNN JNNN`   
+NNNF NNN)  NNN  (NNN  NNN) NNN)  NNNF NNN)  NNN  (NNN  NNN) NNN)  NNN)       NNN) NNN)  NNN  (NN)  (NNN NNN)  NNN)       NNNJNNN`    
+NNN)       NNN  (NNN  NNN) NNN)  NNN)       NNN  (NNN  NNN) NNN)  NNN)       NNN) NNN)  NNN  (NN)  (NNNL      NNN)       NNNNNN      
+NNN)       NNNNNNNNN  NNN) NNN)  NNN)       NNNNNNNNN  NNN) NNN)  NNN)       NNN) NNN)  NNN  (NN)   4NNNN.    NNNNNNNN   NNNNNL      
+NNN)       NNNNNNNNN  NNN) NNN)  NNN)       NNNNNNNNN  NNN) NNN)  NNN)       NNN) NNN)  NNN  (NN)    `NNNNL   NNNNNNNN   NNNNNN)     
+NNN) .__.  NNN  (NNN  NNN) NNN)  NNN) .__.  NNN  (NNN  NNN) NNN)  NNN)       NNN) NNN)  NNN  (NN)      (NNN)  NNN)       NNN(NNN.    
+NNN) NNN)  NNN  (NNN  NNN) NNN)  NNN) NNN)  NNN  (NNN  NNN) NNN)  NNN)       NNN) NNN)  NNN) (NN)  NNN) 4NN)  NNN)       NNN 4NNN    
+(NNNNNNN`  NNN  (NNN  (NNNNNNN   (NNNNNNN`  NNN  (NNN  (NNNNNNN   NNNNNNNN)  (NNNNNNN   4NNNNNNN)  (NNNNNNN)  NNNNNNNN)  NNN  NNNL   
+ 4NNNNN`   NNN  (NNN   4NNNNN`    4NNNNN`   NNN  (NNN   4NNNNN`   NNNNNNNN)   4NNNNN`    "NNNNN`    4NNNNNF   NNNNNNNN)  NNN  `NNN)  
+                                                                                                                      
+NNN)                  .NNL    (NNN        (NNN          JNNNNN.    .NNNNN.    .NNNNN.    .NNN    JNNNNN.    JNNNNN.   
+(NN)                  (NNN    (NNN        (NNN         JNNNNNNN)  .NNNNNNN.  .NNNNNNN.  NNNNN   JNNNNNNN)  JNNNNNNN)  
+(NN)._                        (NNN      ._(NNN         NNN` NNN)  JNN) (NN)  JNN) (NN)  NNNNN   NNN` NNN)  NNN` NNN)  
+(NNNNNNL   4NN) (NNN  (NNN    (NNN    JNNNNNNN         """  NNN)  NNN) (NNN  NNN) (NNN   (NNN   """  NNN)  """  NNN)  
+(NNNNNNN)  (NN) (NNN  (NNN    (NNN   (NNNNNNNN            .NNNN`  NNN) (NNN  NNN) (NNN   (NNN      .NNNN`     .NNNN`  
+(NN) (NNN  (NN) (NNN  (NNN    (NNN   NNNF (NNN           JNNNF`   NNN) (NNN  NNN) (NNN   (NNN     JNNNF`     JNNNF`   
+(NN) (NNN  (NN) (NNN  (NNN    (NNN   NNN) (NNN          JNNN`     NNN) (NNN  NNN) (NNN   (NNN    JNNN`      JNNN`     
+(NN) JNNN  (NN) JNNN  (NNN    (NNN   NNNN (NNN         (NNF       4NN) (NN)  4NN) (NN)   (NNN   (NNF       (NNF       
+(NNNNNNN)  (NNNNNNNN  (NNN    (NNN   (NNNNNNNN         NNNNNNNN)  (NNNNNNN`  (NNNNNNN`   (NNN   NNNNNNNN)  NNNNNNNN)  
+(NNNNNNF    NNNNNNNN  (NNN    (NNN    4NNNNNNN         NNNNNNNN)   `NNNNN`    `NNNNN`    (NNN   NNNNNNNN)  NNNNNNNN)  
+
+All picon create base on last setting from http://www.vhannibal.net/
+picons support (national) now at... => http://www.ab-forum.info/viewforum.php?f=417
+picons support (international) now at... => https://www.linuxsat-support.com/thread/124700-picons-by-chocholou%C5%A1ek
+all picon allways up to date on www => https://drive.google.com/open?id=0Bwz6mBA7lUOKNVR4U3NrdW5hTEE
+detailed info about of update => https://drive.google.com/file/d/0Bwz6mBA7lUOKN3hPdVl1VGJKVnM/view
+
+230120  - update orbit from Vhannibal v200122
+        - update providers,DTT ITA,DTT SK,
+          4.0W,3.0W,0.8W,4.8E,7.0E,13.0E,
+          16.0E,21.6E,28.2E,39.0E,42.0E,45.0E,
+          52.0E,30.0W
+        - add new or update logos (120)
+        - add new picon (128)
+        - remove old inactive picon (73)
+160120  - update orbit from Vhannibal v200115
+        - update DTT ITA,DTT CZ,5.0W,4.0W,
+          3.0W,0.8W,4.8E,9.0E,13.0E,16.0E,
+          19.2E,21.6E,28.2E,46.0E,52.5E,68.5E,
+          30.0W
+        - add new or update logos (65)
+        - add new picon (194)
+        - remove old inactive picon (211)
+080120  - update orbit from Vhannibal v200107
+        - update providers,DTT ITA,DTT CZ/SK
+          5.0W,4.0W,0.8W,4.8E,7.0E,13.0E,
+          16.0E,21.6E,25.2E,36.0E,42.0E,70.5E
+        - add new or update logos (70)
+        - add new picon (42)
+        - remove old inactive picon (72)
+010120  - update orbit from Vhannibal v191231
+        - update providers,DTT ITA,4.0W,4.8E,
+          7.0E,9.0E,13.0E,16.0E,23.5E,26.0E,
+          28.2E,39.0E,42.0E,46.0E,81.0E,30.0W,
+          8.0W
+        - add new or update logos (61)
+        - add new picon (36)
+        - remove old inactive picon (50)
+251219  - update orbit from Vhannibal v191225
+        - update providers,DTT SK,DTT ITA,5.0W,
+          0.8W,3.0E,9.0E,13.0E,16.0E,21.6E,23.5E,
+          26.0E,28.2E,42.0E,51.5E,68.5E
+        - add new or update logos (138)
+        - add new picon (64)
+        - remove old inactive picon (142)
+181219  - update orbit from Vhannibal v191218
+        - update providers,DTT CZ,DTT ITA,4.0W,
+          0.8W,1.9E,4.8E,9.0E,13.0E,16.0E,23.5E,
+          26.0E,28.2E,36.0E,42.0E,53.0E,27.5W
+        - add new or update logos (174)
+        - add new picon (52)
+        - remove old inactive picon (355)
+111219  - update orbit from Vhannibal v191211
+        - update providers,DTT CZ,DTT ITA,
+          DSTVZAP,5.0W,3.0E,4.8E,9.0E,16.0E,
+          26.0E,28.2E,36.0E,42.0E,45.0E,52.0E,
+          68.5E,30.0W
+        - add new or update logos (74)
+        - add new picon (60)
+        - remove old inactive picon (105)
+041219  - update orbit from Vhannibal v191204
+        - update providers,DTT ITA,5.0W,0.8W,
+          3.0E,4.8E,9.0E,10.0E,13.0E,16.0E,
+          19.2E,23.5E,28.2E,36.0E,42.0E,52.0E,
+          66.0E,68.5E,70.5E,45.0W,15.0W
+        - add new or update logos (49)
+        - add new picon (31)
+        - remove old inactive picon (61)
+271119  - update orbit from Vhannibal v191127
+        - update providers,DTT ITA,5.0W,4.8E,
+          7.0E,9.0E,13.0E,16.0E,19.2E,26.0E,
+          28.2E,42.0E,45.0E,46.0E,66.0E,70.5E,
+          30.0W,8.0W
+        - add new or update logos (28)
+        - add new picon (57)
+        - remove old inactive picon (34)
+201119  - update orbit from Vhannibal v191120
+        - update DTT CZ,DTT ITA,3.0E,7.0E,9.0E,
+          10.0E,13.0E,19.2E,23.5E,26.0E,28.2E,
+          39.0E,42.0E,52.0E
+        - add new or update logos (33)
+        - add new picon (60)
+        - remove old inactive picon (77)
+141119  - update orbit from Vhannibal v191113
+        - update providers,DTT ITA,7.0E,9.0E,
+          13.0E,16.0E,19.2E,21.6E,28.2E,36.0E,
+          39.0E,42.0E,52.0E,70.5E,30.0W
+        - add new or update logos (59)
+        - add new picon (41)
+        - remove old inactive picon (125)
+071119  - update orbit from Vhannibal v191106
+        - update providers,DTT ITA,5.0W,0.8W,
+          3.0E,4.8E,7.0E,9.0E,10.0E,13.0E,
+          19.2E,23.5E,26.0E,28.2E,31.5E,36.0E,
+          36.0E(russian beam),39.0E,42.0E,
+          45.0E,46.0E,52.0E,62.0E,68.5E,
+          70.5E,30.0W,22.0W,8.0W
+        - add new or update logos (51)
+        - add new picon (68)
+        - remove old inactive picon (174)
+311019  - update orbit from Vhannibal v191031
+        - update providers,DTT ITA,DTT CZ,
+          5.0W,7.0E,9.0E,10.0E,13.0E,19.2E,
+          23.5E,26.0E,28.2E,36.0E,42.0E,52.0E,
+          66.0E,68.5E,70.5E,
+        - add new or update logos (70)
+        - add new picon (33)
+        - remove old inactive picon (69)
+241019  - update orbit from Vhannibal v191023
+        - update providers,DTT ITA,3.0E,4.8E,
+          7.0E,10.0E,13.0E,16.0E,19.2E,26.0E,
+          28.2E,39.0E,42.0E,51.5E,52.0E,62.0E
+        - add new or update logos (54)
+        - add new picon (54)
+        - remove old inactive picon (442)
+171019  - update orbit from Vhannibal v191016
+        - update providers,4.0W,5.0W,0.8W,4.8E,
+          7.0E,10.0E,13.0E,16.0E,19.2E,23.5E,
+          39.0E,42.0E,46.0E,52.0E
+        - add new or update logos (45)
+        - add new picon (30)
+        - remove old inactive picon (201)
+101019  - update orbit from Vhannibal v191009
+        - update DTT ITA,3.0W,0.8W,3.0E,13.0E,
+          19.2E,21.6E,26.0E,28.2E,31.5E,36.0E,
+          42.0E,46.0E,53.0E,66.0E,7.0W,8.0W
+        - add new or update logos (62)
+        - add new picon (41)
+031019  - update orbit from Vhannibal v191002
+        - update providers,DTT ITA,0.8W,7.0E,
+          9.0E,13.0E,19.2E,21.6E,23.5E,26.0E,
+          28.2E,36.0E,42.0E,46.0E,52.0E,53.0E,
+          68.5E,15.0W,30.0W
+        - add new or update logos (67)
+        - add new picon (42)
+        - remove old inactive picon (218)
+250919  - update orbit from Vhannibal v190924
+        - update providers,DTT ITA,1.9E,7.0E,
+          13.0E,16.0E,19.2E,21.6E,28.2E,42.0E,
+          62.0E,68.5E
+        - add new or update logos (68)
+        - add new picon (47)
+        - remove old inactive picon (177)
+190919  - update orbit from Vhannibal v190918
+        - update providers,DTT ITA,4.8E,7.0E,
+          13.0E,16.0E,21.6E,28.2E,36.0E,42.0E,
+          52.0E,68.5E
+        - add new or update logos (44)
+        - add new picon (24)
+        - remove old inactive picon (279)
+120919  - update orbit from Vhannibal v190911
+        - update providers,DTT ITA,0.8W,10.0E,
+          16.0E,19.2E,26.0E,28.2E,42.0E,51.5E,
+          52.0E,53.0E,68.5E,15.0W,8.0W
+        - add new or update logos (80)
+        - add new picon (46)
+        - remove old inactive picon (194)
+040919  - update orbit from Vhannibal v190903
+        - update providers,DTT ITA,DTT SK,
+          DTT CZ,5.0W,4.0W,0.8W,1.9E,3.0E,
+          4.8E,13.0E,16.0E,19.2E,21.6E,26.0E,
+          28.2E,36.0E,39.0E,42.0E,52.0E,68.5E,
+          70.5E
+        - add new or update logos (156)
+        - add new picon (40)
+        - remove old inactive picon (184)
+280819  - update orbit from Vhannibal v190827
+        - update 4.0W,0.8W,3.0E,13.0E,16.0E,
+          21.6E,23.5E,26.0E,28.2E,42.0E,68.5E
+        - add new or update logos (49)
+        - add new picon (37)
+        - remove old inactive picon (53)
+210819  - update orbit from Vhannibal v190821
+        - update providers,3.0E,4.8E,7.0E,
+          9.0E,13.0E,16.0E,19.2E,26.0E,28.2E,
+          36.0E,42.0E,52.0E,68.5E,30.0W
+        - add new or update logos (78)
+        - add new picon (34)
+        - remove old inactive picon (302)
+140819  - update orbit from Vhannibal v190814
+        - update DTT ITA,5.0W,0.8W,4.8E,7.0E,
+          9.0E,13.0E,16.0E,19.2E,23.5E,28.2E,
+          31.5E,42.0E,52.0E,54.9E,8.0W
+        - add new or update logos (99)
+        - add new picon (63)
+        - remove old inactive picon (217)
+070819  - update orbit from Vhannibal v190807
+        - update providers,4.0W,0.8W,3.0E,
+          4.8E,7.0E,9.0E,13.0E,16.0E,19.2E,
+          23.5E,26.0E,28.2E,31.5E,39.0E,42.0E,
+          53.0E,68.5E,15.0W,8.0W,30.0W
+        - add new or update logos (54)
+        - add new picon (57)
+        - remove old inactive picon (170)
+310719  - update orbit from Vhannibal v190731
+        - update providers,DTT ITA,3.0W,
+          3.0E,9.0E,13.0E,16.0E,23.5E,
+          26.0E,28.2E,42.0E,30.0W
+        - add new or update logos (174)
+        - add new picon (23)
+        - remove old inactive picon (44)
+240719  - update orbit from Vhannibal v190723
+        - update providers,4.8E,7.0E.13.0E,
+          16.0E,19.2E,26.0E,28.2E,31.5E,36.0E,
+          42.0E,52.0E,53.0E,85.0E,20.0W,18.0W
+        - add new or update logos (34)
+        - add new picon (33)
+        - remove old inactive picon (159)
+170719  - update orbit from Vhannibal v190716
+        - update 5.0W,0.8W,4.8E,7.0E,9.0E,
+          10.0E,13.0E,19.2E,28.2E,
+          36.0E russia beam,42.0E,46.0E,
+          52.0E,66.0E,8.0W,30.0W
+        - add new or update logos (104)
+        - add new picon (34)
+        - remove old inactive picon (150)
+100719  - update orbit from Vhannibal v190709
+        - update providers,DTT ITA,5.0W,3.0W,
+          0.8W,1.9E,3.0E,9.0E,10.0E,16.0E,26.0E,
+          28.2E,33.0E,36.0E russia beam,42.0E,
+          52.0E,68.5E,30.0W
+        - add new or update logos (30)
+        - add new picon (70)
+        - remove old inactive picon (705)
+040719  - update orbit from Vhannibal v190703
+        - update providers,DTT CZ,DTT ITA,5.0W,
+          0.8W,1.9E,3.0E,4.8E,9.0E,13.0E,16.0E,
+          19.2E,21.6E,23.5E,26.0E,28.2E,33.0E,
+          42.0E,46.0E,53.0E,66.0E,68.5E,30.0W
+        - add new or update logos (101)
+        - add new picon (96)
+        - remove old inactive picon (160)
+260619  - update orbit from Vhannibal v190626
+        - update providers,4.0W,0.8W,4.8E,7.0E,
+          10.0E,13.0E,23.5E,26.0E,28.2E,36.0E,
+          42.0E,51.5E,52.0E,66.0E,68.5E
+        - add new or update logos (167)
+        - add new picon (20)
+        - remove old inactive picon (64)
+190619  - update orbit from Vhannibal v190619
+        - update providers,DTT ITA,0.8W,3.0E,
+          9.0E,13.0E,16.0E,23.5E,26.0E,28.2E,
+          33.0E,36.0E russian beam,42.0E,52.0E,
+          53.0E,56.0E,68.5E,75.0E,85.0E,7.0W,
+          30.0W
+        - add new or update logos (56)
+        - add new picon (41)
+        - remove old inactive picon (226)
+120619  - update orbit from Vhannibal v190612
+        - update DTT ITA,4,0W,5,0W,4.8E,9.0E,
+          13.0E,16.0E,19,2E,23,5E,26.0E,28.2E,
+          39.0E,52,0E,68.5E
+        - add in gdrive picon providers
+        - add new or update logos (318)
+        - add new picon (32)
+        - remove old inactive picon (515)
+050619  - update orbit from Vhannibal v190605
+        - update DTT-CZ,0.8W,4.8E,7.0E,13.0E,
+          16.0E,19.2E,21.6,23.5E,26.0E,28.2E,
+          31.5E,36.0E,39.0E,42.0E,45.0E,46.0E,
+          52.0E,70.5E,11.0W
+        - add new or update logos (260)
+        - add new picon (58)
+        - remove old inactive picon (67)
+290519  - update orbit from Vhannibal v190529
+        - update 0.8W,4.8E,7.0E,9.0E,13.0E,
+          19.2E,21.6E,26.0E,36.0E,
+          36.0E russia beam,42.0E,68.5E
+        - add new or update logos (71)
+        - add new picon (50)
+        - remove old inactive picon (82)
+220519  - update orbit from Vhannibal v190522
+        - update DTT ITA,4.0W,13.0E,16.0E,
+          19.2E,23.5E,26.0E,28.2E,52.0E,15.0W
+        - add new or update logos (67)
+        - add new picon (56)
+        - remove old inactive picon (224)
+150519  - update orbit from Vhannibal v190515
+        - update 4.8E,13.0E,16.0E,19.2E,23.5E,
+          26.0E,28.2E,42.0E,46.0E,52.0E,52.5E,
+          70.5E,30.0W
+        - add new or update logos (85)
+        - add new picon (78)
+        - remove old inactive picon (199)
+080519  - update orbit from Vhannibal v190508
+        - update DTT CZ,DTT ITA,5.0W,3.0W,0.8W,
+          4.8E,13.0E,19.2E,21.6E,28.2E,36.0E,
+          39.0E,42.0E,46.0E,68.5E
+        - add new or update logos (60)
+        - add new picon (71)
+        - remove old inactive picon (309)
+010519  - update orbit from Vhannibal v190430
+        - update 5.0W,7.0E,10.0E,16.0E,23.5E,
+          26.0E,36.0E,42.0E,46.0E,52.0E,53.0E,
+          68.5E
+        - add new or update logos (40)
+        - add new picon (16)
+        - remove old inactive picon (135)
+240419  - update orbit from Vhannibal v190424
+        - update DTT ITA,0.8W,3.0E,4.8E,
+          13.0E,26.0E,36.0E,36.0E russian beam,
+          70.5E,14.0W
+        - add new or update logos (98)
+        - add new picon (31)
+        - remove old inactive picon (314)
+170419  - update orbit from Vhannibal v190417
+        - update 0.8W,7.0E,9.0E,10.0E,13.0E,
+          19.2E,26.0E,28.2E,42.0E,51.5E,52.0E,53.0E
+        - add new or update logos (41)
+        - add new picon (20)
+        - remove old inactive picon (369)
+100419  - update orbit from Vhannibal v190410
+        - update 5.0W,3.0W,0.8W,10.0E,13.0E,
+          16.0E,23.5E,26.0E,36.0E,42.0E,52.0E
+        - add new or update logos (40)
+        - add new picon (54)
+        - remove old inactive picon (395)
+030419  - update orbit from Vhannibal v190403
+        - update 5.0W,0.8W,3.0E,4.8E,7.0E,
+          10.0E,13.0E,16.0E,23.5E,26.0E,28.2E,52.5E,
+          68.5E,70.5E
+        - add new or update logos (37)
+        - add new picon (55)
+        - remove old inactive picon (493)
+280319  - update orbit from Vhannibal v190327
+        - update 0.8W,4.8E,26.0E,36.0E,39.0E,
+          30.0W
+        - add new or update logos (102)
+        - add new picon (17)
+        - remove old inactive picon (113)
+220319  - update orbit from Vhannibal v190321
+        - update 4.0W,0.8W,13.0E,16.0E,19.2E,
+          21.6E,23.5E,26.0E,28.2E,39.0E,42.0E,
+          45.0E,46.0E,52.0E,14.0W,12.5W
+        - add new or update logos (95)
+        - add new picon (83)
+        - remove old inactive picon (248)
+130319  - update orbit from Vhannibal v190313
+        - update 0.8W,10.0E,13.0E,16.0E,23.5E,
+          26.0E,42.0E,68.5E
+        - add new or update logos (90)
+        - add new picon (44)
+        - remove old inactive picon (228)
+070319  - update orbit from Vhannibal v190306
+        - update 5.0W,0.8W,4.8E,13.0E,19.2E,
+          21.6E,23.5E,26.0E,28.2E,39.0E,42.0E,
+          52.0E,68.5E,75.0E,85.0E,15.0W,12.5W
+        - add new or update logos (50)
+        - add new picon (131)
+        - remove old inactive picon (67)
+280219  - update orbit from Vhannibal v190227
+        - update 0.8W,7.0E,13.0E,16.0E,23.5E,
+          26.0E,36.0E,42.0E,45.0,52.0E,52.5E,
+          56.0E,8.0W
+        - add new or update logos (236)
+        - add new picon (54)
+        - remove old inactive picon (378)
+200219  - update orbit from Vhannibal v190220
+        - update 0.8W,10.0E,13.0E,16.0E,23.5E,
+          26.0E,28.2E,36.0E,36.0E russian beam,
+          66.0E,68.5E
+        - add new or update logos (247)
+        - add new picon (57)
+        - remove old inactive picon (519)
+140219  - update orbit from Vhannibal v190213
+        - update 4.0W,0.8W,19.2E,26.0E,36.0E,
+          30.0W
+        - add new or update logos (141)
+        - add new picon (32)
+        - remove old inactive picon (398)
+070219  - update orbit from Vhannibal v190206
+        - update 0.8W,13.0E,26.0E,28.2E,39.0E,
+          42.0E,52.0E,53.0E,66.0,68.5E,70.5E,
+          30.0W,27.5W
+        - add new or update logos (175)
+        - add new picon (37)
+        - remove old inactive picon (402)
+010219  - update orbit from Vhannibal v190131
+        - update 5.0W,4.0W,0.8W,4.8E,9.0E,
+          10.0E,13.0E,16.0E,21.6E,26.0E,
+          28.2E,31.5E,39.0E,42.0E,45.0E,
+          46.0E,53.0E,66.0E,68.5E,27.5W,8.0W
+        - add new or update logos (224)
+        - add new picon (91)
+        - remove old inactive picon (365)
+230119  - update orbit from Vhannibal v190123
+        - update 1.9E,3.0E,4.8E,9.0E,16.0E,
+          21.6E,42.0E,8.0W
+        - add new or update logos (173)
+        - add new picon (10)
+        - remove old inactive picon (401)
+160119  - update orbit from Vhannibal v190116
+        - update 13.0E,23.5E,26.0E,28.2E,
+          39.0E,42.0E,52.5E,53.0E,68.5E
+        - add new or update logos (39)
+        - add new picon (18)
+        - remove old inactive picon (292)
+100119  - update orbit from Vhannibal v190109
+        - update DTT SK,4.0W,3.0W,0.8W,13.0E,
+          16.0E,26.0E,28.2E,42.0E,30.0W
+        - add new or update logos (25)
+        - add new picon (30)
+        - remove old inactive picon (401)
+030119  - update orbit from Vhannibal v190102
+        - update DVB-C UPC,DTT ITA,5.0W,4.0W,
+          3.0E,4.8E,7.0E,13.0E,21.6E,23.5E,
+          26.0E,33.0E,36.0E,39.0E,42.0E,52.0E,
+          53.0E,68.5E,30.0W,12.5W,8.0W
+        - add new or update logos (111)
+        - add new picon (80)
+        - remove old inactive picon (87)
+271218  - update orbit from Vhannibal v181226
+        - update 0.8W,3.0E,4.8E,9.0E,13.0E,
+          16.0E,23.5E,26.0E,36.0E,39.0E,42.0E,
+          53.0E,68.5E,30.0W
+        - add new or update logos (146)
+        - add new picon (70)
+        - remove old inactive picon (296)
+191218  - update orbit from Vhannibal v181219
+        - update DTT ITA,3.0E,7.0E,9.0E,
+          13.0E,16.0E,23.5E,26.0E,28.2E,36.0E,
+          42.0E,52.0E,68.5E,30.0W,8.0W
+        - add new or update logos (216)
+        - add new picon (198)
+        - remove old inactive picon (102)
+121218  - update orbit from Vhannibal v181212
+        - update DTT ITA,4.0W,0.8W,1.9E,4.8E,
+          9.0E,13.0E,16.0E,28.2E.42.0E,52.0E,
+          68.5E,30.0W,8.0W
+        - add new or update logos (202)
+        - add new picon (27)
+        - remove old inactive picon (170)
+051218  - update orbit from Vhannibal v181205
+        - update DTT CZ,DTT ITA,4.0W,3.0W,
+          3.0E,4.8E,9.0E,13.0E,16.0E,19.2E,
+          21.6E,23.5E,26.0E,39.0E,42.0E,52.0E,
+          53.0E,54.9E,66.0E,68.5E,30.0W
+        - add new or update logos (141)
+        - add new picon (136)
+        - remove old inactive picon (1184)
+281118  - update orbit from Vhannibal v181128
+        - update DTT SK,DTT ITA,5.0W,4.0W,
+          0.8W,3.0E,7.0E,13.0E,16.0E,19.2E,
+          28.2E,39.0E,42.0E,66.0E,70.5E,22.0W
+        - add package DTT Italy
+           for all motorized picon dimensions,
+           no include into motor(all) package
+        - add new or update logos (114)
+        - add new picon (38)
+        - remove old inactive picon (114)
+221118  - update orbit from Vhannibal v181121
+        - update DTT CZ,5.0W,4.0W,0.8W,4.8E,
+          9.0E,13.0E,26.0E,28.2E,36.0E,39.0E,
+          42.0E,52.0E,54.9E,68.5E,30.0W
+        - add new or update logos (186)
+        - add new picon (178)
+        - remove old inactive picon (263)
+151118  - update orbit from Vhannibal v181114
+        - update DTT SK,4.0W,3.0W,0.8W,3.0E,
+          4.8E,13.0E,16.0E,19.2E,21.6E,26.0E,
+          28.2E,26.0E,,28.2E,36.0E,42.0E,52.0E,
+          53.0E,24.5W
+        - add new or update logos (53)
+        - add new picon (78)
+        - remove old inactive picon (505)
+081118  - update orbit from Vhannibal v181107
+        - update 5.0W,0.8W,3.0E,9.0E,13.0E,
+          16.0E,23.5E,28.2E,26.0E,28.2E,36.0E,
+          42.0E,51.5E,52.0E,68.5E,30.0W,24.5W
+        - add new or update logos (73)
+        - add new picon (124)
+        - remove old inactive picon (198)
+011118  - update orbit from Vhannibal v181031
+        - update 5.0W,0.8W,7.0E,13.0E,23.5E,
+          26.0E,28.2E,31.5E,42.0E,68.5E,12.5W
+        - add new or update logos (144)
+        - add new picon (14)
+        - remove old inactive picon (198)
+251018  - update orbit from Vhannibal v181024
+        - update 0.8W,4.8E,7.0E,9.0E,13.0E,
+          16.0E,26.0E,45.0E,30.0W
+        - add new or update logos (83)
+        - add new picon (22)
+        - remove old inactive picon (359)
+181018  - update orbit from Vhannibal v181018
+        - update 0.8W,4.8E,13.0E,26.0E,36.0E,
+          36.0E russian beam,39.0E,30.0W
+        - add new or update logos (60)
+        - add new picon (50)
+        - remove old inactive picon (372)
+101018  - update orbit from Vhannibal v181010
+        - update 0.8W,3.0E,9.0E,13.0E,16.0E,
+          26.0E,31.5E,36.0E,39.0E,42.0E,68.5E
+        - add new or update logos (115)
+        - add new picon (33)
+        - remove old inactive picon (383)
+041018  - update orbit from Vhannibal v181003
+        - update 3.0W,0.8W,4.8E,7.0E,9.0E,
+          13.0E,19.2E,23.5E,26.0E,28.2E,39.0E,
+          42.0E,45.0E
+        - add new or update logos (66)
+        - add new picon (64)
+        - remove old inactive picon (704)
+270918  - update orbit from Vhannibal v180925
+        - update 4.0W,0.8W,4.8E,7.0E,13.0E,
+          16.0E,19.2E,23.5E,36.0E,52.0E,53.0E,
+          30.0W,11.0W
+        - add new or update logos (112)
+        - add new picon (163)
+        - remove old inactive picon (1598)
+200918  - update orbit from Vhannibal v180919
+        - update 0.8W,4.8E,7.0E,13.0E,16.0E,
+          19.2E,21.6E,39.0E,42.0E,52.0E,8.0W
+        - add new or update logos (146)
+        - add new picon (49)
+        - remove old inactive picon (406)
+130918  - update orbit from Vhannibal v180912
+        - update 4.8E,9.0E,13.0E,16.0E,26.0E,
+          28.2E,33.0E,36.0E,39.0E,42.0E,30.0W
+        - add new or update logos (87)
+        - add new picon (69)
+        - remove old inactive picon (546)
+060918  - update orbit from Vhannibal v180905
+        - update 5.0W,4.0W,0.8W,3.0E,4.8E,
+          7.0E,9.0E,13.0E,16.0E,19.2E,21.6E,
+          26.0E,28.2E,36.0E,39.0E,42.0E,52.0E,
+          68.5E,74.9E,20.0W
+        - add new or update logos (139)
+        - add new picon (153)
+        - remove old inactive picon (572)
+020918  - Add position 1.0W, clone E08 => E06
+300818  - update orbit from Vhannibal v180829
+        - update 0.8W,4.8E,9.0E,13.0E,16.0E,
+          51.5E,52.5E,70.5E,12.5W,8.0W
+        - add new or update logos (66)
+        - add new picon (66)
+        - remove old inactive picon (206)
+230818  - update orbit from Vhannibal v180822
+        - update 3.0W,4.0W,0.8W,4.8E,13.0E,
+          16.0E,23.5E,26.0E,28.2E,31.5E,42.0E,
+          45.0E,66.0E,15.0W
+        - add new or update logos (39)
+        - add new picon (65)
+        - remove old inactive picon (178)
+160818  - update orbit from Vhannibal v180814
+        - update 5.0W,3.0W,0.8W,4.8E,9.0E,
+          13.0E,16.0E,19.2E,39.0E,42.0E,45.0E,
+          52.0E,68.5E,8.0W
+        - add new or update logos (20)
+        - add new picon (68)
+        - remove old inactive picon (349)
+100818  - update orbit from Vhannibal v180808
+        - update 0.8W,7.0E,13.0E,19.2E,23.5E,
+          26.0E,28.2E,39.0E,42.0E,45.0E,52.0E,
+          68.5E,12.5W
+        - add new or update logos (40)
+        - add new picon (34)
+        - remove old inactive picon (137)
+030818  - update orbit from Vhannibal v180801
+        - update DTT cz,5.0W,0.8W,3.0E,4.8E,
+          7.0E,9.0E,13.0E,16.0E,19.2E,23.5E,
+          42.0E,52.0E,53.0E,66.0E,66.0E,30.0W
+        - add new or update logos (55)
+        - add new picon (288)
+        - remove old inactive picon (410)
+250718  - update orbit from Vhannibal v180724
+        - update 0.8W,9.0E,16.0E,19.2E,21.6E,
+          26.0E,28.2E,39.0E,42.0E,51.5E,52.0E,
+          68.5E,30.0W,20.0W,8.0W
+        - add new or update logos (31)
+        - add new picon (124)
+        - remove old inactive picon (220)
+210718  - update DTT sk,23.5E & small oth...
+        - add new or update logos (126)
+        - add new picon (11)
+        - remove old inactive picon (759)
+110718  - update orbit from Vhannibal v180710
+        - update 0.8W,4.8E,13.0E,19.2E,26.0E,
+          28.2E,39.0E,42.0E,46.0E,53.0E,68.5E,
+          12.5W,8.0W
+        - add new or update logos (120)
+        - add new picon (42)
+        - remove old inactive picon (0)
+060718  - update orbit from Vhannibal v180704
+        - update 36.0E russian beam,5.0W,0.8W,
+          1.9E,3.0E,4.8E,13.0E,16.0E,19.2E,
+          26.0E,28.2E,33.0E,39.0E,42.0E,53.0E,
+          68.5E,30.0W,12.5W
+        - add new or update logos (13)
+        - add new picon (115)
+        - remove old inactive picon (539)
+290618  - update orbit from Vhannibal v180627
+        - update DVB-C CZ,5.0W,0.8W,1.9E,
+          13.0E,16.0E,21.6E,28.2E,31.5E,33.0E,
+          39.0E,42.0E,53.0E,62.0E,30.0W,12.5W
+        - add new or update logos (29)
+        - add new picon (286)
+        - remove old inactive picon (217)
+220618  - update orbit from Vhannibal v180620
+        - update 5.0W,4.8E,9.0E,13.0E,16.0E,
+          23.5E,28.2E,33.0E,51.5E,53.0E,30.0W,
+          12.5W
+        - add new or update logos (48)
+        - add new picon (438)
+        - remove old inactive picon (524)
+150618  - update orbit from Vhannibal v180613
+        - update 5.0W,0.8W,1.9E,4.8E,7.0E,
+          9.0E,13.0E,23.5E,26.0E,28.2E,31.5E,
+          33.0E,36.0E,42.0E,53.0E,54.9E,30.0W,
+          20.0W,12.5W
+        - add new or update logos (27)
+        - add new picon (384)
+        - remove old inactive picon (233)
+080618  - update orbit from Vhannibal v180606
+        - update DTT cz,5.0W,1.9E,7.0E,19.2E,
+          26.0E,31.5E,42.0E,52.0E,52.0E,52.5E,
+          54.9E,57.0E,62.0E,24.5W,20.0W,11.0W,
+          8.0W
+        - add new or update logos (20)
+        - add new picon (363)
+        - remove old inactive picon (700)
+010618  - update orbit from Vhannibal v180530
+        - update 5.0W,0.8W,1.9E,7.0E,13.0E,
+          26.0E,28.2E,42.0E,
+        - add new or update logos (14)
+        - add new picon (282)
+        - remove old inactive picon (112)
+250518  - update orbit from Vhannibal v180523
+        - update 4.0W,0.8W,7.0E,13.0E,16.0E,
+          19.2E,26.0E,28.2E,31.5E,39.0E,42.0E,
+          53.0E,20.0W,12.5W,8.0W
+        - add new or update logos (46)
+        - add new picon (234)
+        - remove old inactive picon (1033)
+180518  - update orbit from Vhannibal v180516
+        - update 0.8W,7.0E,13.0E,19.2E,21.6E,
+          23.5E,26.0E,28.2E,31.5E,33.0E,42.0E,
+          53.0E,68.5E,8.0W
+        - add new or update logos (20)
+        - add new picon (399)
+        - remove old inactive picon (128)
+110518  - update orbit from Vhannibal v180509
+        - update 5.0W,4.0W,0.8W,3.0E,7.0E,
+          9.0E,13.0E,16.0E,21.6E,23.5E,26.0E,
+          28.2E,31.5E,33.0E,42.0E,51.5E,52.5E,
+          68.5E
+        - update russian 53.0E,54.9E
+        - update 75.0E MTS
+        - update update 85.0E Telekarta
+        - add new or update logos (83)
+        - add new picon (417)
+        - remove old inactive picon (1087)
+040518  - update orbit from Vhannibal v180502
+        - update DTT cz,0.8W,3.0E,4.8E,7.0E,
+          10.0E,13.0E,19.2E,23.5E,26.0E,28.2E,
+          36.0E,39.0E,42.0E,46.0E,51.5E,52.0E,
+          53.0E,68.5E,30.0W
+        - add new or update logos (71)
+        - add new picon (549)
+        - remove old inactive picon (484)
+250418  - update orbit from Vhannibal v180424
+        - update DTT CZ, 5.0W,0.8W,3.0E,4.8E,
+          7.0E,13.0E,16.0E,26.0E,28.2E,42.0E,
+          52.0E,53.0E,68.5E,8.0W
+        - add new or update logos (104)
+        - add new picon (327)
+        - remove old inactive picon (16)
+210418  - update orbit from Vhannibal v180418
+        - update 0.8W,1.9E,7.0E,13.0E,16.0E,
+          19.2E,21.6E,26.0E,28.2E,36.0E,42.0E,
+          51.5E,53.0E,68.5E
+        - add new or update logos (37)
+        - add new picon (354)
+        - remove old inactive picon (576)
+        - update 36.0E russian beam
+130418  - update orbit from Vhannibal v180410
+        - update DTT cz,5.0W,0.8W,3.0E,4.8E,
+          7.0E,9.0E,13.0E,16.0E,26.0E,42.0E,
+          45.0E,51.5E,52.0E,52.5E,53.0E,68.5E,
+          70.5E,12.2W
+        - add new or update logos (81)
+        - add new picon (306)
+        - remove old inactive picon (223)
+080418  - fix error
+060418  - update orbit from Vhannibal v180404
+        - update DTT sk,5.0W,3.0W,0.8W,1.9E,
+          3.0E,4.8E,7.0E,13.0E,16.0E,26.0E,
+          28.2E,36.0E,39.0E,42.0E,53.0E,68.5E,
+          30.0W,15.0W,8.0W
+        - add new or update logos (133)
+        - add new picon (528)
+        - remove old inactive picon (508)
+300318  - update 23.5E
+        - update 16.0E flix/antik
+        - update DVB-C UPC
+290318  - update orbit from Vhannibal v180328
+        - update 0.8W,1.9E,4.8E,7.0E,9.0E,
+          10.0E,13.0E,13.0E,26.0E,28.2E,42.0E,
+          52.0E,53.0E,30.0W,24.5W,12.5W,8.0W
+        - add new or update logos (31)
+        - add new picon (408)
+        - remove old inactive picon (390)
+220318  - update orbit from Vhannibal v180321
+        - update 5.0W,0.8W,3.0E,4.8E,7.0E,9.0E,
+          13.0E,16.0E,19.2E,21.6E,23.5E,26.0E,
+          28.2E,33.0E,42.0E,52.0E,52.5E,53.0E,
+          68.5E,30.0W,12.5W,8.0W
+        - add new or update logos (78)
+        - add new picon (630)
+        - remove old inactive picon (177)
+150318  - update orbit from Vhannibal v180314
+        - update 1.9E,3.0E,4.8E,10.0E,13.0E,
+          16.0E,26.0E,36.0E,52.0E,52.5E,53.0E,
+          68.5E,8.0W
+        - add new or update logos (38)
+        - add new picon (90)
+        - remove old inactive picon (102)
+110318  - update 33.0E
+        - fix DTT
+        - update DVB-C UPC
+080318  - update orbit from Vhannibal v180307
+        - update 5.0W,4.0W,0.8W,3.0E,4.8E,
+          10.0E,13.0E,16.0E,21.6E,23.5E,26.0E,
+          28.2E,31.5E,39.0E,42.0E,46.0E,52.0E,
+          53.0E,68.5E,70.5E,15.0W,8.0W
+        - add new or update logos (75)
+        - add new picon (291)
+        - remove old inactive picon (89)
+030318  - update 23.5E
+        - update DTT (cz)
+        - update 0.8W digi (cz/sk) 
+          freesat by upc direct
+280218  - update orbit from Vhannibal v180227
+        - update 5.0W,3.0W,1.9E,3.0E,4.8E,
+          7.0E,16.0E,19.2E,23.5E,26.0E,28.2E,
+          33.0E,39.0E,42.0E,52.0E,53.0E,68.5E
+        - add new or update logos (57)
+        - add new picon (813)
+        - remove old inactive picon (281)
+220218  - update orbit from Vhannibal v180221
+        - update 5.0W,3.0E,7.0E,10.0E,13.0E,
+          19.2E,28.2E,33.0E,39.0E,42.0E,66.0E,
+          30.0W,20.0W,12.5W
+        - add new or update logos (45)
+        - add new picon (299)
+        - remove old inactive picon (0)
+210218  - update russian 54.9E
+        - update 75.0E MTS
+        - update update 85.0E Telekarta
+170218  - update orbit from Vhannibal v180214
+        - update 5.0W,4.0W,0.8W,4.8E,7.0E,
+          9.0E,13.0E,19.2E,21.6E,26.0E,31.5E,
+          42.0E,45.0E,52.0E,52.5E,53.0E,58.5E,
+          12.5W,20.0W
+        - add satellite 20.0W
+        - add new or update logos (81)
+        - add new picon (291)
+        - remove old inactive picon (1251)
+100218  - repair DTT
+090218  - update orbit from Vhannibal v180207
+        - update 5.0W,4.0W,0.8W,3.0E,4.8E,
+          7.0E,13.0E,16.0E,23.5E,26.0E,28.2E,
+          36.0E,39.0E,42.0E,45.0E,52.5E,53.0E,
+          66.0E,68.5E,70.5E,12.5W
+        - add new or update logos (52)
+        - add new picon (384)
+        - remove old inactive picon (111)
+040218  - update 36.0E russian beam
+        - update DTT (sk)
+020218  - update orbit from Vhannibal v180131
+        - update 5.0W,1.9E,3.0E,4.8E,7.0E,
+          13.0E,16.0E,19.2E,21.6E,26.0E,28.2E,
+          39.0E,42.0E,52.0E,52.5E,68.5E,30.0W,
+          12.5W,11.0W
+        - add new or update logos (250)
+        - add new picon (564)
+        - remove old inactive picon (223)
+250118  - update orbit from Vhannibal v180124
+        - update DTT(cz,t2),4.0W,0.8W,4.8E,
+          7.0E,13.0E,16.0E,19.2E,23.5E,26.0E,
+          39.0E,42.0E,52.5E,70.5E,12.5W
+        - add new or update logos (101)
+        - add new picon (273)
+        - remove old inactive picon (0)
+140118  - update update 85.0E Telekarta
+        - update 36.0E russian beam
+190118  - update orbit from Vhannibal v180117
+        - update 5.0W,4.0W,0.8W,4.8E,7.0E,
+          10.0E,13.0E,16.0E,21.6E,23.5E,28.2E,
+          39.0E,42.0E,51.5E,12.5W,11.0W,8.0W
+        - add new or update logos (115)
+        - add new picon (489)
+        - remove old inactive picon (331)
+140118  - update 9.0E X-tra
+        - update 36.0E russian beam
+        - update 75.0E MTS
+        - update DVB-C UPC
+120118  - update orbit from Vhannibal v180110
+        - update DTT (cz),4.0W,0.8W,3.0E,
+          7.0E,9.0E,10.0E,13.0E,16.0E,
+          21.6E,26.0E,28.2E,42.0E,52.5E,
+          54.9E,30.0W
+        - add new or update logos (78)
+        - add new picon (429)
+        - remove old inactive picon (358)
+060118  - update orbit from Vhannibal v180103
+        - update DTT (sk),DTT (cz),5.0W,0.8W,
+          3.0E,7.0E,9.0E,10.0E,13.0E,16.0E,
+          26.0E,42.0E,53.0E,66.0E,30.0W,11.0W
+        - add new or update logos (53)
+        - add new picon (171)
+        - remove old inactive picon (195)
+281217  - update orbit from Vhannibal v171226
+        - update 5.0W,3.0E,7.0E,13.0E,16.0E,
+          19.2E,23.5E,26.0E,28.2E,53.0E
+        - add new or update logos (91)
+        - add new picon (372)
+        - remove old inactive picon (0)
+261217  - update 5.0W, 12.5W multi-stream
+        - update DVB-C UPC
+241217  - update orbit from Vhannibal v171220
+        - update 4.0W,0.8W,1.9E,3.0E,4.8E,
+          7.0E,9.0E,13.0E,16.0E,19.2E,21.6E,
+          26.0E,28.2E,39.0E,52.0E,53.0E,30.0W,
+          22.0W
+        - add new or update logos (76)
+        - add new picon (204)
+        - remove old inactive picon (641)
+151217  - update orbit from Vhannibal v171213
+        - update 1.9E,4.8E,7.0E,9.0E,13.0E,
+          19.2E,26.0E,28.2E,36.0E,53.0E,
+          66.0E,15.0W
+        - add new or update logos (178)
+        - add new picon (492)
+        - remove old inactive picon (80)
+121217  - add 1.9E into all dimensions
+        - update 33.0E
+        - update DTT (T2) CZ Zlin
+071217  - update orbit from Vhannibal v171205
+        - update 5.0W,4.0W,9.0E,13.0E,26.0E,
+          28.2E,36.0E,39.0E,42.0E,51.5E,
+          68.5E,70.5E,22.0W,12.5W
+        - add new or update logos (193)
+        - add new picon (894)
+        - remove old inactive picon (0)
+051217  - update 75.0E MongolSat,MTS
+        - update  9.0E X-tra
+        - update 36.0E russian beam
+        - update 85.0E Telekarta
+011217  - update orbit from Vhannibal v171129
+        - update 0.8W,7.0E,13.0E,16.0E,19.2E,
+          21.6E,28.2E,45.0E,51.5E,68.5E,70.5E,
+          8.0W
+        - add new or update logos (155)
+        - add new picon (216)
+        - remove old inactive picon (231)
+251117  - update orbit from Vhannibal v171122
+        - update 0.8W,3.0E,7.0E,9.0E,10.0E,
+          13.0E,26.0E,28.2E,39.0,42.0E,46.0E,
+          51.5E,68.5E,12.5W
+        - add new or update logos (127)
+        - add new picon (231)
+        - remove old inactive picon (115)
+171117  - update orbit from Vhannibal v171115
+        - update 5.0W,4.0W,0.8W,13.0E,16.0E,
+          19.2E,26.0E,42.0E,51.5E,68.5E,70.5E
+        - add new or update logos (32)
+        - add new picon (171)
+        - remove old inactive picon (50)
+101117  - update orbit from Vhannibal v171108
+        - update 5.0W,0.8W,3.0E,4.8E,7.0E,9.0E,
+          13.0E,19.2E,21.6E,23.5E,26.0E,28.2E,
+          33.0E,36.0E,39.0E,42.0E,45.0E,46.0E,
+          51.5E,52.0E,66.0E,68.5E,70.5E,12.5W,
+          8.0W
+        - add new or update logos (202)
+        - add new picon (1572)
+        - remove old inactive picon (243)
+061117  - update 9.0E X-tra
+041117  - update 75.0E MTS
+031117  - update orbit from Vhannibal v171101
+        - update 4.0W,13.0E,19.2E,26.0E
+        - update 36.0E russian beam
+        - update 85.0E kontinent
+        - add new or update logos (54)
+        - add new picon (90)
+        - remove old inactive picon (0)
+271017  - update orbit from Vhannibal v171025
+        - update 0.8W,4.8E,13.0E,16.0E,19.2E,
+          28.2E,31.5E,42.0E,8.0W
+        - add new or update logos (37)
+        - add new picon (204)
+        - remove old inactive picon (60)
+211017  - update 9.0E add X-tra ua
+211017  - update orbit from Vhannibal v171018
+        - update 4.0W,0.8W,4.8E,7.0E.9.0E,
+          13.0E,16.0E,26.0E,28.2E,39.0E,51.5E
+        - add new or update logos (30)
+        - add new picon (87)
+        - remove old inactive picon (205)
+141017  - update orbit from Vhannibal v171011
+        - update DVB-C UPC,0.8W,7.0E,16.0E,28.2E,36.0E,
+          42.0E,51.5E,53.0E,66.0E,68.5E
+        - add new or update logos (39)
+        - add new picon (147)
+        - remove old inactive picon (152)
+051017  - update orbit from Vhannibal v171004
+        - update 4.0W,0.8W,4.8E,7.0E,9.0E,13.0E,
+          16.0E,19.2E,28.2E,42.0E,46.0E,51.5E,
+          53.0E,15.0W
+        - add new or update logos (21)
+        - add new picon (312)
+        - remove old inactive picon (0)
+300917  - update orbit from Vhannibal v170927
+        - update 4.0W,0.8W,9.0E,13.0E,16.0E,
+          19.2E,26.0E,28.2E,31.5E,42.0E,52.5E,
+          66.0E,68.5E,70.5E
+        - add new or update logos (29)
+        - add new picon (180)
+        - remove old inactive picon (227)
+220917  - update orbit from Vhannibal v170920
+        - update 5.0W,4.0W,3.0E,13.0E,16.0E,
+          19.2E,23.5E,26.0E,28.2E,46.0E,
+        - add new or update logos (146)
+        - add new picon (168)
+        - remove old inactive picon (184)
+150917  - update orbit from Vhannibal v170913
+        - update 4.0W,4.8E,7.0E,9.0E,10.0E,
+          13.0E,16.0E,26.0E,28.2E,39.0E,42.0E,
+          46.0E,51.5E,52.0E,
+        - add new or update logos (235)
+        - add new picon (195)
+        - remove old inactive picon (145)
+080917  - update 16.0E
+070917  - update orbit from Vhannibal v170906
+        - update 0.8W,4.8E,7.0E,9.0E,10.0E,
+          13.0E,16.0E,19.2E,23.5E,28.2E,
+          42.0E,8.0W
+        - add new or update logos (119)
+        - add new picon (93)
+        - remove old inactive picon (79)
+030917  - fix freeSAT packages
+310817  - update orbit from Vhannibal v170830
+        - update 4.0W,0.8W,3.0E,4.8E,7.0E,
+          13.0E,21.6E,26.0E,36.0E,42.0E,52.5E,
+          70.5E,11.0W
+        - add new or update logos (73)
+        - add new picon (171)
+        - remove old inactive picon (111)
+270817  - update 16.0E,36.0E russian beam
+250817  - update orbit from Vhannibal v170823
+        - update 16.0E,21.6E,26.0E
+        - add new or update logos (81)
+        - add new picon (6)
+        - remove old inactive picon (216)
+180817  - update orbit from Vhannibal v170816
+        - update 5.0W,4.0W,0.8W,3.0E,7.0E,
+          10.0E,13.0E,16.0E,21.6E,23.5E,26.0E,
+          42.0E,66.0E,8.0W
+        - update 36.0E,85.0E russian beam 
+        - add new or update logos (180)
+        - add new picon (243)
+        - remove old inactive picon (153)
+090817  - update orbit from Vhannibal v170809
+        - update 7.0E,9.0E,13.0E,19.2E,26.0E,
+          28.2E,36.0E,42.0E,12.5W
+        - add new or update logos (104)
+        - add new picon (111)
+        - remove old inactive picon (226)
+040817  - update 36.0E russian beam 
+040817  - update orbit from Vhannibal v170802
+        - update 5.0W,0.8W,7.0E,9.0E,13.0E,
+          19.2E,23.5E,28.2E,42.0E
+        - add new or update logos (69)
+        - add new picon (387)
+        - remove old inactive picon (167)
+290717  - error correct
+280717  - update orbit from Vhannibal v170727
+        - update 3.0E,4.8E,7.0E,9.0E,13.0E,
+          19.2E,21.6E,26.0E,28.2E,36.0E,52.0E,
+          68.5E,30.0W,22.0W,8.0W
+        - add new or update logos (312)
+        - add new picon (195)
+        - remove old inactive picon (59)
+240717  - update DVB-C UPC
+200717  - update orbit from Vhannibal v170719
+        - update 4.0W,7.0E,13.0E,16.0E,21.6E,
+          23.5E,28.2E,31.5E,36.0E,42.0E,52.5E,
+          53.0E,8.0W
+        - add new or update logos (280)
+        - add new picon (300)
+        - remove old inactive picon (119)
+130717  - update orbit from Vhannibal v170712
+        - update 4.0W,0.8W,3.0E,13.0E,19.2E,
+          26.0E,28.2E,42.0E,53.0E,30.0W,12.5W
+        - add new or update logos (198)
+        - add new picon (183)
+        - remove old inactive picon (127)
+070717  - update orbit from Vhannibal v170706
+        - update 0.8W,9.0E,13.0E,19.2E,26.0E,
+          28.2E,36.0E,46.0E,51.5E,52.0E,52.5E,
+          68.5E,30.0W
+        - add new or update logos (302)
+        - add new picon (393)
+        - remove old inactive picon (144)
+300617  - update orbit from Vhannibal v170629
+        - update 7.0E,10.0E,13.0E,16.0E,19.2E,
+          23.5E,26.0E,28.2E,36.0E,42.0E,52.5E
+        - add new or update logos (155)
+        - add new picon (99)
+        - remove old inactive picon (205)
+230617  - update orbit from Vhannibal v170622
+        - update 13.0E,19.2E,23.5E,28.2E,
+          42.0E,11.0W,8.0W
+        - add new or update logos (67)
+        - add new picon (84)
+        - remove old inactive picon (149)
+160617  - update orbit from Vhannibal v170615
+        - update 0.8W,4.8E,9.0E,13.0E,23.5E,
+          28.2E,42.0E
+        - add new or update logos (75)
+        - add new picon (138)
+        - remove old inactive picon (509)
+090617  - update orbit from Vhannibal v170608
+        - update DTT SK,5.0W,0.8W,3.0E,4.8E,
+          7.0E,13.0E,19.2E,23.5E,28.2E,36.0E,
+          42.0E,52.0E,53.0E,68.5E,27.5W,14.0W,
+          11.0W,8.0W
+        - add new or update logos (108)
+        - add new picon (162)
+        - remove old inactive picon (118)
+040617  - update orbit from Vhannibal v170601
+        - update 0.8W,3.1E,4.8E,7.0E,13.0E,
+          16.0E,19.0E,21.6E,26.0E,36.0E,39.0E,
+          42.0E,51.5E,52.5E,30.0W,4.0W,8.0W
+        - add new or update logos (291)
+        - add new picon (222)
+        - remove old inactive picon (51)
+270517  - update orbit from Vhannibal v170525
+        - update 0.8W,4.8E,10.0E,13.0E,16.0E,
+          26.0E,28.2E,51.5E,53.0E,14.0W,8.0W
+        - add new or update logos (60)
+        - add new picon (318)
+        - remove old inactive picon (120)
+        - add full support 51.5E Belitersat
+190517  - update orbit from Vhannibal v170518
+        - update 4.8E,7.0E,9.0E,13.0E,23.5E,
+          26.0E,28.2E,36.0E,39.0E,52.5E
+        - add new or update logos (48)
+        - add new picon (177)
+        - remove old inactive picon (304)
+120517  - update orbit from Vhannibal v170511
+        - update 4.0W,4.8E,26.0E,28.2E,
+          42.0E,52.5E,8.0W
+        - add new or update logos (22)
+        - add new picon (75)
+        - remove old inactive picon (86)
+080517  - update russian beam 36.0E
+070517  - update orbit from Vhannibal v170504
+        - update 4.0W,0.8W,3.0E,4.8E,7.0E,
+          9.0E,13.0E,19.2E,23.5E,26.0E,
+          28.2E,36.0E,42.0E,45.0E,46.0E,
+          52.0E,68.5E,70.5E,15.0W
+        - add new or update logos (37)
+        - add new picon (204)
+        - remove old inactive picon (27)
+300417  - update orbit from Vhannibal v170427
+        - update 0.8W,13.0E,16.0E,19.2E,
+          26.0E,28.2E,42.0E,52.5E,15.0W
+        - add new or update logos (36)
+        - add new picon (84)
+        - remove old inactive picon (220)
+290417  - update DTT CZ/Praha
+220417  - update orbit from Vhannibal v170420
+        - update 4.0W,0.8W,9.0E,13.0E,16.0E,
+           23.5E,26.0E,28.2E,52.0E
+        - update russian beam 36.0E
+        - small correct script
+        - add new or update logos (37)
+        - add new picon (267)
+        - remove old inactive picon (155)
+190417  - 36.0E russin beam and CS Film all
+160417  - update orbit from Vhannibal v170414
+        - update 0.8W,4.8E,7.0E,9.0E,13.0E,
+          16.0E,19.2E,26.0E,28.2E,52.5E
+        - small error correct
+        - remove old inactive picon (189)
+140417  - update DTT Czech and 36.0E russin beam
+100417  - update orbit from Vhannibal v170407
+        - update 5.0W,0.8W,3.0E,13.0E,16.0E,
+           23.5E,28.2E,42.0E,46.0E,30.0W
+        - Add picon black and white 150x90
+        - small error correct
+        - remove old inactive picon (195)
+060417  - update 36.0E,75.0E russin beam and
+030417  - update orbit from Vhannibal v170331
+        - update 4.0W,0.8W,3.0E,4.8E,10.0E
+           13.0E,16.0E,19.2E,23.5E,28.2E,31.5E,
+           36.0E,52.5E
+        - small error correct
+        - remove old inactive picon (139)
+260317  - update orbit from Vhannibal v170324
+        - update 4.8E,7.0E,13.0E,16.0E,19.2E,
+           23.5E,26.0E,28.2E,42.0E,52.0E,24.5W
+        - small error correct
+        - remove old inactive picon (182)
+210317  - small update update 16.0E
+        - add all picon packages Antisat(inc. flix)
+190317  - update orbit from Vhannibal v170317
+        - update 5.0W,4.0W,0.8W,4.8E,10.0E,
+           13.0E,16.0E,21.6E,23.5E,26.0E,28.2E,
+           36.0E,42.0E,52.5E,30.0W
+        - small error correct
+        - remove old inactive picon (301)
+120317  - update orbit from Vhannibal v170310
+        - update 4.0W,0.8W,7.0E,9.0E,13.0E
+           16.0E,21.6E,26.0E,28.2E,36.0E
+           42.0E,68.5E,30.0W
+        - small error correct
+        - remove old inactive picon (32)
+070317  - update 36.0E russin beam and DTT CZ
+040317  - update orbit from Vhannibal v170303
+        - update 5.0W,4.0W,0.8W,13.0E,16.0E,
+           19.2E,23.5E,26.0E,42.0E,30.0W
+        - update russian 36.0E 54.9E
+           56.0E 75.0E 85.0E
+        - small error correct
+        - remove old inactive picon (90)
+020317  - update 0.8W and 36.0E
+010317  - update 23.5E and DTT CZ
+260217  - update orbit from Vhannibal v170224
+        - update 9.0E,13.0E,16.0E,46.0E,46.0E
+        - small error correct
+        - remove old inactive picon (87)
+190217  - update orbit from Vhannibal v170217
+        - update 3.0E,4.8E,7.0E,9.0E,16.0E,
+          23.5E,26.0E,52.5E,53.0E,66.0E,8.0W
+        - update 36.0E russian beam
+        - update 85.0E 
+        - small error correct
+        - remove old inactive picon (171)
+120217  - update orbit from Vhannibal v170210
+        - update 4.0W,0.8W,3.0E,4.8E,7.0E
+           9.0E,13.0E,16.0E,19.2E,26.0E,28.2E
+           31.5E,42.0E,52.0E,52.5E,15.0W
+        - small error correct
+        - remove old inactive picon (177)
+060217  - update orbit from Vhannibal v170204
+        - update 0.8W,3.0E,4.8E,7.0E,13.0E,
+          16.0E,19.2E,23.5E,28.2E,31.5E,39.0E,
+          42.0E,45.0E,52.5E,30.0W
+        - Add support for Nutrino HD picon
+          add neutrino Black 100x60
+          add neutrino Transparent 220x60
+           220x60 45w-81E for motor!
+          add neutrino Transparent 400x240
+          add neutrino Transparent 440x120
+          thx Pr0metheUs for testing!
+        - update 36.0E russian beam
+        - small error correct
+        - remove old inactive picon (365)
+030217  - update all channel cet21
+           0.8w, 16.0E, 23.5E, DTT, Cable
+010217  - update 0.8W tp12380
+300117  - update orbit from Vhannibal v170128
+        - update 4.0W,7.0E,9.0E,13.0E,19.2E,
+          23.5E,28.2E,33.0E,42.0E,52.0E,52.5E,
+          53.0E,68.5E
+        - small error correct
+        - remove old inactive picon (149)
+220117  - update orbit from Vhannibal v170120
+        - update 5.0W,0.8W,4.8E,9.0E,13.0E,
+          16.0E,23.5E,28.2E,52.5E,68.5E
+        - small error correct
+        - remove old inactive picon (172)
+150117  - update orbit from Vhannibal v170113
+        - update 0.8W,4.8E,7.0E,13.0E,16.0E,
+          13.0E,19.2E,23.5E,26.0E,28.2E,36.0E,
+          46.0E,52.5E
+        - small error correct
+        - remove old inactive picon (154)
+080117  - update orbit from Vhannibal v170106
+        - update 4.0W,10.0E,13.0E,16.0E,26.0E,
+          28.2E,36.0E,42.0E,52.5E,66.0E,68.5E,
+          45.0W,30.0W,15.0W,
+        - small error correct
+        - remove old inactive picon (209)
+010117  - update orbit from Vhannibal v161230
+        - update 3.0E,4.8E,13.0E,26.0E,28.2E,
+          46.0E,68.5E,DTT-sk
+        - small error correct
+        - remove old inactive picon (211)
+        - Add picon DVB-C (UPC CZ)
+261216  - update orbit from Vhannibal v161223
+        - update 4.0W,0.8W,4.8E,7.0E,13.0E,16.0E,
+          13.2E,21.6E,26.0E,28.2E,52.5E,68.5E,8.0W
+        - small error correct
+        - add new picon transparent 400x240
+        - add new picon transparent 400x170
+        - remove old inactive picon (93)
+191216  - update orbit from Vhannibal v161216
+        - update 4.0W,0.8W,3.0E,4.8E,7.0E,9.0E,
+          13.0E,16.0E,26.0E,28.2E,31.5E,42.0E,
+          46.0E,53.0E,30.0W
+        - error correct
+        - add new picon black 220x132
+        - remove old inactive picon (67)
+121216  - update orbit from Vhannibal v161210
+        - update 0.8W,3.0E,4.8E,7.0E,9.0E,13.0E,
+          16.0E,23.5E,26.0E,31.5E,42.0E,52.0E,
+          52.5E,53.0E,30.0W,
+        - error correct
+        - update 36.0E russian beam
+        - add new picon white 220x132
+        - remove old inactive picon (0)
+081216  - update 23.2E TA3 HD
+071216  - update orbit from Vhannibal v161204
+        - update 5.0W,0.8W,3.0E,4.8E,7.0E,
+          9.0E,13.0E,16.0E,21.6E,23.5E,26.0E,28.2E,
+          31.5E,42.0E,53.0E,
+        - error correct
+        - remove old inactive picon (92)
+011216  - update 23.2E tv8hd,0.8W new upc channel
+281116  - update orbit from Vhannibal v161126
+        - update 5.0W,4.0W,4.8E,7.0E,13.0E,
+          19.2E,26.0E,28.2E,31.5E,42.0E,52.5E,
+          68.5E,30.0W,8.0W
+        - error correct
+        - remove old inactive picon (101)
+211116  - update orbit from Vhannibal v161119
+        - update 4.0W,0.8W,3.0E,7.0E,19.2E,
+          23.5E,28.2E,42.0E,52.5E,53.0E,30.0W
+        - update 36.0E russian beam
+        - error correct
+        - remove old inactive picon (81)
+151116  - update orbit from Vhannibal v161113
+        - update 0.8W,3.0E,4.8E,7.0E,13.0E,
+          16.0E,19.2E,21.6E,23.5E,28.2E,45.0E,
+          52.5E,53.0E
+        - error correct
+        - remove old inactive picon (395)
+081116  - update orbit from Vhannibal v161106
+        - update 0.8W,4.8E,7.0E,9.0E,10.0E,
+          13.0E,16.0E,21.6E,23.5E,26.0E,
+          28.2E,46.0E,52.5E,53.0E,54.9E,
+          68.5E,8.0W
+        - update 36.0E russian beam
+        - error correct
+        - remove old inactive picon (80)
+011116  - update orbit from Vhannibal v161030
+        - update DTT SK,4.8E,13.0E,16.0E,19.2E,
+          21.6E,26.0E,28.2E,42.0E,30.0W
+        - error correct
+        - remove old inactive picon
+261016  - update orbit from Vhannibal v161023
+        - update 4.8E,10.0E,13.0E,16.0E,36.0E,
+          42.0E,45.0E,52.5E,53.0E,68.5E,
+        - error correct
+        - remove old inactive picon
+181016  - update orbit from Vhannibal v161016
+        - update 0.8W,3.0E,13.0E,21.6E,31.5E,
+          42.0E,45.0E,46.0E,52.5E,53.0E,68.5E
+          68.5E,30.0W,15.0W
+        - update 36.0E russian beam
+        - error correct
+        - remove old inactive picon
+111016  - update orbit from Vhannibal v161009
+        - update ,0.8W,4.8E,7.0E,9.0E,13.0E,16.0E,
+          31.5E,42.0E,52.5E,53.0E,66.0E,68.5E
+        - update 54.9E,56.0E,75.0E,85.0E russian beam
+        - error correct
+        - remove old inactive picon
+041016  - update orbit from Vhannibal v161002
+        - update 5.0W,0.8W,4.8E,3.0E,13.0E,16.0E,19.2E,
+          26.0E,42.0E,45.0E,52.5E,53.0E
+        - error correct
+        - remove old inactive picon
+280916  - add 23,5E esport and 0,8W 123 tv
+270916  - update orbit from Vhannibal v160925
+        - update 5.0W,0.8W,3.0E,4.8E,7.0E,10.0E,13.0E,
+          28.2E36.0E,46.0E,52.0E,52.5E,53.0E,68.5E,
+          30.0W,8.0W
+        - error correct
+        - remove old inactive picon
+200916  - update orbit from Vhannibal v160918
+        - update 0.8W,3.0E,4.8E,7.0E,9.0E,13.0E,
+          16.0E,26.0E,28.2E,45.0E,53.0E,57.0E,
+          68.5E,36.0E russian beam,85.0E
+        - error correct
+        - remove old inactive picon
+130916  - update orbit from Vhannibal v160911
+        - update 5.0W,4.0W,0.8W,3.0E,4.8E,7.0E,
+          9.0E,13.0E,16.0E,28.2E,36.0E,52.5E,
+          53.0E,68.5E,30.0W,8.0W,36.0E russian beam,
+        - error correct
+        - remove old inactive picon
+080916  - update DTT sk Joj Cinema => Joj CinemaHD
+        - update FEM3 => Prime
+060916  - update orbit from Vhannibal v160904
+        - update 5.0W,0.8W,4.8E,7.0E,9.0E,10.0E,
+          13.0E,16.0E,19.2E,26.0E,28.2E,36.0E,
+          42.0E,46.0E,52.5E,53.0E,57.0E,30.0W,
+          8.0W,70.5E,75.0E,85.1E,DTT CZ(mpx8 zl)
+        - error correct
+        - remove old inactive picon
+030916  - all => sundancetv(hd)
+300816  - update orbit from Vhannibal v160828
+        - update 0.8W,7.0E,13.0E,16.0E,28.2E
+          52.5E,53.0E,62.0E,68.5E,30.0W,
+        - error correct
+        - update 36.0E russian beam
+        - remove old inactive picon
+230816  - update orbit from Vhannibal v160821
+        - update 5.0W,0.8W,3.0E,4.8E,7.0E,13.0E,
+          19.2E,28.2E,36.0E,52.0E,52.5E,53.0E,
+          57.0E,30.0W,11.0W
+        - error correct
+        - remove old inactive picon
+160816  - update orbit from Vhannibal v160815
+        - update 0.8W,7.0E,13.0E,19.2E,26.0E,28.2E,
+          45.0E,52.0E,68.5E
+        - big error correct
+        - update 36.0E,54.9E,56.0E,75.0E,
+		 85.0E russian beam
+        - error correct
+        - remove old inactive picon
+120816  - all => Food Network
+090816  - update orbit from Vhannibal v160807
+        - error correct
+        - update 30.0W,27.5W,4.0W,0.8W,7.0E,13.0E
+          16.0E,19.2E,26.0E,28.2E,36.0E,42.0E,52.0E
+          52.5E,53.0E,68.5E
+        - update 36.0E russian beam
+        - remove POWER_VU no more
+        - Add gdrive new picon Transparent 100x60
+        - remove old inactive picon
+030816  - update 23.5E => WAU
+020816  - update orbit from Vhannibal v160731
+        - big error correct
+        - update 4.9E,7.0E,13E,16E,19.2E,21.6E,26.0E,
+          28.2E,36.0E,39.0E,46.0E,52.5E,8.0W
+        - update 36.0E russian beam
+        - remove old inactive picon
+270716  - update orbit from Vhannibal v160724
+        - error correct
+        - update 85.0E
+        - update 75.0E
+        - remove old inactive picon
+190716  - update orbit from Vhannibal v160718
+        - error correct
+        - update 36.0E russian beam
+        - remove old inactive picon
+120716  - update orbit from Vhannibal v160710
+        - error correct
+        - remove old inactive picon
+070716  - update orbit from Vhannibal v160704
+        - error correct
+        - update 36.0E russian beam
+        - remove old inactive picon
+290616  - update orbit from Vhannibal v160627
+        - error correct
+        - remove old inactive picon
+220616  - update orbit from Vhannibal v160619
+        - error correct
+        - update 23.5E tp (12070,12090)
+        - update DTT CZ
+        - remove old inactive picon
+150616  - update orbit from Vhannibal v160612
+        - error correct
+        - update 23.5E tp (12363)
+        - add 7z for FreeSAT By UPC Direct only
+        - update 85.1E (Kontinent)
+        - update 75.0E ABS2
+        - remove old inactive picon
+080616  - update orbit from Vhannibal v160606
+        - add 7z for skylink only
+        - error correct
+        - remove old inactive picon
+020616  - update orbit from Vhannibal v160529
+        - error correct
+        - update 23.5E tp (11973)
+        - small update 36.0E russian beam
+        - remove old inactive picon
+250516  - update orbit from Vhannibal v160523
+        - error correct
+        - update 23.5E tp (11797)
+        - update 36.0E russian beam
+        - remove old inactive picon
+180516  - update orbit from Vhannibal v160515
+        - small error correct
+        - update 23.5E (11836,11934,12109,12207)
+        - update 36.0E russian beam
+        - big update 16E
+        - remove old inactive picon
+110516  - update orbit from Vhannibal v160509
+        - update DTT SK
+        - small error correct
+        - remove old inactive picon
+040516  - update orbit from Vhannibal v160502
+        - update 23.5E tp (12525)
+        - remove old inactive picon
+270416  - update orbit from Vhannibal v160425
+        - small error correct
+        - update 23.5E tp (11836)
+        - remove old inactive picon
+200416  - update orbit from Vhannibal v160418
+        - small error correct
+        - remove old inactive picon
+140416  - update orbit from Vhannibal v160411
+        - update 36.0E russian beam
+        - small error correct
+        - remove old inactive picon
+060416  - update orbit from Vhannibal v160405
+        - small error correct
+        - remove old inactive picon
+290316  - update orbit from Vhannibal v160328
+        - small error correct
+        - add 85.0E now 85.0E and 85.1E
+        - update 85.1E
+        - remove old inactive picon
+230316  - update orbit from Vhannibal v160321
+        - many error correct
+        - add 74.9E now 75.0E and 74.9E
+        - update 70.5E
+        - update 75.0E
+        - update 36.0E russian beam
+        - remove old inactive picon
+200316  - update 23.5E 0.8W 16E => HBO3
+160316  - update orbit from Vhannibal v160314
+        - small error correct
+        - update 36.0E russian beam
+        - remove old inactive picon
+090316  - update orbit from Vhannibal v160307
+        - remove old inactive picon
+030316  - update orbit from Vhannibal v160301
+        - error correct
+        - update 36.0E russian beam
+        - remove old inactive picon
+240216  - update orbit from Vhannibal v160222
+        - error correct
+        - remove old inactive picon
+180216  - update orbit from Vhannibal v160215
+        - small error correct
+        - remove old inactive picon
+110216  - update orbit from Vhannibal v160208
+        - small error correct
+        - update 85.1E 
+        - update 75.0E
+        - update 36.0E russian beam
+        - remove old inactive picon
+040216  - update orbit from Vhannibal v160201
+        - add satellite 14.0W
+        - remove old inactive picon
+020216  - update 23E (skylink)
+        - add satellite 75.0E (ABS 1/Eutelsat W75)
+        - add DTT CZ/Vsetin
+290116  - update orbit from Vhannibal v160125
+        - small error correct
+        - remove old inactive picon
+250116  - update 23E (skylink)
+        - update DVB-T SK + corect lightning
+210116  - update orbit from Vhannibal v160118
+        - update services 36e(all) Russian beam
+        - clone all picon for 23.5E, 0.8W and 36E 
+           1_0_1_ => 1_0_(16,19)_
+        - exchange build algorithm for Picon White
+           100x60 and 50x30 now better view
+        - remove old inactive picon
+150116  - update orbit from Vhannibal v160111
+        - correct dark and colour for transparent
+           picon 220x132
+        - update services (all) 70.5e
+        - update services 36e Russian beam
+        - remove old inactive picon
+080116  - update orbit from Vhannibal v160105
+        - now picon for triple-tuner always clone
+           from DTT picon
+        - small error correct
+        - remove 18W position
+        - correct lightning for 220x132 picon
+        - remove old inactive picon
+010116  - update orbit from Vhannibal v291215
+        - add picon for VU+ TFT 220x132 png32
+           transparent
+        - small error correct
+        - add DTT picon CZ/Zlin
+        - remove old inactive picon
+251215  - update orbit from Vhannibal v221215
+        - small error correct
+181215  - update orbit from Vhannibal v151215
+        - find all change name service and correct
+        - add satellite 85.1E (Kontinent)
+        - add 3.0E now 3.1e and 3.0e
+        - add 4.9E now 4.8e and 4.9e
+        - remove old inactive picon
+111215  - update orbit from Vhannibal v101215
+        - add all (if exist) picon of 70.5e
+        - Correct all find error
+        - remove old inactive picon
+041215  - update orbit from Vhannibal v011215
+        - remove old inactive picon
+        - small correct error picon
+        - little support for picon *_63_63_*
+261115  - update orbit from, last Vhannibal
+        - small correct error picon
+        - clone all picon 1_0_19(16)_ to 1_0_1_
+        - remove old inactive picon
+201115  - First release 45W - 70.5e
