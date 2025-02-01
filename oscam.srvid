@@ -1,7 +1,7 @@
 ## PROVIDER: Nos
 ## CAID: 1802
 ## PROVID: 000000,005221
-## CREATE: 2025.01.31 11:47:55
+## CREATE: 2025.02.01 12:04:36
 1802:0192|Nos|24 Kitchen Portugal HD
 1802:17A8|Nos|Afro Music Channel
 1802:00EB|Nos|AMC Break Portugal
@@ -21,7 +21,7 @@
 1802:12EC|Nos|Canal Nos
 1802:0376|Nos|Canal Panda
 1802:0143|Nos|Canal Q
-1802:0142|Nos|Cartoon Network Portugal
+1802:0142|Nos|Cartoon Network Northern Europe 1
 1802:0649|Nos|Casa e Cozinha HD
 1802:032F|Nos|Caza y Pesca
 1802:00AF|Nos|Cidade FM
@@ -138,7 +138,7 @@
 ## PROVIDER: Meo
 ## CAID: 0100,1814
 ## PROVID: 005211,005221,000000,000007
-## CREATE: 2025.01.31 11:47:56
+## CREATE: 2025.02.01 12:04:39
 0100,1814:0192|Meo|24 Kitchen Portugal HD
 0100,1814:0473|Meo|80s RFM
 0100,1814:006C|Meo|A Bola TV
@@ -160,7 +160,7 @@
 0100,1814:0139|Meo|Canal Hollywood Portugal HD
 0100,1814:0376|Meo|Canal Panda
 0100,1814:0143|Meo|Canal Q
-0100,1814:0142|Meo|Cartoon Network Portugal
+0100,1814:0142|Meo|Cartoon Network Northern Europe 1
 0100,1814:0073|Meo|Cartoonito Portugal
 0100,1814:0649|Meo|Casa e Cozinha HD
 0100,1814:032F|Meo|Caza y Pesca
@@ -279,7 +279,7 @@
 ## PROVIDER: Home-3
 ## CAID: 09E9
 ## PROVID: 000000
-## CREATE: 2025.01.31 11:47:57
+## CREATE: 2025.02.01 12:04:41
 09E9:2792|Home-3|3 Plus Latvija
 09E9:285A|Home-3|3 Plus Lietuva
 09E9:2922|Home-3|360 TV
@@ -359,7 +359,7 @@
 ## PROVIDER: Viasat-Ukraina
 ## CAID: 5604
 ## PROVID: 000000
-## CREATE: 2025.01.31 11:47:58
+## CREATE: 2025.02.01 12:04:44
 5604:17ED|Viasat-Ukraina|11 International
 5604:17D4|Viasat-Ukraina|11 Marafon
 5604:17D5|Viasat-Ukraina|11 UkraAZna
@@ -460,7 +460,7 @@
 ## PROVIDER: Azam-Digital-7E
 ## CAID: 1868
 ## PROVID: 000000
-## CREATE: 2025.01.31 11:47:59
+## CREATE: 2025.02.01 12:04:46
 1868:0051|Azam-Digital-7E|888 CBS FM
 1868:0052|Azam-Digital-7E|933 KFM
 1868:00EB|Azam-Digital-7E|Africanews
@@ -583,7 +583,7 @@
 ## PROVIDER: Trikolor-36E
 ## CAID: 2710,4AE0,4AE1,5500
 ## PROVID: 000000,000018,000019,00001A,000028,000015,000002,000011,000014,0000FE
-## CREATE: 2025.01.31 11:48:02
+## CREATE: 2025.02.01 12:04:49
 2710,4AE0,4AE1,5500:88BA|Trikolor-36E|5 Kanal
 2710,4AE0,4AE1,5500:88D2|Trikolor-36E|5 Kanal
 2710,4AE0,4AE1,5500:59E2|Trikolor-36E|6 kadrov
@@ -925,7 +925,7 @@
 ## PROVIDER: Trikolor-56E
 ## CAID: 2710,4AE0,4AE1,5500
 ## PROVID: 000000,000018,000019,00001A,000028,000015,000002,000011,000014,0000FE
-## CREATE: 2025.01.31 11:48:04
+## CREATE: 2025.02.01 12:04:52
 2710,4AE0,4AE1,5500:61B5|Trikolor-56E|12 Kanal
 2710,4AE0,4AE1,5500:59DD|Trikolor-56E|5 Kanal
 2710,4AE0,4AE1,5500:908D|Trikolor-56E|5 Kanal
@@ -1306,7 +1306,7 @@
 ## PROVIDER: NTV-Plus-Vostok
 ## CAID: 0500
 ## PROVID: 023D00
-## CREATE: 2025.01.31 11:48:06
+## CREATE: 2025.02.01 12:04:54
 0500:DCC0|NTV-Plus-Vostok|365 dnei TV
 0500:DD80|NTV-Plus-Vostok|5 Kanal
 0500:DDE5|NTV-Plus-Vostok|5 Kanal
@@ -1494,7 +1494,7 @@
 ## PROVIDER: Russkiy-Mir
 ## CAID: 44A0
 ## PROVID: 000000
-## CREATE: 2025.01.31 11:48:07
+## CREATE: 2025.02.01 12:04:57
 44A0:0AF2|Russkiy-Mir|1 Krim
 44A0:0965|Russkiy-Mir|5 Kanal
 44A0:0AF7|Russkiy-Mir|Dom Kino
@@ -1543,7 +1543,7 @@
 ## PROVIDER: Azam-Digital-46e
 ## CAID: 1868
 ## PROVID: 000000
-## CREATE: 2025.01.31 11:48:08
+## CREATE: 2025.02.01 12:04:59
 1868:00E7|Azam-Digital-46e|Aljazeera English
 1868:0093|Azam-Digital-46e|AMC Movies
 1868:0092|Azam-Digital-46e|AMC Series
@@ -1605,55 +1605,55 @@
 1868:0195|Azam-Digital-46e|ZBC TV
 
 ## PROVIDER: Vivacom-45E
-## CAID: 09BD
+## CAID: 09BD,06E1
 ## PROVID: 000000
-## CREATE: 2025.01.31 11:48:09
-09BD:03ED|Vivacom-45E|78 TV
-09BD:03EB|Vivacom-45E|BNT 1
-09BD:03F6|Vivacom-45E|BNT 2
-09BD:03F1|Vivacom-45E|BNT 3 HD
-09BD:040B|Vivacom-45E|BNT 4
-09BD:03E9|Vivacom-45E|BTV
-09BD:0435|Vivacom-45E|BTV Action
-09BD:03EC|Vivacom-45E|BTV Cinema
-09BD:0409|Vivacom-45E|BTV Comedy
-09BD:03EE|Vivacom-45E|BTV Story
-09BD:03EF|Vivacom-45E|Diema Family
-09BD:03F8|Vivacom-45E|Diema HD
-09BD:0406|Vivacom-45E|Diema Sport 2 HD
-09BD:0401|Vivacom-45E|Diema Sport 3 HD
-09BD:0414|Vivacom-45E|Diema Sport HD
-09BD:0410|Vivacom-45E|Discovery Channel Bulgaria
-09BD:0402|Vivacom-45E|Domashniy International
-09BD:0424|Vivacom-45E|EKids
-09BD:042A|Vivacom-45E|Evrokom
-09BD:0403|Vivacom-45E|HBO 2 Central Europe
-09BD:0400|Vivacom-45E|HBO 3 Central Europe
-09BD:0405|Vivacom-45E|HBO Adria
-09BD:03F0|Vivacom-45E|Kino Nova
-09BD:042B|Vivacom-45E|Magic TV
-09BD:040C|Vivacom-45E|Max Sport 1 HD
-09BD:040D|Vivacom-45E|Max Sport 2 HD
-09BD:03F5|Vivacom-45E|Max Sport 3 HD
-09BD:03FE|Vivacom-45E|Max Sport 4 HD
-09BD:0416|Vivacom-45E|Nova News HD
-09BD:03FA|Vivacom-45E|Nova Sport
-09BD:03EA|Vivacom-45E|Nova TV
-09BD:0404|Vivacom-45E|Planeta
-09BD:03F9|Vivacom-45E|Ring
-09BD:040F|Vivacom-45E|Show Max
-09BD:0408|Vivacom-45E|Star Channel Bulgaria
-09BD:03FD|Vivacom-45E|Star Life Bulgaria
-09BD:0429|Vivacom-45E|The Voice TV
-09BD:03FB|Vivacom-45E|TV 1000 Russkoe Kino
-09BD:042C|Vivacom-45E|TV 8 International
-09BD:040A|Vivacom-45E|Vivacom Arena
-09BD:03E8|Vivacom-45E|Vivacom promo
+## CREATE: 2025.02.01 12:05:01
+09BD,06E1:03ED|Vivacom-45E|78 TV
+09BD,06E1:03EB|Vivacom-45E|BNT 1
+09BD,06E1:03F6|Vivacom-45E|BNT 2
+09BD,06E1:03F1|Vivacom-45E|BNT 3 HD
+09BD,06E1:040B|Vivacom-45E|BNT 4
+09BD,06E1:03E9|Vivacom-45E|BTV
+09BD,06E1:0435|Vivacom-45E|BTV Action
+09BD,06E1:03EC|Vivacom-45E|BTV Cinema
+09BD,06E1:0409|Vivacom-45E|BTV Comedy
+09BD,06E1:03EE|Vivacom-45E|BTV Story
+09BD,06E1:03EF|Vivacom-45E|Diema Family
+09BD,06E1:03F8|Vivacom-45E|Diema HD
+09BD,06E1:0406|Vivacom-45E|Diema Sport 2 HD
+09BD,06E1:0401|Vivacom-45E|Diema Sport 3 HD
+09BD,06E1:0414|Vivacom-45E|Diema Sport HD
+09BD,06E1:0410|Vivacom-45E|Discovery Channel Bulgaria
+09BD,06E1:0402|Vivacom-45E|Domashniy International
+09BD,06E1:0424|Vivacom-45E|EKids
+09BD,06E1:042A|Vivacom-45E|Evrokom
+09BD,06E1:0403|Vivacom-45E|HBO 2 Central Europe
+09BD,06E1:0400|Vivacom-45E|HBO 3 Central Europe
+09BD,06E1:0405|Vivacom-45E|HBO Adria
+09BD,06E1:03F0|Vivacom-45E|Kino Nova
+09BD,06E1:042B|Vivacom-45E|Magic TV
+09BD,06E1:040C|Vivacom-45E|Max Sport 1 HD
+09BD,06E1:040D|Vivacom-45E|Max Sport 2 HD
+09BD,06E1:03F5|Vivacom-45E|Max Sport 3 HD
+09BD,06E1:03FE|Vivacom-45E|Max Sport 4 HD
+09BD,06E1:0416|Vivacom-45E|Nova News HD
+09BD,06E1:03FA|Vivacom-45E|Nova Sport
+09BD,06E1:03EA|Vivacom-45E|Nova TV
+09BD,06E1:0404|Vivacom-45E|Planeta
+09BD,06E1:03F9|Vivacom-45E|Ring
+09BD,06E1:040F|Vivacom-45E|Show Max
+09BD,06E1:0408|Vivacom-45E|Star Channel Bulgaria
+09BD,06E1:03FD|Vivacom-45E|Star Life Bulgaria
+09BD,06E1:0429|Vivacom-45E|The Voice TV
+09BD,06E1:03FB|Vivacom-45E|TV 1000 Russkoe Kino
+09BD,06E1:042C|Vivacom-45E|TV 8 International
+09BD,06E1:040A|Vivacom-45E|Vivacom Arena
+09BD,06E1:03E8|Vivacom-45E|Vivacom promo
 
 ## PROVIDER: Dialog-TV
 ## CAID: 0631,0680,06D8
 ## PROVID: 000000
-## CREATE: 2025.01.31 11:48:11
+## CREATE: 2025.02.01 12:05:03
 0631,0680,06D8:0140|Dialog-TV|& flix
 0631,0680,06D8:00DE|Dialog-TV|A Plus Kids TV
 0631,0680,06D8:00CD|Dialog-TV|ABC Australia India
@@ -1784,7 +1784,7 @@
 ## PROVIDER: Digiturk
 ## CAID: 0664
 ## PROVID: 000000,000001,000002,000003
-## CREATE: 2025.01.31 11:48:12
+## CREATE: 2025.02.01 12:05:07
 0664:40D8|Digiturk|24 TV
 0664:413C|Digiturk|24 TV HD
 0664:40D9|Digiturk|360
@@ -2075,7 +2075,7 @@
 ## PROVIDER: D-Smart
 ## CAID: 092B
 ## PROVID: 000000
-## CREATE: 2025.01.31 11:48:14
+## CREATE: 2025.02.01 12:05:09
 092B:0780|D-Smart|2000s
 092B:413C|D-Smart|24 TV HD
 092B:413D|D-Smart|360 HD
@@ -2344,7 +2344,7 @@
 ## PROVIDER: Orange-Romania
 ## CAID: 0500
 ## PROVID: 051300,051310,051340
-## CREATE: 2025.01.31 11:48:15
+## CREATE: 2025.02.01 12:05:12
 0500:008A|Orange-Romania|A7 TV
 0500:0167|Orange-Romania|Acasa
 0500:0146|Orange-Romania|Acasa Gold
@@ -2504,7 +2504,7 @@
 ## PROVIDER: Bulsatcom
 ## CAID: 1878,4AEE
 ## PROVID: 000000
-## CREATE: 2025.01.31 11:48:16
+## CREATE: 2025.02.01 12:05:15
 1878,4AEE:0024|Bulsatcom|24 Kitchen Bulgaria
 1878,4AEE:0020|Bulsatcom|78 TV
 1878,4AEE:0028|Bulsatcom|Action Box
@@ -2667,7 +2667,7 @@
 ## PROVIDER: A1-Bulgaria
 ## CAID: 188D,0B00
 ## PROVID: 000000
-## CREATE: 2025.01.31 11:48:17
+## CREATE: 2025.02.01 12:05:18
 188D,0B00:045D|A1-Bulgaria|24 Kitchen Bulgaria
 188D,0B00:00D0|A1-Bulgaria|78 TV HD
 188D,0B00:00CF|A1-Bulgaria|8 Kanal International
@@ -2815,7 +2815,7 @@
 ## PROVIDER: Tring
 ## CAID: 0BAA
 ## PROVID: 000000
-## CREATE: 2025.01.31 11:48:18
+## CREATE: 2025.02.01 12:05:20
 0BAA:080C|Tring|3 Plus
 0BAA:05B4|Tring|ABC
 0BAA:0456|Tring|ATV
@@ -2884,7 +2884,7 @@
 ## PROVIDER: Cosmote-TV
 ## CAID: 095E,09BE
 ## PROVID: 000000
-## CREATE: 2025.01.31 11:48:20
+## CREATE: 2025.02.01 12:05:23
 095E,09BE:03F4|Cosmote-TV|4E
 095E,09BE:0464|Cosmote-TV|Action 24
 095E,09BE:03E9|Cosmote-TV|AEK Super League Pass
@@ -3000,7 +3000,7 @@
 ## PROVIDER: M7Group
 ## CAID: 0D96,0624
 ## PROVID: 000000,000004,000008,00000C,000010,000024,000028
-## CREATE: 2025.01.31 11:48:21
+## CREATE: 2025.02.01 12:05:25
 0D96,0624:01F8|M7Group|Auto Motor und Sport
 0D96,0624:00EC|M7Group|BBC News Europe
 0D96,0624:00D8|M7Group|Comedy Central Deutschland
@@ -3048,7 +3048,7 @@
 ## PROVIDER: SkyDE
 ## CAID: 1833,1834,1702,1722,09C4,09AF,098C,098D
 ## PROVID: 000000
-## CREATE: 2025.01.31 11:48:25
+## CREATE: 2025.02.01 12:05:28
 1833,1834,1702,1722,09C4,09AF,098C,098D:0296|SkyDE|1-2-3 TV
 1833,1834,1702,1722,09C4,09AF,098C,098D:157E|SkyDE|1-2-3 TV HD
 1833,1834,1702,1722,09C4,09AF,098C,098D:007F|SkyDE|13th Street Deutschland HD
@@ -3061,28 +3061,6 @@
 1833,1834,1702,1722,09C4,09AF,098C,098D:28F6|SkyDE|Antenne Brandenburg Potsdam
 1833,1834,1702,1722,09C4,09AF,098C,098D:7473|SkyDE|AragAn TV Internacional
 1833,1834,1702,1722,09C4,09AF,098C,098D:2889|SkyDE|ARD Alpha HD
-1833,1834,1702,1722,09C4,09AF,098C,098D:6DCA|SkyDE|ARD info card
-1833,1834,1702,1722,09C4,09AF,098C,098D:6DCB|SkyDE|ARD info card
-1833,1834,1702,1722,09C4,09AF,098C,098D:6DCC|SkyDE|ARD info card
-1833,1834,1702,1722,09C4,09AF,098C,098D:6DCE|SkyDE|ARD info card
-1833,1834,1702,1722,09C4,09AF,098C,098D:6DCF|SkyDE|ARD info card
-1833,1834,1702,1722,09C4,09AF,098C,098D:6DD1|SkyDE|ARD info card
-1833,1834,1702,1722,09C4,09AF,098C,098D:6E2D|SkyDE|ARD info card
-1833,1834,1702,1722,09C4,09AF,098C,098D:6E40|SkyDE|ARD info card
-1833,1834,1702,1722,09C4,09AF,098C,098D:6E44|SkyDE|ARD info card
-1833,1834,1702,1722,09C4,09AF,098C,098D:6E47|SkyDE|ARD info card
-1833,1834,1702,1722,09C4,09AF,098C,098D:6E92|SkyDE|ARD info card
-1833,1834,1702,1722,09C4,09AF,098C,098D:6E93|SkyDE|ARD info card
-1833,1834,1702,1722,09C4,09AF,098C,098D:6E94|SkyDE|ARD info card
-1833,1834,1702,1722,09C4,09AF,098C,098D:6E95|SkyDE|ARD info card
-1833,1834,1702,1722,09C4,09AF,098C,098D:6E96|SkyDE|ARD info card
-1833,1834,1702,1722,09C4,09AF,098C,098D:6E97|SkyDE|ARD info card
-1833,1834,1702,1722,09C4,09AF,098C,098D:6EE1|SkyDE|ARD info card
-1833,1834,1702,1722,09C4,09AF,098C,098D:6EE2|SkyDE|ARD info card
-1833,1834,1702,1722,09C4,09AF,098C,098D:6F76|SkyDE|ARD info card
-1833,1834,1702,1722,09C4,09AF,098C,098D:6F77|SkyDE|ARD info card
-1833,1834,1702,1722,09C4,09AF,098C,098D:6F78|SkyDE|ARD info card
-1833,1834,1702,1722,09C4,09AF,098C,098D:6F79|SkyDE|ARD info card
 1833,1834,1702,1722,09C4,09AF,098C,098D:1B64|SkyDE|Arirang World HD
 1833,1834,1702,1722,09C4,09AF,098C,098D:33FF|SkyDE|Aristo TV
 1833,1834,1702,1722,09C4,09AF,098C,098D:283E|SkyDE|ARTE Deutsch HD
@@ -3110,7 +3088,7 @@
 1833,1834,1702,1722,09C4,09AF,098C,098D:28BC|SkyDE|Bremen Vier
 1833,1834,1702,1722,09C4,09AF,098C,098D:28BB|SkyDE|Bremen Zwei
 1833,1834,1702,1722,09C4,09AF,098C,098D:1005|SkyDE|BVN Europa
-1833,1834,1702,1722,09C4,09AF,098C,098D:0194|SkyDE|Cartoon Network Deutschland
+1833,1834,1702,1722,09C4,09AF,098C,098D:0194|SkyDE|Cartoon Network Northern Europe
 1833,1834,1702,1722,09C4,09AF,098C,098D:001C|SkyDE|Cartoonito Deutschland
 1833,1834,1702,1722,09C4,09AF,098C,098D:18EE|SkyDE|CGTN Documentary HD
 1833,1834,1702,1722,09C4,09AF,098C,098D:18EF|SkyDE|CGTN FranAais HD
@@ -3474,7 +3452,7 @@
 ## PROVIDER: HD
 ## CAID: 1830,1843,1860,186A,186D
 ## PROVID: 000000
-## CREATE: 2025.01.31 11:48:26
+## CREATE: 2025.02.01 12:05:30
 1830,1843,1860,186A,186D:6FEC|HD|Comedy Central Deutschland HD
 1830,1843,1860,186A,186D:29D0|HD|Crime Time HD
 1830,1843,1860,186A,186D:296B|HD|Deluxe Dance by Kontor HD
@@ -3520,7 +3498,7 @@
 ## PROVIDER: ORF-Digital
 ## CAID: 0648,0650,0d95,0D98
 ## PROVID: 000000,000004,000008,00000c,000010
-## CREATE: 2025.01.31 11:48:27
+## CREATE: 2025.02.01 12:05:33
 0648,0650,0d95,0D98:3338|ORF-Digital|4Mediathek info card
 0648,0650,0d95,0D98:134C|ORF-Digital|A1
 0648,0650,0d95,0D98:3341|ORF-Digital|A1
@@ -3597,7 +3575,7 @@
 ## PROVIDER: Canal-France
 ## CAID: 0500
 ## PROVID: 032830,042820,042830,032920,032940,051900
-## CREATE: 2025.01.31 11:48:29
+## CREATE: 2025.02.01 12:05:36
 0500:220A|Canal-France|6ter HD
 0500:2070|Canal-France|A la une HD
 0500:427D|Canal-France|AB 1 HD
@@ -3785,7 +3763,7 @@
 ## PROVIDER: Max-TV
 ## CAID: 1830
 ## PROVID: 000000
-## CREATE: 2025.01.31 11:48:30
+## CREATE: 2025.02.01 12:05:40
 1830:0066|Max-TV|24 Kitchen Hrvatska
 1830:00CB|Max-TV|Antena Zagreb
 1830:019C|Max-TV|Arena Sport 1 Hrvatska HD
@@ -3895,7 +3873,7 @@
 ## PROVIDER: DigitAlb
 ## CAID: 0B00,0B02
 ## PROVID: 000000
-## CREATE: 2025.01.31 11:48:32
+## CREATE: 2025.02.01 12:05:43
 0B00,0B02:03FD|DigitAlb|24 Kitchen Srbija
 0B00,0B02:0CE4|DigitAlb|A2 CNN HD
 0B00,0B02:0CBC|DigitAlb|ABC HD
@@ -3993,7 +3971,7 @@
 ## PROVIDER: Total-TV
 ## CAID: 091F,0911
 ## PROVID: 000000
-## CREATE: 2025.01.31 11:48:33
+## CREATE: 2025.02.01 12:05:46
 091F,0911:06ED|Total-TV|24 Kitchen Srbija HD
 091F,0911:0AA0|Total-TV|360 Tune Box
 091F,0911:054A|Total-TV|Alfa TV
@@ -4220,7 +4198,7 @@
 ## PROVIDER: Freesat
 ## CAID: 0500
 ## PROVID: 025900,025910
-## CREATE: 2025.01.31 11:48:34
+## CREATE: 2025.02.01 12:05:48
 0500:0007|Freesat|Acasa
 0500:0001|Freesat|Acasa Gold
 0500:0010|Freesat|Alfa Omega TV HD
@@ -4254,7 +4232,7 @@
 ## PROVIDER: A1-Croatia
 ## CAID: 0B00
 ## PROVID: 000000
-## CREATE: 2025.01.31 11:48:36
+## CREATE: 2025.02.01 12:05:51
 0B00:0771|A1-Croatia|24 Kitchen Hrvatska HD
 0B00:0065|A1-Croatia|Aljazeera Balkans HD
 0B00:0076|A1-Croatia|AMC Balkan
@@ -4371,7 +4349,7 @@
 ## PROVIDER: Antik-Sat
 ## CAID: 0B00
 ## PROVID: 000000
-## CREATE: 2025.01.31 11:48:37
+## CREATE: 2025.02.01 12:05:53
 0B00:0AA0|Antik-Sat|360 Tune Box
 0B00:047F|Antik-Sat|AMC Central Europe HD
 0B00:04B6|Antik-Sat|Arcadia World Cesky & Slovensky
@@ -4447,7 +4425,7 @@
 ## PROVIDER: New-World-TV
 ## CAID: 0B00,0B01,0B02
 ## PROVID: 000000
-## CREATE: 2025.01.31 11:48:38
+## CREATE: 2025.02.01 12:05:55
 0B00,0B01,0B02:0111|New-World-TV|Aforevo TV
 0B00,0B01,0B02:0259|New-World-TV|Africa TV 3
 0B00,0B01,0B02:0281|New-World-TV|Africa TV 3 Quran
@@ -4528,7 +4506,7 @@
 ## PROVIDER: Canal-plus-seca
 ## CAID: 0100,1813
 ## PROVID: 000000,000068
-## CREATE: 2025.01.31 11:48:39
+## CREATE: 2025.02.01 12:05:58
 0100,1813:3E26|Canal-plus-seca|13 Ulica HD
 0100,1813:428F|Canal-plus-seca|4 Fun Dance
 0100,1813:428E|Canal-plus-seca|4 Fun Kids
@@ -4772,7 +4750,7 @@
 ## PROVIDER: Canal-plus
 ## CAID: 0B01,1884
 ## PROVID: 000000
-## CREATE: 2025.01.31 11:48:41
+## CREATE: 2025.02.01 12:06:00
 0B01,1884:3E26|Canal-plus|13 Ulica HD
 0B01,1884:428F|Canal-plus|4 Fun Dance
 0B01,1884:428E|Canal-plus|4 Fun Kids
@@ -5016,7 +4994,7 @@
 ## PROVIDER: Polsat-Box
 ## CAID: 1803,1861,186C,06ED,1870
 ## PROVID: 000000,007001,007101
-## CREATE: 2025.01.31 11:48:42
+## CREATE: 2025.02.01 12:06:03
 1803,1861,186C,06ED,1870:3E26|Polsat-Box|13 Ulica HD
 1803,1861,186C,06ED,1870:428F|Polsat-Box|4 Fun Dance
 1803,1861,186C,06ED,1870:428E|Polsat-Box|4 Fun Kids
@@ -5147,6 +5125,7 @@
 1803,1861,186C,06ED,1870:1CCF|Polsat-Box|Polsat Film 2
 1803,1861,186C,06ED,1870:3398|Polsat-Box|Polsat Film HD
 1803,1861,186C,06ED,1870:4284|Polsat-Box|Polsat Games HD
+1803,1861,186C,06ED,1870:4285|Polsat-Box|Polsat Games HD
 1803,1861,186C,06ED,1870:3391|Polsat-Box|Polsat HD
 1803,1861,186C,06ED,1870:4293|Polsat-Box|Polsat Music HD
 1803,1861,186C,06ED,1870:4294|Polsat-Box|Polsat Music HD
@@ -5191,6 +5170,7 @@
 1803,1861,186C,06ED,1870:2340|Polsat-Box|Silk Way HD
 1803,1861,186C,06ED,1870:427F|Polsat-Box|Stars TV
 1803,1861,186C,06ED,1870:427B|Polsat-Box|Stopklatka TV
+1803,1861,186C,06ED,1870:427C|Polsat-Box|Stopklatka TV
 1803,1861,186C,06ED,1870:3E1D|Polsat-Box|Sundance TV Europe HD
 1803,1861,186C,06ED,1870:339B|Polsat-Box|Super Polsat HD
 1803,1861,186C,06ED,1870:423B|Polsat-Box|Tele 5
@@ -5254,7 +5234,7 @@
 ## PROVIDER: Orange-PL
 ## CAID: 0500
 ## PROVID: 032A00
-## CREATE: 2025.01.31 11:48:45
+## CREATE: 2025.02.01 12:06:06
 0500:3E26|Orange-PL|13 Ulica HD
 0500:428F|Orange-PL|4 Fun Dance
 0500:428E|Orange-PL|4 Fun Kids
@@ -5378,6 +5358,7 @@
 0500:3E20|Orange-PL|Scifi Polska HD
 0500:427F|Orange-PL|Stars TV
 0500:427B|Orange-PL|Stopklatka TV
+0500:427C|Orange-PL|Stopklatka TV
 0500:3E1D|Orange-PL|Sundance TV Europe HD
 0500:423B|Orange-PL|Tele 5
 0500:3A9B|Orange-PL|Teletoon HD Polska
@@ -5425,7 +5406,7 @@
 ## PROVIDER: Kabelio
 ## CAID: 4AFC
 ## PROVID: 000000
-## CREATE: 2025.01.31 11:48:46
+## CREATE: 2025.02.01 12:06:08
 4AFC:0064|Kabelio|3 HD
 4AFC:0065|Kabelio|4 HD
 4AFC:0066|Kabelio|5 HD
@@ -5526,7 +5507,7 @@
 ## PROVIDER: BIS-TV
 ## CAID: 0500
 ## PROVID: 033A00,042820,051900,051A40
-## CREATE: 2025.01.31 11:48:47
+## CREATE: 2025.02.01 12:06:11
 0500:0142|BIS-TV|6ter
 0500:01C4|BIS-TV|AB 1
 0500:01CD|BIS-TV|Action HD
@@ -5567,226 +5548,226 @@
 0500:01D4|BIS-TV|XXL
 
 ## PROVIDER: Vivacom
-## CAID: 09BD
+## CAID: 09BD,06E1
 ## PROVID: 000000
-## CREATE: 2025.01.31 11:48:48
-09BD:001C|Vivacom|24 Kitchen Bulgaria
-09BD:00D2|Vivacom|78 TV
-09BD:025B|Vivacom|Action Box
-09BD:00C8|Vivacom|Agro TV
-09BD:0076|Vivacom|AMC Balkan
-09BD:00DF|Vivacom|Animal Planet Europe
-09BD:13A6|Vivacom|Antena 3 Internacional
-09BD:00F1|Vivacom|Auto Motor und Sport
-09BD:000F|Vivacom|Avtoradio
-09BD:001F|Vivacom|B Radio
-09BD:00E8|Vivacom|Baby TV Europe
-09BD:006F|Vivacom|Balkanika Music TV
-09BD:138C|Vivacom|BeIn Movies Turk
-09BD:139A|Vivacom|BG
-09BD:139C|Vivacom|BG Music Channel
-09BD:000A|Vivacom|BG Radio
-09BD:0023|Vivacom|Bloomberg TV Bulgaria
-09BD:0013|Vivacom|BNR Horizont
-09BD:002C|Vivacom|BNR Horizont
-09BD:0014|Vivacom|BNR Hristo Botev
-09BD:0030|Vivacom|BNR Radio Blagoevgrad
-09BD:0025|Vivacom|BNR Radio Burgas
-09BD:001B|Vivacom|BNR Radio Kardzali
-09BD:002D|Vivacom|BNR Radio Plovdiv
-09BD:0031|Vivacom|BNR Radio Shumen
-09BD:0032|Vivacom|BNR Radio Sofia
-09BD:0027|Vivacom|BNR Radio Stara Zagora
-09BD:0028|Vivacom|BNR Radio Varna
-09BD:0026|Vivacom|BNR Radio Vidin
-09BD:0067|Vivacom|BNT 1
-09BD:0072|Vivacom|BNT 2
-09BD:0138|Vivacom|BNT 3 HD
-09BD:0021|Vivacom|BNT 4
-09BD:00ED|Vivacom|Box TV
-09BD:0001|Vivacom|BTV
-09BD:0007|Vivacom|BTV Action
-09BD:013F|Vivacom|BTV Action HD
-09BD:0004|Vivacom|BTV Cinema
-09BD:0003|Vivacom|BTV Comedy
-09BD:013E|Vivacom|BTV HD
-09BD:0006|Vivacom|BTV Story
-09BD:0109|Vivacom|Bulgaria 24
-09BD:0022|Vivacom|Bulgaria On Air
-09BD:00C9|Vivacom|Cartoon Network Bulgaria
-09BD:00E4|Vivacom|Cartoonito Central & Eastern Europe
-09BD:008B|Vivacom|Chasse & PASche
-09BD:0259|Vivacom|Cine Box
-09BD:1398|Vivacom|Cinemania
-09BD:0105|Vivacom|Cinemax 2 Central Europe
-09BD:00E2|Vivacom|Cinemax Central Europe
-09BD:0093|Vivacom|CineStar 1
-09BD:0094|Vivacom|CineStar Action
-09BD:0008|Vivacom|City TV
-09BD:0053|Vivacom|Classic FM
-09BD:138B|Vivacom|CNN International Europe
-09BD:139F|Vivacom|Code Health TV
-09BD:025A|Vivacom|Comedy Box
-09BD:012E|Vivacom|Crime Investigation UK
-09BD:1393|Vivacom|Da Vinci
-09BD:005A|Vivacom|Darik Nostalgie
-09BD:0017|Vivacom|Darik Radio
-09BD:0019|Vivacom|Darik Radio Burgas
-09BD:0057|Vivacom|Darik Radio Kiustendil
-09BD:0018|Vivacom|Darik Radio Plovdiv
-09BD:0058|Vivacom|Darik Radio Ruse
-09BD:0042|Vivacom|Darik Radio Sofia
-09BD:0046|Vivacom|Darik Radio Stara Zagora
-09BD:0056|Vivacom|Darik Radio Varna
-09BD:0059|Vivacom|Darik Radio Vraca
-09BD:0075|Vivacom|Diema Family HD
-09BD:0074|Vivacom|Diema HD
-09BD:014A|Vivacom|Diema Sport 2 HD
-09BD:0145|Vivacom|Diema Sport 3 HD
-09BD:0130|Vivacom|Diema Sport HD
-09BD:13B3|Vivacom|Discovery Channel Bulgaria
-09BD:0082|Vivacom|Disney Channel Bulgaria
-09BD:0083|Vivacom|Disney Junior Romania & Bulgaria
-09BD:0068|Vivacom|Dizi
-09BD:0136|Vivacom|DM Sat
-09BD:0087|Vivacom|Dom Kino Premium
-09BD:0146|Vivacom|Domashniy International
-09BD:13A0|Vivacom|Dorcel XXX
-09BD:006A|Vivacom|DSTV
-09BD:008D|Vivacom|DW English
-09BD:0104|Vivacom|EKids
-09BD:1394|Vivacom|English Club TV
-09BD:001A|Vivacom|Eparkhiiski Glas
-09BD:007A|Vivacom|Epic Drama
-09BD:0106|Vivacom|EuroNews Bulgaria
-09BD:00E9|Vivacom|Eurosport 1
-09BD:00D7|Vivacom|Eurosport 2
-09BD:00D8|Vivacom|Evrokom
-09BD:008F|Vivacom|Extreme Sports Channel
-09BD:0078|Vivacom|Fantazzy TV
-09BD:00D6|Vivacom|FashionTV Europe
-09BD:139B|Vivacom|Fen Folk
-09BD:00F5|Vivacom|Fen TV
-09BD:00DE|Vivacom|Fight Klub HD
-09BD:13A5|Vivacom|FilmBox Arthouse Worldwide
-09BD:13A9|Vivacom|FilmBox Central Europe
-09BD:13A4|Vivacom|FilmBox Extra HD Bulgaria
-09BD:00CA|Vivacom|FilmBox Stars Adria
-09BD:00D3|Vivacom|Folklor TV
-09BD:00CB|Vivacom|Food Network EMEA
-09BD:1396|Vivacom|Freedom
-09BD:13B0|Vivacom|HabertAzrk
-09BD:00E6|Vivacom|HBO 2 Central Europe
-09BD:00E0|Vivacom|HBO 3 Central Europe
-09BD:00E5|Vivacom|HBO Adria
-09BD:0137|Vivacom|HGTV Pan Regional HD
-09BD:008C|Vivacom|History 2 Europe
-09BD:010D|Vivacom|History HD Europe
-09BD:13A1|Vivacom|Hit Mix Channel
-09BD:007F|Vivacom|Hustler TV Europe
-09BD:0071|Vivacom|Investigation Discovery Europe
-09BD:0051|Vivacom|Jazz FM
-09BD:13AE|Vivacom|Kanal 7 Avrupa
-09BD:0088|Vivacom|Kino Nova HD
-09BD:003F|Vivacom|Magic FM
-09BD:010B|Vivacom|Magic TV
-09BD:00F8|Vivacom|Marquee TV info card
-09BD:13AC|Vivacom|Max Sport 1 HD
-09BD:13AD|Vivacom|Max Sport 2 HD
-09BD:0139|Vivacom|Max Sport 3 HD
-09BD:138A|Vivacom|Max Sport 4 HD
-09BD:1390|Vivacom|Mediaset Italia
-09BD:00F7|Vivacom|Movie Star
-09BD:0070|Vivacom|MTV 00s
-09BD:1399|Vivacom|MTV 80s
-09BD:0081|Vivacom|MTV 90s
-09BD:00F0|Vivacom|MTV Global
-09BD:1391|Vivacom|MTV Hits Europe
-09BD:13B2|Vivacom|Nastoyashcheye Vremya
-09BD:0024|Vivacom|National Geographic Bulgaria
-09BD:013C|Vivacom|National Geographic Bulgaria HD
-09BD:002A|Vivacom|National Geographic Wild Europe
-09BD:013B|Vivacom|National Geographic Wild Europe HD
-09BD:1392|Vivacom|Nick Jr Central & Eastern Europe
-09BD:0080|Vivacom|Nickelodeon Europe
-09BD:010E|Vivacom|Nicktoons Bulgaria
-09BD:00DC|Vivacom|Nostalgia
-09BD:0092|Vivacom|Nova News HD
-09BD:00D0|Vivacom|Nova Sport
-09BD:0002|Vivacom|Nova TV
-09BD:0005|Vivacom|Nova TV HD
-09BD:000C|Vivacom|NRJ Bulgaria
-09BD:00E3|Vivacom|Okhota i Rybalka
-09BD:008E|Vivacom|Peretz International
-09BD:00E1|Vivacom|Pickbox TV Bulgaria
-09BD:00D1|Vivacom|Planeta Folk
-09BD:013D|Vivacom|Planeta HD
-09BD:0029|Vivacom|Plovdivska Pravoslavna TV
-09BD:13A8|Vivacom|Private TV
-09BD:0009|Vivacom|Radio 1
-09BD:000E|Vivacom|Radio 1 Rock
-09BD:001E|Vivacom|Radio Bulgaria On Air
-09BD:000B|Vivacom|Radio City
-09BD:002F|Vivacom|Radio FM
-09BD:004C|Vivacom|Radio Focus Burgas
-09BD:0012|Vivacom|Radio Focus Pirin
-09BD:0011|Vivacom|Radio Focus Sofia
-09BD:004D|Vivacom|Radio Focus Varna
-09BD:003B|Vivacom|Radio Focus Veliko Tarnovo
-09BD:002E|Vivacom|Radio Fresh!
-09BD:0040|Vivacom|Radio N-Joy
-09BD:0054|Vivacom|Radio N-Joy
-09BD:0043|Vivacom|Radio Nova News
-09BD:000D|Vivacom|Radio Veronika
-09BD:005E|Vivacom|Radio Veselina East
-09BD:005C|Vivacom|Radio Veselina North
-09BD:003E|Vivacom|Radio Veselina South
-09BD:005D|Vivacom|Radio Veselina West
-09BD:003C|Vivacom|Radio Vitosha East
-09BD:005B|Vivacom|Radio Vitosha West
-09BD:0041|Vivacom|Radio Z-Rock
-09BD:0052|Vivacom|Radio Z-Rock
-09BD:0055|Vivacom|Radio Z-Rock
-09BD:0010|Vivacom|Ring
-09BD:0140|Vivacom|Ring HD
-09BD:010F|Vivacom|Rodina
-09BD:13AB|Vivacom|RTL Deutschland
-09BD:13AF|Vivacom|Show Max
-09BD:138D|Vivacom|Show Turk
-09BD:00EA|Vivacom|SKAT
-09BD:13B4|Vivacom|Soul & Pepper TV Channel
-09BD:0020|Vivacom|Star Channel Bulgaria
-09BD:0016|Vivacom|Star Crime Bulgaria
-09BD:0015|Vivacom|Star Life Bulgaria
-09BD:0144|Vivacom|STS International
-09BD:0147|Vivacom|STS Kids
-09BD:0095|Vivacom|Super Toons
-09BD:003D|Vivacom|The Voice Bulgaria
-09BD:010A|Vivacom|The Voice TV
-09BD:139D|Vivacom|The World
-09BD:00CC|Vivacom|Tiankov Folk
-09BD:007B|Vivacom|TLC Balkan
-09BD:0065|Vivacom|Travel Channel Europe
-09BD:139E|Vivacom|Travel TV
-09BD:1389|Vivacom|TV 1
-09BD:007E|Vivacom|TV 1000 Balkan
-09BD:00DB|Vivacom|TV 1000 Russkoe Kino
-09BD:010C|Vivacom|TV 8 International
-09BD:13AA|Vivacom|TV5Monde Europe
-09BD:0079|Vivacom|Viasat History
-09BD:00D4|Vivacom|Viasat Nature East
-09BD:0086|Vivacom|Vivacom Arena
-09BD:138F|Vivacom|Vivacom Arena HD
-09BD:0110|Vivacom|Vivid TV Europe
-09BD:001D|Vivacom|VTK
-09BD:13A3|Vivacom|Wness TV
-09BD:1397|Vivacom|XY Plus
-09BD:13B1|Vivacom|Yaban
+## CREATE: 2025.02.01 12:06:13
+09BD,06E1:001C|Vivacom|24 Kitchen Bulgaria
+09BD,06E1:00D2|Vivacom|78 TV
+09BD,06E1:025B|Vivacom|Action Box
+09BD,06E1:00C8|Vivacom|Agro TV
+09BD,06E1:0076|Vivacom|AMC Balkan
+09BD,06E1:00DF|Vivacom|Animal Planet Europe
+09BD,06E1:13A6|Vivacom|Antena 3 Internacional
+09BD,06E1:00F1|Vivacom|Auto Motor und Sport
+09BD,06E1:000F|Vivacom|Avtoradio
+09BD,06E1:001F|Vivacom|B Radio
+09BD,06E1:00E8|Vivacom|Baby TV Europe
+09BD,06E1:006F|Vivacom|Balkanika Music TV
+09BD,06E1:138C|Vivacom|BeIn Movies Turk
+09BD,06E1:139A|Vivacom|BG
+09BD,06E1:139C|Vivacom|BG Music Channel
+09BD,06E1:000A|Vivacom|BG Radio
+09BD,06E1:0023|Vivacom|Bloomberg TV Bulgaria
+09BD,06E1:0013|Vivacom|BNR Horizont
+09BD,06E1:002C|Vivacom|BNR Horizont
+09BD,06E1:0014|Vivacom|BNR Hristo Botev
+09BD,06E1:0030|Vivacom|BNR Radio Blagoevgrad
+09BD,06E1:0025|Vivacom|BNR Radio Burgas
+09BD,06E1:001B|Vivacom|BNR Radio Kardzali
+09BD,06E1:002D|Vivacom|BNR Radio Plovdiv
+09BD,06E1:0031|Vivacom|BNR Radio Shumen
+09BD,06E1:0032|Vivacom|BNR Radio Sofia
+09BD,06E1:0027|Vivacom|BNR Radio Stara Zagora
+09BD,06E1:0028|Vivacom|BNR Radio Varna
+09BD,06E1:0026|Vivacom|BNR Radio Vidin
+09BD,06E1:0067|Vivacom|BNT 1
+09BD,06E1:0072|Vivacom|BNT 2
+09BD,06E1:0138|Vivacom|BNT 3 HD
+09BD,06E1:0021|Vivacom|BNT 4
+09BD,06E1:00ED|Vivacom|Box TV
+09BD,06E1:0001|Vivacom|BTV
+09BD,06E1:0007|Vivacom|BTV Action
+09BD,06E1:013F|Vivacom|BTV Action HD
+09BD,06E1:0004|Vivacom|BTV Cinema
+09BD,06E1:0003|Vivacom|BTV Comedy
+09BD,06E1:013E|Vivacom|BTV HD
+09BD,06E1:0006|Vivacom|BTV Story
+09BD,06E1:0109|Vivacom|Bulgaria 24
+09BD,06E1:0022|Vivacom|Bulgaria On Air
+09BD,06E1:00C9|Vivacom|Cartoon Network Bulgaria
+09BD,06E1:00E4|Vivacom|Cartoonito Central & Eastern Europe
+09BD,06E1:008B|Vivacom|Chasse & PASche
+09BD,06E1:0259|Vivacom|Cine Box
+09BD,06E1:1398|Vivacom|Cinemania
+09BD,06E1:0105|Vivacom|Cinemax 2 Central Europe
+09BD,06E1:00E2|Vivacom|Cinemax Central Europe
+09BD,06E1:0093|Vivacom|CineStar 1
+09BD,06E1:0094|Vivacom|CineStar Action
+09BD,06E1:0008|Vivacom|City TV
+09BD,06E1:0053|Vivacom|Classic FM
+09BD,06E1:138B|Vivacom|CNN International Europe
+09BD,06E1:139F|Vivacom|Code Health TV
+09BD,06E1:025A|Vivacom|Comedy Box
+09BD,06E1:012E|Vivacom|Crime Investigation UK
+09BD,06E1:1393|Vivacom|Da Vinci
+09BD,06E1:005A|Vivacom|Darik Nostalgie
+09BD,06E1:0017|Vivacom|Darik Radio
+09BD,06E1:0019|Vivacom|Darik Radio Burgas
+09BD,06E1:0057|Vivacom|Darik Radio Kiustendil
+09BD,06E1:0018|Vivacom|Darik Radio Plovdiv
+09BD,06E1:0058|Vivacom|Darik Radio Ruse
+09BD,06E1:0042|Vivacom|Darik Radio Sofia
+09BD,06E1:0046|Vivacom|Darik Radio Stara Zagora
+09BD,06E1:0056|Vivacom|Darik Radio Varna
+09BD,06E1:0059|Vivacom|Darik Radio Vraca
+09BD,06E1:0075|Vivacom|Diema Family HD
+09BD,06E1:0074|Vivacom|Diema HD
+09BD,06E1:014A|Vivacom|Diema Sport 2 HD
+09BD,06E1:0145|Vivacom|Diema Sport 3 HD
+09BD,06E1:0130|Vivacom|Diema Sport HD
+09BD,06E1:13B3|Vivacom|Discovery Channel Bulgaria
+09BD,06E1:0082|Vivacom|Disney Channel Bulgaria
+09BD,06E1:0083|Vivacom|Disney Junior Romania & Bulgaria
+09BD,06E1:0068|Vivacom|Dizi
+09BD,06E1:0136|Vivacom|DM Sat
+09BD,06E1:0087|Vivacom|Dom Kino Premium
+09BD,06E1:0146|Vivacom|Domashniy International
+09BD,06E1:13A0|Vivacom|Dorcel XXX
+09BD,06E1:006A|Vivacom|DSTV
+09BD,06E1:008D|Vivacom|DW English
+09BD,06E1:0104|Vivacom|EKids
+09BD,06E1:1394|Vivacom|English Club TV
+09BD,06E1:001A|Vivacom|Eparkhiiski Glas
+09BD,06E1:007A|Vivacom|Epic Drama
+09BD,06E1:0106|Vivacom|EuroNews Bulgaria
+09BD,06E1:00E9|Vivacom|Eurosport 1
+09BD,06E1:00D7|Vivacom|Eurosport 2
+09BD,06E1:00D8|Vivacom|Evrokom
+09BD,06E1:008F|Vivacom|Extreme Sports Channel
+09BD,06E1:0078|Vivacom|Fantazzy TV
+09BD,06E1:00D6|Vivacom|FashionTV Europe
+09BD,06E1:139B|Vivacom|Fen Folk
+09BD,06E1:00F5|Vivacom|Fen TV
+09BD,06E1:00DE|Vivacom|Fight Klub HD
+09BD,06E1:13A5|Vivacom|FilmBox Arthouse Worldwide
+09BD,06E1:13A9|Vivacom|FilmBox Central Europe
+09BD,06E1:13A4|Vivacom|FilmBox Extra HD Bulgaria
+09BD,06E1:00CA|Vivacom|FilmBox Stars Adria
+09BD,06E1:00D3|Vivacom|Folklor TV
+09BD,06E1:00CB|Vivacom|Food Network EMEA
+09BD,06E1:1396|Vivacom|Freedom
+09BD,06E1:13B0|Vivacom|HabertAzrk
+09BD,06E1:00E6|Vivacom|HBO 2 Central Europe
+09BD,06E1:00E0|Vivacom|HBO 3 Central Europe
+09BD,06E1:00E5|Vivacom|HBO Adria
+09BD,06E1:0137|Vivacom|HGTV Pan Regional HD
+09BD,06E1:008C|Vivacom|History 2 Europe
+09BD,06E1:010D|Vivacom|History HD Europe
+09BD,06E1:13A1|Vivacom|Hit Mix Channel
+09BD,06E1:007F|Vivacom|Hustler TV Europe
+09BD,06E1:0071|Vivacom|Investigation Discovery Europe
+09BD,06E1:0051|Vivacom|Jazz FM
+09BD,06E1:13AE|Vivacom|Kanal 7 Avrupa
+09BD,06E1:0088|Vivacom|Kino Nova HD
+09BD,06E1:003F|Vivacom|Magic FM
+09BD,06E1:010B|Vivacom|Magic TV
+09BD,06E1:00F8|Vivacom|Marquee TV info card
+09BD,06E1:13AC|Vivacom|Max Sport 1 HD
+09BD,06E1:13AD|Vivacom|Max Sport 2 HD
+09BD,06E1:0139|Vivacom|Max Sport 3 HD
+09BD,06E1:138A|Vivacom|Max Sport 4 HD
+09BD,06E1:1390|Vivacom|Mediaset Italia
+09BD,06E1:00F7|Vivacom|Movie Star
+09BD,06E1:0070|Vivacom|MTV 00s
+09BD,06E1:1399|Vivacom|MTV 80s
+09BD,06E1:0081|Vivacom|MTV 90s
+09BD,06E1:00F0|Vivacom|MTV Global
+09BD,06E1:1391|Vivacom|MTV Hits Europe
+09BD,06E1:13B2|Vivacom|Nastoyashcheye Vremya
+09BD,06E1:0024|Vivacom|National Geographic Bulgaria
+09BD,06E1:013C|Vivacom|National Geographic Bulgaria HD
+09BD,06E1:002A|Vivacom|National Geographic Wild Europe
+09BD,06E1:013B|Vivacom|National Geographic Wild Europe HD
+09BD,06E1:1392|Vivacom|Nick Jr Central & Eastern Europe
+09BD,06E1:0080|Vivacom|Nickelodeon Europe
+09BD,06E1:010E|Vivacom|Nicktoons Bulgaria
+09BD,06E1:00DC|Vivacom|Nostalgia
+09BD,06E1:0092|Vivacom|Nova News HD
+09BD,06E1:00D0|Vivacom|Nova Sport
+09BD,06E1:0002|Vivacom|Nova TV
+09BD,06E1:0005|Vivacom|Nova TV HD
+09BD,06E1:000C|Vivacom|NRJ Bulgaria
+09BD,06E1:00E3|Vivacom|Okhota i Rybalka
+09BD,06E1:008E|Vivacom|Peretz International
+09BD,06E1:00E1|Vivacom|Pickbox TV Bulgaria
+09BD,06E1:00D1|Vivacom|Planeta Folk
+09BD,06E1:013D|Vivacom|Planeta HD
+09BD,06E1:0029|Vivacom|Plovdivska Pravoslavna TV
+09BD,06E1:13A8|Vivacom|Private TV
+09BD,06E1:0009|Vivacom|Radio 1
+09BD,06E1:000E|Vivacom|Radio 1 Rock
+09BD,06E1:001E|Vivacom|Radio Bulgaria On Air
+09BD,06E1:000B|Vivacom|Radio City
+09BD,06E1:002F|Vivacom|Radio FM
+09BD,06E1:004C|Vivacom|Radio Focus Burgas
+09BD,06E1:0012|Vivacom|Radio Focus Pirin
+09BD,06E1:0011|Vivacom|Radio Focus Sofia
+09BD,06E1:004D|Vivacom|Radio Focus Varna
+09BD,06E1:003B|Vivacom|Radio Focus Veliko Tarnovo
+09BD,06E1:002E|Vivacom|Radio Fresh!
+09BD,06E1:0040|Vivacom|Radio N-Joy
+09BD,06E1:0054|Vivacom|Radio N-Joy
+09BD,06E1:0043|Vivacom|Radio Nova News
+09BD,06E1:000D|Vivacom|Radio Veronika
+09BD,06E1:005E|Vivacom|Radio Veselina East
+09BD,06E1:005C|Vivacom|Radio Veselina North
+09BD,06E1:003E|Vivacom|Radio Veselina South
+09BD,06E1:005D|Vivacom|Radio Veselina West
+09BD,06E1:003C|Vivacom|Radio Vitosha East
+09BD,06E1:005B|Vivacom|Radio Vitosha West
+09BD,06E1:0041|Vivacom|Radio Z-Rock
+09BD,06E1:0052|Vivacom|Radio Z-Rock
+09BD,06E1:0055|Vivacom|Radio Z-Rock
+09BD,06E1:0010|Vivacom|Ring
+09BD,06E1:0140|Vivacom|Ring HD
+09BD,06E1:010F|Vivacom|Rodina
+09BD,06E1:13AB|Vivacom|RTL Deutschland
+09BD,06E1:13AF|Vivacom|Show Max
+09BD,06E1:138D|Vivacom|Show Turk
+09BD,06E1:00EA|Vivacom|SKAT
+09BD,06E1:13B4|Vivacom|Soul & Pepper TV Channel
+09BD,06E1:0020|Vivacom|Star Channel Bulgaria
+09BD,06E1:0016|Vivacom|Star Crime Bulgaria
+09BD,06E1:0015|Vivacom|Star Life Bulgaria
+09BD,06E1:0144|Vivacom|STS International
+09BD,06E1:0147|Vivacom|STS Kids
+09BD,06E1:0095|Vivacom|Super Toons
+09BD,06E1:003D|Vivacom|The Voice Bulgaria
+09BD,06E1:010A|Vivacom|The Voice TV
+09BD,06E1:139D|Vivacom|The World
+09BD,06E1:00CC|Vivacom|Tiankov Folk
+09BD,06E1:007B|Vivacom|TLC Balkan
+09BD,06E1:0065|Vivacom|Travel Channel Europe
+09BD,06E1:139E|Vivacom|Travel TV
+09BD,06E1:1389|Vivacom|TV 1
+09BD,06E1:007E|Vivacom|TV 1000 Balkan
+09BD,06E1:00DB|Vivacom|TV 1000 Russkoe Kino
+09BD,06E1:010C|Vivacom|TV 8 International
+09BD,06E1:13AA|Vivacom|TV5Monde Europe
+09BD,06E1:0079|Vivacom|Viasat History
+09BD,06E1:00D4|Vivacom|Viasat Nature East
+09BD,06E1:0086|Vivacom|Vivacom Arena
+09BD,06E1:138F|Vivacom|Vivacom Arena HD
+09BD,06E1:0110|Vivacom|Vivid TV Europe
+09BD,06E1:001D|Vivacom|VTK
+09BD,06E1:13A3|Vivacom|Wness TV
+09BD,06E1:1397|Vivacom|XY Plus
+09BD,06E1:13B1|Vivacom|Yaban
 
 ## PROVIDER: Nova
 ## CAID: 0604,0699
 ## PROVID: 000000
-## CREATE: 2025.01.31 11:48:49
+## CREATE: 2025.02.01 12:06:16
 0604,0699:0175|Nova|Action 24
 0604,0699:1BC1|Nova|Adult Pack info card
 0604,0699:1C8A|Nova|Aljazeera English HD
@@ -5908,7 +5889,7 @@
 ## PROVIDER: SkyIT
 ## CAID: 09CD
 ## PROVID: 000000
-## CREATE: 2025.01.31 11:48:51
+## CREATE: 2025.02.01 12:06:18
 09CD:0078|SkyIT|20 Mediaset HD
 09CD:0087|SkyIT|27 Twentyseven HD
 09CD:064D|SkyIT|ACI Sport TV HD
@@ -6145,7 +6126,7 @@
 ## PROVIDER: Tivusat
 ## CAID: 1856,183D,183E
 ## PROVID: 000000
-## CREATE: 2025.01.31 11:48:53
+## CREATE: 2025.02.01 12:06:21
 1856,183D,183E:0078|Tivusat|20 Mediaset HD
 1856,183D,183E:0087|Tivusat|27 Twentyseven HD
 1856,183D,183E:064D|Tivusat|ACI Sport TV HD
@@ -6382,7 +6363,7 @@
 ## PROVIDER: MEO
 ## CAID: 1802,1814
 ## PROVID: 005211,005221,005225,000000,000007
-## CREATE: 2025.01.31 11:48:54
+## CREATE: 2025.02.01 12:06:24
 1802,1814:0192|MEO|24 Kitchen Portugal HD
 1802,1814:0473|MEO|80s RFM
 1802,1814:006C|MEO|A Bola TV
@@ -6404,7 +6385,7 @@
 1802,1814:0139|MEO|Canal Hollywood Portugal HD
 1802,1814:0376|MEO|Canal Panda
 1802,1814:0143|MEO|Canal Q
-1802,1814:0142|MEO|Cartoon Network Portugal
+1802,1814:0142|MEO|Cartoon Network Northern Europe 1
 1802,1814:0073|MEO|Cartoonito Portugal
 1802,1814:0649|MEO|Casa e Cozinha HD
 1802,1814:032F|MEO|Caza y Pesca
@@ -6523,7 +6504,7 @@
 ## PROVIDER: Movistar
 ## CAID: 0100,1810
 ## PROVID: 000000,004001,004101
-## CREATE: 2025.01.31 11:48:56
+## CREATE: 2025.02.01 12:06:28
 0100,1810:75A9|Movistar| GuAa Movistar
 0100,1810:75CA|Movistar| Infobolsa bAAsico
 0100,1810:756D|Movistar| InfoLiga
@@ -6700,7 +6681,7 @@
 ## PROVIDER: SkyUK
 ## CAID: 0960,0961,0963
 ## PROVID: 000000
-## CREATE: 2025.01.31 11:49:02
+## CREATE: 2025.02.01 12:06:32
 0960,0961,0963:20B0|SkyUK|4Seven
 0960,0961,0963:083D|SkyUK|5 Action
 0960,0961,0963:0839|SkyUK|5 Select
@@ -7196,7 +7177,6 @@
 0960,0961,0963:D7D2|SkyUK|TNT Sports 1
 0960,0961,0963:C5E4|SkyUK|TNT Sports 1 HD
 0960,0961,0963:D016|SkyUK|TNT Sports 10
-0960,0961,0963:CD5C|SkyUK|TNT Sports 10 HD
 0960,0961,0963:D020|SkyUK|TNT Sports 2 UK
 0960,0961,0963:C5B2|SkyUK|TNT Sports 2 UK HD
 0960,0961,0963:D7DC|SkyUK|TNT Sports 3 UK
@@ -7216,7 +7196,6 @@
 0960,0961,0963:17A0|SkyUK|TNT Sports Box Office promo HD
 0960,0961,0963:D01B|SkyUK|TNT Sports mosaic
 0960,0961,0963:D87C|SkyUK|TNT Sports mosaic
-0960,0961,0963:D881|SkyUK|TNT Sports mosaic
 0960,0961,0963:14D8|SkyUK|TNT Sports Ultimate HD
 0960,0961,0963:1AD8|SkyUK|Together TV
 0960,0961,0963:5729|SkyUK|Travelxp HD Europe
@@ -7284,7 +7263,7 @@
 ## PROVIDER: Skylink
 ## CAID: 0D96,0624,0653,0500
 ## PROVID: 000000,051910
-## CREATE: 2025.01.31 11:49:04
+## CREATE: 2025.02.01 12:06:35
 0D96,0624,0653,0500:0308|Skylink|Acko
 0D96,0624,0653,0500:0309|Skylink|Acko Star
 0D96,0624,0653,0500:36FB|Skylink|AMC Cesko
@@ -7505,7 +7484,7 @@
 ## PROVIDER: M-Sat-TV
 ## CAID: 0B00,1871
 ## PROVID: 000000
-## CREATE: 2025.01.31 11:49:07
+## CREATE: 2025.02.01 12:06:37
 0B00,1871:4F38|M-Sat-TV|24 Kitchen Adria
 0B00,1871:4EAC|M-Sat-TV|24 Kitchen Srbija
 0B00,1871:4F1B|M-Sat-TV|Adria TV
@@ -7756,7 +7735,7 @@
 ## PROVIDER: TV-Vlaanderen
 ## CAID: 0100,1818
 ## PROVID: 000000,00006C
-## CREATE: 2025.01.31 11:49:09
+## CREATE: 2025.02.01 12:06:40
 0100,1818:5253|TV-Vlaanderen|100 NL
 0100,1818:0308|TV-Vlaanderen|Acko
 0100,1818:17F0|TV-Vlaanderen|Arrow Classic Rock
