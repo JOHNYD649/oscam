@@ -1,7 +1,7 @@
 ## PROVIDER: Nos
 ## CAID: 1802
 ## PROVID: 000000,005221
-## CREATE: 2025.02.09 00:27:15
+## CREATE: 2025.02.09 00:46:26
 1802:0192|Nos|24 Kitchen Portugal HD
 1802:17A8|Nos|Afro Music Channel
 1802:00EB|Nos|AMC Break Portugal
@@ -138,7 +138,7 @@
 ## PROVIDER: Meo
 ## CAID: 0100,1814
 ## PROVID: 005211,005221,000000,000007
-## CREATE: 2025.02.09 00:27:18
+## CREATE: 2025.02.09 00:46:29
 0100,1814:0192|Meo|24 Kitchen Portugal HD
 0100,1814:0473|Meo|80s RFM
 0100,1814:006C|Meo|A Bola TV
@@ -279,7 +279,7 @@
 ## PROVIDER: Home-3
 ## CAID: 09E9
 ## PROVID: 000000
-## CREATE: 2025.02.09 00:27:20
+## CREATE: 2025.02.09 00:46:31
 09E9:2792|Home-3|3 Plus Latvija
 09E9:285A|Home-3|3 Plus Lietuva
 09E9:2922|Home-3|360 TV
@@ -359,7 +359,7 @@
 ## PROVIDER: Viasat-Ukraina
 ## CAID: 5604
 ## PROVID: 000000
-## CREATE: 2025.02.09 00:27:22
+## CREATE: 2025.02.09 00:46:34
 5604:17ED|Viasat-Ukraina|11 International
 5604:17D4|Viasat-Ukraina|11 Marafon
 5604:17D5|Viasat-Ukraina|11 UkraAZna
@@ -460,7 +460,7 @@
 ## PROVIDER: Azam-Digital-7E
 ## CAID: 1868
 ## PROVID: 000000
-## CREATE: 2025.02.09 00:27:26
+## CREATE: 2025.02.09 00:46:36
 1868:0051|Azam-Digital-7E|888 CBS FM
 1868:0052|Azam-Digital-7E|933 KFM
 1868:00EB|Azam-Digital-7E|Africanews
@@ -583,7 +583,7 @@
 ## PROVIDER: Trikolor-36E
 ## CAID: 2710,4AE0,4AE1,5500
 ## PROVID: 000000,000018,000019,00001A,000028,000015,000002,000011,000014,0000FE
-## CREATE: 2025.02.09 00:27:29
+## CREATE: 2025.02.09 00:46:39
 2710,4AE0,4AE1,5500:88BA|Trikolor-36E|5 Kanal
 2710,4AE0,4AE1,5500:88D2|Trikolor-36E|5 Kanal
 2710,4AE0,4AE1,5500:59E2|Trikolor-36E|6 kadrov
@@ -927,7 +927,7 @@
 ## PROVIDER: Trikolor-56E
 ## CAID: 2710,4AE0,4AE1,5500
 ## PROVID: 000000,000018,000019,00001A,000028,000015,000002,000011,000014,0000FE
-## CREATE: 2025.02.09 00:27:32
+## CREATE: 2025.02.09 00:46:42
 2710,4AE0,4AE1,5500:61B5|Trikolor-56E|12 Kanal
 2710,4AE0,4AE1,5500:59DD|Trikolor-56E|5 Kanal
 2710,4AE0,4AE1,5500:908D|Trikolor-56E|5 Kanal
@@ -1308,7 +1308,7 @@
 ## PROVIDER: NTV-Plus-Vostok
 ## CAID: 0500
 ## PROVID: 023D00
-## CREATE: 2025.02.09 00:27:34
+## CREATE: 2025.02.09 00:46:44
 0500:DCC0|NTV-Plus-Vostok|365 dnei TV
 0500:DD80|NTV-Plus-Vostok|5 Kanal
 0500:DDE5|NTV-Plus-Vostok|5 Kanal
@@ -1496,7 +1496,7 @@
 ## PROVIDER: Russkiy-Mir
 ## CAID: 44A0
 ## PROVID: 000000
-## CREATE: 2025.02.09 00:27:37
+## CREATE: 2025.02.09 00:46:46
 44A0:0AF2|Russkiy-Mir|1 Krim
 44A0:0965|Russkiy-Mir|5 Kanal
 44A0:0AF7|Russkiy-Mir|Dom Kino
@@ -1545,7 +1545,7 @@
 ## PROVIDER: Azam-Digital-46e
 ## CAID: 1868
 ## PROVID: 000000
-## CREATE: 2025.02.09 00:27:39
+## CREATE: 2025.02.09 00:46:48
 1868:00E7|Azam-Digital-46e|Aljazeera English
 1868:0093|Azam-Digital-46e|AMC Movies
 1868:0092|Azam-Digital-46e|AMC Series
@@ -1609,7 +1609,7 @@
 ## PROVIDER: Vivacom-45E
 ## CAID: 09BD,06E1
 ## PROVID: 000000
-## CREATE: 2025.02.09 00:27:41
+## CREATE: 2025.02.09 00:46:51
 09BD,06E1:03ED|Vivacom-45E|78 TV
 09BD,06E1:03EB|Vivacom-45E|BNT 1
 09BD,06E1:03F6|Vivacom-45E|BNT 2
@@ -1655,7 +1655,7 @@
 ## PROVIDER: Dialog-TV
 ## CAID: 0631,0680,06D8
 ## PROVID: 000000
-## CREATE: 2025.02.09 00:27:43
+## CREATE: 2025.02.09 00:46:53
 0631,0680,06D8:0140|Dialog-TV|& flix
 0631,0680,06D8:00DE|Dialog-TV|A Plus Kids TV
 0631,0680,06D8:00CD|Dialog-TV|ABC Australia India
@@ -1786,7 +1786,7 @@
 ## PROVIDER: Digiturk
 ## CAID: 0664
 ## PROVID: 000000,000001,000002,000003
-## CREATE: 2025.02.09 00:27:46
+## CREATE: 2025.02.09 00:46:56
 0664:40D8|Digiturk|24 TV
 0664:413C|Digiturk|24 TV HD
 0664:40D9|Digiturk|360
@@ -2078,7 +2078,7 @@
 ## PROVIDER: D-Smart
 ## CAID: 092B
 ## PROVID: 000000
-## CREATE: 2025.02.09 00:27:49
+## CREATE: 2025.02.09 00:46:58
 092B:0780|D-Smart|2000s
 092B:413C|D-Smart|24 TV HD
 092B:413D|D-Smart|360 HD
@@ -2349,7 +2349,7 @@
 ## PROVIDER: Orange-Romania
 ## CAID: 0500
 ## PROVID: 051300,051310,051340
-## CREATE: 2025.02.09 00:27:52
+## CREATE: 2025.02.09 00:47:01
 0500:008A|Orange-Romania|A7 TV
 0500:0167|Orange-Romania|Acasa
 0500:0146|Orange-Romania|Acasa Gold
@@ -2509,7 +2509,7 @@
 ## PROVIDER: Bulsatcom
 ## CAID: 1878,4AEE
 ## PROVID: 000000
-## CREATE: 2025.02.09 00:27:55
+## CREATE: 2025.02.09 00:47:04
 1878,4AEE:0024|Bulsatcom|24 Kitchen Bulgaria
 1878,4AEE:0020|Bulsatcom|78 TV
 1878,4AEE:0028|Bulsatcom|Action Box
@@ -2672,7 +2672,7 @@
 ## PROVIDER: A1-Bulgaria
 ## CAID: 188D,0B00
 ## PROVID: 000000
-## CREATE: 2025.02.09 00:27:57
+## CREATE: 2025.02.09 00:47:06
 188D,0B00:045D|A1-Bulgaria|24 Kitchen Bulgaria
 188D,0B00:00D0|A1-Bulgaria|78 TV HD
 188D,0B00:00CF|A1-Bulgaria|8 Kanal International
@@ -2820,7 +2820,7 @@
 ## PROVIDER: Tring
 ## CAID: 0BAA
 ## PROVID: 000000
-## CREATE: 2025.02.09 00:28:00
+## CREATE: 2025.02.09 00:47:09
 0BAA:080C|Tring|3 Plus
 0BAA:05B4|Tring|ABC
 0BAA:0456|Tring|ATV
@@ -2889,7 +2889,7 @@
 ## PROVIDER: Cosmote-TV
 ## CAID: 095E,09BE
 ## PROVID: 000000
-## CREATE: 2025.02.09 00:28:03
+## CREATE: 2025.02.09 00:47:12
 095E,09BE:03F4|Cosmote-TV|4E
 095E,09BE:0464|Cosmote-TV|Action 24
 095E,09BE:03E9|Cosmote-TV|AEK Super League Pass
@@ -3005,7 +3005,7 @@
 ## PROVIDER: M7Group
 ## CAID: 0D96,0624
 ## PROVID: 000000,000004,000008,00000C,000010,000024,000028
-## CREATE: 2025.02.09 00:28:06
+## CREATE: 2025.02.09 00:47:14
 0D96,0624:01F8|M7Group|Auto Motor und Sport
 0D96,0624:00EC|M7Group|BBC News Europe
 0D96,0624:00D8|M7Group|Comedy Central Deutschland
@@ -3053,7 +3053,7 @@
 ## PROVIDER: SkyDE
 ## CAID: 1833,1834,1702,1722,09C4,09AF,098C,098D
 ## PROVID: 000000
-## CREATE: 2025.02.09 00:28:10
+## CREATE: 2025.02.09 00:47:19
 1833,1834,1702,1722,09C4,09AF,098C,098D:0296|SkyDE|1-2-3 TV
 1833,1834,1702,1722,09C4,09AF,098C,098D:157E|SkyDE|1-2-3 TV HD
 1833,1834,1702,1722,09C4,09AF,098C,098D:007F|SkyDE|13th Street Deutschland HD
@@ -3466,7 +3466,7 @@
 ## PROVIDER: HD
 ## CAID: 1830,1843,1860,186A,186D
 ## PROVID: 000000
-## CREATE: 2025.02.09 00:28:12
+## CREATE: 2025.02.09 00:47:21
 1830,1843,1860,186A,186D:6FEC|HD|Comedy Central Deutschland HD
 1830,1843,1860,186A,186D:29D0|HD|Crime Time HD
 1830,1843,1860,186A,186D:296B|HD|Deluxe Dance by Kontor HD
@@ -3512,7 +3512,7 @@
 ## PROVIDER: ORF-Digital
 ## CAID: 0648,0650,0d95,0D98
 ## PROVID: 000000,000004,000008,00000c,000010
-## CREATE: 2025.02.09 00:28:15
+## CREATE: 2025.02.09 00:47:23
 0648,0650,0d95,0D98:3338|ORF-Digital|4Mediathek info card
 0648,0650,0d95,0D98:134C|ORF-Digital|A1
 0648,0650,0d95,0D98:33FF|ORF-Digital|Aristo TV
@@ -3576,7 +3576,7 @@
 ## PROVIDER: Canal-France
 ## CAID: 0500
 ## PROVID: 032830,042820,042830,032920,032940,051900
-## CREATE: 2025.02.09 00:28:17
+## CREATE: 2025.02.09 00:47:26
 0500:220A|Canal-France|6ter HD
 0500:2070|Canal-France|A la une HD
 0500:427D|Canal-France|AB 1 HD
@@ -3767,7 +3767,7 @@
 ## PROVIDER: Max-TV
 ## CAID: 1830
 ## PROVID: 000000
-## CREATE: 2025.02.09 00:28:20
+## CREATE: 2025.02.09 00:47:28
 1830:0066|Max-TV|24 Kitchen Hrvatska
 1830:00CB|Max-TV|Antena Zagreb
 1830:019C|Max-TV|Arena Sport 1 Hrvatska HD
@@ -3877,7 +3877,7 @@
 ## PROVIDER: DigitAlb
 ## CAID: 0B00,0B02
 ## PROVID: 000000
-## CREATE: 2025.02.09 00:28:23
+## CREATE: 2025.02.09 00:47:31
 0B00,0B02:03FD|DigitAlb|24 Kitchen Srbija
 0B00,0B02:0CE4|DigitAlb|A2 CNN HD
 0B00,0B02:0CBC|DigitAlb|ABC HD
@@ -3975,7 +3975,7 @@
 ## PROVIDER: Total-TV
 ## CAID: 091F,0911
 ## PROVID: 000000
-## CREATE: 2025.02.09 00:28:26
+## CREATE: 2025.02.09 00:47:35
 091F,0911:06ED|Total-TV|24 Kitchen Srbija HD
 091F,0911:0AA0|Total-TV|360 Tune Box
 091F,0911:054A|Total-TV|Alfa TV
@@ -4199,10 +4199,776 @@
 091F,0911:0054|Total-TV|Zadruga 3
 091F,0911:005D|Total-TV|Zadruga 4
 
+## PROVIDER: Total-TV-Bosna-and-Hercegovina
+## CAID: 091F,0911
+## PROVID: 000000
+## CREATE: 2025.02.09 00:47:38
+091F,0911:06ED|Total-TV-Bosna-and-Hercegovina|24 Kitchen Srbija HD
+091F,0911:0AA0|Total-TV-Bosna-and-Hercegovina|360 Tune Box
+091F,0911:054A|Total-TV-Bosna-and-Hercegovina|Alfa TV
+091F,0911:0065|Total-TV-Bosna-and-Hercegovina|Aljazeera Balkans HD
+091F,0911:0675|Total-TV-Bosna-and-Hercegovina|Alternativna TV
+091F,0911:0076|Total-TV-Bosna-and-Hercegovina|AMC Balkan
+091F,0911:0034|Total-TV-Bosna-and-Hercegovina|Baby TV Europe
+091F,0911:0357|Total-TV-Bosna-and-Hercegovina|BHT 1
+091F,0911:030E|Total-TV-Bosna-and-Hercegovina|BN HD
+091F,0911:05B6|Total-TV-Bosna-and-Hercegovina|Brainz TV
+091F,0911:00C1|Total-TV-Bosna-and-Hercegovina|Bravo Music
+091F,0911:0787|Total-TV-Bosna-and-Hercegovina|Cinemax 2 Central Europe HD
+091F,0911:0786|Total-TV-Bosna-and-Hercegovina|Cinemax Central Europe HD
+091F,0911:02F4|Total-TV-Bosna-and-Hercegovina|CineStar 2 HD
+091F,0911:0685|Total-TV-Bosna-and-Hercegovina|CineStar Comedy
+091F,0911:002F|Total-TV-Bosna-and-Hercegovina|CineStar Fantasy
+091F,0911:0554|Total-TV-Bosna-and-Hercegovina|CineStar Premiere 1 HD
+091F,0911:0556|Total-TV-Bosna-and-Hercegovina|CineStar Premiere 2 HD
+091F,0911:0055|Total-TV-Bosna-and-Hercegovina|CityPlay
+091F,0911:007A|Total-TV-Bosna-and-Hercegovina|Club MTV
+091F,0911:0078|Total-TV-Bosna-and-Hercegovina|CMC TV
+091F,0911:0557|Total-TV-Bosna-and-Hercegovina|Crime Investigation UK
+091F,0911:0081|Total-TV-Bosna-and-Hercegovina|Da Vinci
+091F,0911:05B0|Total-TV-Bosna-and-Hercegovina|Discovery Channel Srbija HD
+091F,0911:0365|Total-TV-Bosna-and-Hercegovina|Diva Adria
+091F,0911:0001|Total-TV-Bosna-and-Hercegovina|DM Sat
+091F,0911:0A97|Total-TV-Bosna-and-Hercegovina|DocuBox HD
+091F,0911:0364|Total-TV-Bosna-and-Hercegovina|Doku TV HD
+091F,0911:0558|Total-TV-Bosna-and-Hercegovina|Dusk
+091F,0911:02F7|Total-TV-Bosna-and-Hercegovina|E! Europe
+091F,0911:0458|Total-TV-Bosna-and-Hercegovina|Epic Drama HD
+091F,0911:0A9B|Total-TV-Bosna-and-Hercegovina|Erox HD
+091F,0911:0A9A|Total-TV-Bosna-and-Hercegovina|Eroxxx HD
+091F,0911:0AA1|Total-TV-Bosna-and-Hercegovina|FashionBox HD
+091F,0911:0A98|Total-TV-Bosna-and-Hercegovina|Fast & FunBox HD
+091F,0911:0358|Total-TV-Bosna-and-Hercegovina|Federalna TV
+091F,0911:0A99|Total-TV-Bosna-and-Hercegovina|FightBox HD
+091F,0911:0A94|Total-TV-Bosna-and-Hercegovina|FilmBox Arthouse Worldwide
+091F,0911:0A96|Total-TV-Bosna-and-Hercegovina|FilmBox Extra HD Adria
+091F,0911:0A8D|Total-TV-Bosna-and-Hercegovina|FilmBox Premium Adria HD
+091F,0911:0A95|Total-TV-Bosna-and-Hercegovina|FilmBox Stars Adria
+091F,0911:0AA9|Total-TV-Bosna-and-Hercegovina|Gametoon HD
+091F,0911:05B5|Total-TV-Bosna-and-Hercegovina|Grand Nostalgija
+091F,0911:06E6|Total-TV-Bosna-and-Hercegovina|Grand TV
+091F,0911:0067|Total-TV-Bosna-and-Hercegovina|Ha Ha
+091F,0911:05AF|Total-TV-Bosna-and-Hercegovina|HBO 2 Central Europe HD
+091F,0911:0796|Total-TV-Bosna-and-Hercegovina|HBO 3 Central Europe HD
+091F,0911:05AE|Total-TV-Bosna-and-Hercegovina|HBO Adria HD
+091F,0911:05B8|Total-TV-Bosna-and-Hercegovina|Hema TV
+091F,0911:02FC|Total-TV-Bosna-and-Hercegovina|HGTV Pan Regional HD
+091F,0911:002D|Total-TV-Bosna-and-Hercegovina|History 2 Polska
+091F,0911:0021|Total-TV-Bosna-and-Hercegovina|History Europe
+091F,0911:0D49|Total-TV-Bosna-and-Hercegovina|HRT 1 HD
+091F,0911:0711|Total-TV-Bosna-and-Hercegovina|Hustler HD Europe
+091F,0911:036C|Total-TV-Bosna-and-Hercegovina|IDJ TV HD
+091F,0911:02F6|Total-TV-Bosna-and-Hercegovina|Investigation Discovery Europe HD
+091F,0911:04CF|Total-TV-Bosna-and-Hercegovina|JimJam Europe
+091F,0911:0547|Total-TV-Bosna-and-Hercegovina|K CN 1
+091F,0911:0559|Total-TV-Bosna-and-Hercegovina|K CN 2
+091F,0911:055A|Total-TV-Bosna-and-Hercegovina|K CN 3
+091F,0911:0678|Total-TV-Bosna-and-Hercegovina|Kino
+091F,0911:0068|Total-TV-Bosna-and-Hercegovina|Lol
+091F,0911:0686|Total-TV-Bosna-and-Hercegovina|Lov i ribolov
+091F,0911:0729|Total-TV-Bosna-and-Hercegovina|MTV 00s
+091F,0911:007E|Total-TV-Bosna-and-Hercegovina|MTV 80s
+091F,0911:072E|Total-TV-Bosna-and-Hercegovina|MTV Global
+091F,0911:007B|Total-TV-Bosna-and-Hercegovina|MTV Hits Europe
+091F,0911:0C80|Total-TV-Bosna-and-Hercegovina|MTV Live HD
+091F,0911:06E7|Total-TV-Bosna-and-Hercegovina|N1 Bosna i Hercegovina
+091F,0911:06E8|Total-TV-Bosna-and-Hercegovina|N1 Hrvatska
+091F,0911:05BA|Total-TV-Bosna-and-Hercegovina|N1 Srbija HD
+091F,0911:006B|Total-TV-Bosna-and-Hercegovina|Narodna TV HD
+091F,0911:02F9|Total-TV-Bosna-and-Hercegovina|National Geographic Channel HD Europe
+091F,0911:02F2|Total-TV-Bosna-and-Hercegovina|Nick Jr Central & Eastern Europe
+091F,0911:02F0|Total-TV-Bosna-and-Hercegovina|Nickelodeon Europe
+091F,0911:02F3|Total-TV-Bosna-and-Hercegovina|Nickelodeon Europe
+091F,0911:0550|Total-TV-Bosna-and-Hercegovina|Nicktoons Adria
+091F,0911:0688|Total-TV-Bosna-and-Hercegovina|Nova BH HD
+091F,0911:06DF|Total-TV-Bosna-and-Hercegovina|Nova Max HD
+091F,0911:06E4|Total-TV-Bosna-and-Hercegovina|Nova S HD
+091F,0911:0368|Total-TV-Bosna-and-Hercegovina|Nova Series
+091F,0911:055C|Total-TV-Bosna-and-Hercegovina|Nova Sport HD
+091F,0911:067E|Total-TV-Bosna-and-Hercegovina|Nova TV HD
+091F,0911:02EF|Total-TV-Bosna-and-Hercegovina|O Kanal
+091F,0911:06DB|Total-TV-Bosna-and-Hercegovina|OBN
+091F,0911:0300|Total-TV-Bosna-and-Hercegovina|Pickbox TV HD
+091F,0911:030B|Total-TV-Bosna-and-Hercegovina|Pikaboo
+091F,0911:0681|Total-TV-Bosna-and-Hercegovina|Pikaboo
+091F,0911:0007|Total-TV-Bosna-and-Hercegovina|Pink Action
+091F,0911:005B|Total-TV-Bosna-and-Hercegovina|Pink Classic
+091F,0911:0041|Total-TV-Bosna-and-Hercegovina|Pink Comedy
+091F,0911:0035|Total-TV-Bosna-and-Hercegovina|Pink Crime & Mystery
+091F,0911:0002|Total-TV-Bosna-and-Hercegovina|Pink Extra
+091F,0911:000C|Total-TV-Bosna-and-Hercegovina|Pink Family
+091F,0911:0009|Total-TV-Bosna-and-Hercegovina|Pink Film
+091F,0911:0044|Total-TV-Bosna-and-Hercegovina|Pink Folk 2
+091F,0911:00B8|Total-TV-Bosna-and-Hercegovina|Pink Hits
+091F,0911:003E|Total-TV-Bosna-and-Hercegovina|Pink Hits 2
+091F,0911:0043|Total-TV-Bosna-and-Hercegovina|Pink Horror
+091F,0911:0050|Total-TV-Bosna-and-Hercegovina|Pink Kids
+091F,0911:003F|Total-TV-Bosna-and-Hercegovina|Pink Koncert
+091F,0911:0069|Total-TV-Bosna-and-Hercegovina|Pink Media BH
+091F,0911:0008|Total-TV-Bosna-and-Hercegovina|Pink Movies
+091F,0911:000A|Total-TV-Bosna-and-Hercegovina|Pink Music
+091F,0911:0053|Total-TV-Bosna-and-Hercegovina|Pink Music 2
+091F,0911:00A6|Total-TV-Bosna-and-Hercegovina|Pink n Roll
+091F,0911:003D|Total-TV-Bosna-and-Hercegovina|Pink Pedia
+091F,0911:0039|Total-TV-Bosna-and-Hercegovina|Pink Premium HD
+091F,0911:0038|Total-TV-Bosna-and-Hercegovina|Pink Reality
+091F,0911:0036|Total-TV-Bosna-and-Hercegovina|Pink Romance
+091F,0911:0037|Total-TV-Bosna-and-Hercegovina|Pink Sci-Fi & Fantasy
+091F,0911:0062|Total-TV-Bosna-and-Hercegovina|Pink Serije
+091F,0911:0064|Total-TV-Bosna-and-Hercegovina|Pink Show
+091F,0911:003A|Total-TV-Bosna-and-Hercegovina|Pink Soap
+091F,0911:0048|Total-TV-Bosna-and-Hercegovina|Pink Srbija HD
+091F,0911:005C|Total-TV-Bosna-and-Hercegovina|Pink Style
+091F,0911:0066|Total-TV-Bosna-and-Hercegovina|Pink Super Kids
+091F,0911:005A|Total-TV-Bosna-and-Hercegovina|Pink Western
+091F,0911:0063|Total-TV-Bosna-and-Hercegovina|Pink World Cinema
+091F,0911:00C3|Total-TV-Bosna-and-Hercegovina|Private TV
+091F,0911:0307|Total-TV-Bosna-and-Hercegovina|Prva Kick
+091F,0911:0354|Total-TV-Bosna-and-Hercegovina|Prva Plus
+091F,0911:0353|Total-TV-Bosna-and-Hercegovina|Prva Srpska TV
+091F,0911:06E3|Total-TV-Bosna-and-Hercegovina|Prva World
+091F,0911:030F|Total-TV-Bosna-and-Hercegovina|Radio BN
+091F,0911:004E|Total-TV-Bosna-and-Hercegovina|Red TV HD
+091F,0911:0125|Total-TV-Bosna-and-Hercegovina|RTL 2
+091F,0911:0123|Total-TV-Bosna-and-Hercegovina|RTL HD
+091F,0911:0015|Total-TV-Bosna-and-Hercegovina|RTL Kockica
+091F,0911:0014|Total-TV-Bosna-and-Hercegovina|RTL Living
+091F,0911:0676|Total-TV-Bosna-and-Hercegovina|RTRS TV
+091F,0911:06D7|Total-TV-Bosna-and-Hercegovina|RTS 1 HD
+091F,0911:06D8|Total-TV-Bosna-and-Hercegovina|RTS 2 HD
+091F,0911:0356|Total-TV-Bosna-and-Hercegovina|RTV 1
+091F,0911:05B9|Total-TV-Bosna-and-Hercegovina|Scifi Srbija HD
+091F,0911:0362|Total-TV-Bosna-and-Hercegovina|Sport Klub 1 Hrvatska HD
+091F,0911:036A|Total-TV-Bosna-and-Hercegovina|Sport Klub 1 Srbija HD
+091F,0911:05AB|Total-TV-Bosna-and-Hercegovina|Sport Klub 1 Srbija HD
+091F,0911:05AC|Total-TV-Bosna-and-Hercegovina|Sport Klub 2 Srbija HD
+091F,0911:068A|Total-TV-Bosna-and-Hercegovina|Sport Klub 3 Srbija HD
+091F,0911:0555|Total-TV-Bosna-and-Hercegovina|Sport Klub Esports
+091F,0911:0673|Total-TV-Bosna-and-Hercegovina|Sport Klub Fight
+091F,0911:06E2|Total-TV-Bosna-and-Hercegovina|Sport Klub Golf
+091F,0911:055D|Total-TV-Bosna-and-Hercegovina|Sport Klub HD
+091F,0911:0689|Total-TV-Bosna-and-Hercegovina|Star Channel Srbija HD
+091F,0911:06EC|Total-TV-Bosna-and-Hercegovina|Star Crime Srbija HD
+091F,0911:05B7|Total-TV-Bosna-and-Hercegovina|Star Life Srbija HD
+091F,0911:05B1|Total-TV-Bosna-and-Hercegovina|Star Movies Srbija HD
+091F,0911:0308|Total-TV-Bosna-and-Hercegovina|TLC Balkan HD
+091F,0911:0363|Total-TV-Bosna-and-Hercegovina|TV 1000 Balkan
+091F,0911:054C|Total-TV-Bosna-and-Hercegovina|TV 24
+091F,0911:05B4|Total-TV-Bosna-and-Hercegovina|TV E
+091F,0911:0548|Total-TV-Bosna-and-Hercegovina|TV Palma Plus
+091F,0911:05B3|Total-TV-Bosna-and-Hercegovina|TV Vijesti
+091F,0911:0033|Total-TV-Bosna-and-Hercegovina|Vesti HD
+091F,0911:045B|Total-TV-Bosna-and-Hercegovina|Viasat Explore East HD
+091F,0911:045C|Total-TV-Bosna-and-Hercegovina|Viasat History HD
+091F,0911:045A|Total-TV-Bosna-and-Hercegovina|Viasat Nature East HD
+
+## PROVIDER: Total-TV-Hrvatska
+## CAID: 091F,0911
+## PROVID: 000000
+## CREATE: 2025.02.09 00:47:40
+091F,0911:0787|Total-TV-Hrvatska|Cinemax 2 Central Europe HD
+091F,0911:0786|Total-TV-Hrvatska|Cinemax Central Europe HD
+091F,0911:0551|Total-TV-Hrvatska|CineStar 1
+091F,0911:02F4|Total-TV-Hrvatska|CineStar 2 HD
+091F,0911:071B|Total-TV-Hrvatska|CineStar Action
+091F,0911:0685|Total-TV-Hrvatska|CineStar Comedy
+091F,0911:0554|Total-TV-Hrvatska|CineStar Premiere 1 HD
+091F,0911:0556|Total-TV-Hrvatska|CineStar Premiere 2 HD
+091F,0911:0078|Total-TV-Hrvatska|CMC TV
+091F,0911:0557|Total-TV-Hrvatska|Crime Investigation UK
+091F,0911:0365|Total-TV-Hrvatska|Diva Adria
+091F,0911:0001|Total-TV-Hrvatska|DM Sat
+091F,0911:0364|Total-TV-Hrvatska|Doku TV HD
+091F,0911:0458|Total-TV-Hrvatska|Epic Drama HD
+091F,0911:0A96|Total-TV-Hrvatska|FilmBox Extra HD Adria
+091F,0911:0A8D|Total-TV-Hrvatska|FilmBox Premium Adria HD
+091F,0911:06E6|Total-TV-Hrvatska|Grand TV
+091F,0911:05AF|Total-TV-Hrvatska|HBO 2 Central Europe HD
+091F,0911:0796|Total-TV-Hrvatska|HBO 3 Central Europe HD
+091F,0911:05AE|Total-TV-Hrvatska|HBO Adria HD
+091F,0911:002D|Total-TV-Hrvatska|History 2 Polska
+091F,0911:0021|Total-TV-Hrvatska|History Europe
+091F,0911:0711|Total-TV-Hrvatska|Hustler HD Europe
+091F,0911:036C|Total-TV-Hrvatska|IDJ TV HD
+091F,0911:02F6|Total-TV-Hrvatska|Investigation Discovery Europe HD
+091F,0911:04CF|Total-TV-Hrvatska|JimJam Europe
+091F,0911:0678|Total-TV-Hrvatska|Kino
+091F,0911:0729|Total-TV-Hrvatska|MTV 00s
+091F,0911:072E|Total-TV-Hrvatska|MTV Global
+091F,0911:06E8|Total-TV-Hrvatska|N1 Hrvatska
+091F,0911:05BA|Total-TV-Hrvatska|N1 Srbija HD
+091F,0911:02F9|Total-TV-Hrvatska|National Geographic Channel HD Europe
+091F,0911:02F2|Total-TV-Hrvatska|Nick Jr Central & Eastern Europe
+091F,0911:02F0|Total-TV-Hrvatska|Nickelodeon Europe
+091F,0911:02F3|Total-TV-Hrvatska|Nickelodeon Europe
+091F,0911:0550|Total-TV-Hrvatska|Nicktoons Adria
+091F,0911:067E|Total-TV-Hrvatska|Nova TV HD
+091F,0911:0300|Total-TV-Hrvatska|Pickbox TV HD
+091F,0911:0681|Total-TV-Hrvatska|Pikaboo
+091F,0911:05B9|Total-TV-Hrvatska|Scifi Srbija HD
+091F,0911:0363|Total-TV-Hrvatska|TV 1000 Balkan
+091F,0911:045B|Total-TV-Hrvatska|Viasat Explore East HD
+091F,0911:045C|Total-TV-Hrvatska|Viasat History HD
+091F,0911:045A|Total-TV-Hrvatska|Viasat Nature East HD
+091F,0911:0067|Total-TV-Hrvatska|Z1 TV
+
+## PROVIDER: Total-TV-Makedonija
+## CAID: 091F,0911
+## PROVID: 000000
+## CREATE: 2025.02.09 00:47:43
+091F,0911:06ED|Total-TV-Makedonija|24 Kitchen Srbija HD
+091F,0911:0AA0|Total-TV-Makedonija|360 Tune Box
+091F,0911:054F|Total-TV-Makedonija|Alfa TV
+091F,0911:0065|Total-TV-Makedonija|Aljazeera Balkans HD
+091F,0911:0076|Total-TV-Makedonija|AMC Balkan
+091F,0911:077A|Total-TV-Makedonija|AXN Spin Romania
+091F,0911:06DA|Total-TV-Makedonija|B92
+091F,0911:0034|Total-TV-Makedonija|Baby TV Europe
+091F,0911:05B6|Total-TV-Makedonija|Brainz TV
+091F,0911:00C1|Total-TV-Makedonija|Bravo Music
+091F,0911:0682|Total-TV-Makedonija|Cinemania HD
+091F,0911:0787|Total-TV-Makedonija|Cinemax 2 Central Europe HD
+091F,0911:0786|Total-TV-Makedonija|Cinemax Central Europe HD
+091F,0911:02FD|Total-TV-Makedonija|CineStar 1
+091F,0911:02F4|Total-TV-Makedonija|CineStar 2 HD
+091F,0911:02FE|Total-TV-Makedonija|CineStar Action
+091F,0911:0685|Total-TV-Makedonija|CineStar Comedy
+091F,0911:002F|Total-TV-Makedonija|CineStar Fantasy
+091F,0911:0554|Total-TV-Makedonija|CineStar Premiere 1 HD
+091F,0911:0556|Total-TV-Makedonija|CineStar Premiere 2 HD
+091F,0911:0055|Total-TV-Makedonija|CityPlay
+091F,0911:0078|Total-TV-Makedonija|CMC TV
+091F,0911:0557|Total-TV-Makedonija|Crime Investigation UK
+091F,0911:0081|Total-TV-Makedonija|Da Vinci
+091F,0911:05B0|Total-TV-Makedonija|Discovery Channel Srbija HD
+091F,0911:0365|Total-TV-Makedonija|Diva Adria
+091F,0911:0001|Total-TV-Makedonija|DM Sat
+091F,0911:0A97|Total-TV-Makedonija|DocuBox HD
+091F,0911:0558|Total-TV-Makedonija|Dusk
+091F,0911:02F7|Total-TV-Makedonija|E! Europe
+091F,0911:0458|Total-TV-Makedonija|Epic Drama HD
+091F,0911:0A9B|Total-TV-Makedonija|Erox HD
+091F,0911:0A9A|Total-TV-Makedonija|Eroxxx HD
+091F,0911:0AA1|Total-TV-Makedonija|FashionBox HD
+091F,0911:0A98|Total-TV-Makedonija|Fast & FunBox HD
+091F,0911:0A99|Total-TV-Makedonija|FightBox HD
+091F,0911:0A94|Total-TV-Makedonija|FilmBox Arthouse Worldwide
+091F,0911:0A96|Total-TV-Makedonija|FilmBox Extra HD Adria
+091F,0911:0A8D|Total-TV-Makedonija|FilmBox Premium Adria HD
+091F,0911:0A95|Total-TV-Makedonija|FilmBox Stars Adria
+091F,0911:0AA9|Total-TV-Makedonija|Gametoon HD
+091F,0911:06E6|Total-TV-Makedonija|Grand TV
+091F,0911:0067|Total-TV-Makedonija|Ha Ha
+091F,0911:0355|Total-TV-Makedonija|Happy
+091F,0911:05AF|Total-TV-Makedonija|HBO 2 Central Europe HD
+091F,0911:0796|Total-TV-Makedonija|HBO 3 Central Europe HD
+091F,0911:05AE|Total-TV-Makedonija|HBO Adria HD
+091F,0911:05B8|Total-TV-Makedonija|Hema TV
+091F,0911:02FC|Total-TV-Makedonija|HGTV Pan Regional HD
+091F,0911:002D|Total-TV-Makedonija|History 2 Polska
+091F,0911:0021|Total-TV-Makedonija|History Europe
+091F,0911:0D54|Total-TV-Makedonija|HR Drugi program
+091F,0911:0D53|Total-TV-Makedonija|HR Prvi program
+091F,0911:0D55|Total-TV-Makedonija|HR Treci program
+091F,0911:0711|Total-TV-Makedonija|Hustler HD Europe
+091F,0911:036C|Total-TV-Makedonija|IDJ TV HD
+091F,0911:02F6|Total-TV-Makedonija|Investigation Discovery Europe HD
+091F,0911:04CF|Total-TV-Makedonija|JimJam Europe
+091F,0911:0547|Total-TV-Makedonija|K CN 1
+091F,0911:0559|Total-TV-Makedonija|K CN 2
+091F,0911:055A|Total-TV-Makedonija|K CN 3
+091F,0911:055E|Total-TV-Makedonija|Kanal 77
+091F,0911:10E0|Total-TV-Makedonija|Klan Macedonia
+091F,0911:0068|Total-TV-Makedonija|Lol
+091F,0911:067A|Total-TV-Makedonija|MRT 1
+091F,0911:054E|Total-TV-Makedonija|MRT Sobraniski kanal
+091F,0911:0729|Total-TV-Makedonija|MTV 00s
+091F,0911:072E|Total-TV-Makedonija|MTV Global
+091F,0911:007B|Total-TV-Makedonija|MTV Hits Europe
+091F,0911:0C80|Total-TV-Makedonija|MTV Live HD
+091F,0911:06E8|Total-TV-Makedonija|N1 Hrvatska
+091F,0911:05BA|Total-TV-Makedonija|N1 Srbija HD
+091F,0911:02F9|Total-TV-Makedonija|National Geographic Channel HD Europe
+091F,0911:02F2|Total-TV-Makedonija|Nick Jr Central & Eastern Europe
+091F,0911:02F0|Total-TV-Makedonija|Nickelodeon Europe
+091F,0911:02F3|Total-TV-Makedonija|Nickelodeon Europe
+091F,0911:0550|Total-TV-Makedonija|Nicktoons Adria
+091F,0911:055C|Total-TV-Makedonija|Nova Sport HD
+091F,0911:067E|Total-TV-Makedonija|Nova TV HD
+091F,0911:0300|Total-TV-Makedonija|Pickbox TV HD
+091F,0911:030B|Total-TV-Makedonija|Pikaboo
+091F,0911:0681|Total-TV-Makedonija|Pikaboo
+091F,0911:005B|Total-TV-Makedonija|Pink Classic
+091F,0911:0002|Total-TV-Makedonija|Pink Extra
+091F,0911:0044|Total-TV-Makedonija|Pink Folk 2
+091F,0911:00B8|Total-TV-Makedonija|Pink Hits
+091F,0911:003E|Total-TV-Makedonija|Pink Hits 2
+091F,0911:0050|Total-TV-Makedonija|Pink Kids
+091F,0911:003F|Total-TV-Makedonija|Pink Koncert
+091F,0911:000A|Total-TV-Makedonija|Pink Music
+091F,0911:0053|Total-TV-Makedonija|Pink Music 2
+091F,0911:00A6|Total-TV-Makedonija|Pink n Roll
+091F,0911:003D|Total-TV-Makedonija|Pink Pedia
+091F,0911:0003|Total-TV-Makedonija|Pink Radio
+091F,0911:0038|Total-TV-Makedonija|Pink Reality
+091F,0911:0062|Total-TV-Makedonija|Pink Serije
+091F,0911:0064|Total-TV-Makedonija|Pink Show
+091F,0911:0048|Total-TV-Makedonija|Pink Srbija HD
+091F,0911:005C|Total-TV-Makedonija|Pink Style
+091F,0911:0066|Total-TV-Makedonija|Pink Super Kids
+091F,0911:0063|Total-TV-Makedonija|Pink World Cinema
+091F,0911:0305|Total-TV-Makedonija|Play
+091F,0911:00C3|Total-TV-Makedonija|Private TV
+091F,0911:0307|Total-TV-Makedonija|Prva Kick
+091F,0911:0354|Total-TV-Makedonija|Prva Plus
+091F,0911:0353|Total-TV-Makedonija|Prva Srpska TV
+091F,0911:06E3|Total-TV-Makedonija|Prva World
+091F,0911:030F|Total-TV-Makedonija|Radio BN
+091F,0911:004E|Total-TV-Makedonija|Red TV HD
+091F,0911:0125|Total-TV-Makedonija|RTL 2
+091F,0911:0123|Total-TV-Makedonija|RTL HD
+091F,0911:0014|Total-TV-Makedonija|RTL Living
+091F,0911:0676|Total-TV-Makedonija|RTRS TV
+091F,0911:05B9|Total-TV-Makedonija|Scifi Srbija HD
+091F,0911:067F|Total-TV-Makedonija|Sitel TV
+091F,0911:0362|Total-TV-Makedonija|Sport Klub 1 Hrvatska HD
+091F,0911:05AC|Total-TV-Makedonija|Sport Klub 2 Srbija HD
+091F,0911:068A|Total-TV-Makedonija|Sport Klub 3 Srbija HD
+091F,0911:0555|Total-TV-Makedonija|Sport Klub Esports
+091F,0911:0673|Total-TV-Makedonija|Sport Klub Fight
+091F,0911:06E2|Total-TV-Makedonija|Sport Klub Golf
+091F,0911:055D|Total-TV-Makedonija|Sport Klub HD
+091F,0911:0689|Total-TV-Makedonija|Star Channel Srbija HD
+091F,0911:06EC|Total-TV-Makedonija|Star Crime Srbija HD
+091F,0911:05B7|Total-TV-Makedonija|Star Life Srbija HD
+091F,0911:05B1|Total-TV-Makedonija|Star Movies Srbija HD
+091F,0911:0308|Total-TV-Makedonija|TLC Balkan HD
+091F,0911:0363|Total-TV-Makedonija|TV 1000 Balkan
+091F,0911:054C|Total-TV-Makedonija|TV 24
+091F,0911:05B3|Total-TV-Makedonija|TV Vijesti
+091F,0911:0033|Total-TV-Makedonija|Vesti HD
+091F,0911:045B|Total-TV-Makedonija|Viasat Explore East HD
+091F,0911:045C|Total-TV-Makedonija|Viasat History HD
+091F,0911:045A|Total-TV-Makedonija|Viasat Nature East HD
+091F,0911:0042|Total-TV-Makedonija|Zadruga 1
+091F,0911:0052|Total-TV-Makedonija|Zadruga 2
+091F,0911:0054|Total-TV-Makedonija|Zadruga 3
+091F,0911:005D|Total-TV-Makedonija|Zadruga 4
+
+## PROVIDER: Total-TV-Crna-Gora
+## CAID: 091F,0911
+## PROVID: 000000
+## CREATE: 2025.02.09 00:47:45
+091F,0911:06ED|Total-TV-Crna-Gora|24 Kitchen Srbija HD
+091F,0911:0AA0|Total-TV-Crna-Gora|360 Tune Box
+091F,0911:054F|Total-TV-Crna-Gora|Alfa TV
+091F,0911:0065|Total-TV-Crna-Gora|Aljazeera Balkans HD
+091F,0911:0076|Total-TV-Crna-Gora|AMC Balkan
+091F,0911:06DA|Total-TV-Crna-Gora|B92
+091F,0911:0034|Total-TV-Crna-Gora|Baby TV Europe
+091F,0911:05B6|Total-TV-Crna-Gora|Brainz TV
+091F,0911:0682|Total-TV-Crna-Gora|Cinemania HD
+091F,0911:0787|Total-TV-Crna-Gora|Cinemax 2 Central Europe HD
+091F,0911:0786|Total-TV-Crna-Gora|Cinemax Central Europe HD
+091F,0911:02FD|Total-TV-Crna-Gora|CineStar 1
+091F,0911:02F4|Total-TV-Crna-Gora|CineStar 2 HD
+091F,0911:02FE|Total-TV-Crna-Gora|CineStar Action
+091F,0911:0685|Total-TV-Crna-Gora|CineStar Comedy
+091F,0911:002F|Total-TV-Crna-Gora|CineStar Fantasy
+091F,0911:0554|Total-TV-Crna-Gora|CineStar Premiere 1 HD
+091F,0911:0556|Total-TV-Crna-Gora|CineStar Premiere 2 HD
+091F,0911:0055|Total-TV-Crna-Gora|CityPlay
+091F,0911:0078|Total-TV-Crna-Gora|CMC TV
+091F,0911:0557|Total-TV-Crna-Gora|Crime Investigation UK
+091F,0911:0081|Total-TV-Crna-Gora|Da Vinci
+091F,0911:05B0|Total-TV-Crna-Gora|Discovery Channel Srbija HD
+091F,0911:0365|Total-TV-Crna-Gora|Diva Adria
+091F,0911:0A97|Total-TV-Crna-Gora|DocuBox HD
+091F,0911:02F7|Total-TV-Crna-Gora|E! Europe
+091F,0911:0458|Total-TV-Crna-Gora|Epic Drama HD
+091F,0911:0A9B|Total-TV-Crna-Gora|Erox HD
+091F,0911:0A9A|Total-TV-Crna-Gora|Eroxxx HD
+091F,0911:0AA1|Total-TV-Crna-Gora|FashionBox HD
+091F,0911:0A98|Total-TV-Crna-Gora|Fast & FunBox HD
+091F,0911:0A99|Total-TV-Crna-Gora|FightBox HD
+091F,0911:0A94|Total-TV-Crna-Gora|FilmBox Arthouse Worldwide
+091F,0911:0A96|Total-TV-Crna-Gora|FilmBox Extra HD Adria
+091F,0911:0A8D|Total-TV-Crna-Gora|FilmBox Premium Adria HD
+091F,0911:0AA9|Total-TV-Crna-Gora|Gametoon HD
+091F,0911:02F8|Total-TV-Crna-Gora|Golica TV
+091F,0911:05B5|Total-TV-Crna-Gora|Grand Nostalgija
+091F,0911:06E6|Total-TV-Crna-Gora|Grand TV
+091F,0911:0067|Total-TV-Crna-Gora|Ha Ha
+091F,0911:0355|Total-TV-Crna-Gora|Happy
+091F,0911:05AF|Total-TV-Crna-Gora|HBO 2 Central Europe HD
+091F,0911:0796|Total-TV-Crna-Gora|HBO 3 Central Europe HD
+091F,0911:05AE|Total-TV-Crna-Gora|HBO Adria HD
+091F,0911:05B8|Total-TV-Crna-Gora|Hema TV
+091F,0911:02FC|Total-TV-Crna-Gora|HGTV Pan Regional HD
+091F,0911:002D|Total-TV-Crna-Gora|History 2 Polska
+091F,0911:0021|Total-TV-Crna-Gora|History Europe
+091F,0911:036C|Total-TV-Crna-Gora|IDJ TV HD
+091F,0911:05B2|Total-TV-Crna-Gora|Insajder
+091F,0911:02F6|Total-TV-Crna-Gora|Investigation Discovery Europe HD
+091F,0911:04CF|Total-TV-Crna-Gora|JimJam Europe
+091F,0911:0547|Total-TV-Crna-Gora|K CN 1
+091F,0911:0559|Total-TV-Crna-Gora|K CN 2
+091F,0911:055A|Total-TV-Crna-Gora|K CN 3
+091F,0911:0068|Total-TV-Crna-Gora|Lol
+091F,0911:0686|Total-TV-Crna-Gora|Lov i ribolov
+091F,0911:0729|Total-TV-Crna-Gora|MTV 00s
+091F,0911:072E|Total-TV-Crna-Gora|MTV Global
+091F,0911:007B|Total-TV-Crna-Gora|MTV Hits Europe
+091F,0911:0C80|Total-TV-Crna-Gora|MTV Live HD
+091F,0911:06E7|Total-TV-Crna-Gora|N1 Bosna i Hercegovina
+091F,0911:06E8|Total-TV-Crna-Gora|N1 Hrvatska
+091F,0911:05BA|Total-TV-Crna-Gora|N1 Srbija HD
+091F,0911:006B|Total-TV-Crna-Gora|Narodna TV HD
+091F,0911:02F9|Total-TV-Crna-Gora|National Geographic Channel HD Europe
+091F,0911:02F2|Total-TV-Crna-Gora|Nick Jr Central & Eastern Europe
+091F,0911:02F0|Total-TV-Crna-Gora|Nickelodeon Europe
+091F,0911:02F3|Total-TV-Crna-Gora|Nickelodeon Europe
+091F,0911:0550|Total-TV-Crna-Gora|Nicktoons Adria
+091F,0911:0688|Total-TV-Crna-Gora|Nova BH HD
+091F,0911:0687|Total-TV-Crna-Gora|Nova M
+091F,0911:06DF|Total-TV-Crna-Gora|Nova Max HD
+091F,0911:06E4|Total-TV-Crna-Gora|Nova S HD
+091F,0911:0368|Total-TV-Crna-Gora|Nova Series
+091F,0911:055C|Total-TV-Crna-Gora|Nova Sport HD
+091F,0911:067E|Total-TV-Crna-Gora|Nova TV HD
+091F,0911:02EF|Total-TV-Crna-Gora|O Kanal
+091F,0911:0300|Total-TV-Crna-Gora|Pickbox TV HD
+091F,0911:030B|Total-TV-Crna-Gora|Pikaboo
+091F,0911:0681|Total-TV-Crna-Gora|Pikaboo
+091F,0911:0007|Total-TV-Crna-Gora|Pink Action
+091F,0911:005B|Total-TV-Crna-Gora|Pink Classic
+091F,0911:0041|Total-TV-Crna-Gora|Pink Comedy
+091F,0911:0035|Total-TV-Crna-Gora|Pink Crime & Mystery
+091F,0911:0002|Total-TV-Crna-Gora|Pink Extra
+091F,0911:000C|Total-TV-Crna-Gora|Pink Family
+091F,0911:0009|Total-TV-Crna-Gora|Pink Film
+091F,0911:0040|Total-TV-Crna-Gora|Pink Folk 1
+091F,0911:0044|Total-TV-Crna-Gora|Pink Folk 2
+091F,0911:00B8|Total-TV-Crna-Gora|Pink Hits
+091F,0911:003E|Total-TV-Crna-Gora|Pink Hits 2
+091F,0911:0043|Total-TV-Crna-Gora|Pink Horror
+091F,0911:0050|Total-TV-Crna-Gora|Pink Kids
+091F,0911:003F|Total-TV-Crna-Gora|Pink Koncert
+091F,0911:006A|Total-TV-Crna-Gora|Pink Media M
+091F,0911:0008|Total-TV-Crna-Gora|Pink Movies
+091F,0911:000A|Total-TV-Crna-Gora|Pink Music
+091F,0911:0053|Total-TV-Crna-Gora|Pink Music 2
+091F,0911:003D|Total-TV-Crna-Gora|Pink Pedia
+091F,0911:0001|Total-TV-Crna-Gora|Pink Plus
+091F,0911:0039|Total-TV-Crna-Gora|Pink Premium HD
+091F,0911:0038|Total-TV-Crna-Gora|Pink Reality
+091F,0911:0036|Total-TV-Crna-Gora|Pink Romance
+091F,0911:0037|Total-TV-Crna-Gora|Pink Sci-Fi & Fantasy
+091F,0911:0062|Total-TV-Crna-Gora|Pink Serije
+091F,0911:0064|Total-TV-Crna-Gora|Pink Show
+091F,0911:003A|Total-TV-Crna-Gora|Pink Soap
+091F,0911:005C|Total-TV-Crna-Gora|Pink Style
+091F,0911:0066|Total-TV-Crna-Gora|Pink Super Kids
+091F,0911:005A|Total-TV-Crna-Gora|Pink Western
+091F,0911:0063|Total-TV-Crna-Gora|Pink World Cinema
+091F,0911:003C|Total-TV-Crna-Gora|Pink Zabava
+091F,0911:0307|Total-TV-Crna-Gora|Prva Kick
+091F,0911:0354|Total-TV-Crna-Gora|Prva Plus
+091F,0911:06DE|Total-TV-Crna-Gora|Prva TV Crna Gora
+091F,0911:06E3|Total-TV-Crna-Gora|Prva World
+091F,0911:004E|Total-TV-Crna-Gora|Red TV HD
+091F,0911:0125|Total-TV-Crna-Gora|RTL 2
+091F,0911:0123|Total-TV-Crna-Gora|RTL HD
+091F,0911:0015|Total-TV-Crna-Gora|RTL Kockica
+091F,0911:0014|Total-TV-Crna-Gora|RTL Living
+091F,0911:0356|Total-TV-Crna-Gora|RTV 1
+091F,0911:05B9|Total-TV-Crna-Gora|Scifi Srbija HD
+091F,0911:05AD|Total-TV-Crna-Gora|Sport Klub 1 Crna Gora HD
+091F,0911:0362|Total-TV-Crna-Gora|Sport Klub 1 Hrvatska HD
+091F,0911:036A|Total-TV-Crna-Gora|Sport Klub 1 Srbija HD
+091F,0911:05AC|Total-TV-Crna-Gora|Sport Klub 2 Srbija HD
+091F,0911:068A|Total-TV-Crna-Gora|Sport Klub 3 Srbija HD
+091F,0911:0555|Total-TV-Crna-Gora|Sport Klub Esports
+091F,0911:0673|Total-TV-Crna-Gora|Sport Klub Fight
+091F,0911:06E2|Total-TV-Crna-Gora|Sport Klub Golf
+091F,0911:055D|Total-TV-Crna-Gora|Sport Klub HD
+091F,0911:0689|Total-TV-Crna-Gora|Star Channel Srbija HD
+091F,0911:06EC|Total-TV-Crna-Gora|Star Crime Srbija HD
+091F,0911:05B7|Total-TV-Crna-Gora|Star Life Srbija HD
+091F,0911:05B1|Total-TV-Crna-Gora|Star Movies Srbija HD
+091F,0911:0308|Total-TV-Crna-Gora|TLC Balkan HD
+091F,0911:0363|Total-TV-Crna-Gora|TV 1000 Balkan
+091F,0911:054C|Total-TV-Crna-Gora|TV 24
+091F,0911:05B4|Total-TV-Crna-Gora|TV E
+091F,0911:0548|Total-TV-Crna-Gora|TV Palma Plus
+091F,0911:05B3|Total-TV-Crna-Gora|TV Vijesti
+091F,0911:035B|Total-TV-Crna-Gora|TVCG 1 HD
+091F,0911:035C|Total-TV-Crna-Gora|TVCG 2 HD
+091F,0911:0033|Total-TV-Crna-Gora|Vesti HD
+091F,0911:045B|Total-TV-Crna-Gora|Viasat Explore East HD
+091F,0911:045C|Total-TV-Crna-Gora|Viasat History HD
+091F,0911:045A|Total-TV-Crna-Gora|Viasat Nature East HD
+
+## PROVIDER: Total-TV-Srbija
+## CAID: 091F,0911
+## PROVID: 000000
+## CREATE: 2025.02.09 00:47:47
+091F,0911:06ED|Total-TV-Srbija|24 Kitchen Srbija HD
+091F,0911:0AA0|Total-TV-Srbija|360 Tune Box
+091F,0911:054A|Total-TV-Srbija|Alfa TV
+091F,0911:054F|Total-TV-Srbija|Alfa TV
+091F,0911:0065|Total-TV-Srbija|Aljazeera Balkans HD
+091F,0911:0076|Total-TV-Srbija|AMC Balkan
+091F,0911:06DA|Total-TV-Srbija|B92
+091F,0911:0034|Total-TV-Srbija|Baby TV Europe
+091F,0911:05B6|Total-TV-Srbija|Brainz TV
+091F,0911:00C1|Total-TV-Srbija|Bravo Music
+091F,0911:0682|Total-TV-Srbija|Cinemania HD
+091F,0911:0787|Total-TV-Srbija|Cinemax 2 Central Europe HD
+091F,0911:0786|Total-TV-Srbija|Cinemax Central Europe HD
+091F,0911:02FD|Total-TV-Srbija|CineStar 1
+091F,0911:02F4|Total-TV-Srbija|CineStar 2 HD
+091F,0911:02FE|Total-TV-Srbija|CineStar Action
+091F,0911:0685|Total-TV-Srbija|CineStar Comedy
+091F,0911:002F|Total-TV-Srbija|CineStar Fantasy
+091F,0911:0554|Total-TV-Srbija|CineStar Premiere 1 HD
+091F,0911:0556|Total-TV-Srbija|CineStar Premiere 2 HD
+091F,0911:0055|Total-TV-Srbija|CityPlay
+091F,0911:007A|Total-TV-Srbija|Club MTV
+091F,0911:0078|Total-TV-Srbija|CMC TV
+091F,0911:0557|Total-TV-Srbija|Crime Investigation UK
+091F,0911:0081|Total-TV-Srbija|Da Vinci
+091F,0911:05B0|Total-TV-Srbija|Discovery Channel Srbija HD
+091F,0911:0365|Total-TV-Srbija|Diva Adria
+091F,0911:0001|Total-TV-Srbija|DM Sat
+091F,0911:0A97|Total-TV-Srbija|DocuBox HD
+091F,0911:0558|Total-TV-Srbija|Dusk
+091F,0911:02F7|Total-TV-Srbija|E! Europe
+091F,0911:0458|Total-TV-Srbija|Epic Drama HD
+091F,0911:0A9B|Total-TV-Srbija|Erox HD
+091F,0911:0A9A|Total-TV-Srbija|Eroxxx HD
+091F,0911:0AA1|Total-TV-Srbija|FashionBox HD
+091F,0911:0A98|Total-TV-Srbija|Fast & FunBox HD
+091F,0911:0A99|Total-TV-Srbija|FightBox HD
+091F,0911:0A94|Total-TV-Srbija|FilmBox Arthouse Worldwide
+091F,0911:0A96|Total-TV-Srbija|FilmBox Extra HD Adria
+091F,0911:0A8D|Total-TV-Srbija|FilmBox Premium Adria HD
+091F,0911:0A95|Total-TV-Srbija|FilmBox Stars Adria
+091F,0911:0AA9|Total-TV-Srbija|Gametoon HD
+091F,0911:02F8|Total-TV-Srbija|Golica TV
+091F,0911:05B5|Total-TV-Srbija|Grand Nostalgija
+091F,0911:06E6|Total-TV-Srbija|Grand TV
+091F,0911:0067|Total-TV-Srbija|Ha Ha
+091F,0911:0355|Total-TV-Srbija|Happy
+091F,0911:05AF|Total-TV-Srbija|HBO 2 Central Europe HD
+091F,0911:0796|Total-TV-Srbija|HBO 3 Central Europe HD
+091F,0911:05AE|Total-TV-Srbija|HBO Adria HD
+091F,0911:05B8|Total-TV-Srbija|Hema TV
+091F,0911:02FC|Total-TV-Srbija|HGTV Pan Regional HD
+091F,0911:002D|Total-TV-Srbija|History 2 Polska
+091F,0911:0775|Total-TV-Srbija|History Europe HD
+091F,0911:0711|Total-TV-Srbija|Hustler HD Europe
+091F,0911:036C|Total-TV-Srbija|IDJ TV HD
+091F,0911:05B2|Total-TV-Srbija|Insajder
+091F,0911:02F6|Total-TV-Srbija|Investigation Discovery Europe HD
+091F,0911:04CF|Total-TV-Srbija|JimJam Europe
+091F,0911:0547|Total-TV-Srbija|K CN 1
+091F,0911:0559|Total-TV-Srbija|K CN 2
+091F,0911:055A|Total-TV-Srbija|K CN 3
+091F,0911:055E|Total-TV-Srbija|Kanal 77
+091F,0911:0068|Total-TV-Srbija|Lol
+091F,0911:0686|Total-TV-Srbija|Lov i ribolov
+091F,0911:0729|Total-TV-Srbija|MTV 00s
+091F,0911:007E|Total-TV-Srbija|MTV 80s
+091F,0911:072E|Total-TV-Srbija|MTV Global
+091F,0911:007B|Total-TV-Srbija|MTV Hits Europe
+091F,0911:0C80|Total-TV-Srbija|MTV Live HD
+091F,0911:06E7|Total-TV-Srbija|N1 Bosna i Hercegovina
+091F,0911:06E8|Total-TV-Srbija|N1 Hrvatska
+091F,0911:05BA|Total-TV-Srbija|N1 Srbija HD
+091F,0911:006B|Total-TV-Srbija|Narodna TV HD
+091F,0911:02F9|Total-TV-Srbija|National Geographic Channel HD Europe
+091F,0911:02F2|Total-TV-Srbija|Nick Jr Central & Eastern Europe
+091F,0911:02F0|Total-TV-Srbija|Nickelodeon Europe
+091F,0911:02F3|Total-TV-Srbija|Nickelodeon Europe
+091F,0911:0550|Total-TV-Srbija|Nicktoons Adria
+091F,0911:0688|Total-TV-Srbija|Nova BH HD
+091F,0911:0687|Total-TV-Srbija|Nova M
+091F,0911:06DF|Total-TV-Srbija|Nova Max HD
+091F,0911:06E4|Total-TV-Srbija|Nova S HD
+091F,0911:0368|Total-TV-Srbija|Nova Series
+091F,0911:055C|Total-TV-Srbija|Nova Sport HD
+091F,0911:067E|Total-TV-Srbija|Nova TV HD
+091F,0911:02EF|Total-TV-Srbija|O Kanal
+091F,0911:0300|Total-TV-Srbija|Pickbox TV HD
+091F,0911:030B|Total-TV-Srbija|Pikaboo
+091F,0911:0007|Total-TV-Srbija|Pink Action
+091F,0911:005B|Total-TV-Srbija|Pink Classic
+091F,0911:0041|Total-TV-Srbija|Pink Comedy
+091F,0911:0035|Total-TV-Srbija|Pink Crime & Mystery
+091F,0911:0002|Total-TV-Srbija|Pink Extra
+091F,0911:000C|Total-TV-Srbija|Pink Family
+091F,0911:0009|Total-TV-Srbija|Pink Film
+091F,0911:0040|Total-TV-Srbija|Pink Folk 1
+091F,0911:0044|Total-TV-Srbija|Pink Folk 2
+091F,0911:00B8|Total-TV-Srbija|Pink Hits
+091F,0911:003E|Total-TV-Srbija|Pink Hits 2
+091F,0911:0043|Total-TV-Srbija|Pink Horror
+091F,0911:0050|Total-TV-Srbija|Pink Kids
+091F,0911:003F|Total-TV-Srbija|Pink Koncert
+091F,0911:0008|Total-TV-Srbija|Pink Movies
+091F,0911:000A|Total-TV-Srbija|Pink Music
+091F,0911:0053|Total-TV-Srbija|Pink Music 2
+091F,0911:00A6|Total-TV-Srbija|Pink n Roll
+091F,0911:003D|Total-TV-Srbija|Pink Pedia
+091F,0911:0039|Total-TV-Srbija|Pink Premium HD
+091F,0911:0003|Total-TV-Srbija|Pink Radio
+091F,0911:0038|Total-TV-Srbija|Pink Reality
+091F,0911:0036|Total-TV-Srbija|Pink Romance
+091F,0911:0037|Total-TV-Srbija|Pink Sci-Fi & Fantasy
+091F,0911:0062|Total-TV-Srbija|Pink Serije
+091F,0911:0064|Total-TV-Srbija|Pink Show
+091F,0911:003A|Total-TV-Srbija|Pink Soap
+091F,0911:0048|Total-TV-Srbija|Pink Srbija HD
+091F,0911:005C|Total-TV-Srbija|Pink Style
+091F,0911:0066|Total-TV-Srbija|Pink Super Kids
+091F,0911:005A|Total-TV-Srbija|Pink Western
+091F,0911:0063|Total-TV-Srbija|Pink World Cinema
+091F,0911:003C|Total-TV-Srbija|Pink Zabava
+091F,0911:0305|Total-TV-Srbija|Play
+091F,0911:00C3|Total-TV-Srbija|Private TV
+091F,0911:0307|Total-TV-Srbija|Prva Kick
+091F,0911:0354|Total-TV-Srbija|Prva Plus
+091F,0911:0353|Total-TV-Srbija|Prva Srpska TV
+091F,0911:06E3|Total-TV-Srbija|Prva World
+091F,0911:004E|Total-TV-Srbija|Red TV HD
+091F,0911:0123|Total-TV-Srbija|RTL HD
+091F,0911:06D7|Total-TV-Srbija|RTS 1 HD
+091F,0911:06D8|Total-TV-Srbija|RTS 2 HD
+091F,0911:0674|Total-TV-Srbija|RTS 3
+091F,0911:0356|Total-TV-Srbija|RTV 1
+091F,0911:02F5|Total-TV-Srbija|RTV 2
+091F,0911:05B9|Total-TV-Srbija|Scifi Srbija HD
+091F,0911:0553|Total-TV-Srbija|Shoppster TV Srbija
+091F,0911:0362|Total-TV-Srbija|Sport Klub 1 Hrvatska HD
+091F,0911:036A|Total-TV-Srbija|Sport Klub 1 Srbija HD
+091F,0911:05AB|Total-TV-Srbija|Sport Klub 1 Srbija HD
+091F,0911:05AC|Total-TV-Srbija|Sport Klub 2 Srbija HD
+091F,0911:068A|Total-TV-Srbija|Sport Klub 3 Srbija HD
+091F,0911:0555|Total-TV-Srbija|Sport Klub Esports
+091F,0911:0673|Total-TV-Srbija|Sport Klub Fight
+091F,0911:06E2|Total-TV-Srbija|Sport Klub Golf
+091F,0911:055D|Total-TV-Srbija|Sport Klub HD
+091F,0911:0689|Total-TV-Srbija|Star Channel Srbija HD
+091F,0911:06EC|Total-TV-Srbija|Star Crime Srbija HD
+091F,0911:05B7|Total-TV-Srbija|Star Life Srbija HD
+091F,0911:05B1|Total-TV-Srbija|Star Movies Srbija HD
+091F,0911:0308|Total-TV-Srbija|TLC Balkan HD
+091F,0911:0363|Total-TV-Srbija|TV 1000 Balkan
+091F,0911:054C|Total-TV-Srbija|TV 24
+091F,0911:05B4|Total-TV-Srbija|TV E
+091F,0911:0548|Total-TV-Srbija|TV Palma Plus
+091F,0911:05B3|Total-TV-Srbija|TV Vijesti
+091F,0911:0033|Total-TV-Srbija|Vesti HD
+091F,0911:045B|Total-TV-Srbija|Viasat Explore East HD
+091F,0911:045C|Total-TV-Srbija|Viasat History HD
+091F,0911:045A|Total-TV-Srbija|Viasat Nature East HD
+091F,0911:000D|Total-TV-Srbija|Welcome To Fun Radio
+091F,0911:0042|Total-TV-Srbija|Zadruga 1
+091F,0911:0052|Total-TV-Srbija|Zadruga 2
+091F,0911:0054|Total-TV-Srbija|Zadruga 3
+091F,0911:005D|Total-TV-Srbija|Zadruga 4
+
+## PROVIDER: Total-TV-Slovenija
+## CAID: 091F,0911
+## PROVID: 000000
+## CREATE: 2025.02.09 00:47:50
+091F,0911:06ED|Total-TV-Slovenija|24 Kitchen Srbija HD
+091F,0911:054F|Total-TV-Slovenija|Alfa TV
+091F,0911:0675|Total-TV-Slovenija|Alternativna TV
+091F,0911:0552|Total-TV-Slovenija|Astra
+091F,0911:06DA|Total-TV-Slovenija|B92
+091F,0911:05B6|Total-TV-Slovenija|Brainz TV
+091F,0911:0677|Total-TV-Slovenija|Brio
+091F,0911:02F4|Total-TV-Slovenija|CineStar 2 HD
+091F,0911:0685|Total-TV-Slovenija|CineStar Comedy
+091F,0911:0554|Total-TV-Slovenija|CineStar Premiere 1 HD
+091F,0911:0556|Total-TV-Slovenija|CineStar Premiere 2 HD
+091F,0911:0078|Total-TV-Slovenija|CMC TV
+091F,0911:0557|Total-TV-Slovenija|Crime Investigation UK
+091F,0911:05B0|Total-TV-Slovenija|Discovery Channel Srbija HD
+091F,0911:0365|Total-TV-Slovenija|Diva Adria
+091F,0911:0001|Total-TV-Slovenija|DM Sat
+091F,0911:0558|Total-TV-Slovenija|Dusk
+091F,0911:02F7|Total-TV-Slovenija|E! Europe
+091F,0911:0458|Total-TV-Slovenija|Epic Drama HD
+091F,0911:0358|Total-TV-Slovenija|Federalna TV
+091F,0911:05B5|Total-TV-Slovenija|Grand Nostalgija
+091F,0911:06E6|Total-TV-Slovenija|Grand TV
+091F,0911:0355|Total-TV-Slovenija|Happy
+091F,0911:05AF|Total-TV-Slovenija|HBO 2 Central Europe HD
+091F,0911:05AE|Total-TV-Slovenija|HBO Adria HD
+091F,0911:05B8|Total-TV-Slovenija|Hema TV
+091F,0911:02FC|Total-TV-Slovenija|HGTV Pan Regional HD
+091F,0911:002D|Total-TV-Slovenija|History 2 Polska
+091F,0911:0021|Total-TV-Slovenija|History Europe
+091F,0911:036C|Total-TV-Slovenija|IDJ TV HD
+091F,0911:05B2|Total-TV-Slovenija|Insajder
+091F,0911:02F6|Total-TV-Slovenija|Investigation Discovery Europe HD
+091F,0911:04CF|Total-TV-Slovenija|JimJam Europe
+091F,0911:0678|Total-TV-Slovenija|Kino
+091F,0911:0686|Total-TV-Slovenija|Lov i ribolov
+091F,0911:0729|Total-TV-Slovenija|MTV 00s
+091F,0911:072E|Total-TV-Slovenija|MTV Global
+091F,0911:06E7|Total-TV-Slovenija|N1 Bosna i Hercegovina
+091F,0911:06E8|Total-TV-Slovenija|N1 Hrvatska
+091F,0911:05BA|Total-TV-Slovenija|N1 Srbija HD
+091F,0911:006B|Total-TV-Slovenija|Narodna TV HD
+091F,0911:02F9|Total-TV-Slovenija|National Geographic Channel HD Europe
+091F,0911:02F2|Total-TV-Slovenija|Nick Jr Central & Eastern Europe
+091F,0911:02F0|Total-TV-Slovenija|Nickelodeon Europe
+091F,0911:02F3|Total-TV-Slovenija|Nickelodeon Europe
+091F,0911:0550|Total-TV-Slovenija|Nicktoons Adria
+091F,0911:0688|Total-TV-Slovenija|Nova BH HD
+091F,0911:0687|Total-TV-Slovenija|Nova M
+091F,0911:067E|Total-TV-Slovenija|Nova TV HD
+091F,0911:02EF|Total-TV-Slovenija|O Kanal
+091F,0911:055B|Total-TV-Slovenija|Oto
+091F,0911:0300|Total-TV-Slovenija|Pickbox TV HD
+091F,0911:030B|Total-TV-Slovenija|Pikaboo
+091F,0911:06EA|Total-TV-Slovenija|Planet TV
+091F,0911:035A|Total-TV-Slovenija|Pop TV HD
+091F,0911:0307|Total-TV-Slovenija|Prva Kick
+091F,0911:0354|Total-TV-Slovenija|Prva Plus
+091F,0911:0353|Total-TV-Slovenija|Prva Srpska TV
+091F,0911:0356|Total-TV-Slovenija|RTV 1
+091F,0911:05B9|Total-TV-Slovenija|Scifi Srbija HD
+091F,0911:0360|Total-TV-Slovenija|Sport Klub 1 Slovenija HD
+091F,0911:0684|Total-TV-Slovenija|Sport Klub 2 Slovenija
+091F,0911:02F1|Total-TV-Slovenija|Sport Klub 3 Slovenija
+091F,0911:0673|Total-TV-Slovenija|Sport Klub Fight
+091F,0911:06E2|Total-TV-Slovenija|Sport Klub Golf
+091F,0911:055D|Total-TV-Slovenija|Sport Klub HD
+091F,0911:0308|Total-TV-Slovenija|TLC Balkan HD
+091F,0911:0363|Total-TV-Slovenija|TV 1000 Balkan
+091F,0911:054C|Total-TV-Slovenija|TV 24
+091F,0911:0679|Total-TV-Slovenija|TV 3
+091F,0911:0548|Total-TV-Slovenija|TV Palma Plus
+091F,0911:06DC|Total-TV-Slovenija|TV Slovenija 1 HD
+091F,0911:0D67|Total-TV-Slovenija|TV Slovenija 1 HD
+091F,0911:06DD|Total-TV-Slovenija|TV Slovenija 2 HD
+091F,0911:0D68|Total-TV-Slovenija|TV Slovenija 2 HD
+091F,0911:0D69|Total-TV-Slovenija|TV Slovenija 3 HD
+091F,0911:05B3|Total-TV-Slovenija|TV Vijesti
+091F,0911:045B|Total-TV-Slovenija|Viasat Explore East HD
+091F,0911:045C|Total-TV-Slovenija|Viasat History HD
+091F,0911:045A|Total-TV-Slovenija|Viasat Nature East HD
+091F,0911:0067|Total-TV-Slovenija|Z1 TV
+
 ## PROVIDER: Freesat
 ## CAID: 0500
 ## PROVID: 025900,025910
-## CREATE: 2025.02.09 00:28:29
+## CREATE: 2025.02.09 00:47:52
 0500:0007|Freesat|Acasa
 0500:0001|Freesat|Acasa Gold
 0500:0010|Freesat|Alfa Omega TV HD
@@ -4236,7 +5002,7 @@
 ## PROVIDER: A1-Croatia
 ## CAID: 0B00
 ## PROVID: 000000
-## CREATE: 2025.02.09 00:28:32
+## CREATE: 2025.02.09 00:47:54
 0B00:0771|A1-Croatia|24 Kitchen Hrvatska HD
 0B00:0065|A1-Croatia|Aljazeera Balkans HD
 0B00:0076|A1-Croatia|AMC Balkan
@@ -4353,7 +5119,7 @@
 ## PROVIDER: Antik-Sat
 ## CAID: 0B00
 ## PROVID: 000000
-## CREATE: 2025.02.09 00:28:35
+## CREATE: 2025.02.09 00:47:57
 0B00:0AA0|Antik-Sat|360 Tune Box
 0B00:047F|Antik-Sat|AMC Central Europe HD
 0B00:04B6|Antik-Sat|Arcadia World Cesky & Slovensky
@@ -4429,7 +5195,7 @@
 ## PROVIDER: New-World-TV
 ## CAID: 0B00,0B01,0B02
 ## PROVID: 000000
-## CREATE: 2025.02.09 00:28:37
+## CREATE: 2025.02.09 00:48:00
 0B00,0B01,0B02:0111|New-World-TV|Aforevo TV
 0B00,0B01,0B02:0259|New-World-TV|Africa TV 3
 0B00,0B01,0B02:0281|New-World-TV|Africa TV 3 Quran
@@ -4510,7 +5276,7 @@
 ## PROVIDER: Canal-plus-seca
 ## CAID: 0100,1813
 ## PROVID: 000000,000068
-## CREATE: 2025.02.09 00:28:40
+## CREATE: 2025.02.09 00:48:03
 0100,1813:3E26|Canal-plus-seca|13 Ulica HD
 0100,1813:428F|Canal-plus-seca|4 Fun Dance
 0100,1813:428E|Canal-plus-seca|4 Fun Kids
@@ -4754,7 +5520,7 @@
 ## PROVIDER: Canal-plus
 ## CAID: 0B01,1884
 ## PROVID: 000000
-## CREATE: 2025.02.09 00:28:43
+## CREATE: 2025.02.09 00:48:05
 0B01,1884:3E26|Canal-plus|13 Ulica HD
 0B01,1884:428F|Canal-plus|4 Fun Dance
 0B01,1884:428E|Canal-plus|4 Fun Kids
@@ -4998,7 +5764,7 @@
 ## PROVIDER: Polsat-Box
 ## CAID: 1803,1861,186C,06ED,1870
 ## PROVID: 000000,007001,007101
-## CREATE: 2025.02.09 00:28:45
+## CREATE: 2025.02.09 00:48:08
 1803,1861,186C,06ED,1870:3E26|Polsat-Box|13 Ulica HD
 1803,1861,186C,06ED,1870:428F|Polsat-Box|4 Fun Dance
 1803,1861,186C,06ED,1870:428E|Polsat-Box|4 Fun Kids
@@ -5238,7 +6004,7 @@
 ## PROVIDER: Orange-PL
 ## CAID: 0500
 ## PROVID: 032A00
-## CREATE: 2025.02.09 00:28:49
+## CREATE: 2025.02.09 00:48:10
 0500:3E26|Orange-PL|13 Ulica HD
 0500:428F|Orange-PL|4 Fun Dance
 0500:428E|Orange-PL|4 Fun Kids
@@ -5410,7 +6176,7 @@
 ## PROVIDER: Kabelio
 ## CAID: 4AFC
 ## PROVID: 000000
-## CREATE: 2025.02.09 00:28:51
+## CREATE: 2025.02.09 00:48:12
 4AFC:0064|Kabelio|3 HD
 4AFC:0065|Kabelio|4 HD
 4AFC:0066|Kabelio|5 HD
@@ -5511,7 +6277,7 @@
 ## PROVIDER: Bis-TV-13E
 ## CAID: 0500
 ## PROVID: 033A00,042820,051900,051A40
-## CREATE: 2025.02.09 00:28:54
+## CREATE: 2025.02.09 00:48:14
 0500:0142|Bis-TV-13E|6ter
 0500:01C4|Bis-TV-13E|AB 1
 0500:01CD|Bis-TV-13E|Action HD
@@ -5554,7 +6320,7 @@
 ## PROVIDER: Bis-TV-5W
 ## CAID: 0500
 ## PROVID: 033A00,042820,051900,051A40
-## CREATE: 2025.02.09 00:28:56
+## CREATE: 2025.02.09 00:48:16
 0500:01A6|Bis-TV-5W|6ter HD
 0500:00CB|Bis-TV-5W|AB 1 HD
 0500:00D4|Bis-TV-5W|Action HD
@@ -5588,7 +6354,7 @@
 ## PROVIDER: Fransat
 ## CAID: 0500
 ## PROVID: 041950,041960,041970,041980,041990,0419A0,0419B0,0419C0,0419D0
-## CREATE: 2025.02.09 00:28:59
+## CREATE: 2025.02.09 00:48:19
 0500:01A6|Fransat|6ter HD
 0500:00CB|Fransat|AB 1 HD
 0500:00D4|Fransat|Action HD
@@ -5732,7 +6498,7 @@
 ## PROVIDER: Yes
 ## CAID: 090C,090D,0930
 ## PROVID: 000000
-## CREATE: 2025.02.09 00:29:01
+## CREATE: 2025.02.09 00:48:22
 090C,090D,0930:0177|Yes|100 FM
 090C,090D,0930:0178|Yes|102 FM
 090C,090D,0930:0179|Yes|103 FM
@@ -5934,7 +6700,7 @@
 ## PROVIDER: Focus-Sat
 ## CAID: 0B02
 ## PROVID: 000000
-## CREATE: 2025.02.09 00:29:04
+## CREATE: 2025.02.09 00:48:25
 0B02:0D48|Focus-Sat|Agro TV
 0B02:0B60|Focus-Sat|Aljazeera English
 0B02:7983|Focus-Sat|AMC Cesko
@@ -6050,7 +6816,7 @@
 ## PROVIDER: Vivacom
 ## CAID: 09BD,06E1
 ## PROVID: 000000
-## CREATE: 2025.02.09 00:29:06
+## CREATE: 2025.02.09 00:48:28
 09BD,06E1:001C|Vivacom|24 Kitchen Bulgaria
 09BD,06E1:00D2|Vivacom|78 TV
 09BD,06E1:025B|Vivacom|Action Box
@@ -6267,7 +7033,7 @@
 ## PROVIDER: Nova
 ## CAID: 0604,0699
 ## PROVID: 000000
-## CREATE: 2025.02.09 00:29:09
+## CREATE: 2025.02.09 00:48:31
 0604,0699:0175|Nova|Action 24
 0604,0699:1BC1|Nova|Adult Pack info card
 0604,0699:1C8A|Nova|Aljazeera English HD
@@ -6389,7 +7155,7 @@
 ## PROVIDER: SkyIT
 ## CAID: 09CD
 ## PROVID: 000000
-## CREATE: 2025.02.09 00:29:12
+## CREATE: 2025.02.09 00:48:33
 09CD:0078|SkyIT|20 Mediaset HD
 09CD:0087|SkyIT|27 Twentyseven HD
 09CD:064D|SkyIT|ACI Sport TV HD
@@ -6625,7 +7391,7 @@
 ## PROVIDER: Tivusat
 ## CAID: 1856,183D,183E
 ## PROVID: 000000
-## CREATE: 2025.02.09 00:29:14
+## CREATE: 2025.02.09 00:48:36
 1856,183D,183E:0078|Tivusat|20 Mediaset HD
 1856,183D,183E:0087|Tivusat|27 Twentyseven HD
 1856,183D,183E:064D|Tivusat|ACI Sport TV HD
@@ -6861,7 +7627,7 @@
 ## PROVIDER: MEO
 ## CAID: 1802,1814
 ## PROVID: 005211,005221,005225,000000,000007
-## CREATE: 2025.02.09 00:29:17
+## CREATE: 2025.02.09 00:48:38
 1802,1814:0192|MEO|24 Kitchen Portugal HD
 1802,1814:0473|MEO|80s RFM
 1802,1814:006C|MEO|A Bola TV
@@ -7002,7 +7768,7 @@
 ## PROVIDER: Movistar
 ## CAID: 0100,1810
 ## PROVID: 000000,004001,004101
-## CREATE: 2025.02.09 00:29:20
+## CREATE: 2025.02.09 00:48:40
 0100,1810:75A9|Movistar| GuAa Movistar
 0100,1810:756D|Movistar| InfoLiga
 0100,1810:13A7|Movistar|Aljazeera English HD
@@ -7177,7 +7943,7 @@
 ## PROVIDER: SkyUK
 ## CAID: 0960,0961,0963
 ## PROVID: 000000
-## CREATE: 2025.02.09 00:29:23
+## CREATE: 2025.02.09 00:48:44
 0960,0961,0963:20B0|SkyUK|4Seven
 0960,0961,0963:083D|SkyUK|5 Action
 0960,0961,0963:0839|SkyUK|5 Select
@@ -7757,7 +8523,7 @@
 ## PROVIDER: Skylink
 ## CAID: 0D96,0624,0653,0500
 ## PROVID: 000000,051910
-## CREATE: 2025.02.09 00:29:26
+## CREATE: 2025.02.09 00:48:46
 0D96,0624,0653,0500:0308|Skylink|Acko
 0D96,0624,0653,0500:0309|Skylink|Acko Star
 0D96,0624,0653,0500:36FB|Skylink|AMC Cesko
@@ -7978,7 +8744,7 @@
 ## PROVIDER: M-Sat-TV
 ## CAID: 0B00,1871
 ## PROVID: 000000
-## CREATE: 2025.02.09 00:29:28
+## CREATE: 2025.02.09 00:48:49
 0B00,1871:4F38|M-Sat-TV|24 Kitchen Adria
 0B00,1871:4EAC|M-Sat-TV|24 Kitchen Srbija
 0B00,1871:4F1B|M-Sat-TV|Adria TV
@@ -8229,7 +8995,7 @@
 ## PROVIDER: MSat-TV-Srbija
 ## CAID: 0B00,1871
 ## PROVID: 000000
-## CREATE: 2025.02.09 00:29:30
+## CREATE: 2025.02.09 00:48:51
 0B00,1871:4EAC|MSat-TV-Srbija|24 Kitchen Srbija
 0B00,1871:4E32|MSat-TV-Srbija|Agro TV HD
 0B00,1871:4E86|MSat-TV-Srbija|Aljazeera Balkans
@@ -8392,7 +9158,7 @@
 ## PROVIDER: MSat-TV-Bosna-and-Hercegovina
 ## CAID: 0B00,1871
 ## PROVID: 000000
-## CREATE: 2025.02.09 00:29:33
+## CREATE: 2025.02.09 00:48:53
 0B00,1871:4F38|MSat-TV-Bosna-and-Hercegovina|24 Kitchen Adria
 0B00,1871:4E32|MSat-TV-Bosna-and-Hercegovina|Agro TV HD
 0B00,1871:4E86|MSat-TV-Bosna-and-Hercegovina|Aljazeera Balkans
@@ -8557,7 +9323,7 @@
 ## PROVIDER: MSat-TV-Crna-Gora
 ## CAID: 0B00,1871
 ## PROVID: 000000
-## CREATE: 2025.02.09 00:29:35
+## CREATE: 2025.02.09 00:48:56
 0B00,1871:4F1B|MSat-TV-Crna-Gora|Adria TV
 0B00,1871:4E32|MSat-TV-Crna-Gora|Agro TV HD
 0B00,1871:4E86|MSat-TV-Crna-Gora|Aljazeera Balkans
@@ -8720,7 +9486,7 @@
 ## PROVIDER: MSat-TV-Macedonija
 ## CAID: 0B00,1871
 ## PROVID: 000000
-## CREATE: 2025.02.09 00:29:37
+## CREATE: 2025.02.09 00:48:58
 0B00,1871:4F38|MSat-TV-Macedonija|24 Kitchen Adria
 0B00,1871:4E32|MSat-TV-Macedonija|Agro TV HD
 0B00,1871:4F32|MSat-TV-Macedonija|Alfa TV
@@ -8868,7 +9634,7 @@
 ## PROVIDER: TV-Vlaanderen
 ## CAID: 0100,1818
 ## PROVID: 000000,00006C
-## CREATE: 2025.02.09 00:29:40
+## CREATE: 2025.02.09 00:49:01
 0100,1818:5253|TV-Vlaanderen|100 NL
 0100,1818:0308|TV-Vlaanderen|Acko
 0100,1818:17F0|TV-Vlaanderen|Arrow Classic Rock
