@@ -1,7 +1,7 @@
 ## PROVIDER: Nos
 ## CAID: 1802
 ## PROVID: 000000,005221
-## CREATE: 2025.02.09 00:46:26
+## CREATE: 2025.02.09 01:02:30
 1802:0192|Nos|24 Kitchen Portugal HD
 1802:17A8|Nos|Afro Music Channel
 1802:00EB|Nos|AMC Break Portugal
@@ -138,7 +138,7 @@
 ## PROVIDER: Meo
 ## CAID: 0100,1814
 ## PROVID: 005211,005221,000000,000007
-## CREATE: 2025.02.09 00:46:29
+## CREATE: 2025.02.09 01:02:32
 0100,1814:0192|Meo|24 Kitchen Portugal HD
 0100,1814:0473|Meo|80s RFM
 0100,1814:006C|Meo|A Bola TV
@@ -279,7 +279,7 @@
 ## PROVIDER: Home-3
 ## CAID: 09E9
 ## PROVID: 000000
-## CREATE: 2025.02.09 00:46:31
+## CREATE: 2025.02.09 01:02:35
 09E9:2792|Home-3|3 Plus Latvija
 09E9:285A|Home-3|3 Plus Lietuva
 09E9:2922|Home-3|360 TV
@@ -356,10 +356,167 @@
 09E9:2936|Home-3|Viasat Nature East
 09E9:2937|Home-3|Viasat Nature East
 
+## PROVIDER: Home-3-Eesti
+## CAID: 09E9
+## PROVID: 000000
+## CREATE: 2025.02.09 01:02:38
+09E9:289B|Home-3-Eesti|BBC News Europe
+09E9:28A0|Home-3-Eesti|Brazzers TV Europe
+09E9:297C|Home-3-Eesti|Discovery Channel Rossiya
+09E9:2873|Home-3-Eesti|Disney Channel Baltics
+09E9:2878|Home-3-Eesti|Disney Junior Baltics
+09E9:27EC|Home-3-Eesti|Duo 3
+09E9:2855|Home-3-Eesti|Duo 4
+09E9:27E2|Home-3-Eesti|Duo 5
+09E9:296D|Home-3-Eesti|Duo 6
+09E9:294A|Home-3-Eesti|Epic Drama HD
+09E9:284B|Home-3-Eesti|ETV
+09E9:2968|Home-3-Eesti|ETV 
+09E9:2918|Home-3-Eesti|ETV 2
+09E9:293B|Home-3-Eesti|EuroNews Russkiy
+09E9:2972|Home-3-Eesti|Eurosport 1 East Europe
+09E9:2977|Home-3-Eesti|Eurosport 2 East Europe
+09E9:2864|Home-3-Eesti|FilmUaDrama
+09E9:27E7|Home-3-Eesti|FX CIS
+09E9:28D7|Home-3-Eesti|FX Life CIS
+09E9:2940|Home-3-Eesti|Go 3 Films HD
+09E9:2945|Home-3-Eesti|Go 3 Sport 1 HD
+09E9:28A5|Home-3-Eesti|Go 3 Sport 2 HD
+09E9:2963|Home-3-Eesti|Go 3 Sport 3
+09E9:2882|Home-3-Eesti|Go 3 Sport Open
+09E9:2850|Home-3-Eesti|Kanal 2
+09E9:27DD|Home-3-Eesti|KidZone TV
+09E9:28AA|Home-3-Eesti|MTV 00s
+09E9:27D8|Home-3-Eesti|MTV Hits Europe
+09E9:2904|Home-3-Eesti|Nastoyashcheye Vremya
+09E9:27C4|Home-3-Eesti|National Geographic Channel HD Europe
+09E9:28C8|Home-3-Eesti|NBA TV HD
+09E9:288C|Home-3-Eesti|Nick Jr Scandinavia
+09E9:2887|Home-3-Eesti|Nickelodeon CIS
+09E9:2891|Home-3-Eesti|Nicktoons Scandinavia
+09E9:27AB|Home-3-Eesti|OTV
+09E9:28AF|Home-3-Eesti|Playboy TV Europe
+09E9:2869|Home-3-Eesti|Setanta Sports 1 Evraziya
+09E9:277E|Home-3-Eesti|Star Family
+09E9:27B5|Home-3-Eesti|TLC Rossiya
+09E9:294F|Home-3-Eesti|TV 3 Eesti HD
+09E9:2783|Home-3-Eesti|TV 3 Life
+09E9:286E|Home-3-Eesti|TV 3 Life
+09E9:2846|Home-3-Eesti|TV 6 Eesti
+09E9:27C9|Home-3-Eesti|Viasat Explore HD
+09E9:27CE|Home-3-Eesti|Viasat History HD
+09E9:27BA|Home-3-Eesti|Viasat Kino
+09E9:285F|Home-3-Eesti|Viasat Kino Action
+09E9:27BF|Home-3-Eesti|Viasat Kino World
+09E9:2936|Home-3-Eesti|Viasat Nature East
+
+## PROVIDER: Home-3-Latvija
+## CAID: 09E9
+## PROVID: 000000
+## CREATE: 2025.02.09 01:02:40
+09E9:2792|Home-3-Latvija|3 Plus Latvija
+09E9:2922|Home-3-Latvija|360 TV
+09E9:289B|Home-3-Latvija|BBC News Europe
+09E9:28A0|Home-3-Latvija|Brazzers TV Europe
+09E9:297C|Home-3-Latvija|Discovery Channel Rossiya
+09E9:297D|Home-3-Latvija|Discovery Channel Rossiya
+09E9:2873|Home-3-Latvija|Disney Channel Baltics
+09E9:2878|Home-3-Latvija|Disney Junior Baltics
+09E9:27EC|Home-3-Latvija|Duo 3
+09E9:296D|Home-3-Latvija|Duo 6
+09E9:294A|Home-3-Latvija|Epic Drama HD
+09E9:294B|Home-3-Latvija|Epic Drama HD
+09E9:293B|Home-3-Latvija|EuroNews Russkiy
+09E9:2972|Home-3-Latvija|Eurosport 1 East Europe
+09E9:2977|Home-3-Latvija|Eurosport 2 East Europe
+09E9:2864|Home-3-Latvija|FilmUaDrama
+09E9:27E7|Home-3-Latvija|FX CIS
+09E9:28D7|Home-3-Latvija|FX Life CIS
+09E9:28D8|Home-3-Latvija|FX Life CIS
+09E9:2940|Home-3-Latvija|Go 3 Films HD
+09E9:2945|Home-3-Latvija|Go 3 Sport 1 HD
+09E9:28A5|Home-3-Latvija|Go 3 Sport 2 HD
+09E9:2963|Home-3-Latvija|Go 3 Sport 3
+09E9:2882|Home-3-Latvija|Go 3 Sport Open
+09E9:27DD|Home-3-Latvija|KidZone TV
+09E9:2774|Home-3-Latvija|LTV 1
+09E9:2779|Home-3-Latvija|LTV 7
+09E9:27D8|Home-3-Latvija|MTV Hits Europe
+09E9:2904|Home-3-Latvija|Nastoyashcheye Vremya
+09E9:27C4|Home-3-Latvija|National Geographic Channel HD Europe
+09E9:28C8|Home-3-Latvija|NBA TV HD
+09E9:2891|Home-3-Latvija|Nicktoons Scandinavia
+09E9:28AF|Home-3-Latvija|Playboy TV Europe
+09E9:287D|Home-3-Latvija|Re TV
+09E9:2869|Home-3-Latvija|Setanta Sports 1 Evraziya
+09E9:277E|Home-3-Latvija|Star Family
+09E9:27B5|Home-3-Latvija|TLC Rossiya
+09E9:28D2|Home-3-Latvija|TV 24
+09E9:2954|Home-3-Latvija|TV 3 Latvija HD
+09E9:2783|Home-3-Latvija|TV 3 Life
+09E9:286E|Home-3-Latvija|TV 3 Life
+09E9:278D|Home-3-Latvija|TV 3 Mini
+09E9:2788|Home-3-Latvija|TV 6 Latvija
+09E9:27C9|Home-3-Latvija|Viasat Explore HD
+09E9:27CE|Home-3-Latvija|Viasat History HD
+09E9:27BA|Home-3-Latvija|Viasat Kino
+09E9:285F|Home-3-Latvija|Viasat Kino Action
+09E9:2860|Home-3-Latvija|Viasat Kino Action
+09E9:27BF|Home-3-Latvija|Viasat Kino World
+09E9:2936|Home-3-Latvija|Viasat Nature East
+09E9:2937|Home-3-Latvija|Viasat Nature East
+
+## PROVIDER: Home-3-Lietuva
+## CAID: 09E9
+## PROVID: 000000
+## CREATE: 2025.02.09 01:02:42
+09E9:27A1|Home-3-Lietuva|Baltijos TV
+09E9:289B|Home-3-Lietuva|BBC News Europe
+09E9:297C|Home-3-Lietuva|Discovery Channel Rossiya
+09E9:2873|Home-3-Lietuva|Disney Channel Baltics
+09E9:2878|Home-3-Lietuva|Disney Junior Baltics
+09E9:27EC|Home-3-Lietuva|Duo 3
+09E9:296D|Home-3-Lietuva|Duo 6
+09E9:294A|Home-3-Lietuva|Epic Drama HD
+09E9:2972|Home-3-Lietuva|Eurosport 1 East Europe
+09E9:2977|Home-3-Lietuva|Eurosport 2 East Europe
+09E9:27E7|Home-3-Lietuva|FX CIS
+09E9:28D7|Home-3-Lietuva|FX Life CIS
+09E9:2940|Home-3-Lietuva|Go 3 Films HD
+09E9:2945|Home-3-Lietuva|Go 3 Sport 1 HD
+09E9:28A5|Home-3-Lietuva|Go 3 Sport 2 HD
+09E9:2963|Home-3-Lietuva|Go 3 Sport 3
+09E9:2882|Home-3-Lietuva|Go 3 Sport Open
+09E9:27DD|Home-3-Lietuva|KidZone TV
+09E9:2913|Home-3-Lietuva|Lietuvos Rytas TV
+09E9:279C|Home-3-Lietuva|LNK
+09E9:290E|Home-3-Lietuva|LRT Lituanica
+09E9:28CD|Home-3-Lietuva|LRT Plius
+09E9:2909|Home-3-Lietuva|LRT TV
+09E9:28AA|Home-3-Lietuva|MTV 00s
+09E9:27D8|Home-3-Lietuva|MTV Hits Europe
+09E9:27C4|Home-3-Lietuva|National Geographic Channel HD Europe
+09E9:28C8|Home-3-Lietuva|NBA TV HD
+09E9:288C|Home-3-Lietuva|Nick Jr Scandinavia
+09E9:2891|Home-3-Lietuva|Nicktoons Scandinavia
+09E9:28AF|Home-3-Lietuva|Playboy TV Europe
+09E9:2869|Home-3-Lietuva|Setanta Sports 1 Evraziya
+09E9:27B5|Home-3-Lietuva|TLC Rossiya
+09E9:27A6|Home-3-Lietuva|TV 1
+09E9:2959|Home-3-Lietuva|TV 3 Lietuva HD
+09E9:283C|Home-3-Lietuva|TV 6 Lietuva
+09E9:2797|Home-3-Lietuva|TV 8 Lietuva
+09E9:27C9|Home-3-Lietuva|Viasat Explore HD
+09E9:27CE|Home-3-Lietuva|Viasat History HD
+09E9:27BA|Home-3-Lietuva|Viasat Kino
+09E9:285F|Home-3-Lietuva|Viasat Kino Action
+09E9:27BF|Home-3-Lietuva|Viasat Kino World
+09E9:2936|Home-3-Lietuva|Viasat Nature East
+
 ## PROVIDER: Viasat-Ukraina
 ## CAID: 5604
 ## PROVID: 000000
-## CREATE: 2025.02.09 00:46:34
+## CREATE: 2025.02.09 01:02:44
 5604:17ED|Viasat-Ukraina|11 International
 5604:17D4|Viasat-Ukraina|11 Marafon
 5604:17D5|Viasat-Ukraina|11 UkraAZna
@@ -460,7 +617,7 @@
 ## PROVIDER: Azam-Digital-7E
 ## CAID: 1868
 ## PROVID: 000000
-## CREATE: 2025.02.09 00:46:36
+## CREATE: 2025.02.09 01:02:46
 1868:0051|Azam-Digital-7E|888 CBS FM
 1868:0052|Azam-Digital-7E|933 KFM
 1868:00EB|Azam-Digital-7E|Africanews
@@ -583,7 +740,7 @@
 ## PROVIDER: Trikolor-36E
 ## CAID: 2710,4AE0,4AE1,5500
 ## PROVID: 000000,000018,000019,00001A,000028,000015,000002,000011,000014,0000FE
-## CREATE: 2025.02.09 00:46:39
+## CREATE: 2025.02.09 01:02:50
 2710,4AE0,4AE1,5500:88BA|Trikolor-36E|5 Kanal
 2710,4AE0,4AE1,5500:88D2|Trikolor-36E|5 Kanal
 2710,4AE0,4AE1,5500:59E2|Trikolor-36E|6 kadrov
@@ -927,7 +1084,7 @@
 ## PROVIDER: Trikolor-56E
 ## CAID: 2710,4AE0,4AE1,5500
 ## PROVID: 000000,000018,000019,00001A,000028,000015,000002,000011,000014,0000FE
-## CREATE: 2025.02.09 00:46:42
+## CREATE: 2025.02.09 01:02:53
 2710,4AE0,4AE1,5500:61B5|Trikolor-56E|12 Kanal
 2710,4AE0,4AE1,5500:59DD|Trikolor-56E|5 Kanal
 2710,4AE0,4AE1,5500:908D|Trikolor-56E|5 Kanal
@@ -1308,7 +1465,7 @@
 ## PROVIDER: NTV-Plus-Vostok
 ## CAID: 0500
 ## PROVID: 023D00
-## CREATE: 2025.02.09 00:46:44
+## CREATE: 2025.02.09 01:02:55
 0500:DCC0|NTV-Plus-Vostok|365 dnei TV
 0500:DD80|NTV-Plus-Vostok|5 Kanal
 0500:DDE5|NTV-Plus-Vostok|5 Kanal
@@ -1496,7 +1653,7 @@
 ## PROVIDER: Russkiy-Mir
 ## CAID: 44A0
 ## PROVID: 000000
-## CREATE: 2025.02.09 00:46:46
+## CREATE: 2025.02.09 01:02:57
 44A0:0AF2|Russkiy-Mir|1 Krim
 44A0:0965|Russkiy-Mir|5 Kanal
 44A0:0AF7|Russkiy-Mir|Dom Kino
@@ -1545,7 +1702,7 @@
 ## PROVIDER: Azam-Digital-46e
 ## CAID: 1868
 ## PROVID: 000000
-## CREATE: 2025.02.09 00:46:48
+## CREATE: 2025.02.09 01:03:00
 1868:00E7|Azam-Digital-46e|Aljazeera English
 1868:0093|Azam-Digital-46e|AMC Movies
 1868:0092|Azam-Digital-46e|AMC Series
@@ -1609,7 +1766,7 @@
 ## PROVIDER: Vivacom-45E
 ## CAID: 09BD,06E1
 ## PROVID: 000000
-## CREATE: 2025.02.09 00:46:51
+## CREATE: 2025.02.09 01:03:02
 09BD,06E1:03ED|Vivacom-45E|78 TV
 09BD,06E1:03EB|Vivacom-45E|BNT 1
 09BD,06E1:03F6|Vivacom-45E|BNT 2
@@ -1655,7 +1812,7 @@
 ## PROVIDER: Dialog-TV
 ## CAID: 0631,0680,06D8
 ## PROVID: 000000
-## CREATE: 2025.02.09 00:46:53
+## CREATE: 2025.02.09 01:03:05
 0631,0680,06D8:0140|Dialog-TV|& flix
 0631,0680,06D8:00DE|Dialog-TV|A Plus Kids TV
 0631,0680,06D8:00CD|Dialog-TV|ABC Australia India
@@ -1786,7 +1943,7 @@
 ## PROVIDER: Digiturk
 ## CAID: 0664
 ## PROVID: 000000,000001,000002,000003
-## CREATE: 2025.02.09 00:46:56
+## CREATE: 2025.02.09 01:03:07
 0664:40D8|Digiturk|24 TV
 0664:413C|Digiturk|24 TV HD
 0664:40D9|Digiturk|360
@@ -2078,7 +2235,7 @@
 ## PROVIDER: D-Smart
 ## CAID: 092B
 ## PROVID: 000000
-## CREATE: 2025.02.09 00:46:58
+## CREATE: 2025.02.09 01:03:10
 092B:0780|D-Smart|2000s
 092B:413C|D-Smart|24 TV HD
 092B:413D|D-Smart|360 HD
@@ -2349,7 +2506,7 @@
 ## PROVIDER: Orange-Romania
 ## CAID: 0500
 ## PROVID: 051300,051310,051340
-## CREATE: 2025.02.09 00:47:01
+## CREATE: 2025.02.09 01:03:13
 0500:008A|Orange-Romania|A7 TV
 0500:0167|Orange-Romania|Acasa
 0500:0146|Orange-Romania|Acasa Gold
@@ -2509,7 +2666,7 @@
 ## PROVIDER: Bulsatcom
 ## CAID: 1878,4AEE
 ## PROVID: 000000
-## CREATE: 2025.02.09 00:47:04
+## CREATE: 2025.02.09 01:03:16
 1878,4AEE:0024|Bulsatcom|24 Kitchen Bulgaria
 1878,4AEE:0020|Bulsatcom|78 TV
 1878,4AEE:0028|Bulsatcom|Action Box
@@ -2672,7 +2829,7 @@
 ## PROVIDER: A1-Bulgaria
 ## CAID: 188D,0B00
 ## PROVID: 000000
-## CREATE: 2025.02.09 00:47:06
+## CREATE: 2025.02.09 01:03:19
 188D,0B00:045D|A1-Bulgaria|24 Kitchen Bulgaria
 188D,0B00:00D0|A1-Bulgaria|78 TV HD
 188D,0B00:00CF|A1-Bulgaria|8 Kanal International
@@ -2820,7 +2977,7 @@
 ## PROVIDER: Tring
 ## CAID: 0BAA
 ## PROVID: 000000
-## CREATE: 2025.02.09 00:47:09
+## CREATE: 2025.02.09 01:03:21
 0BAA:080C|Tring|3 Plus
 0BAA:05B4|Tring|ABC
 0BAA:0456|Tring|ATV
@@ -2889,7 +3046,7 @@
 ## PROVIDER: Cosmote-TV
 ## CAID: 095E,09BE
 ## PROVID: 000000
-## CREATE: 2025.02.09 00:47:12
+## CREATE: 2025.02.09 01:03:24
 095E,09BE:03F4|Cosmote-TV|4E
 095E,09BE:0464|Cosmote-TV|Action 24
 095E,09BE:03E9|Cosmote-TV|AEK Super League Pass
@@ -3005,7 +3162,7 @@
 ## PROVIDER: M7Group
 ## CAID: 0D96,0624
 ## PROVID: 000000,000004,000008,00000C,000010,000024,000028
-## CREATE: 2025.02.09 00:47:14
+## CREATE: 2025.02.09 01:03:27
 0D96,0624:01F8|M7Group|Auto Motor und Sport
 0D96,0624:00EC|M7Group|BBC News Europe
 0D96,0624:00D8|M7Group|Comedy Central Deutschland
@@ -3053,7 +3210,7 @@
 ## PROVIDER: SkyDE
 ## CAID: 1833,1834,1702,1722,09C4,09AF,098C,098D
 ## PROVID: 000000
-## CREATE: 2025.02.09 00:47:19
+## CREATE: 2025.02.09 01:03:30
 1833,1834,1702,1722,09C4,09AF,098C,098D:0296|SkyDE|1-2-3 TV
 1833,1834,1702,1722,09C4,09AF,098C,098D:157E|SkyDE|1-2-3 TV HD
 1833,1834,1702,1722,09C4,09AF,098C,098D:007F|SkyDE|13th Street Deutschland HD
@@ -3466,7 +3623,7 @@
 ## PROVIDER: HD
 ## CAID: 1830,1843,1860,186A,186D
 ## PROVID: 000000
-## CREATE: 2025.02.09 00:47:21
+## CREATE: 2025.02.09 01:03:33
 1830,1843,1860,186A,186D:6FEC|HD|Comedy Central Deutschland HD
 1830,1843,1860,186A,186D:29D0|HD|Crime Time HD
 1830,1843,1860,186A,186D:296B|HD|Deluxe Dance by Kontor HD
@@ -3512,7 +3669,7 @@
 ## PROVIDER: ORF-Digital
 ## CAID: 0648,0650,0d95,0D98
 ## PROVID: 000000,000004,000008,00000c,000010
-## CREATE: 2025.02.09 00:47:23
+## CREATE: 2025.02.09 01:03:36
 0648,0650,0d95,0D98:3338|ORF-Digital|4Mediathek info card
 0648,0650,0d95,0D98:134C|ORF-Digital|A1
 0648,0650,0d95,0D98:33FF|ORF-Digital|Aristo TV
@@ -3576,7 +3733,7 @@
 ## PROVIDER: Canal-France
 ## CAID: 0500
 ## PROVID: 032830,042820,042830,032920,032940,051900
-## CREATE: 2025.02.09 00:47:26
+## CREATE: 2025.02.09 01:03:39
 0500:220A|Canal-France|6ter HD
 0500:2070|Canal-France|A la une HD
 0500:427D|Canal-France|AB 1 HD
@@ -3767,7 +3924,7 @@
 ## PROVIDER: Max-TV
 ## CAID: 1830
 ## PROVID: 000000
-## CREATE: 2025.02.09 00:47:28
+## CREATE: 2025.02.09 01:03:41
 1830:0066|Max-TV|24 Kitchen Hrvatska
 1830:00CB|Max-TV|Antena Zagreb
 1830:019C|Max-TV|Arena Sport 1 Hrvatska HD
@@ -3877,7 +4034,7 @@
 ## PROVIDER: DigitAlb
 ## CAID: 0B00,0B02
 ## PROVID: 000000
-## CREATE: 2025.02.09 00:47:31
+## CREATE: 2025.02.09 01:03:45
 0B00,0B02:03FD|DigitAlb|24 Kitchen Srbija
 0B00,0B02:0CE4|DigitAlb|A2 CNN HD
 0B00,0B02:0CBC|DigitAlb|ABC HD
@@ -3975,7 +4132,7 @@
 ## PROVIDER: Total-TV
 ## CAID: 091F,0911
 ## PROVID: 000000
-## CREATE: 2025.02.09 00:47:35
+## CREATE: 2025.02.09 01:03:47
 091F,0911:06ED|Total-TV|24 Kitchen Srbija HD
 091F,0911:0AA0|Total-TV|360 Tune Box
 091F,0911:054A|Total-TV|Alfa TV
@@ -4202,7 +4359,7 @@
 ## PROVIDER: Total-TV-Bosna-and-Hercegovina
 ## CAID: 091F,0911
 ## PROVID: 000000
-## CREATE: 2025.02.09 00:47:38
+## CREATE: 2025.02.09 01:03:50
 091F,0911:06ED|Total-TV-Bosna-and-Hercegovina|24 Kitchen Srbija HD
 091F,0911:0AA0|Total-TV-Bosna-and-Hercegovina|360 Tune Box
 091F,0911:054A|Total-TV-Bosna-and-Hercegovina|Alfa TV
@@ -4365,7 +4522,7 @@
 ## PROVIDER: Total-TV-Hrvatska
 ## CAID: 091F,0911
 ## PROVID: 000000
-## CREATE: 2025.02.09 00:47:40
+## CREATE: 2025.02.09 01:03:52
 091F,0911:0787|Total-TV-Hrvatska|Cinemax 2 Central Europe HD
 091F,0911:0786|Total-TV-Hrvatska|Cinemax Central Europe HD
 091F,0911:0551|Total-TV-Hrvatska|CineStar 1
@@ -4415,7 +4572,7 @@
 ## PROVIDER: Total-TV-Makedonija
 ## CAID: 091F,0911
 ## PROVID: 000000
-## CREATE: 2025.02.09 00:47:43
+## CREATE: 2025.02.09 01:03:55
 091F,0911:06ED|Total-TV-Makedonija|24 Kitchen Srbija HD
 091F,0911:0AA0|Total-TV-Makedonija|360 Tune Box
 091F,0911:054F|Total-TV-Makedonija|Alfa TV
@@ -4558,7 +4715,7 @@
 ## PROVIDER: Total-TV-Crna-Gora
 ## CAID: 091F,0911
 ## PROVID: 000000
-## CREATE: 2025.02.09 00:47:45
+## CREATE: 2025.02.09 01:03:58
 091F,0911:06ED|Total-TV-Crna-Gora|24 Kitchen Srbija HD
 091F,0911:0AA0|Total-TV-Crna-Gora|360 Tune Box
 091F,0911:054F|Total-TV-Crna-Gora|Alfa TV
@@ -4712,7 +4869,7 @@
 ## PROVIDER: Total-TV-Srbija
 ## CAID: 091F,0911
 ## PROVID: 000000
-## CREATE: 2025.02.09 00:47:47
+## CREATE: 2025.02.09 01:04:00
 091F,0911:06ED|Total-TV-Srbija|24 Kitchen Srbija HD
 091F,0911:0AA0|Total-TV-Srbija|360 Tune Box
 091F,0911:054A|Total-TV-Srbija|Alfa TV
@@ -4882,7 +5039,7 @@
 ## PROVIDER: Total-TV-Slovenija
 ## CAID: 091F,0911
 ## PROVID: 000000
-## CREATE: 2025.02.09 00:47:50
+## CREATE: 2025.02.09 01:04:02
 091F,0911:06ED|Total-TV-Slovenija|24 Kitchen Srbija HD
 091F,0911:054F|Total-TV-Slovenija|Alfa TV
 091F,0911:0675|Total-TV-Slovenija|Alternativna TV
@@ -4968,7 +5125,7 @@
 ## PROVIDER: Freesat
 ## CAID: 0500
 ## PROVID: 025900,025910
-## CREATE: 2025.02.09 00:47:52
+## CREATE: 2025.02.09 01:04:05
 0500:0007|Freesat|Acasa
 0500:0001|Freesat|Acasa Gold
 0500:0010|Freesat|Alfa Omega TV HD
@@ -5002,7 +5159,7 @@
 ## PROVIDER: A1-Croatia
 ## CAID: 0B00
 ## PROVID: 000000
-## CREATE: 2025.02.09 00:47:54
+## CREATE: 2025.02.09 01:04:07
 0B00:0771|A1-Croatia|24 Kitchen Hrvatska HD
 0B00:0065|A1-Croatia|Aljazeera Balkans HD
 0B00:0076|A1-Croatia|AMC Balkan
@@ -5119,7 +5276,7 @@
 ## PROVIDER: Antik-Sat
 ## CAID: 0B00
 ## PROVID: 000000
-## CREATE: 2025.02.09 00:47:57
+## CREATE: 2025.02.09 01:04:10
 0B00:0AA0|Antik-Sat|360 Tune Box
 0B00:047F|Antik-Sat|AMC Central Europe HD
 0B00:04B6|Antik-Sat|Arcadia World Cesky & Slovensky
@@ -5195,7 +5352,7 @@
 ## PROVIDER: New-World-TV
 ## CAID: 0B00,0B01,0B02
 ## PROVID: 000000
-## CREATE: 2025.02.09 00:48:00
+## CREATE: 2025.02.09 01:04:12
 0B00,0B01,0B02:0111|New-World-TV|Aforevo TV
 0B00,0B01,0B02:0259|New-World-TV|Africa TV 3
 0B00,0B01,0B02:0281|New-World-TV|Africa TV 3 Quran
@@ -5276,7 +5433,7 @@
 ## PROVIDER: Canal-plus-seca
 ## CAID: 0100,1813
 ## PROVID: 000000,000068
-## CREATE: 2025.02.09 00:48:03
+## CREATE: 2025.02.09 01:04:15
 0100,1813:3E26|Canal-plus-seca|13 Ulica HD
 0100,1813:428F|Canal-plus-seca|4 Fun Dance
 0100,1813:428E|Canal-plus-seca|4 Fun Kids
@@ -5520,7 +5677,7 @@
 ## PROVIDER: Canal-plus
 ## CAID: 0B01,1884
 ## PROVID: 000000
-## CREATE: 2025.02.09 00:48:05
+## CREATE: 2025.02.09 01:04:17
 0B01,1884:3E26|Canal-plus|13 Ulica HD
 0B01,1884:428F|Canal-plus|4 Fun Dance
 0B01,1884:428E|Canal-plus|4 Fun Kids
@@ -5764,7 +5921,7 @@
 ## PROVIDER: Polsat-Box
 ## CAID: 1803,1861,186C,06ED,1870
 ## PROVID: 000000,007001,007101
-## CREATE: 2025.02.09 00:48:08
+## CREATE: 2025.02.09 01:04:20
 1803,1861,186C,06ED,1870:3E26|Polsat-Box|13 Ulica HD
 1803,1861,186C,06ED,1870:428F|Polsat-Box|4 Fun Dance
 1803,1861,186C,06ED,1870:428E|Polsat-Box|4 Fun Kids
@@ -6004,7 +6161,7 @@
 ## PROVIDER: Orange-PL
 ## CAID: 0500
 ## PROVID: 032A00
-## CREATE: 2025.02.09 00:48:10
+## CREATE: 2025.02.09 01:04:22
 0500:3E26|Orange-PL|13 Ulica HD
 0500:428F|Orange-PL|4 Fun Dance
 0500:428E|Orange-PL|4 Fun Kids
@@ -6176,7 +6333,7 @@
 ## PROVIDER: Kabelio
 ## CAID: 4AFC
 ## PROVID: 000000
-## CREATE: 2025.02.09 00:48:12
+## CREATE: 2025.02.09 01:04:25
 4AFC:0064|Kabelio|3 HD
 4AFC:0065|Kabelio|4 HD
 4AFC:0066|Kabelio|5 HD
@@ -6277,7 +6434,7 @@
 ## PROVIDER: Bis-TV-13E
 ## CAID: 0500
 ## PROVID: 033A00,042820,051900,051A40
-## CREATE: 2025.02.09 00:48:14
+## CREATE: 2025.02.09 01:04:27
 0500:0142|Bis-TV-13E|6ter
 0500:01C4|Bis-TV-13E|AB 1
 0500:01CD|Bis-TV-13E|Action HD
@@ -6320,7 +6477,7 @@
 ## PROVIDER: Bis-TV-5W
 ## CAID: 0500
 ## PROVID: 033A00,042820,051900,051A40
-## CREATE: 2025.02.09 00:48:16
+## CREATE: 2025.02.09 01:04:30
 0500:01A6|Bis-TV-5W|6ter HD
 0500:00CB|Bis-TV-5W|AB 1 HD
 0500:00D4|Bis-TV-5W|Action HD
@@ -6354,7 +6511,7 @@
 ## PROVIDER: Fransat
 ## CAID: 0500
 ## PROVID: 041950,041960,041970,041980,041990,0419A0,0419B0,0419C0,0419D0
-## CREATE: 2025.02.09 00:48:19
+## CREATE: 2025.02.09 01:04:32
 0500:01A6|Fransat|6ter HD
 0500:00CB|Fransat|AB 1 HD
 0500:00D4|Fransat|Action HD
@@ -6498,7 +6655,7 @@
 ## PROVIDER: Yes
 ## CAID: 090C,090D,0930
 ## PROVID: 000000
-## CREATE: 2025.02.09 00:48:22
+## CREATE: 2025.02.09 01:04:35
 090C,090D,0930:0177|Yes|100 FM
 090C,090D,0930:0178|Yes|102 FM
 090C,090D,0930:0179|Yes|103 FM
@@ -6700,7 +6857,7 @@
 ## PROVIDER: Focus-Sat
 ## CAID: 0B02
 ## PROVID: 000000
-## CREATE: 2025.02.09 00:48:25
+## CREATE: 2025.02.09 01:04:38
 0B02:0D48|Focus-Sat|Agro TV
 0B02:0B60|Focus-Sat|Aljazeera English
 0B02:7983|Focus-Sat|AMC Cesko
@@ -6816,7 +6973,7 @@
 ## PROVIDER: Vivacom
 ## CAID: 09BD,06E1
 ## PROVID: 000000
-## CREATE: 2025.02.09 00:48:28
+## CREATE: 2025.02.09 01:04:41
 09BD,06E1:001C|Vivacom|24 Kitchen Bulgaria
 09BD,06E1:00D2|Vivacom|78 TV
 09BD,06E1:025B|Vivacom|Action Box
@@ -7033,7 +7190,7 @@
 ## PROVIDER: Nova
 ## CAID: 0604,0699
 ## PROVID: 000000
-## CREATE: 2025.02.09 00:48:31
+## CREATE: 2025.02.09 01:04:44
 0604,0699:0175|Nova|Action 24
 0604,0699:1BC1|Nova|Adult Pack info card
 0604,0699:1C8A|Nova|Aljazeera English HD
@@ -7155,7 +7312,7 @@
 ## PROVIDER: SkyIT
 ## CAID: 09CD
 ## PROVID: 000000
-## CREATE: 2025.02.09 00:48:33
+## CREATE: 2025.02.09 01:04:47
 09CD:0078|SkyIT|20 Mediaset HD
 09CD:0087|SkyIT|27 Twentyseven HD
 09CD:064D|SkyIT|ACI Sport TV HD
@@ -7391,7 +7548,7 @@
 ## PROVIDER: Tivusat
 ## CAID: 1856,183D,183E
 ## PROVID: 000000
-## CREATE: 2025.02.09 00:48:36
+## CREATE: 2025.02.09 01:04:51
 1856,183D,183E:0078|Tivusat|20 Mediaset HD
 1856,183D,183E:0087|Tivusat|27 Twentyseven HD
 1856,183D,183E:064D|Tivusat|ACI Sport TV HD
@@ -7627,7 +7784,7 @@
 ## PROVIDER: MEO
 ## CAID: 1802,1814
 ## PROVID: 005211,005221,005225,000000,000007
-## CREATE: 2025.02.09 00:48:38
+## CREATE: 2025.02.09 01:04:55
 1802,1814:0192|MEO|24 Kitchen Portugal HD
 1802,1814:0473|MEO|80s RFM
 1802,1814:006C|MEO|A Bola TV
@@ -7768,7 +7925,7 @@
 ## PROVIDER: Movistar
 ## CAID: 0100,1810
 ## PROVID: 000000,004001,004101
-## CREATE: 2025.02.09 00:48:40
+## CREATE: 2025.02.09 01:04:58
 0100,1810:75A9|Movistar| GuAa Movistar
 0100,1810:756D|Movistar| InfoLiga
 0100,1810:13A7|Movistar|Aljazeera English HD
@@ -7943,7 +8100,7 @@
 ## PROVIDER: SkyUK
 ## CAID: 0960,0961,0963
 ## PROVID: 000000
-## CREATE: 2025.02.09 00:48:44
+## CREATE: 2025.02.09 01:05:02
 0960,0961,0963:20B0|SkyUK|4Seven
 0960,0961,0963:083D|SkyUK|5 Action
 0960,0961,0963:0839|SkyUK|5 Select
@@ -8523,7 +8680,7 @@
 ## PROVIDER: Skylink
 ## CAID: 0D96,0624,0653,0500
 ## PROVID: 000000,051910
-## CREATE: 2025.02.09 00:48:46
+## CREATE: 2025.02.09 01:05:05
 0D96,0624,0653,0500:0308|Skylink|Acko
 0D96,0624,0653,0500:0309|Skylink|Acko Star
 0D96,0624,0653,0500:36FB|Skylink|AMC Cesko
@@ -8744,7 +8901,7 @@
 ## PROVIDER: M-Sat-TV
 ## CAID: 0B00,1871
 ## PROVID: 000000
-## CREATE: 2025.02.09 00:48:49
+## CREATE: 2025.02.09 01:05:08
 0B00,1871:4F38|M-Sat-TV|24 Kitchen Adria
 0B00,1871:4EAC|M-Sat-TV|24 Kitchen Srbija
 0B00,1871:4F1B|M-Sat-TV|Adria TV
@@ -8995,7 +9152,7 @@
 ## PROVIDER: MSat-TV-Srbija
 ## CAID: 0B00,1871
 ## PROVID: 000000
-## CREATE: 2025.02.09 00:48:51
+## CREATE: 2025.02.09 01:05:10
 0B00,1871:4EAC|MSat-TV-Srbija|24 Kitchen Srbija
 0B00,1871:4E32|MSat-TV-Srbija|Agro TV HD
 0B00,1871:4E86|MSat-TV-Srbija|Aljazeera Balkans
@@ -9158,7 +9315,7 @@
 ## PROVIDER: MSat-TV-Bosna-and-Hercegovina
 ## CAID: 0B00,1871
 ## PROVID: 000000
-## CREATE: 2025.02.09 00:48:53
+## CREATE: 2025.02.09 01:05:12
 0B00,1871:4F38|MSat-TV-Bosna-and-Hercegovina|24 Kitchen Adria
 0B00,1871:4E32|MSat-TV-Bosna-and-Hercegovina|Agro TV HD
 0B00,1871:4E86|MSat-TV-Bosna-and-Hercegovina|Aljazeera Balkans
@@ -9323,7 +9480,7 @@
 ## PROVIDER: MSat-TV-Crna-Gora
 ## CAID: 0B00,1871
 ## PROVID: 000000
-## CREATE: 2025.02.09 00:48:56
+## CREATE: 2025.02.09 01:05:15
 0B00,1871:4F1B|MSat-TV-Crna-Gora|Adria TV
 0B00,1871:4E32|MSat-TV-Crna-Gora|Agro TV HD
 0B00,1871:4E86|MSat-TV-Crna-Gora|Aljazeera Balkans
@@ -9486,7 +9643,7 @@
 ## PROVIDER: MSat-TV-Macedonija
 ## CAID: 0B00,1871
 ## PROVID: 000000
-## CREATE: 2025.02.09 00:48:58
+## CREATE: 2025.02.09 01:05:17
 0B00,1871:4F38|MSat-TV-Macedonija|24 Kitchen Adria
 0B00,1871:4E32|MSat-TV-Macedonija|Agro TV HD
 0B00,1871:4F32|MSat-TV-Macedonija|Alfa TV
@@ -9634,7 +9791,7 @@
 ## PROVIDER: TV-Vlaanderen
 ## CAID: 0100,1818
 ## PROVID: 000000,00006C
-## CREATE: 2025.02.09 00:49:01
+## CREATE: 2025.02.09 01:05:20
 0100,1818:5253|TV-Vlaanderen|100 NL
 0100,1818:0308|TV-Vlaanderen|Acko
 0100,1818:17F0|TV-Vlaanderen|Arrow Classic Rock
