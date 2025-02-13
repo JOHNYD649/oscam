@@ -1,7 +1,12 @@
+####################################################
+# OSCAM Generator 1.0.0.4                          #
+# Autor: Ondrej Bock, butras@post.cz               #
+# Web: http://www.butras.cz                        #
+####################################################
 ## PROVIDER: Nos
 ## CAID: 1802
 ## PROVID: 000000,005221
-## CREATE: 2025.02.11 15:41:39
+## CREATE: 2025.02.13 19:13:21
 1802:0192|Nos|24 Kitchen Portugal HD
 1802:17A8|Nos|Afro Music Channel
 1802:00EB|Nos|AMC Break Portugal
@@ -135,10 +140,15 @@
 1802:17AB|Nos|Venus
 1802:12F3|Nos|Zap Viva HD
 
+####################################################
+# OSCAM Generator 1.0.0.4                          #
+# Autor: Ondrej Bock, butras@post.cz               #
+# Web: http://www.butras.cz                        #
+####################################################
 ## PROVIDER: Meo
 ## CAID: 0100,1814
 ## PROVID: 005211,005221,000000,000007
-## CREATE: 2025.02.11 15:41:42
+## CREATE: 2025.02.13 19:13:22
 0100,1814:0192|Meo|24 Kitchen Portugal HD
 0100,1814:0473|Meo|80s RFM
 0100,1814:006C|Meo|A Bola TV
@@ -276,10 +286,15 @@
 0100,1814:037B|Meo|V TVI
 0100,1814:17AB|Meo|Venus
 
+####################################################
+# OSCAM Generator 1.0.0.4                          #
+# Autor: Ondrej Bock, butras@post.cz               #
+# Web: http://www.butras.cz                        #
+####################################################
 ## PROVIDER: Home-3
 ## CAID: 09E9
 ## PROVID: 000000
-## CREATE: 2025.02.11 15:41:43
+## CREATE: 2025.02.13 19:13:23
 09E9:2792|Home-3|3 Plus Latvija
 09E9:285A|Home-3|3 Plus Lietuva
 09E9:2922|Home-3|360 TV
@@ -356,10 +371,15 @@
 09E9:2936|Home-3|Viasat Nature East
 09E9:2937|Home-3|Viasat Nature East
 
+####################################################
+# OSCAM Generator 1.0.0.4                          #
+# Autor: Ondrej Bock, butras@post.cz               #
+# Web: http://www.butras.cz                        #
+####################################################
 ## PROVIDER: Home-3-Eesti
 ## CAID: 09E9
 ## PROVID: 000000
-## CREATE: 2025.02.11 15:41:44
+## CREATE: 2025.02.13 19:13:24
 09E9:289B|Home-3-Eesti|BBC News Europe
 09E9:28A0|Home-3-Eesti|Brazzers TV Europe
 09E9:297C|Home-3-Eesti|Discovery Channel Rossiya
@@ -410,10 +430,15 @@
 09E9:27BF|Home-3-Eesti|Viasat Kino World
 09E9:2936|Home-3-Eesti|Viasat Nature East
 
+####################################################
+# OSCAM Generator 1.0.0.4                          #
+# Autor: Ondrej Bock, butras@post.cz               #
+# Web: http://www.butras.cz                        #
+####################################################
 ## PROVIDER: Home-3-Latvija
 ## CAID: 09E9
 ## PROVID: 000000
-## CREATE: 2025.02.11 15:41:46
+## CREATE: 2025.02.13 19:13:26
 09E9:2792|Home-3-Latvija|3 Plus Latvija
 09E9:2922|Home-3-Latvija|360 TV
 09E9:289B|Home-3-Latvija|BBC News Europe
@@ -466,10 +491,15 @@
 09E9:2936|Home-3-Latvija|Viasat Nature East
 09E9:2937|Home-3-Latvija|Viasat Nature East
 
+####################################################
+# OSCAM Generator 1.0.0.4                          #
+# Autor: Ondrej Bock, butras@post.cz               #
+# Web: http://www.butras.cz                        #
+####################################################
 ## PROVIDER: Home-3-Lietuva
 ## CAID: 09E9
 ## PROVID: 000000
-## CREATE: 2025.02.11 15:41:47
+## CREATE: 2025.02.13 19:13:27
 09E9:27A1|Home-3-Lietuva|Baltijos TV
 09E9:289B|Home-3-Lietuva|BBC News Europe
 09E9:297C|Home-3-Lietuva|Discovery Channel Rossiya
@@ -513,10 +543,15 @@
 09E9:27BF|Home-3-Lietuva|Viasat Kino World
 09E9:2936|Home-3-Lietuva|Viasat Nature East
 
+####################################################
+# OSCAM Generator 1.0.0.4                          #
+# Autor: Ondrej Bock, butras@post.cz               #
+# Web: http://www.butras.cz                        #
+####################################################
 ## PROVIDER: Viasat-Ukraina
 ## CAID: 5604
 ## PROVID: 000000
-## CREATE: 2025.02.11 15:41:47
+## CREATE: 2025.02.13 19:13:28
 5604:17ED|Viasat-Ukraina|11 International
 5604:17D4|Viasat-Ukraina|11 Marafon
 5604:17D5|Viasat-Ukraina|11 UkraAZna
@@ -585,7 +620,7 @@
 5604:19CA|Viasat-Ukraina|Radio Promin
 5604:1AFE|Viasat-Ukraina|Rozpakuy TV
 5604:1829|Viasat-Ukraina|Rybalka Telekanal
-5604:09F3|Viasat-Ukraina|Setanta Sports Ukraine
+5604:09F3|Viasat-Ukraina|Setanta Sports  Ukraine
 5604:09ED|Viasat-Ukraina|Setanta Sports Ukraine
 5604:1B08|Viasat-Ukraina|Sonce
 5604:181B|Viasat-Ukraina|Star Cinema
@@ -614,10 +649,15 @@
 5604:09CD|Viasat-Ukraina|Viasat Nature East
 5604:182B|Viasat-Ukraina|X Sport
 
+####################################################
+# OSCAM Generator 1.0.0.4                          #
+# Autor: Ondrej Bock, butras@post.cz               #
+# Web: http://www.butras.cz                        #
+####################################################
 ## PROVIDER: Azam-Digital-7E
 ## CAID: 1868
 ## PROVID: 000000
-## CREATE: 2025.02.11 15:41:48
+## CREATE: 2025.02.13 19:13:30
 1868:0051|Azam-Digital-7E|888 CBS FM
 1868:0052|Azam-Digital-7E|933 KFM
 1868:00EB|Azam-Digital-7E|Africanews
@@ -676,7 +716,7 @@
 1868:0089|Azam-Digital-7E|Kix Africa
 1868:0110|Azam-Digital-7E|Mazhavil Manorama
 1868:017C|Azam-Digital-7E|MBC
-1868:0084|Azam-Digital-7E|MBC Power
+1868:0084|Azam-Digital-7E|MBC  Power
 1868:0085|Azam-Digital-7E|MBC 2
 1868:0180|Azam-Digital-7E|MBC 2
 1868:00FE|Azam-Digital-7E|MBC 3
@@ -737,10 +777,15 @@
 1868:017E|Azam-Digital-7E|Zodiak TV
 1868:0141|Azam-Digital-7E|Zoom
 
+####################################################
+# OSCAM Generator 1.0.0.4                          #
+# Autor: Ondrej Bock, butras@post.cz               #
+# Web: http://www.butras.cz                        #
+####################################################
 ## PROVIDER: Trikolor-36E
 ## CAID: 2710,4AE0,4AE1,5500
 ## PROVID: 000000,000018,000019,00001A,000028,000015,000002,000011,000014,0000FE
-## CREATE: 2025.02.11 15:41:51
+## CREATE: 2025.02.13 19:13:32
 2710,4AE0,4AE1,5500:88BA|Trikolor-36E|5 Kanal
 2710,4AE0,4AE1,5500:88D2|Trikolor-36E|5 Kanal
 2710,4AE0,4AE1,5500:59E2|Trikolor-36E|6 kadrov
@@ -1024,7 +1069,7 @@
 2710,4AE0,4AE1,5500:520A|Trikolor-36E|Svoyo TV
 2710,4AE0,4AE1,5500:61A9|Trikolor-36E|Tayny Galaktiki HD
 2710,4AE0,4AE1,5500:138D|Trikolor-36E|Techno 24
-2710,4AE0,4AE1,5500:1398|Trikolor-36E|Telecafe
+2710,4AE0,4AE1,5500:1398|Trikolor-36E|TelecafAS
 2710,4AE0,4AE1,5500:2720|Trikolor-36E|Telekanal 2x2
 2710,4AE0,4AE1,5500:791B|Trikolor-36E|Telekanal 360A
 2710,4AE0,4AE1,5500:0844|Trikolor-36E|Telekanal Doktor
@@ -1046,8 +1091,8 @@
 2710,4AE0,4AE1,5500:5A50|Trikolor-36E|Tonus
 2710,4AE0,4AE1,5500:59E1|Trikolor-36E|Torre Ricca
 2710,4AE0,4AE1,5500:520F|Trikolor-36E|Trash
-2710,4AE0,4AE1,5500:5A14|Trikolor-36E|Travel Adventure
-2710,4AE0,4AE1,5500:0BC0|Trikolor-36E|Travel Adventure HD
+2710,4AE0,4AE1,5500:5A14|Trikolor-36E|Travel  Adventure
+2710,4AE0,4AE1,5500:0BC0|Trikolor-36E|Travel  Adventure HD
 2710,4AE0,4AE1,5500:2343|Trikolor-36E|Treylery HD
 2710,4AE0,4AE1,5500:2337|Trikolor-36E|Trikolor info card
 2710,4AE0,4AE1,5500:C350|Trikolor-36E|Trikolor info card
@@ -1081,10 +1126,15 @@
 2710,4AE0,4AE1,5500:7926|Trikolor-36E|Zhivaya Planeta
 2710,4AE0,4AE1,5500:5A5A|Trikolor-36E|Zoo TV
 
+####################################################
+# OSCAM Generator 1.0.0.4                          #
+# Autor: Ondrej Bock, butras@post.cz               #
+# Web: http://www.butras.cz                        #
+####################################################
 ## PROVIDER: Trikolor-56E
 ## CAID: 2710,4AE0,4AE1,5500
 ## PROVID: 000000,000018,000019,00001A,000028,000015,000002,000011,000014,0000FE
-## CREATE: 2025.02.11 15:41:52
+## CREATE: 2025.02.13 19:13:35
 2710,4AE0,4AE1,5500:61B5|Trikolor-56E|12 Kanal
 2710,4AE0,4AE1,5500:59DD|Trikolor-56E|5 Kanal
 2710,4AE0,4AE1,5500:908D|Trikolor-56E|5 Kanal
@@ -1398,7 +1448,7 @@
 2710,4AE0,4AE1,5500:13A5|Trikolor-56E|Tayny Galaktiki HD
 2710,4AE0,4AE1,5500:3A9F|Trikolor-56E|Tayny Galaktiki HD
 2710,4AE0,4AE1,5500:2B0E|Trikolor-56E|Techno 24
-2710,4AE0,4AE1,5500:2B21|Trikolor-56E|Telecafe
+2710,4AE0,4AE1,5500:2B21|Trikolor-56E|TelecafAS
 2710,4AE0,4AE1,5500:03FD|Trikolor-56E|Telekanal 2x2
 2710,4AE0,4AE1,5500:80FA|Trikolor-56E|Telekanal 2x2
 2710,4AE0,4AE1,5500:791D|Trikolor-56E|Telekanal 360A
@@ -1422,7 +1472,7 @@
 2710,4AE0,4AE1,5500:986F|Trikolor-56E|Tonus
 2710,4AE0,4AE1,5500:61D4|Trikolor-56E|Torre Ricca
 2710,4AE0,4AE1,5500:2AFB|Trikolor-56E|Trash HD
-2710,4AE0,4AE1,5500:61CE|Trikolor-56E|Travel Adventure
+2710,4AE0,4AE1,5500:61CE|Trikolor-56E|Travel  Adventure
 2710,4AE0,4AE1,5500:80EF|Trikolor-56E|Trikolor info card
 2710,4AE0,4AE1,5500:E6D8|Trikolor-56E|Trikolor info card
 2710,4AE0,4AE1,5500:E6D9|Trikolor-56E|Trikolor info card
@@ -1462,10 +1512,15 @@
 2710,4AE0,4AE1,5500:791A|Trikolor-56E|Zhivaya Planeta
 2710,4AE0,4AE1,5500:232E|Trikolor-56E|Zoo TV
 
+####################################################
+# OSCAM Generator 1.0.0.4                          #
+# Autor: Ondrej Bock, butras@post.cz               #
+# Web: http://www.butras.cz                        #
+####################################################
 ## PROVIDER: NTV-Plus-Vostok
 ## CAID: 0500
 ## PROVID: 023D00
-## CREATE: 2025.02.11 15:41:54
+## CREATE: 2025.02.13 19:13:38
 0500:DCC0|NTV-Plus-Vostok|365 dnei TV
 0500:DD80|NTV-Plus-Vostok|5 Kanal
 0500:DDE5|NTV-Plus-Vostok|5 Kanal
@@ -1627,7 +1682,7 @@
 0500:DCCC|NTV-Plus-Vostok|TNV Planeta
 0500:DD1B|NTV-Plus-Vostok|Tochka Otryva
 0500:DCBB|NTV-Plus-Vostok|Tooky
-0500:DC5A|NTV-Plus-Vostok|Travel Adventure
+0500:DC5A|NTV-Plus-Vostok|Travel  Adventure
 0500:DD87|NTV-Plus-Vostok|TV 3
 0500:DDEF|NTV-Plus-Vostok|TV 3
 0500:DDEA|NTV-Plus-Vostok|TV Centr
@@ -1650,10 +1705,15 @@
 0500:DC6B|NTV-Plus-Vostok|Zhivi!
 0500:DD9C|NTV-Plus-Vostok|Zvezda Plus
 
+####################################################
+# OSCAM Generator 1.0.0.4                          #
+# Autor: Ondrej Bock, butras@post.cz               #
+# Web: http://www.butras.cz                        #
+####################################################
 ## PROVIDER: Russkiy-Mir
 ## CAID: 44A0
 ## PROVID: 000000
-## CREATE: 2025.02.11 15:41:55
+## CREATE: 2025.02.13 19:13:39
 44A0:0AF2|Russkiy-Mir|1 Krim
 44A0:0965|Russkiy-Mir|5 Kanal
 44A0:0AF7|Russkiy-Mir|Dom Kino
@@ -1699,10 +1759,15 @@
 44A0:0989|Russkiy-Mir|Vesti FM
 44A0:0AF9|Russkiy-Mir|Za! TV
 
+####################################################
+# OSCAM Generator 1.0.0.4                          #
+# Autor: Ondrej Bock, butras@post.cz               #
+# Web: http://www.butras.cz                        #
+####################################################
 ## PROVIDER: Azam-Digital-46e
 ## CAID: 1868
 ## PROVID: 000000
-## CREATE: 2025.02.11 15:41:56
+## CREATE: 2025.02.13 19:13:41
 1868:00E7|Azam-Digital-46e|Aljazeera English
 1868:0093|Azam-Digital-46e|AMC Movies
 1868:0092|Azam-Digital-46e|AMC Series
@@ -1763,10 +1828,15 @@
 1868:0196|Azam-Digital-46e|ZBC 2
 1868:0195|Azam-Digital-46e|ZBC TV
 
+####################################################
+# OSCAM Generator 1.0.0.4                          #
+# Autor: Ondrej Bock, butras@post.cz               #
+# Web: http://www.butras.cz                        #
+####################################################
 ## PROVIDER: Vivacom-45E
 ## CAID: 09BD,06E1
 ## PROVID: 000000
-## CREATE: 2025.02.11 15:41:56
+## CREATE: 2025.02.13 19:13:42
 09BD,06E1:03ED|Vivacom-45E|78 TV
 09BD,06E1:03EB|Vivacom-45E|BNT 1
 09BD,06E1:03F6|Vivacom-45E|BNT 2
@@ -1809,10 +1879,15 @@
 09BD,06E1:040A|Vivacom-45E|Vivacom Arena
 09BD,06E1:03E8|Vivacom-45E|Vivacom promo
 
+####################################################
+# OSCAM Generator 1.0.0.4                          #
+# Autor: Ondrej Bock, butras@post.cz               #
+# Web: http://www.butras.cz                        #
+####################################################
 ## PROVIDER: Dialog-TV
 ## CAID: 0631,0680,06D8
 ## PROVID: 000000
-## CREATE: 2025.02.11 15:41:57
+## CREATE: 2025.02.13 19:13:43
 0631,0680,06D8:0140|Dialog-TV|& flix
 0631,0680,06D8:00DE|Dialog-TV|A Plus Kids TV
 0631,0680,06D8:00CD|Dialog-TV|ABC Australia India
@@ -1935,15 +2010,20 @@
 0631,0680,06D8:00CB|Dialog-TV|Verbum TV
 0631,0680,06D8:00D7|Dialog-TV|VH1 India
 0631,0680,06D8:0145|Dialog-TV|Warner TV Asia
-0631,0680,06D8:0144|Dialog-TV|Zee cafe
+0631,0680,06D8:0144|Dialog-TV|Zee CafAS
 0631,0680,06D8:019E|Dialog-TV|Zee Cinema Asia
 0631,0680,06D8:01A4|Dialog-TV|Zee Tamil
 0631,0680,06D8:00DA|Dialog-TV|Zing Asia
 
+####################################################
+# OSCAM Generator 1.0.0.4                          #
+# Autor: Ondrej Bock, butras@post.cz               #
+# Web: http://www.butras.cz                        #
+####################################################
 ## PROVIDER: Digiturk
 ## CAID: 0664
 ## PROVID: 000000,000001,000002,000003
-## CREATE: 2025.02.11 15:41:59
+## CREATE: 2025.02.13 19:13:44
 0664:40D8|Digiturk|24 TV
 0664:413C|Digiturk|24 TV HD
 0664:40D9|Digiturk|360
@@ -2232,10 +2312,15 @@
 0664:4204|Digiturk|Yaban HD
 0664:C615|Digiturk|Yildiz TV En
 
+####################################################
+# OSCAM Generator 1.0.0.4                          #
+# Autor: Ondrej Bock, butras@post.cz               #
+# Web: http://www.butras.cz                        #
+####################################################
 ## PROVIDER: D-Smart
 ## CAID: 092B
 ## PROVID: 000000
-## CREATE: 2025.02.11 15:42:00
+## CREATE: 2025.02.13 19:13:46
 092B:0780|D-Smart|2000s
 092B:413C|D-Smart|24 TV HD
 092B:413D|D-Smart|360 HD
@@ -2504,10 +2589,15 @@
 092B:056B|D-Smart|Virgin Radio TAzrkiye
 092B:C615|D-Smart|Yildiz TV En
 
+####################################################
+# OSCAM Generator 1.0.0.4                          #
+# Autor: Ondrej Bock, butras@post.cz               #
+# Web: http://www.butras.cz                        #
+####################################################
 ## PROVIDER: Orange-Romania
 ## CAID: 0500
 ## PROVID: 051300,051310,051340
-## CREATE: 2025.02.11 15:42:01
+## CREATE: 2025.02.13 19:13:47
 0500:008A|Orange-Romania|A7 TV
 0500:0167|Orange-Romania|Acasa
 0500:0146|Orange-Romania|Acasa Gold
@@ -2542,7 +2632,7 @@
 0500:0143|Orange-Romania|Comedy Central RomAnia
 0500:012E|Orange-Romania|Cool TV
 0500:020C|Orange-Romania|Credo TV
-0500:010B|Orange-Romania|Crime Investigation UK
+0500:010B|Orange-Romania|Crime  Investigation UK
 0500:0149|Orange-Romania|Digi 24
 0500:008B|Orange-Romania|Discovery Channel Romania
 0500:0259|Orange-Romania|Discovery Channel Romania HD
@@ -2563,8 +2653,8 @@
 0500:00D1|Orange-Romania|Eurosport 2 Romania
 0500:02BC|Orange-Romania|Eurosport 2 Romania HD
 0500:006C|Orange-Romania|Favorit TV
-0500:0112|Orange-Romania|Film Hungary
-0500:0200|Orange-Romania|Film cafe Romania
+0500:0112|Orange-Romania|Film  Hungary
+0500:0200|Orange-Romania|Film CafAS Romania
 0500:0089|Orange-Romania|Film MAAnia
 0500:00D7|Orange-Romania|FilmBox Basic
 0500:0082|Orange-Romania|FilmBox Extra HD Romania
@@ -2664,10 +2754,15 @@
 0500:00DF|Orange-Romania|Warner TV Romania
 0500:011E|Orange-Romania|Zu TV
 
+####################################################
+# OSCAM Generator 1.0.0.4                          #
+# Autor: Ondrej Bock, butras@post.cz               #
+# Web: http://www.butras.cz                        #
+####################################################
 ## PROVIDER: Bulsatcom
 ## CAID: 1878,4AEE
 ## PROVID: 000000
-## CREATE: 2025.02.11 15:42:02
+## CREATE: 2025.02.13 19:13:48
 1878,4AEE:0024|Bulsatcom|24 Kitchen Bulgaria
 1878,4AEE:0020|Bulsatcom|78 TV
 1878,4AEE:0028|Bulsatcom|Action Box
@@ -2712,7 +2807,7 @@
 1878,4AEE:00D9|Bulsatcom|Code Health TV
 1878,4AEE:0399|Bulsatcom|Code Health TV
 1878,4AEE:00E0|Bulsatcom|Comedy Box
-1878,4AEE:010B|Bulsatcom|Crime Investigation UK
+1878,4AEE:010B|Bulsatcom|Crime  Investigation UK
 1878,4AEE:0120|Bulsatcom|Da Vinci
 1878,4AEE:0035|Bulsatcom|Darik Radio
 1878,4AEE:01B7|Bulsatcom|Diema
@@ -2827,10 +2922,15 @@
 1878,4AEE:02E4|Bulsatcom|VTK
 1878,4AEE:0039|Bulsatcom|XY Plus
 
+####################################################
+# OSCAM Generator 1.0.0.4                          #
+# Autor: Ondrej Bock, butras@post.cz               #
+# Web: http://www.butras.cz                        #
+####################################################
 ## PROVIDER: A1-Bulgaria
 ## CAID: 188D,0B00
 ## PROVID: 000000
-## CREATE: 2025.02.11 15:42:03
+## CREATE: 2025.02.13 19:13:50
 188D,0B00:045D|A1-Bulgaria|24 Kitchen Bulgaria
 188D,0B00:00D0|A1-Bulgaria|78 TV HD
 188D,0B00:00CF|A1-Bulgaria|8 Kanal International
@@ -2872,7 +2972,7 @@
 188D,0B00:0465|A1-Bulgaria|CNN International Europe
 188D,0B00:006B|A1-Bulgaria|Code Fashion TV
 188D,0B00:00E2|A1-Bulgaria|Code Health TV
-188D,0B00:00DF|A1-Bulgaria|Crime Investigation UK
+188D,0B00:00DF|A1-Bulgaria|Crime  Investigation UK
 188D,0B00:006A|A1-Bulgaria|Detski Mir
 188D,0B00:0071|A1-Bulgaria|Diema
 188D,0B00:00E3|A1-Bulgaria|Diema Family
@@ -2975,10 +3075,15 @@
 188D,0B00:0470|A1-Bulgaria|Wness TV
 188D,0B00:008B|A1-Bulgaria|XY Plus
 
+####################################################
+# OSCAM Generator 1.0.0.4                          #
+# Autor: Ondrej Bock, butras@post.cz               #
+# Web: http://www.butras.cz                        #
+####################################################
 ## PROVIDER: Tring
 ## CAID: 0BAA
 ## PROVID: 000000
-## CREATE: 2025.02.11 15:42:04
+## CREATE: 2025.02.13 19:13:51
 0BAA:080C|Tring|3 Plus
 0BAA:05B4|Tring|ABC
 0BAA:0456|Tring|ATV
@@ -3044,10 +3149,15 @@
 0BAA:1356|Tring|TV Klan HD
 0BAA:03F2|Tring|Vizion Plus HD
 
+####################################################
+# OSCAM Generator 1.0.0.4                          #
+# Autor: Ondrej Bock, butras@post.cz               #
+# Web: http://www.butras.cz                        #
+####################################################
 ## PROVIDER: Cosmote-TV
 ## CAID: 095E,09BE
 ## PROVID: 000000
-## CREATE: 2025.02.11 15:42:05
+## CREATE: 2025.02.13 19:13:52
 095E,09BE:03F4|Cosmote-TV|4E
 095E,09BE:0464|Cosmote-TV|Action 24
 095E,09BE:03E9|Cosmote-TV|AEK Super League Pass
@@ -3081,7 +3191,7 @@
 095E,09BE:0466|Cosmote-TV|Cosmote Sport 9 HD
 095E,09BE:042F|Cosmote-TV|Cosmote Sport Highlights HD
 095E,09BE:03FB|Cosmote-TV|Cosmote TV Promo Channel HD
-095E,09BE:046E|Cosmote-TV|Crime Investigation UK
+095E,09BE:046E|Cosmote-TV|Crime  Investigation UK
 095E,09BE:042E|Cosmote-TV|Disney Channel Middle East
 095E,09BE:0403|Cosmote-TV|Disney Junior Middle East
 095E,09BE:0425|Cosmote-TV|Dorcel XXX
@@ -3160,10 +3270,15 @@
 095E,09BE:0434|Cosmote-TV|Vixen
 095E,09BE:03ED|Cosmote-TV|Vouli TV HD
 
+####################################################
+# OSCAM Generator 1.0.0.4                          #
+# Autor: Ondrej Bock, butras@post.cz               #
+# Web: http://www.butras.cz                        #
+####################################################
 ## PROVIDER: M7Group
 ## CAID: 0D96,0624
 ## PROVID: 000000,000004,000008,00000C,000010,000024,000028
-## CREATE: 2025.02.11 15:42:06
+## CREATE: 2025.02.13 19:13:53
 0D96,0624:01F8|M7Group|Auto Motor und Sport
 0D96,0624:00EC|M7Group|BBC News Europe
 0D96,0624:00D8|M7Group|Comedy Central Deutschland
@@ -3208,17 +3323,22 @@
 0D96,0624:00CF|M7Group|Voxup HD
 0D96,0624:00CB|M7Group|Welt HD
 
+####################################################
+# OSCAM Generator 1.0.0.4                          #
+# Autor: Ondrej Bock, butras@post.cz               #
+# Web: http://www.butras.cz                        #
+####################################################
 ## PROVIDER: SkyDE
 ## CAID: 1833,1834,1702,1722,09C4,09AF,098C,098D
 ## PROVID: 000000
-## CREATE: 2025.02.11 15:42:08
+## CREATE: 2025.02.13 19:13:55
 1833,1834,1702,1722,09C4,09AF,098C,098D:0296|SkyDE|1-2-3 TV
 1833,1834,1702,1722,09C4,09AF,098C,098D:157E|SkyDE|1-2-3 TV HD
 1833,1834,1702,1722,09C4,09AF,098C,098D:007F|SkyDE|13th Street Deutschland HD
 1833,1834,1702,1722,09C4,09AF,098C,098D:6D67|SkyDE|3sat
 1833,1834,1702,1722,09C4,09AF,098C,098D:2B8E|SkyDE|3sat HD
 1833,1834,1702,1722,09C4,09AF,098C,098D:13A7|SkyDE|Aljazeera English HD
-1833,1834,1702,1722,09C4,09AF,098C,098D:02FC|SkyDE|Anixe HD
+1833,1834,1702,1722,09C4,09AF,098C,098D:02FC|SkyDE|Anixe  HD
 1833,1834,1702,1722,09C4,09AF,098C,098D:526C|SkyDE|Anixe HD Serie
 1833,1834,1702,1722,09C4,09AF,098C,098D:00AA|SkyDE|Antenne Bayern
 1833,1834,1702,1722,09C4,09AF,098C,098D:28F6|SkyDE|Antenne Brandenburg Potsdam
@@ -3266,7 +3386,7 @@
 1833,1834,1702,1722,09C4,09AF,098C,098D:7008|SkyDE|Comedy Central Deutschland 1
 1833,1834,1702,1722,09C4,09AF,098C,098D:6FEC|SkyDE|Comedy Central Deutschland HD
 1833,1834,1702,1722,09C4,09AF,098C,098D:28D8|SkyDE|Cosmo
-1833,1834,1702,1722,09C4,09AF,098C,098D:0192|SkyDE|Crime Investigation Deutschland
+1833,1834,1702,1722,09C4,09AF,098C,098D:0192|SkyDE|Crime  Investigation Deutschland
 1833,1834,1702,1722,09C4,09AF,098C,098D:2941|SkyDE|Crime Time
 1833,1834,1702,1722,09C4,09AF,098C,098D:6E46|SkyDE|Crime Time
 1833,1834,1702,1722,09C4,09AF,098C,098D:29D0|SkyDE|Crime Time HD
@@ -3425,7 +3545,7 @@
 1833,1834,1702,1722,09C4,09AF,098C,098D:33FA|SkyDE|ORF 2 Tirol HD
 1833,1834,1702,1722,09C4,09AF,098C,098D:33FB|SkyDE|ORF 2 Vorarlberg HD
 1833,1834,1702,1722,09C4,09AF,098C,098D:33FC|SkyDE|ORF III HD
-1833,1834,1702,1722,09C4,09AF,098C,098D:33FD|SkyDE|ORF Sport HD
+1833,1834,1702,1722,09C4,09AF,098C,098D:33FD|SkyDE|ORF Sport  HD
 1833,1834,1702,1722,09C4,09AF,098C,098D:16B0|SkyDE|OTVA HD
 1833,1834,1702,1722,09C4,09AF,098C,098D:151C|SkyDE|Pearl TV HD
 1833,1834,1702,1722,09C4,09AF,098C,098D:285B|SkyDE|Phoenix HD
@@ -3497,7 +3617,7 @@
 1833,1834,1702,1722,09C4,09AF,098C,098D:0023|SkyDE|Schlager Deluxe
 1833,1834,1702,1722,09C4,09AF,098C,098D:2942|SkyDE|Serien 
 1833,1834,1702,1722,09C4,09AF,098C,098D:6E47|SkyDE|Serien 
-1833,1834,1702,1722,09C4,09AF,098C,098D:29D1|SkyDE|Serien HD
+1833,1834,1702,1722,09C4,09AF,098C,098D:29D1|SkyDE|Serien  HD
 1833,1834,1702,1722,09C4,09AF,098C,098D:1331|SkyDE|Servus TV HD
 1833,1834,1702,1722,09C4,09AF,098C,098D:3332|SkyDE|Shop LC Deutschland
 1833,1834,1702,1722,09C4,09AF,098C,098D:5273|SkyDE|Shop LC Deutschland HD
@@ -3621,10 +3741,15 @@
 1833,1834,1702,1722,09C4,09AF,098C,098D:6D6E|SkyDE|ZDF Neo
 1833,1834,1702,1722,09C4,09AF,098C,098D:2B7A|SkyDE|ZDF Neo HD
 
+####################################################
+# OSCAM Generator 1.0.0.4                          #
+# Autor: Ondrej Bock, butras@post.cz               #
+# Web: http://www.butras.cz                        #
+####################################################
 ## PROVIDER: HD
 ## CAID: 1830,1843,1860,186A,186D
 ## PROVID: 000000
-## CREATE: 2025.02.11 15:42:09
+## CREATE: 2025.02.13 19:13:57
 1830,1843,1860,186A,186D:6FEC|HD|Comedy Central Deutschland HD
 1830,1843,1860,186A,186D:29D0|HD|Crime Time HD
 1830,1843,1860,186A,186D:296B|HD|Deluxe Dance by Kontor HD
@@ -3656,7 +3781,7 @@
 1830,1843,1860,186A,186D:EF15|HD|RTL Zwei Deutschland HD
 1830,1843,1860,186A,186D:EF74|HD|Sat 1 Deutschland HD
 1830,1843,1860,186A,186D:30D4|HD|Sat 1 Gold Deutschland HD
-1830,1843,1860,186A,186D:29D1|HD|Serien HD
+1830,1843,1860,186A,186D:29D1|HD|Serien  HD
 1830,1843,1860,186A,186D:EF77|HD|Sixx Deutschland HD
 1830,1843,1860,186A,186D:1581|HD|Sport 1 HD
 1830,1843,1860,186A,186D:1519|HD|Tele 5 HD
@@ -3667,10 +3792,15 @@
 1830,1843,1860,186A,186D:5274|HD|Welt HD
 1830,1843,1860,186A,186D:2969|HD|Xplore HD
 
+####################################################
+# OSCAM Generator 1.0.0.4                          #
+# Autor: Ondrej Bock, butras@post.cz               #
+# Web: http://www.butras.cz                        #
+####################################################
 ## PROVIDER: ORF-Digital
 ## CAID: 0648,0650,0d95,0D98
 ## PROVID: 000000,000004,000008,00000c,000010
-## CREATE: 2025.02.11 15:42:11
+## CREATE: 2025.02.13 19:13:58
 0648,0650,0d95,0D98:3338|ORF-Digital|4Mediathek info card
 0648,0650,0d95,0D98:134C|ORF-Digital|A1
 0648,0650,0d95,0D98:33FF|ORF-Digital|Aristo TV
@@ -3707,7 +3837,7 @@
 0648,0650,0d95,0D98:33FB|ORF-Digital|ORF 2 Vorarlberg HD
 0648,0650,0d95,0D98:33FC|ORF-Digital|ORF III HD
 0648,0650,0d95,0D98:332D|ORF-Digital|ORF III info card
-0648,0650,0d95,0D98:33FD|ORF-Digital|ORF Sport HD
+0648,0650,0d95,0D98:33FD|ORF-Digital|ORF Sport  HD
 0648,0650,0d95,0D98:4E27|ORF-Digital|Puls 4
 0648,0650,0d95,0D98:3400|ORF-Digital|R9 HD
 0648,0650,0d95,0D98:1350|ORF-Digital|Radio Burgenland
@@ -3731,10 +3861,15 @@
 0648,0650,0d95,0D98:3333|ORF-Digital|Visit-X TV
 0648,0650,0d95,0D98:33A6|ORF-Digital|Volksmusik TV
 
+####################################################
+# OSCAM Generator 1.0.0.4                          #
+# Autor: Ondrej Bock, butras@post.cz               #
+# Web: http://www.butras.cz                        #
+####################################################
 ## PROVIDER: Canal-France
 ## CAID: 0500
 ## PROVID: 032830,042820,042830,032920,032940,051900
-## CREATE: 2025.02.11 15:42:12
+## CREATE: 2025.02.13 19:14:01
 0500:220A|Canal-France|6ter HD
 0500:2070|Canal-France|A la une HD
 0500:427D|Canal-France|AB 1 HD
@@ -3761,30 +3896,30 @@
 0500:2336|Canal-France|C News HD
 0500:2335|Canal-France|C Star HD
 0500:2334|Canal-France|C8 HD
-0500:200D|Canal-France|Canal Box Office HD
-0500:2329|Canal-France|Canal Box Office HD
-0500:2263|Canal-France|Canal CinASma HD
-0500:22CE|Canal-France|Canal Docs HD
-0500:2271|Canal-France|Canal Foot HD
-0500:2261|Canal-France|Canal France HD
-0500:2661|Canal-France|Canal France HD
-0500:23A4|Canal-France|Canal France promo HD
-0500:207A|Canal-France|Canal Grand Acran HD
-0500:2265|Canal-France|Canal Kids HD
-0500:2010|Canal-France|Canal Live 1 HD
-0500:207C|Canal-France|Canal Live 10 HD
-0500:264D|Canal-France|Canal Live 2 HD
-0500:24C4|Canal-France|Canal Live 3 HD
-0500:22CB|Canal-France|Canal Live 4 HD
-0500:226D|Canal-France|Canal Live 5 HD
-0500:264E|Canal-France|Canal Live 6 HD
-0500:22D7|Canal-France|Canal Live 7 HD
-0500:24C5|Canal-France|Canal Live 8 HD
-0500:232B|Canal-France|Canal Live 9 HD
-0500:245F|Canal-France|Canal promo
-0500:2266|Canal-France|Canal SASries France HD
-0500:24C8|Canal-France|Canal Sport 360 HD
-0500:2264|Canal-France|Canal Sport France HD
+0500:200D|Canal-France|Canal  Box Office HD
+0500:2329|Canal-France|Canal  Box Office HD
+0500:2263|Canal-France|Canal  CinASma HD
+0500:22CE|Canal-France|Canal  Docs HD
+0500:2271|Canal-France|Canal  Foot HD
+0500:2261|Canal-France|Canal  France HD
+0500:2661|Canal-France|Canal  France HD
+0500:23A4|Canal-France|Canal  France promo HD
+0500:207A|Canal-France|Canal  Grand Acran HD
+0500:2265|Canal-France|Canal  Kids HD
+0500:2010|Canal-France|Canal  Live 1 HD
+0500:207C|Canal-France|Canal  Live 10 HD
+0500:264D|Canal-France|Canal  Live 2 HD
+0500:24C4|Canal-France|Canal  Live 3 HD
+0500:22CB|Canal-France|Canal  Live 4 HD
+0500:226D|Canal-France|Canal  Live 5 HD
+0500:264E|Canal-France|Canal  Live 6 HD
+0500:22D7|Canal-France|Canal  Live 7 HD
+0500:24C5|Canal-France|Canal  Live 8 HD
+0500:232B|Canal-France|Canal  Live 9 HD
+0500:245F|Canal-France|Canal  promo
+0500:2266|Canal-France|Canal  SASries France HD
+0500:24C8|Canal-France|Canal  Sport 360 HD
+0500:2264|Canal-France|Canal  Sport France HD
 0500:22CD|Canal-France|Canal France clair Canal HD
 0500:2018|Canal-France|Canal J HD
 0500:2F6C|Canal-France|ChASrie 25 HD
@@ -3796,7 +3931,7 @@
 0500:200E|Canal-France|CinAS Festival HD
 0500:2267|Canal-France|CinAS Frisson HD
 0500:007D|Canal-France|CNBC Europe HD
-0500:22D4|Canal-France|ComASdie HD
+0500:22D4|Canal-France|ComASdie  HD
 0500:24BA|Canal-France|DAZN 1 France HD
 0500:22D8|Canal-France|DAZN 2 France HD
 0500:220F|Canal-France|DAZN 3 France HD
@@ -3846,11 +3981,11 @@
 0500:220D|Canal-France|Franceinfo HD
 0500:23B4|Canal-France|Fun Radio
 0500:24C7|Canal-France|Game One HD
-0500:2207|Canal-France|Golf HD
+0500:2207|Canal-France|Golf  HD
 0500:2083|Canal-France|Gulli HD
 0500:22C8|Canal-France|Histoire TV HD
 0500:23C7|Canal-France|Ici Paris Ale-de-France
-0500:2332|Canal-France|InfoSport HD
+0500:2332|Canal-France|InfoSport  HD
 0500:23D9|Canal-France|Jazz Radio
 0500:2077|Canal-France|La ChaAZne MAStASo HD
 0500:2076|Canal-France|LAquipe HD
@@ -3877,11 +4012,11 @@
 0500:4284|Canal-France|Paramount Channel France HD
 0500:232C|Canal-France|Paris PremiAre HD
 0500:2455|Canal-France|Pink X HD
-0500:226B|Canal-France|Piwi HD
-0500:2208|Canal-France|PlanAte Aventure HD
-0500:24C1|Canal-France|PlanAte Crime HD
-0500:232E|Canal-France|PlanAte HD
-0500:206E|Canal-France|Polar HD
+0500:226B|Canal-France|Piwi  HD
+0500:2208|Canal-France|PlanAte  Aventure HD
+0500:24C1|Canal-France|PlanAte  Crime HD
+0500:232E|Canal-France|PlanAte  HD
+0500:206E|Canal-France|Polar  HD
 0500:23CC|Canal-France|Radio Classique
 0500:23DC|Canal-France|Radio Contact
 0500:23DB|Canal-France|Radio FG
@@ -3900,8 +4035,8 @@
 0500:4285|Canal-France|Seasons HD
 0500:23E3|Canal-France|Skyrock
 0500:2395|Canal-France|Sud Radio
-0500:232D|Canal-France|TASlASToon HD
-0500:24C3|Canal-France|TASlASToon HD
+0500:232D|Canal-France|TASlASToon  HD
+0500:24C3|Canal-France|TASlASToon  HD
 0500:2206|Canal-France|TASva HD
 0500:232A|Canal-France|test card HD
 0500:232F|Canal-France|test card HD
@@ -3922,10 +4057,15 @@
 0500:4280|Canal-France|XXL HD
 0500:429E|Canal-France|XXL HD
 
+####################################################
+# OSCAM Generator 1.0.0.4                          #
+# Autor: Ondrej Bock, butras@post.cz               #
+# Web: http://www.butras.cz                        #
+####################################################
 ## PROVIDER: Max-TV
 ## CAID: 1830
 ## PROVID: 000000
-## CREATE: 2025.02.11 15:42:13
+## CREATE: 2025.02.13 19:14:02
 1830:0066|Max-TV|24 Kitchen Hrvatska
 1830:00CB|Max-TV|Antena Zagreb
 1830:019C|Max-TV|Arena Sport 1 Hrvatska HD
@@ -4032,10 +4172,15 @@
 1830:0022|Max-TV|Vivid TV Europe
 1830:0067|Max-TV|Z1 TV
 
+####################################################
+# OSCAM Generator 1.0.0.4                          #
+# Autor: Ondrej Bock, butras@post.cz               #
+# Web: http://www.butras.cz                        #
+####################################################
 ## PROVIDER: DigitAlb
 ## CAID: 0B00,0B02
 ## PROVID: 000000
-## CREATE: 2025.02.11 15:42:16
+## CREATE: 2025.02.13 19:14:03
 0B00,0B02:03FD|DigitAlb|24 Kitchen Srbija
 0B00,0B02:0CE4|DigitAlb|A2 CNN HD
 0B00,0B02:0CBC|DigitAlb|ABC HD
@@ -4132,10 +4277,15 @@
 0B00,0B02:0514|DigitAlb|Zico TV
 0B00,0B02:08CA|DigitAlb|Zjarr TV
 
+####################################################
+# OSCAM Generator 1.0.0.4                          #
+# Autor: Ondrej Bock, butras@post.cz               #
+# Web: http://www.butras.cz                        #
+####################################################
 ## PROVIDER: Total-TV
 ## CAID: 091F,0911
 ## PROVID: 000000
-## CREATE: 2025.02.11 15:42:17
+## CREATE: 2025.02.13 19:14:04
 091F,0911:06ED|Total-TV|24 Kitchen Srbija HD
 091F,0911:0AA0|Total-TV|360 Tune Box
 091F,0911:054A|Total-TV|Alfa TV
@@ -4167,7 +4317,7 @@
 091F,0911:0055|Total-TV|CityPlay
 091F,0911:007A|Total-TV|Club MTV
 091F,0911:0078|Total-TV|CMC TV
-091F,0911:0557|Total-TV|Crime Investigation UK
+091F,0911:0557|Total-TV|Crime  Investigation UK
 091F,0911:0081|Total-TV|Da Vinci
 091F,0911:05B0|Total-TV|Discovery Channel Srbija HD
 091F,0911:0365|Total-TV|Diva Adria
@@ -4359,10 +4509,15 @@
 091F,0911:0054|Total-TV|Zadruga 3
 091F,0911:005D|Total-TV|Zadruga 4
 
+####################################################
+# OSCAM Generator 1.0.0.4                          #
+# Autor: Ondrej Bock, butras@post.cz               #
+# Web: http://www.butras.cz                        #
+####################################################
 ## PROVIDER: Total-TV-Bosna-and-Hercegovina
 ## CAID: 091F,0911
 ## PROVID: 000000
-## CREATE: 2025.02.11 15:42:18
+## CREATE: 2025.02.13 19:14:05
 091F,0911:06ED|Total-TV-Bosna-and-Hercegovina|24 Kitchen Srbija HD
 091F,0911:0AA0|Total-TV-Bosna-and-Hercegovina|360 Tune Box
 091F,0911:054A|Total-TV-Bosna-and-Hercegovina|Alfa TV
@@ -4384,7 +4539,7 @@
 091F,0911:0055|Total-TV-Bosna-and-Hercegovina|CityPlay
 091F,0911:007A|Total-TV-Bosna-and-Hercegovina|Club MTV
 091F,0911:0078|Total-TV-Bosna-and-Hercegovina|CMC TV
-091F,0911:0557|Total-TV-Bosna-and-Hercegovina|Crime Investigation UK
+091F,0911:0557|Total-TV-Bosna-and-Hercegovina|Crime  Investigation UK
 091F,0911:0081|Total-TV-Bosna-and-Hercegovina|Da Vinci
 091F,0911:05B0|Total-TV-Bosna-and-Hercegovina|Discovery Channel Srbija HD
 091F,0911:0365|Total-TV-Bosna-and-Hercegovina|Diva Adria
@@ -4522,10 +4677,15 @@
 091F,0911:045C|Total-TV-Bosna-and-Hercegovina|Viasat History HD
 091F,0911:045A|Total-TV-Bosna-and-Hercegovina|Viasat Nature East HD
 
+####################################################
+# OSCAM Generator 1.0.0.4                          #
+# Autor: Ondrej Bock, butras@post.cz               #
+# Web: http://www.butras.cz                        #
+####################################################
 ## PROVIDER: Total-TV-Hrvatska
 ## CAID: 091F,0911
 ## PROVID: 000000
-## CREATE: 2025.02.11 15:42:19
+## CREATE: 2025.02.13 19:14:07
 091F,0911:0787|Total-TV-Hrvatska|Cinemax 2 Central Europe HD
 091F,0911:0786|Total-TV-Hrvatska|Cinemax Central Europe HD
 091F,0911:0551|Total-TV-Hrvatska|CineStar 1
@@ -4535,7 +4695,7 @@
 091F,0911:0554|Total-TV-Hrvatska|CineStar Premiere 1 HD
 091F,0911:0556|Total-TV-Hrvatska|CineStar Premiere 2 HD
 091F,0911:0078|Total-TV-Hrvatska|CMC TV
-091F,0911:0557|Total-TV-Hrvatska|Crime Investigation UK
+091F,0911:0557|Total-TV-Hrvatska|Crime  Investigation UK
 091F,0911:0365|Total-TV-Hrvatska|Diva Adria
 091F,0911:0001|Total-TV-Hrvatska|DM Sat
 091F,0911:0364|Total-TV-Hrvatska|Doku TV HD
@@ -4572,10 +4732,15 @@
 091F,0911:045A|Total-TV-Hrvatska|Viasat Nature East HD
 091F,0911:0067|Total-TV-Hrvatska|Z1 TV
 
+####################################################
+# OSCAM Generator 1.0.0.4                          #
+# Autor: Ondrej Bock, butras@post.cz               #
+# Web: http://www.butras.cz                        #
+####################################################
 ## PROVIDER: Total-TV-Makedonija
 ## CAID: 091F,0911
 ## PROVID: 000000
-## CREATE: 2025.02.11 15:42:20
+## CREATE: 2025.02.13 19:14:08
 091F,0911:06ED|Total-TV-Makedonija|24 Kitchen Srbija HD
 091F,0911:0AA0|Total-TV-Makedonija|360 Tune Box
 091F,0911:054F|Total-TV-Makedonija|Alfa TV
@@ -4598,7 +4763,7 @@
 091F,0911:0556|Total-TV-Makedonija|CineStar Premiere 2 HD
 091F,0911:0055|Total-TV-Makedonija|CityPlay
 091F,0911:0078|Total-TV-Makedonija|CMC TV
-091F,0911:0557|Total-TV-Makedonija|Crime Investigation UK
+091F,0911:0557|Total-TV-Makedonija|Crime  Investigation UK
 091F,0911:0081|Total-TV-Makedonija|Da Vinci
 091F,0911:05B0|Total-TV-Makedonija|Discovery Channel Srbija HD
 091F,0911:0365|Total-TV-Makedonija|Diva Adria
@@ -4715,10 +4880,15 @@
 091F,0911:0054|Total-TV-Makedonija|Zadruga 3
 091F,0911:005D|Total-TV-Makedonija|Zadruga 4
 
+####################################################
+# OSCAM Generator 1.0.0.4                          #
+# Autor: Ondrej Bock, butras@post.cz               #
+# Web: http://www.butras.cz                        #
+####################################################
 ## PROVIDER: Total-TV-Crna-Gora
 ## CAID: 091F,0911
 ## PROVID: 000000
-## CREATE: 2025.02.11 15:42:21
+## CREATE: 2025.02.13 19:14:11
 091F,0911:06ED|Total-TV-Crna-Gora|24 Kitchen Srbija HD
 091F,0911:0AA0|Total-TV-Crna-Gora|360 Tune Box
 091F,0911:054F|Total-TV-Crna-Gora|Alfa TV
@@ -4739,7 +4909,7 @@
 091F,0911:0556|Total-TV-Crna-Gora|CineStar Premiere 2 HD
 091F,0911:0055|Total-TV-Crna-Gora|CityPlay
 091F,0911:0078|Total-TV-Crna-Gora|CMC TV
-091F,0911:0557|Total-TV-Crna-Gora|Crime Investigation UK
+091F,0911:0557|Total-TV-Crna-Gora|Crime  Investigation UK
 091F,0911:0081|Total-TV-Crna-Gora|Da Vinci
 091F,0911:05B0|Total-TV-Crna-Gora|Discovery Channel Srbija HD
 091F,0911:0365|Total-TV-Crna-Gora|Diva Adria
@@ -4869,10 +5039,15 @@
 091F,0911:045C|Total-TV-Crna-Gora|Viasat History HD
 091F,0911:045A|Total-TV-Crna-Gora|Viasat Nature East HD
 
+####################################################
+# OSCAM Generator 1.0.0.4                          #
+# Autor: Ondrej Bock, butras@post.cz               #
+# Web: http://www.butras.cz                        #
+####################################################
 ## PROVIDER: Total-TV-Srbija
 ## CAID: 091F,0911
 ## PROVID: 000000
-## CREATE: 2025.02.11 15:42:22
+## CREATE: 2025.02.13 19:14:13
 091F,0911:06ED|Total-TV-Srbija|24 Kitchen Srbija HD
 091F,0911:0AA0|Total-TV-Srbija|360 Tune Box
 091F,0911:054A|Total-TV-Srbija|Alfa TV
@@ -4896,7 +5071,7 @@
 091F,0911:0055|Total-TV-Srbija|CityPlay
 091F,0911:007A|Total-TV-Srbija|Club MTV
 091F,0911:0078|Total-TV-Srbija|CMC TV
-091F,0911:0557|Total-TV-Srbija|Crime Investigation UK
+091F,0911:0557|Total-TV-Srbija|Crime  Investigation UK
 091F,0911:0081|Total-TV-Srbija|Da Vinci
 091F,0911:05B0|Total-TV-Srbija|Discovery Channel Srbija HD
 091F,0911:0365|Total-TV-Srbija|Diva Adria
@@ -5039,10 +5214,15 @@
 091F,0911:0054|Total-TV-Srbija|Zadruga 3
 091F,0911:005D|Total-TV-Srbija|Zadruga 4
 
+####################################################
+# OSCAM Generator 1.0.0.4                          #
+# Autor: Ondrej Bock, butras@post.cz               #
+# Web: http://www.butras.cz                        #
+####################################################
 ## PROVIDER: Total-TV-Slovenija
 ## CAID: 091F,0911
 ## PROVID: 000000
-## CREATE: 2025.02.11 15:42:23
+## CREATE: 2025.02.13 19:14:15
 091F,0911:06ED|Total-TV-Slovenija|24 Kitchen Srbija HD
 091F,0911:054F|Total-TV-Slovenija|Alfa TV
 091F,0911:0675|Total-TV-Slovenija|Alternativna TV
@@ -5055,7 +5235,7 @@
 091F,0911:0554|Total-TV-Slovenija|CineStar Premiere 1 HD
 091F,0911:0556|Total-TV-Slovenija|CineStar Premiere 2 HD
 091F,0911:0078|Total-TV-Slovenija|CMC TV
-091F,0911:0557|Total-TV-Slovenija|Crime Investigation UK
+091F,0911:0557|Total-TV-Slovenija|Crime  Investigation UK
 091F,0911:05B0|Total-TV-Slovenija|Discovery Channel Srbija HD
 091F,0911:0365|Total-TV-Slovenija|Diva Adria
 091F,0911:0001|Total-TV-Slovenija|DM Sat
@@ -5125,10 +5305,15 @@
 091F,0911:045A|Total-TV-Slovenija|Viasat Nature East HD
 091F,0911:0067|Total-TV-Slovenija|Z1 TV
 
+####################################################
+# OSCAM Generator 1.0.0.4                          #
+# Autor: Ondrej Bock, butras@post.cz               #
+# Web: http://www.butras.cz                        #
+####################################################
 ## PROVIDER: Freesat
 ## CAID: 0500
 ## PROVID: 025900,025910
-## CREATE: 2025.02.11 15:42:24
+## CREATE: 2025.02.13 19:14:16
 0500:0007|Freesat|Acasa
 0500:0001|Freesat|Acasa Gold
 0500:0010|Freesat|Alfa Omega TV HD
@@ -5159,10 +5344,15 @@
 0500:0018|Freesat|TVR Timisoara
 0500:0009|Freesat|Warner TV Romania
 
+####################################################
+# OSCAM Generator 1.0.0.4                          #
+# Autor: Ondrej Bock, butras@post.cz               #
+# Web: http://www.butras.cz                        #
+####################################################
 ## PROVIDER: A1-Croatia
 ## CAID: 0B00
 ## PROVID: 000000
-## CREATE: 2025.02.11 15:42:24
+## CREATE: 2025.02.13 19:14:19
 0B00:0771|A1-Croatia|24 Kitchen Hrvatska HD
 0B00:0065|A1-Croatia|Aljazeera Balkans HD
 0B00:0076|A1-Croatia|AMC Balkan
@@ -5276,10 +5466,15 @@
 0B00:0452|A1-Croatia|Viasat History HD
 0B00:044D|A1-Croatia|Viasat Nature East
 
+####################################################
+# OSCAM Generator 1.0.0.4                          #
+# Autor: Ondrej Bock, butras@post.cz               #
+# Web: http://www.butras.cz                        #
+####################################################
 ## PROVIDER: Antik-Sat
 ## CAID: 0B00
 ## PROVID: 000000
-## CREATE: 2025.02.11 15:42:25
+## CREATE: 2025.02.13 19:14:20
 0B00:0AA0|Antik-Sat|360 Tune Box
 0B00:047F|Antik-Sat|AMC Central Europe HD
 0B00:04B6|Antik-Sat|Arcadia World Cesky & Slovensky
@@ -5308,7 +5503,7 @@
 0B00:0AA1|Antik-Sat|FashionBox HD
 0B00:0A98|Antik-Sat|Fast & FunBox HD
 0B00:0A99|Antik-Sat|FightBox HD
-0B00:04C1|Antik-Sat|Film Czechia
+0B00:04C1|Antik-Sat|Film  Czechia
 0B00:0A94|Antik-Sat|FilmBox Arthouse Worldwide
 0B00:04B9|Antik-Sat|HBO 2 Central Europe HD
 0B00:04BC|Antik-Sat|HBO 3 Central Europe HD
@@ -5352,10 +5547,15 @@
 0B00:04CD|Antik-Sat|TV Paprika Czech Republic
 0B00:04BF|Antik-Sat|Wau TV HD
 
+####################################################
+# OSCAM Generator 1.0.0.4                          #
+# Autor: Ondrej Bock, butras@post.cz               #
+# Web: http://www.butras.cz                        #
+####################################################
 ## PROVIDER: New-World-TV
 ## CAID: 0B00,0B01,0B02
 ## PROVID: 000000
-## CREATE: 2025.02.11 15:42:26
+## CREATE: 2025.02.13 19:14:21
 0B00,0B01,0B02:0111|New-World-TV|Aforevo TV
 0B00,0B01,0B02:0259|New-World-TV|Africa TV 3
 0B00,0B01,0B02:0281|New-World-TV|Africa TV 3 Quran
@@ -5433,18 +5633,23 @@
 0B00,0B01,0B02:010D|New-World-TV|Zee Magic
 0B00,0B01,0B02:006D|New-World-TV|Zik FM
 
+####################################################
+# OSCAM Generator 1.0.0.4                          #
+# Autor: Ondrej Bock, butras@post.cz               #
+# Web: http://www.butras.cz                        #
+####################################################
 ## PROVIDER: Canal-plus-seca
 ## CAID: 0100,1813
 ## PROVID: 000000,000068
-## CREATE: 2025.02.11 15:42:27
+## CREATE: 2025.02.13 19:14:24
 0100,1813:3E26|Canal-plus-seca|13 Ulica HD
 0100,1813:428F|Canal-plus-seca|4 Fun Dance
 0100,1813:428E|Canal-plus-seca|4 Fun Kids
 0100,1813:428D|Canal-plus-seca|4 Fun TV
 0100,1813:32D8|Canal-plus-seca|Active Family
 0100,1813:32D5|Canal-plus-seca|Adventure HD
-0100,1813:3781|Canal-plus-seca|Ale Kino HD
-0100,1813:379F|Canal-plus-seca|Ale Kino HD
+0100,1813:3781|Canal-plus-seca|Ale Kino  HD
+0100,1813:379F|Canal-plus-seca|Ale Kino  HD
 0100,1813:1C8A|Canal-plus-seca|Aljazeera English HD
 0100,1813:3AB7|Canal-plus-seca|AMC Polska HD
 0100,1813:3AE9|Canal-plus-seca|AMC Polska HD
@@ -5468,28 +5673,28 @@
 0100,1813:3D57|Canal-plus-seca|Biznes 24 HD
 0100,1813:1140|Canal-plus-seca|Blue Hustler Europe
 0100,1813:114A|Canal-plus-seca|Blue Hustler Europe
-0100,1813:113D|Canal-plus-seca|Canal 4K Ultra HD
-0100,1813:13ED|Canal-plus-seca|Canal At1 HD
-0100,1813:3A99|Canal-plus-seca|Canal Dokument HD
-0100,1813:13EF|Canal-plus-seca|Canal Domo Polska HD
-0100,1813:1421|Canal-plus-seca|Canal Domo Polska HD
-0100,1813:377B|Canal-plus-seca|Canal Family Polska HD
-0100,1813:3779|Canal-plus-seca|Canal Film HD
-0100,1813:377F|Canal-plus-seca|Canal Kuchnia HD
-0100,1813:37B1|Canal-plus-seca|Canal Kuchnia HD
-0100,1813:32CD|Canal-plus-seca|Canal Now HD
-0100,1813:32FF|Canal-plus-seca|Canal Now HD
-0100,1813:32DC|Canal-plus-seca|Canal Premium HD
-0100,1813:3782|Canal-plus-seca|Canal Seriale HD
-0100,1813:13EE|Canal-plus-seca|Canal Sport 2 Polska HD
-0100,1813:3AA0|Canal-plus-seca|Canal Sport 3 Polska HD
-0100,1813:3AD2|Canal-plus-seca|Canal Sport 3 Polska HD
-0100,1813:3AA1|Canal-plus-seca|Canal Sport 4 Polska HD
-0100,1813:3AD3|Canal-plus-seca|Canal Sport 4 Polska HD
-0100,1813:3AA5|Canal-plus-seca|Canal Sport 5 Polska HD
-0100,1813:3AB9|Canal-plus-seca|Canal Sport 5 Polska HD
-0100,1813:3AE1|Canal-plus-seca|Canal Sport 5 Polska HD
-0100,1813:32DE|Canal-plus-seca|Canal Sport Polska HD
+0100,1813:113D|Canal-plus-seca|Canal  4K Ultra HD
+0100,1813:13ED|Canal-plus-seca|Canal  At1 HD
+0100,1813:3A99|Canal-plus-seca|Canal  Dokument HD
+0100,1813:13EF|Canal-plus-seca|Canal  Domo Polska HD
+0100,1813:1421|Canal-plus-seca|Canal  Domo Polska HD
+0100,1813:377B|Canal-plus-seca|Canal  Family Polska HD
+0100,1813:3779|Canal-plus-seca|Canal  Film HD
+0100,1813:377F|Canal-plus-seca|Canal  Kuchnia HD
+0100,1813:37B1|Canal-plus-seca|Canal  Kuchnia HD
+0100,1813:32CD|Canal-plus-seca|Canal  Now HD
+0100,1813:32FF|Canal-plus-seca|Canal  Now HD
+0100,1813:32DC|Canal-plus-seca|Canal  Premium HD
+0100,1813:3782|Canal-plus-seca|Canal  Seriale HD
+0100,1813:13EE|Canal-plus-seca|Canal  Sport 2 Polska HD
+0100,1813:3AA0|Canal-plus-seca|Canal  Sport 3 Polska HD
+0100,1813:3AD2|Canal-plus-seca|Canal  Sport 3 Polska HD
+0100,1813:3AA1|Canal-plus-seca|Canal  Sport 4 Polska HD
+0100,1813:3AD3|Canal-plus-seca|Canal  Sport 4 Polska HD
+0100,1813:3AA5|Canal-plus-seca|Canal  Sport 5 Polska HD
+0100,1813:3AB9|Canal-plus-seca|Canal  Sport 5 Polska HD
+0100,1813:3AE1|Canal-plus-seca|Canal  Sport 5 Polska HD
+0100,1813:32DE|Canal-plus-seca|Canal  Sport Polska HD
 0100,1813:2906|Canal-plus-seca|Cartoon Network Polska HD
 0100,1813:10E4|Canal-plus-seca|Cartoonito Polska HD
 0100,1813:07D9|Canal-plus-seca|CBeebies Polska
@@ -5502,7 +5707,7 @@
 0100,1813:3AD1|Canal-plus-seca|Cinemax Central Europe HD
 0100,1813:0010|Canal-plus-seca|Comedy Central Extra Polsat HD
 0100,1813:000C|Canal-plus-seca|Comedy Central Polska HD
-0100,1813:0C30|Canal-plus-seca|Crime Investigation Polsat HD
+0100,1813:0C30|Canal-plus-seca|Crime  Investigation Polsat HD
 0100,1813:4280|Canal-plus-seca|Da Vinci Polska
 0100,1813:1C8C|Canal-plus-seca|Disco Polo Music
 0100,1813:1C8E|Canal-plus-seca|Disco Polo Music
@@ -5570,8 +5775,8 @@
 0100,1813:1411|Canal-plus-seca|Meloradio
 0100,1813:3DD4|Canal-plus-seca|Metro TV HD
 0100,1813:422B|Canal-plus-seca|Mezzo
-0100,1813:32E0|Canal-plus-seca|MiniMini HD
-0100,1813:32FE|Canal-plus-seca|MiniMini HD
+0100,1813:32E0|Canal-plus-seca|MiniMini  HD
+0100,1813:32FE|Canal-plus-seca|MiniMini  HD
 0100,1813:3D56|Canal-plus-seca|Motowizja HD
 0100,1813:0008|Canal-plus-seca|MTV 00s
 0100,1813:1CB9|Canal-plus-seca|MTV 90s
@@ -5588,18 +5793,18 @@
 0100,1813:0002|Canal-plus-seca|NickMusic
 0100,1813:000E|Canal-plus-seca|Nicktoons Polska HD
 0100,1813:0045|Canal-plus-seca|Nicktoons Polska HD
-0100,1813:3A9A|Canal-plus-seca|Novelas HD
-0100,1813:3ACC|Canal-plus-seca|Novelas HD
+0100,1813:3A9A|Canal-plus-seca|Novelas  HD
+0100,1813:3ACC|Canal-plus-seca|Novelas  HD
 0100,1813:429E|Canal-plus-seca|Nowa TV HD
 0100,1813:32D2|Canal-plus-seca|Nuta TV
 0100,1813:000D|Canal-plus-seca|Paramount Network Polska HD
 0100,1813:0021|Canal-plus-seca|Paramount Network Polska HD
-0100,1813:377E|Canal-plus-seca|Planete Polska HD
-0100,1813:37B0|Canal-plus-seca|Planete Polska HD
+0100,1813:377E|Canal-plus-seca|Planete  Polska HD
+0100,1813:37B0|Canal-plus-seca|Planete  Polska HD
 0100,1813:429A|Canal-plus-seca|Polo TV HD
 0100,1813:423C|Canal-plus-seca|Polonia 1
 0100,1813:339A|Canal-plus-seca|Polsat 2 HD
-0100,1813:3396|Canal-plus-seca|Polsat cafe HD
+0100,1813:3396|Canal-plus-seca|Polsat CafAS HD
 0100,1813:3398|Canal-plus-seca|Polsat Film HD
 0100,1813:3391|Canal-plus-seca|Polsat HD
 0100,1813:4293|Canal-plus-seca|Polsat Music HD
@@ -5630,8 +5835,8 @@
 0100,1813:339B|Canal-plus-seca|Super Polsat HD
 0100,1813:3784|Canal-plus-seca|TeenNick Polska HD
 0100,1813:423B|Canal-plus-seca|Tele 5
-0100,1813:377D|Canal-plus-seca|Teletoon HD Polska
-0100,1813:37AF|Canal-plus-seca|Teletoon HD Polska
+0100,1813:377D|Canal-plus-seca|Teletoon  HD Polska
+0100,1813:37AF|Canal-plus-seca|Teletoon  HD Polska
 0100,1813:10DE|Canal-plus-seca|TLC Polska HD
 0100,1813:142A|Canal-plus-seca|Tok FM
 0100,1813:3DD8|Canal-plus-seca|Travel Channel Polska HD
@@ -5677,18 +5882,23 @@
 0100,1813:3D5A|Canal-plus-seca|WP TV
 0100,1813:290C|Canal-plus-seca|Wydarzenia 24 HD
 
+####################################################
+# OSCAM Generator 1.0.0.4                          #
+# Autor: Ondrej Bock, butras@post.cz               #
+# Web: http://www.butras.cz                        #
+####################################################
 ## PROVIDER: Canal-plus
 ## CAID: 0B01,1884
 ## PROVID: 000000
-## CREATE: 2025.02.11 15:42:29
+## CREATE: 2025.02.13 19:14:25
 0B01,1884:3E26|Canal-plus|13 Ulica HD
 0B01,1884:428F|Canal-plus|4 Fun Dance
 0B01,1884:428E|Canal-plus|4 Fun Kids
 0B01,1884:428D|Canal-plus|4 Fun TV
 0B01,1884:32D8|Canal-plus|Active Family
 0B01,1884:32D5|Canal-plus|Adventure HD
-0B01,1884:3781|Canal-plus|Ale Kino HD
-0B01,1884:379F|Canal-plus|Ale Kino HD
+0B01,1884:3781|Canal-plus|Ale Kino  HD
+0B01,1884:379F|Canal-plus|Ale Kino  HD
 0B01,1884:1C8A|Canal-plus|Aljazeera English HD
 0B01,1884:3AB7|Canal-plus|AMC Polska HD
 0B01,1884:3AE9|Canal-plus|AMC Polska HD
@@ -5712,28 +5922,28 @@
 0B01,1884:3D57|Canal-plus|Biznes 24 HD
 0B01,1884:1140|Canal-plus|Blue Hustler Europe
 0B01,1884:114A|Canal-plus|Blue Hustler Europe
-0B01,1884:113D|Canal-plus|Canal 4K Ultra HD
-0B01,1884:13ED|Canal-plus|Canal At1 HD
-0B01,1884:3A99|Canal-plus|Canal Dokument HD
-0B01,1884:13EF|Canal-plus|Canal Domo Polska HD
-0B01,1884:1421|Canal-plus|Canal Domo Polska HD
-0B01,1884:377B|Canal-plus|Canal Family Polska HD
-0B01,1884:3779|Canal-plus|Canal Film HD
-0B01,1884:377F|Canal-plus|Canal Kuchnia HD
-0B01,1884:37B1|Canal-plus|Canal Kuchnia HD
-0B01,1884:32CD|Canal-plus|Canal Now HD
-0B01,1884:32FF|Canal-plus|Canal Now HD
-0B01,1884:32DC|Canal-plus|Canal Premium HD
-0B01,1884:3782|Canal-plus|Canal Seriale HD
-0B01,1884:13EE|Canal-plus|Canal Sport 2 Polska HD
-0B01,1884:3AA0|Canal-plus|Canal Sport 3 Polska HD
-0B01,1884:3AD2|Canal-plus|Canal Sport 3 Polska HD
-0B01,1884:3AA1|Canal-plus|Canal Sport 4 Polska HD
-0B01,1884:3AD3|Canal-plus|Canal Sport 4 Polska HD
-0B01,1884:3AA5|Canal-plus|Canal Sport 5 Polska HD
-0B01,1884:3AB9|Canal-plus|Canal Sport 5 Polska HD
-0B01,1884:3AE1|Canal-plus|Canal Sport 5 Polska HD
-0B01,1884:32DE|Canal-plus|Canal Sport Polska HD
+0B01,1884:113D|Canal-plus|Canal  4K Ultra HD
+0B01,1884:13ED|Canal-plus|Canal  At1 HD
+0B01,1884:3A99|Canal-plus|Canal  Dokument HD
+0B01,1884:13EF|Canal-plus|Canal  Domo Polska HD
+0B01,1884:1421|Canal-plus|Canal  Domo Polska HD
+0B01,1884:377B|Canal-plus|Canal  Family Polska HD
+0B01,1884:3779|Canal-plus|Canal  Film HD
+0B01,1884:377F|Canal-plus|Canal  Kuchnia HD
+0B01,1884:37B1|Canal-plus|Canal  Kuchnia HD
+0B01,1884:32CD|Canal-plus|Canal  Now HD
+0B01,1884:32FF|Canal-plus|Canal  Now HD
+0B01,1884:32DC|Canal-plus|Canal  Premium HD
+0B01,1884:3782|Canal-plus|Canal  Seriale HD
+0B01,1884:13EE|Canal-plus|Canal  Sport 2 Polska HD
+0B01,1884:3AA0|Canal-plus|Canal  Sport 3 Polska HD
+0B01,1884:3AD2|Canal-plus|Canal  Sport 3 Polska HD
+0B01,1884:3AA1|Canal-plus|Canal  Sport 4 Polska HD
+0B01,1884:3AD3|Canal-plus|Canal  Sport 4 Polska HD
+0B01,1884:3AA5|Canal-plus|Canal  Sport 5 Polska HD
+0B01,1884:3AB9|Canal-plus|Canal  Sport 5 Polska HD
+0B01,1884:3AE1|Canal-plus|Canal  Sport 5 Polska HD
+0B01,1884:32DE|Canal-plus|Canal  Sport Polska HD
 0B01,1884:2906|Canal-plus|Cartoon Network Polska HD
 0B01,1884:10E4|Canal-plus|Cartoonito Polska HD
 0B01,1884:07D9|Canal-plus|CBeebies Polska
@@ -5746,7 +5956,7 @@
 0B01,1884:3AD1|Canal-plus|Cinemax Central Europe HD
 0B01,1884:0010|Canal-plus|Comedy Central Extra Polsat HD
 0B01,1884:000C|Canal-plus|Comedy Central Polska HD
-0B01,1884:0C30|Canal-plus|Crime Investigation Polsat HD
+0B01,1884:0C30|Canal-plus|Crime  Investigation Polsat HD
 0B01,1884:4280|Canal-plus|Da Vinci Polska
 0B01,1884:1C8C|Canal-plus|Disco Polo Music
 0B01,1884:1C8E|Canal-plus|Disco Polo Music
@@ -5814,8 +6024,8 @@
 0B01,1884:1411|Canal-plus|Meloradio
 0B01,1884:3DD4|Canal-plus|Metro TV HD
 0B01,1884:422B|Canal-plus|Mezzo
-0B01,1884:32E0|Canal-plus|MiniMini HD
-0B01,1884:32FE|Canal-plus|MiniMini HD
+0B01,1884:32E0|Canal-plus|MiniMini  HD
+0B01,1884:32FE|Canal-plus|MiniMini  HD
 0B01,1884:3D56|Canal-plus|Motowizja HD
 0B01,1884:0008|Canal-plus|MTV 00s
 0B01,1884:1CB9|Canal-plus|MTV 90s
@@ -5832,18 +6042,18 @@
 0B01,1884:0002|Canal-plus|NickMusic
 0B01,1884:000E|Canal-plus|Nicktoons Polska HD
 0B01,1884:0045|Canal-plus|Nicktoons Polska HD
-0B01,1884:3A9A|Canal-plus|Novelas HD
-0B01,1884:3ACC|Canal-plus|Novelas HD
+0B01,1884:3A9A|Canal-plus|Novelas  HD
+0B01,1884:3ACC|Canal-plus|Novelas  HD
 0B01,1884:429E|Canal-plus|Nowa TV HD
 0B01,1884:32D2|Canal-plus|Nuta TV
 0B01,1884:000D|Canal-plus|Paramount Network Polska HD
 0B01,1884:0021|Canal-plus|Paramount Network Polska HD
-0B01,1884:377E|Canal-plus|Planete Polska HD
-0B01,1884:37B0|Canal-plus|Planete Polska HD
+0B01,1884:377E|Canal-plus|Planete  Polska HD
+0B01,1884:37B0|Canal-plus|Planete  Polska HD
 0B01,1884:429A|Canal-plus|Polo TV HD
 0B01,1884:423C|Canal-plus|Polonia 1
 0B01,1884:339A|Canal-plus|Polsat 2 HD
-0B01,1884:3396|Canal-plus|Polsat cafe HD
+0B01,1884:3396|Canal-plus|Polsat CafAS HD
 0B01,1884:3398|Canal-plus|Polsat Film HD
 0B01,1884:3391|Canal-plus|Polsat HD
 0B01,1884:4293|Canal-plus|Polsat Music HD
@@ -5874,8 +6084,8 @@
 0B01,1884:339B|Canal-plus|Super Polsat HD
 0B01,1884:3784|Canal-plus|TeenNick Polska HD
 0B01,1884:423B|Canal-plus|Tele 5
-0B01,1884:377D|Canal-plus|Teletoon HD Polska
-0B01,1884:37AF|Canal-plus|Teletoon HD Polska
+0B01,1884:377D|Canal-plus|Teletoon  HD Polska
+0B01,1884:37AF|Canal-plus|Teletoon  HD Polska
 0B01,1884:10DE|Canal-plus|TLC Polska HD
 0B01,1884:142A|Canal-plus|Tok FM
 0B01,1884:3DD8|Canal-plus|Travel Channel Polska HD
@@ -5921,10 +6131,15 @@
 0B01,1884:3D5A|Canal-plus|WP TV
 0B01,1884:290C|Canal-plus|Wydarzenia 24 HD
 
+####################################################
+# OSCAM Generator 1.0.0.4                          #
+# Autor: Ondrej Bock, butras@post.cz               #
+# Web: http://www.butras.cz                        #
+####################################################
 ## PROVIDER: Polsat-Box
 ## CAID: 1803,1861,186C,06ED,1870
 ## PROVID: 000000,007001,007101
-## CREATE: 2025.02.11 15:42:30
+## CREATE: 2025.02.13 19:14:27
 1803,1861,186C,06ED,1870:3E26|Polsat-Box|13 Ulica HD
 1803,1861,186C,06ED,1870:428F|Polsat-Box|4 Fun Dance
 1803,1861,186C,06ED,1870:428E|Polsat-Box|4 Fun Kids
@@ -5960,7 +6175,7 @@
 1803,1861,186C,06ED,1870:0010|Polsat-Box|Comedy Central Extra Polsat HD
 1803,1861,186C,06ED,1870:000C|Polsat-Box|Comedy Central Polska HD
 1803,1861,186C,06ED,1870:0020|Polsat-Box|Comedy Central Polska HD
-1803,1861,186C,06ED,1870:0C30|Polsat-Box|Crime Investigation Polsat HD
+1803,1861,186C,06ED,1870:0C30|Polsat-Box|Crime  Investigation Polsat HD
 1803,1861,186C,06ED,1870:4280|Polsat-Box|Da Vinci Polska
 1803,1861,186C,06ED,1870:1C8C|Polsat-Box|Disco Polo Music HD
 1803,1861,186C,06ED,1870:1C8E|Polsat-Box|Disco Polo Music HD
@@ -5990,7 +6205,7 @@
 1803,1861,186C,06ED,1870:290A|Polsat-Box|Extreme Sports Channel Polska HD
 1803,1861,186C,06ED,1870:0BC2|Polsat-Box|FashionTV Europe
 1803,1861,186C,06ED,1870:3E24|Polsat-Box|FightBox HD
-1803,1861,186C,06ED,1870:290B|Polsat-Box|Film cafe Polska HD
+1803,1861,186C,06ED,1870:290B|Polsat-Box|Film CafAS Polska HD
 1803,1861,186C,06ED,1870:3D65|Polsat-Box|FilmBox Action
 1803,1861,186C,06ED,1870:3D97|Polsat-Box|FilmBox Action
 1803,1861,186C,06ED,1870:428A|Polsat-Box|FilmBox Arthouse Worldwide
@@ -6030,7 +6245,6 @@
 1803,1861,186C,06ED,1870:0008|Polsat-Box|MTV 00s
 1803,1861,186C,06ED,1870:1CB9|Polsat-Box|MTV 90s
 1803,1861,186C,06ED,1870:0001|Polsat-Box|MTV Live HD
-1803,1861,186C,06ED,1870:0015|Polsat-Box|MTV Live HD
 1803,1861,186C,06ED,1870:000F|Polsat-Box|MTV Polska HD
 1803,1861,186C,06ED,1870:2907|Polsat-Box|Nat Geo People Polska HD
 1803,1861,186C,06ED,1870:32DF|Polsat-Box|National Geographic Polska HD
@@ -6050,7 +6264,7 @@
 1803,1861,186C,06ED,1870:42C2|Polsat-Box|Polo TV HD
 1803,1861,186C,06ED,1870:423C|Polsat-Box|Polonia 1
 1803,1861,186C,06ED,1870:339A|Polsat-Box|Polsat 2 HD
-1803,1861,186C,06ED,1870:3396|Polsat-Box|Polsat cafe HD
+1803,1861,186C,06ED,1870:3396|Polsat-Box|Polsat CafAS HD
 1803,1861,186C,06ED,1870:0C23|Polsat-Box|Polsat Doku HD
 1803,1861,186C,06ED,1870:1CCF|Polsat-Box|Polsat Film 2
 1803,1861,186C,06ED,1870:3398|Polsat-Box|Polsat Film HD
@@ -6161,18 +6375,23 @@
 1803,1861,186C,06ED,1870:290C|Polsat-Box|Wydarzenia 24 HD
 1803,1861,186C,06ED,1870:4291|Polsat-Box|Zoom TV
 
+####################################################
+# OSCAM Generator 1.0.0.4                          #
+# Autor: Ondrej Bock, butras@post.cz               #
+# Web: http://www.butras.cz                        #
+####################################################
 ## PROVIDER: Orange-PL
 ## CAID: 0500
 ## PROVID: 032A00
-## CREATE: 2025.02.11 15:42:31
+## CREATE: 2025.02.13 19:14:29
 0500:3E26|Orange-PL|13 Ulica HD
 0500:428F|Orange-PL|4 Fun Dance
 0500:428E|Orange-PL|4 Fun Kids
 0500:428D|Orange-PL|4 Fun TV
 0500:32D8|Orange-PL|Active Family
 0500:114C|Orange-PL|Adventure HD
-0500:3781|Orange-PL|Ale Kino HD
-0500:379F|Orange-PL|Ale Kino HD
+0500:3781|Orange-PL|Ale Kino  HD
+0500:379F|Orange-PL|Ale Kino  HD
 0500:3AB7|Orange-PL|AMC Polska HD
 0500:3AE9|Orange-PL|AMC Polska HD
 0500:3B66|Orange-PL|Animal Planet Polska HD
@@ -6189,21 +6408,21 @@
 0500:1165|Orange-PL|BBC First Polska HD
 0500:07DB|Orange-PL|BBC Lifestyle Polska HD
 0500:42EA|Orange-PL|BBC News Europe
-0500:377B|Orange-PL|Canal 360 HD
-0500:13ED|Orange-PL|Canal At1 HD
-0500:377A|Orange-PL|Canal Dokument HD
-0500:13EF|Orange-PL|Canal Domo Polska HD
-0500:1421|Orange-PL|Canal Domo Polska HD
-0500:3779|Orange-PL|Canal Film HD
-0500:377F|Orange-PL|Canal Kuchnia HD
-0500:37B1|Orange-PL|Canal Kuchnia HD
-0500:32DC|Orange-PL|Canal Premium HD
-0500:3782|Orange-PL|Canal Seriale HD
-0500:13EE|Orange-PL|Canal Sport 2 Polska HD
-0500:3AA5|Orange-PL|Canal Sport 5 Polska HD
-0500:3AB9|Orange-PL|Canal Sport 5 Polska HD
-0500:3AE1|Orange-PL|Canal Sport 5 Polska HD
-0500:32DE|Orange-PL|Canal Sport Polska HD
+0500:377B|Orange-PL|Canal  360 HD
+0500:13ED|Orange-PL|Canal  At1 HD
+0500:377A|Orange-PL|Canal  Dokument HD
+0500:13EF|Orange-PL|Canal  Domo Polska HD
+0500:1421|Orange-PL|Canal  Domo Polska HD
+0500:3779|Orange-PL|Canal  Film HD
+0500:377F|Orange-PL|Canal  Kuchnia HD
+0500:37B1|Orange-PL|Canal  Kuchnia HD
+0500:32DC|Orange-PL|Canal  Premium HD
+0500:3782|Orange-PL|Canal  Seriale HD
+0500:13EE|Orange-PL|Canal  Sport 2 Polska HD
+0500:3AA5|Orange-PL|Canal  Sport 5 Polska HD
+0500:3AB9|Orange-PL|Canal  Sport 5 Polska HD
+0500:3AE1|Orange-PL|Canal  Sport 5 Polska HD
+0500:32DE|Orange-PL|Canal  Sport Polska HD
 0500:07D9|Orange-PL|CBeebies Polska
 0500:3D5B|Orange-PL|CBS Reality Polska HD
 0500:3D8D|Orange-PL|CBS Reality Polska HD
@@ -6211,7 +6430,7 @@
 0500:3A9F|Orange-PL|Cinemax Central Europe HD
 0500:3AD1|Orange-PL|Cinemax Central Europe HD
 0500:000C|Orange-PL|Comedy Central Polska HD
-0500:0C30|Orange-PL|Crime Investigation Polsat HD
+0500:0C30|Orange-PL|Crime  Investigation Polsat HD
 0500:4280|Orange-PL|Da Vinci Polska
 0500:1C8C|Orange-PL|Disco Polo Music HD
 0500:1C8E|Orange-PL|Disco Polo Music HD
@@ -6232,7 +6451,7 @@
 0500:290A|Orange-PL|Extreme Sports Channel Polska HD
 0500:0BC2|Orange-PL|FashionTV Europe
 0500:3E24|Orange-PL|FightBox HD
-0500:290B|Orange-PL|Film cafe Polska HD
+0500:290B|Orange-PL|Film CafAS Polska HD
 0500:3D65|Orange-PL|FilmBox Action
 0500:3D97|Orange-PL|FilmBox Action
 0500:3D62|Orange-PL|FilmBox Family
@@ -6255,8 +6474,8 @@
 0500:3D61|Orange-PL|Kino TV HD
 0500:3D93|Orange-PL|Kino TV HD
 0500:3DD4|Orange-PL|Metro TV HD
-0500:32E0|Orange-PL|MiniMini HD
-0500:32FE|Orange-PL|MiniMini HD
+0500:32E0|Orange-PL|MiniMini  HD
+0500:32FE|Orange-PL|MiniMini  HD
 0500:1CB9|Orange-PL|MTV 90s
 0500:0001|Orange-PL|MTV Live HD
 0500:000F|Orange-PL|MTV Polska HD
@@ -6268,13 +6487,13 @@
 0500:429E|Orange-PL|Nowa TV HD
 0500:000D|Orange-PL|Paramount Network Polska HD
 0500:0021|Orange-PL|Paramount Network Polska HD
-0500:377E|Orange-PL|Planete Polska HD
-0500:37B0|Orange-PL|Planete Polska HD
+0500:377E|Orange-PL|Planete  Polska HD
+0500:37B0|Orange-PL|Planete  Polska HD
 0500:429A|Orange-PL|Polo TV HD
 0500:42C2|Orange-PL|Polo TV HD
 0500:423C|Orange-PL|Polonia 1
 0500:339A|Orange-PL|Polsat 2 HD
-0500:3396|Orange-PL|Polsat cafe HD
+0500:3396|Orange-PL|Polsat CafAS HD
 0500:3398|Orange-PL|Polsat Film HD
 0500:3391|Orange-PL|Polsat HD
 0500:3333|Orange-PL|Polsat News 2 HD
@@ -6291,8 +6510,8 @@
 0500:427C|Orange-PL|Stopklatka TV
 0500:3E1D|Orange-PL|Sundance TV Europe HD
 0500:423B|Orange-PL|Tele 5
-0500:3A9B|Orange-PL|Teletoon HD Polska
-0500:3ACD|Orange-PL|Teletoon HD Polska
+0500:3A9B|Orange-PL|Teletoon  HD Polska
+0500:3ACD|Orange-PL|Teletoon  HD Polska
 0500:10DE|Orange-PL|TLC Polska HD
 0500:3DD8|Orange-PL|Travel Channel Polska HD
 0500:3DD7|Orange-PL|TTV HD
@@ -6333,10 +6552,15 @@
 0500:290C|Orange-PL|Wydarzenia 24 HD
 0500:4291|Orange-PL|Zoom TV
 
+####################################################
+# OSCAM Generator 1.0.0.4                          #
+# Autor: Ondrej Bock, butras@post.cz               #
+# Web: http://www.butras.cz                        #
+####################################################
 ## PROVIDER: Kabelio
 ## CAID: 4AFC
 ## PROVID: 000000
-## CREATE: 2025.02.11 15:42:33
+## CREATE: 2025.02.13 19:14:30
 4AFC:0064|Kabelio|3 HD
 4AFC:0065|Kabelio|4 HD
 4AFC:0066|Kabelio|5 HD
@@ -6373,7 +6597,7 @@
 4AFC:006D|Kabelio|ORF 1 SAzdtirol HD
 4AFC:006E|Kabelio|ORF 2 Tirol HD
 4AFC:0074|Kabelio|ORF III HD
-4AFC:0076|Kabelio|ORF Sport HD
+4AFC:0076|Kabelio|ORF Sport  HD
 4AFC:0073|Kabelio|ProSieben Schweiz HD
 4AFC:006C|Kabelio|Puls Acht HD
 4AFC:434A|Kabelio|Radio RTR
@@ -6434,10 +6658,15 @@
 4AFC:0135|Kabelio|W9
 4AFC:0085|Kabelio|ZDF HD
 
+####################################################
+# OSCAM Generator 1.0.0.4                          #
+# Autor: Ondrej Bock, butras@post.cz               #
+# Web: http://www.butras.cz                        #
+####################################################
 ## PROVIDER: Bis-TV-13E
 ## CAID: 0500
 ## PROVID: 033A00,042820,051900,051A40
-## CREATE: 2025.02.11 15:42:34
+## CREATE: 2025.02.13 19:14:32
 0500:0142|Bis-TV-13E|6ter
 0500:01C4|Bis-TV-13E|AB 1
 0500:01CD|Bis-TV-13E|Action HD
@@ -6477,10 +6706,15 @@
 0500:0135|Bis-TV-13E|W9
 0500:01D4|Bis-TV-13E|XXL
 
+####################################################
+# OSCAM Generator 1.0.0.4                          #
+# Autor: Ondrej Bock, butras@post.cz               #
+# Web: http://www.butras.cz                        #
+####################################################
 ## PROVIDER: Bis-TV-5W
 ## CAID: 0500
 ## PROVID: 033A00,042820,051900,051A40
-## CREATE: 2025.02.11 15:42:34
+## CREATE: 2025.02.13 19:14:33
 0500:01A6|Bis-TV-5W|6ter HD
 0500:00CB|Bis-TV-5W|AB 1 HD
 0500:00D4|Bis-TV-5W|Action HD
@@ -6511,10 +6745,15 @@
 0500:00CE|Bis-TV-5W|UshuaAZa TV
 0500:00D8|Bis-TV-5W|XXL
 
+####################################################
+# OSCAM Generator 1.0.0.4                          #
+# Autor: Ondrej Bock, butras@post.cz               #
+# Web: http://www.butras.cz                        #
+####################################################
 ## PROVIDER: Fransat
 ## CAID: 0500
 ## PROVID: 041950,041960,041970,041980,041990,0419A0,0419B0,0419C0,0419D0
-## CREATE: 2025.02.11 15:42:36
+## CREATE: 2025.02.13 19:14:35
 0500:01A6|Fransat|6ter HD
 0500:00CB|Fransat|AB 1 HD
 0500:00D4|Fransat|Action HD
@@ -6526,7 +6765,7 @@
 0500:0BC3|Fransat|C News HD
 0500:0BC6|Fransat|C Star HD
 0500:0BC5|Fransat|C8 HD
-0500:0132|Fransat|Canal France clair Fransat HD
+0500:0132|Fransat|Canal  France clair Fransat HD
 0500:0BC8|Fransat|Canal Sav info card
 0500:0BBD|Fransat|ChASrie 25 HD
 0500:0C03|Fransat|ChASrie FM
@@ -6655,10 +6894,15 @@
 0500:01A5|Fransat|W9 HD
 0500:00D8|Fransat|XXL
 
+####################################################
+# OSCAM Generator 1.0.0.4                          #
+# Autor: Ondrej Bock, butras@post.cz               #
+# Web: http://www.butras.cz                        #
+####################################################
 ## PROVIDER: Yes
 ## CAID: 090C,090D,0930
 ## PROVID: 000000
-## CREATE: 2025.02.11 15:42:38
+## CREATE: 2025.02.13 19:14:36
 090C,090D,0930:0177|Yes|100 FM
 090C,090D,0930:0178|Yes|102 FM
 090C,090D,0930:0179|Yes|103 FM
@@ -6809,8 +7053,8 @@
 090C,090D,0930:00C9|Yes|Stingray Classica HD
 090C,090D,0930:0132|Yes|STS International
 090C,090D,0930:045C|Yes|TeenNick Israel
-090C,090D,0930:025A|Yes|Telecafe
-090C,090D,0930:0581|Yes|Telecafe
+090C,090D,0930:025A|Yes|TelecafAS
+090C,090D,0930:0581|Yes|TelecafAS
 090C,090D,0930:0582|Yes|TLC Pan Regional
 090C,090D,0930:0596|Yes|TLC Pan Regional
 090C,090D,0930:0525|Yes|Travel Channel
@@ -6857,10 +7101,15 @@
 090C,090D,0930:04C8|Yes|Zoom
 090C,090D,0930:04B8|Yes|Zoom Toon
 
+####################################################
+# OSCAM Generator 1.0.0.4                          #
+# Autor: Ondrej Bock, butras@post.cz               #
+# Web: http://www.butras.cz                        #
+####################################################
 ## PROVIDER: Focus-Sat
 ## CAID: 0B02
 ## PROVID: 000000
-## CREATE: 2025.02.11 15:42:39
+## CREATE: 2025.02.13 19:14:37
 0B02:0D48|Focus-Sat|Agro TV
 0B02:0B60|Focus-Sat|Aljazeera English
 0B02:7983|Focus-Sat|AMC Cesko
@@ -6887,7 +7136,7 @@
 0B02:01FD|Focus-Sat|Club MTV
 0B02:79E3|Focus-Sat|CNN International Europe
 0B02:79E7|Focus-Sat|CNN International Europe
-0B02:7810|Focus-Sat|Crime Investigation UK
+0B02:7810|Focus-Sat|Crime  Investigation UK
 0B02:798B|Focus-Sat|Disney Channel Romania
 0B02:7991|Focus-Sat|Disney Channel Romania
 0B02:0D7A|Focus-Sat|Disney Junior Romania & Bulgaria
@@ -6905,7 +7154,7 @@
 0B02:76CA|Focus-Sat|Favorit TV
 0B02:07E5|Focus-Sat|FightBox HD
 0B02:7A5A|Focus-Sat|FightBox HD
-0B02:76CB|Focus-Sat|Film cafe Romania
+0B02:76CB|Focus-Sat|Film CafAS Romania
 0B02:76CF|Focus-Sat|Film MAAnia
 0B02:76DF|Focus-Sat|Film MAAnia
 0B02:2B08|Focus-Sat|FilmBox Extra HD Czechia & Hungary
@@ -6973,10 +7222,15 @@
 0B02:7982|Focus-Sat|Viasat History
 0B02:76C7|Focus-Sat|Zu TV
 
+####################################################
+# OSCAM Generator 1.0.0.4                          #
+# Autor: Ondrej Bock, butras@post.cz               #
+# Web: http://www.butras.cz                        #
+####################################################
 ## PROVIDER: Vivacom
 ## CAID: 09BD,06E1
 ## PROVID: 000000
-## CREATE: 2025.02.11 15:42:41
+## CREATE: 2025.02.13 19:14:38
 09BD,06E1:001C|Vivacom|24 Kitchen Bulgaria
 09BD,06E1:00D2|Vivacom|78 TV
 09BD,06E1:025B|Vivacom|Action Box
@@ -7034,7 +7288,7 @@
 09BD,06E1:138B|Vivacom|CNN International Europe
 09BD,06E1:139F|Vivacom|Code Health TV
 09BD,06E1:025A|Vivacom|Comedy Box
-09BD,06E1:012E|Vivacom|Crime Investigation UK
+09BD,06E1:012E|Vivacom|Crime  Investigation UK
 09BD,06E1:1393|Vivacom|Da Vinci
 09BD,06E1:005A|Vivacom|Darik Nostalgie
 09BD,06E1:0017|Vivacom|Darik Radio
@@ -7190,10 +7444,15 @@
 09BD,06E1:1397|Vivacom|XY Plus
 09BD,06E1:13B1|Vivacom|Yaban
 
+####################################################
+# OSCAM Generator 1.0.0.4                          #
+# Autor: Ondrej Bock, butras@post.cz               #
+# Web: http://www.butras.cz                        #
+####################################################
 ## PROVIDER: Nova
 ## CAID: 0604,0699
 ## PROVID: 000000
-## CREATE: 2025.02.11 15:42:43
+## CREATE: 2025.02.13 19:14:40
 0604,0699:0175|Nova|Action 24
 0604,0699:1BC1|Nova|Adult Pack info card
 0604,0699:1C8A|Nova|Aljazeera English HD
@@ -7219,7 +7478,7 @@
 0604,0699:3C94|Nova|Cosmote Sport 8 HD
 0604,0699:3C96|Nova|Cosmote Sport 9 HD
 0604,0699:0193|Nova|Cosmote Sport Highlights HD
-0604,0699:025E|Nova|Crime Investigation UK
+0604,0699:025E|Nova|Crime  Investigation UK
 0604,0699:0172|Nova|Da Vinci HD
 0604,0699:0186|Nova|Da Vinci HD
 0604,0699:015F|Nova|Discovery Channel Europe HD
@@ -7231,8 +7490,8 @@
 0604,0699:3C97|Nova|E! Europe HD
 0604,0699:0136|Nova|Ecclesia Radio
 0604,0699:1BC8|Nova|Epic Drama HD
-0604,0699:0142|Nova|ERT 1 HD
-0604,0699:012E|Nova|ERT 2 HD
+0604,0699:017A|Nova|ERT 1 HD
+0604,0699:0185|Nova|ERT 2 HD
 0604,0699:0183|Nova|ERT 3 HD
 0604,0699:1BBD|Nova|ERT News
 0604,0699:0139|Nova|ERT World
@@ -7257,7 +7516,6 @@
 0604,0699:016B|Nova|Kontra
 0604,0699:0135|Nova|Love Radio 975
 0604,0699:013B|Nova|Mad Greekz
-0604,0699:1BC3|Nova|Mad Greekz
 0604,0699:1BCD|Nova|Mad Radio 1062
 0604,0699:0179|Nova|Mad TV
 0604,0699:0138|Nova|Melodia 992
@@ -7270,7 +7528,6 @@
 0604,0699:025F|Nova|National Geographic Ellada HD
 0604,0699:0195|Nova|National Geographic Wild Europe HD
 0604,0699:013A|Nova|Nickelodeon Greece
-0604,0699:0182|Nova|Nickelodeon Greece
 0604,0699:3C95|Nova|Nova Cinema 1 HD
 0604,0699:1BCA|Nova|Nova Cinema 2 HD
 0604,0699:1BC2|Nova|Nova Cinema 3 HD
@@ -7300,7 +7557,7 @@
 0604,0699:016C|Nova|Real FM
 0604,0699:4224|Nova|Redlight HD
 0604,0699:0137|Nova|SKAA 1003 FM
-0604,0699:0146|Nova|SKAA HD
+0604,0699:017F|Nova|SKAA HD
 0604,0699:0149|Nova|Smile TV
 0604,0699:017B|Nova|Spor FM
 0604,0699:3C91|Nova|Star Channel HD
@@ -7312,10 +7569,15 @@
 0604,0699:0261|Nova|Viasat Nature HD
 0604,0699:0180|Nova|Vouli TV
 
+####################################################
+# OSCAM Generator 1.0.0.4                          #
+# Autor: Ondrej Bock, butras@post.cz               #
+# Web: http://www.butras.cz                        #
+####################################################
 ## PROVIDER: SkyIT
 ## CAID: 09CD
 ## PROVID: 000000
-## CREATE: 2025.02.11 15:42:45
+## CREATE: 2025.02.13 19:14:41
 09CD:0078|SkyIT|20 Mediaset HD
 09CD:0087|SkyIT|27 Twentyseven HD
 09CD:064D|SkyIT|ACI Sport TV HD
@@ -7548,10 +7810,15 @@
 09CD:0068|SkyIT|Virgin Radio Italy
 09CD:0076|SkyIT|Virgin Radio TV HD
 
+####################################################
+# OSCAM Generator 1.0.0.4                          #
+# Autor: Ondrej Bock, butras@post.cz               #
+# Web: http://www.butras.cz                        #
+####################################################
 ## PROVIDER: Tivusat
 ## CAID: 1856,183D,183E
 ## PROVID: 000000
-## CREATE: 2025.02.11 15:42:46
+## CREATE: 2025.02.13 19:14:42
 1856,183D,183E:0078|Tivusat|20 Mediaset HD
 1856,183D,183E:0087|Tivusat|27 Twentyseven HD
 1856,183D,183E:064D|Tivusat|ACI Sport TV HD
@@ -7784,10 +8051,15 @@
 1856,183D,183E:0068|Tivusat|Virgin Radio Italy
 1856,183D,183E:0076|Tivusat|Virgin Radio TV HD
 
+####################################################
+# OSCAM Generator 1.0.0.4                          #
+# Autor: Ondrej Bock, butras@post.cz               #
+# Web: http://www.butras.cz                        #
+####################################################
 ## PROVIDER: MEO
 ## CAID: 1802,1814
 ## PROVID: 005211,005221,005225,000000,000007
-## CREATE: 2025.02.11 15:42:47
+## CREATE: 2025.02.13 19:14:45
 1802,1814:0192|MEO|24 Kitchen Portugal HD
 1802,1814:0473|MEO|80s RFM
 1802,1814:006C|MEO|A Bola TV
@@ -7925,10 +8197,15 @@
 1802,1814:037B|MEO|V TVI
 1802,1814:17AB|MEO|Venus
 
+####################################################
+# OSCAM Generator 1.0.0.4                          #
+# Autor: Ondrej Bock, butras@post.cz               #
+# Web: http://www.butras.cz                        #
+####################################################
 ## PROVIDER: Movistar
 ## CAID: 0100,1810
 ## PROVID: 000000,004001,004101
-## CREATE: 2025.02.11 15:42:49
+## CREATE: 2025.02.13 19:14:46
 0100,1810:75A9|Movistar| GuAa Movistar
 0100,1810:756D|Movistar| InfoLiga
 0100,1810:13A7|Movistar|Aljazeera English HD
@@ -8093,10 +8370,15 @@
 0100,1810:7474|Movistar|TVE La 2
 0100,1810:76CB|Movistar|Warner TV EspaAaa
 
+####################################################
+# OSCAM Generator 1.0.0.4                          #
+# Autor: Ondrej Bock, butras@post.cz               #
+# Web: http://www.butras.cz                        #
+####################################################
 ## PROVIDER: SkyUK
 ## CAID: 0960,0961,0963
 ## PROVID: 000000
-## CREATE: 2025.02.11 15:42:55
+## CREATE: 2025.02.13 19:14:48
 0960,0961,0963:20B0|SkyUK|4Seven
 0960,0961,0963:083D|SkyUK|5 Action
 0960,0961,0963:0839|SkyUK|5 Select
@@ -8221,10 +8503,10 @@
 0960,0961,0963:C78B|SkyUK|Comedy Central UK 1
 0960,0961,0963:1A43|SkyUK|Comedy Central UK HD
 0960,0961,0963:D37C|SkyUK|Court TV UK
-0960,0961,0963:C4D6|SkyUK|Crime Investigation Ireland
-0960,0961,0963:C4C9|SkyUK|Crime Investigation UK
-0960,0961,0963:C4CC|SkyUK|Crime Investigation UK 1
-0960,0961,0963:0F30|SkyUK|Crime Investigation UK HD
+0960,0961,0963:C4D6|SkyUK|Crime  Investigation Ireland
+0960,0961,0963:C4C9|SkyUK|Crime  Investigation UK
+0960,0961,0963:C4CC|SkyUK|Crime  Investigation UK 1
+0960,0961,0963:0F30|SkyUK|Crime  Investigation UK HD
 0960,0961,0963:D3D4|SkyUK|Cruise 1st TV
 0960,0961,0963:D809|SkyUK|Daystar TV HD
 0960,0961,0963:D791|SkyUK|Deen TV
@@ -8511,6 +8793,8 @@
 0960,0961,0963:1885|SkyUK|Sky Showcase UK 1
 0960,0961,0963:149B|SkyUK|Sky Showcase UK HD
 0960,0961,0963:0F13|SkyUK|Sky Sports
+0960,0961,0963:119F|SkyUK|Sky Sports Action
+0960,0961,0963:0EEE|SkyUK|Sky Sports Action HD
 0960,0961,0963:040B|SkyUK|Sky Sports Box Office HD
 0960,0961,0963:053E|SkyUK|Sky Sports Cricket
 0960,0961,0963:0F26|SkyUK|Sky Sports Cricket HD
@@ -8538,8 +8822,6 @@
 0960,0961,0963:0E2D|SkyUK|Sky Sports News Ireland HD
 0960,0961,0963:1073|SkyUK|Sky Sports News UK
 0960,0961,0963:0F2A|SkyUK|Sky Sports News UK HD
-0960,0961,0963:119F|SkyUK|Sky Sports NFL
-0960,0961,0963:0EEE|SkyUK|Sky Sports NFL HD
 0960,0961,0963:1C90|SkyUK|Sky Sports Premier League Ireland
 0960,0961,0963:0FC9|SkyUK|Sky Sports Premier League Ireland HD
 0960,0961,0963:052E|SkyUK|Sky Sports Premier League UK
@@ -8606,7 +8888,6 @@
 0960,0961,0963:C5FD|SkyUK|TNT Sports Box Office 2 in Pubs HD
 0960,0961,0963:040C|SkyUK|TNT Sports Box Office HD
 0960,0961,0963:C5BC|SkyUK|TNT Sports Box Office in Pubs HD
-0960,0961,0963:17A0|SkyUK|TNT Sports Box Office promo HD
 0960,0961,0963:D01B|SkyUK|TNT Sports mosaic
 0960,0961,0963:D87C|SkyUK|TNT Sports mosaic
 0960,0961,0963:14D8|SkyUK|TNT Sports Ultimate HD
@@ -8673,10 +8954,15 @@
 0960,0961,0963:C4B8|SkyUK|Zee TV UK
 0960,0961,0963:C52B|SkyUK|Zee TV UK HD
 
+####################################################
+# OSCAM Generator 1.0.0.4                          #
+# Autor: Ondrej Bock, butras@post.cz               #
+# Web: http://www.butras.cz                        #
+####################################################
 ## PROVIDER: Skylink
 ## CAID: 0D96,0624,0653,0500
 ## PROVID: 000000,051910
-## CREATE: 2025.02.11 15:42:58
+## CREATE: 2025.02.13 19:14:49
 0D96,0624,0653,0500:0308|Skylink|Acko
 0D96,0624,0653,0500:0309|Skylink|Acko Star
 0D96,0624,0653,0500:36FB|Skylink|AMC Cesko
@@ -8686,11 +8972,11 @@
 0D96,0624,0653,0500:3D00|Skylink|AXN Black
 0D96,0624,0653,0500:0315|Skylink|AXN Czech Republic
 0D96,0624,0653,0500:3D01|Skylink|AXN White
-0D96,0624,0653,0500:3736|Skylink|Canal Action Slovakia HD
-0D96,0624,0653,0500:1F4B|Skylink|Canal Sport 2 HD
-0D96,0624,0653,0500:3C38|Skylink|Canal Sport 2 HD
-0D96,0624,0653,0500:3733|Skylink|Canal Sport Czechia HD
-0D96,0624,0653,0500:3734|Skylink|Canal Sport Slovakia HD
+0D96,0624,0653,0500:3736|Skylink|Canal  Action Slovakia HD
+0D96,0624,0653,0500:1F4B|Skylink|Canal  Sport 2 HD
+0D96,0624,0653,0500:3C38|Skylink|Canal  Sport 2 HD
+0D96,0624,0653,0500:3733|Skylink|Canal  Sport Czechia HD
+0D96,0624,0653,0500:3734|Skylink|Canal  Sport Slovakia HD
 0D96,0624,0653,0500:36F5|Skylink|Cartoon Network Central & Eastern Europe
 0D96,0624,0653,0500:030B|Skylink|Cartoonito Central & Eastern Europe
 0D96,0624,0653,0500:3CF6|Skylink|Cinemax 2 Central Europe HD
@@ -8747,10 +9033,10 @@
 0D96,0624,0653,0500:135C|Skylink|Europa 2 VAchod
 0D96,0624,0653,0500:135A|Skylink|Europa 2 ZAApad
 0D96,0624,0653,0500:17EA|Skylink|FightBox HD
-0D96,0624,0653,0500:36F8|Skylink|Film Czechia
-0D96,0624,0653,0500:3CF2|Skylink|Film Czechia HD
-0D96,0624,0653,0500:1C15|Skylink|Film Hungary
-0D96,0624,0653,0500:3CF7|Skylink|Film Europe HD
+0D96,0624,0653,0500:36F8|Skylink|Film  Czechia
+0D96,0624,0653,0500:3CF2|Skylink|Film  Czechia HD
+0D96,0624,0653,0500:1C15|Skylink|Film  Hungary
+0D96,0624,0653,0500:3CF7|Skylink|Film Europe  HD
 0D96,0624,0653,0500:3C2D|Skylink|Film Europe HD
 0D96,0624,0653,0500:36E9|Skylink|FilmBox Central Europe HD
 0D96,0624,0653,0500:3C2E|Skylink|FilmBox Extra HD Czechia & Hungary
@@ -8894,10 +9180,15 @@
 0D96,0624,0653,0500:17E2|Skylink|Vixen HD
 0D96,0624,0653,0500:334F|Skylink|Wau TV HD
 
+####################################################
+# OSCAM Generator 1.0.0.4                          #
+# Autor: Ondrej Bock, butras@post.cz               #
+# Web: http://www.butras.cz                        #
+####################################################
 ## PROVIDER: M-Sat-TV
 ## CAID: 0B00,1871
 ## PROVID: 000000
-## CREATE: 2025.02.11 15:43:04
+## CREATE: 2025.02.13 19:14:52
 0B00,1871:4F38|M-Sat-TV|24 Kitchen Adria
 0B00,1871:4EAC|M-Sat-TV|24 Kitchen Srbija
 0B00,1871:4F1B|M-Sat-TV|Adria TV
@@ -8978,7 +9269,7 @@
 0B00,1871:4F14|M-Sat-TV|Face TV
 0B00,1871:4F07|M-Sat-TV|Favorit TV
 0B00,1871:4E91|M-Sat-TV|Federalna TV
-0B00,1871:4F00|M-Sat-TV|Film Hungary
+0B00,1871:4F00|M-Sat-TV|Film  Hungary
 0B00,1871:4EFE|M-Sat-TV|Film 4
 0B00,1871:4ECB|M-Sat-TV|Fox News Channel
 0B00,1871:4E27|M-Sat-TV|Happy
@@ -9145,10 +9436,15 @@
 0B00,1871:4E9F|M-Sat-TV|Viasat Explore East
 0B00,1871:4E9E|M-Sat-TV|Viasat History
 
+####################################################
+# OSCAM Generator 1.0.0.4                          #
+# Autor: Ondrej Bock, butras@post.cz               #
+# Web: http://www.butras.cz                        #
+####################################################
 ## PROVIDER: MSat-TV-Srbija
 ## CAID: 0B00,1871
 ## PROVID: 000000
-## CREATE: 2025.02.11 15:43:06
+## CREATE: 2025.02.13 19:14:53
 0B00,1871:4EAC|MSat-TV-Srbija|24 Kitchen Srbija
 0B00,1871:4E32|MSat-TV-Srbija|Agro TV HD
 0B00,1871:4E86|MSat-TV-Srbija|Aljazeera Balkans
@@ -9308,10 +9604,15 @@
 0B00,1871:4E9F|MSat-TV-Srbija|Viasat Explore East
 0B00,1871:4E9E|MSat-TV-Srbija|Viasat History
 
+####################################################
+# OSCAM Generator 1.0.0.4                          #
+# Autor: Ondrej Bock, butras@post.cz               #
+# Web: http://www.butras.cz                        #
+####################################################
 ## PROVIDER: MSat-TV-Bosna-and-Hercegovina
 ## CAID: 0B00,1871
 ## PROVID: 000000
-## CREATE: 2025.02.11 15:43:07
+## CREATE: 2025.02.13 19:14:56
 0B00,1871:4F38|MSat-TV-Bosna-and-Hercegovina|24 Kitchen Adria
 0B00,1871:4E32|MSat-TV-Bosna-and-Hercegovina|Agro TV HD
 0B00,1871:4E86|MSat-TV-Bosna-and-Hercegovina|Aljazeera Balkans
@@ -9473,10 +9774,15 @@
 0B00,1871:4E9F|MSat-TV-Bosna-and-Hercegovina|Viasat Explore East
 0B00,1871:4E9E|MSat-TV-Bosna-and-Hercegovina|Viasat History
 
+####################################################
+# OSCAM Generator 1.0.0.4                          #
+# Autor: Ondrej Bock, butras@post.cz               #
+# Web: http://www.butras.cz                        #
+####################################################
 ## PROVIDER: MSat-TV-Crna-Gora
 ## CAID: 0B00,1871
 ## PROVID: 000000
-## CREATE: 2025.02.11 15:43:09
+## CREATE: 2025.02.13 19:14:57
 0B00,1871:4F1B|MSat-TV-Crna-Gora|Adria TV
 0B00,1871:4E32|MSat-TV-Crna-Gora|Agro TV HD
 0B00,1871:4E86|MSat-TV-Crna-Gora|Aljazeera Balkans
@@ -9636,10 +9942,15 @@
 0B00,1871:4E9F|MSat-TV-Crna-Gora|Viasat Explore East
 0B00,1871:4E9E|MSat-TV-Crna-Gora|Viasat History
 
+####################################################
+# OSCAM Generator 1.0.0.4                          #
+# Autor: Ondrej Bock, butras@post.cz               #
+# Web: http://www.butras.cz                        #
+####################################################
 ## PROVIDER: MSat-TV-Macedonija
 ## CAID: 0B00,1871
 ## PROVID: 000000
-## CREATE: 2025.02.11 15:43:10
+## CREATE: 2025.02.13 19:14:58
 0B00,1871:4F38|MSat-TV-Macedonija|24 Kitchen Adria
 0B00,1871:4E32|MSat-TV-Macedonija|Agro TV HD
 0B00,1871:4F32|MSat-TV-Macedonija|Alfa TV
@@ -9784,10 +10095,15 @@
 0B00,1871:4E9F|MSat-TV-Macedonija|Viasat Explore East
 0B00,1871:4E9E|MSat-TV-Macedonija|Viasat History
 
+####################################################
+# OSCAM Generator 1.0.0.4                          #
+# Autor: Ondrej Bock, butras@post.cz               #
+# Web: http://www.butras.cz                        #
+####################################################
 ## PROVIDER: TV-Vlaanderen
 ## CAID: 0100,1818
 ## PROVID: 000000,00006C
-## CREATE: 2025.02.11 15:43:12
+## CREATE: 2025.02.13 19:15:00
 0100,1818:5253|TV-Vlaanderen|100 NL
 0100,1818:0308|TV-Vlaanderen|Acko
 0100,1818:17F0|TV-Vlaanderen|Arrow Classic Rock
@@ -9799,7 +10115,7 @@
 0100,1818:1352|TV-Vlaanderen|Country Radio JihozAApad
 0100,1818:1351|TV-Vlaanderen|Country Radio JiznA Morava
 0100,1818:1353|TV-Vlaanderen|Country Radio SeverovAchod
-0100,1818:1B97|TV-Vlaanderen|Crime Investigation Nederland
+0100,1818:1B97|TV-Vlaanderen|Crime  Investigation Nederland
 0100,1818:1F7A|TV-Vlaanderen|CRo Jazz
 0100,1818:1F76|TV-Vlaanderen|CRo Plus
 0100,1818:1F73|TV-Vlaanderen|CRo RadiozurnAAl
