@@ -5666,485 +5666,490 @@
 ## PROVIDER: Canal-plus
 ## CAID: 0B01,1884
 ## PROVID: 000000
-## CREATE: 2025.03.15 11:26:00
-0B01,1884:3E26|Canal-plus|13 Ulica HD
-0B01,1884:428F|Canal-plus|4 Fun Dance
-0B01,1884:428E|Canal-plus|4 Fun Kids
-0B01,1884:428D|Canal-plus|4 Fun TV
-0B01,1884:32D8|Canal-plus|Active Family
-0B01,1884:32D5|Canal-plus|Adventure HD
-0B01,1884:3781|Canal-plus|Ale Kino HD
-0B01,1884:379F|Canal-plus|Ale Kino HD
-0B01,1884:1C8A|Canal-plus|Aljazeera English HD
-0B01,1884:3AB7|Canal-plus|AMC Polska HD
-0B01,1884:3AE9|Canal-plus|AMC Polska HD
-0B01,1884:3B66|Canal-plus|Animal Planet Polska HD
-0B01,1884:1413|Canal-plus|Antyradio
-0B01,1884:1C87|Canal-plus|AXN Black Polska
-0B01,1884:1C96|Canal-plus|AXN Polska
-0B01,1884:0C25|Canal-plus|AXN Polska HD
-0B01,1884:32CC|Canal-plus|AXN Spin Polska HD
-0B01,1884:331C|Canal-plus|AXN Spin Polska HD
-0B01,1884:1C86|Canal-plus|AXN White Polska
-0B01,1884:421D|Canal-plus|Baby TV Europe
-0B01,1884:07D6|Canal-plus|BBC Brit Polska HD
-0B01,1884:1134|Canal-plus|BBC Earth Polska HD
-0B01,1884:1166|Canal-plus|BBC Earth Polska HD
-0B01,1884:1133|Canal-plus|BBC First Polska HD
-0B01,1884:1165|Canal-plus|BBC First Polska HD
-0B01,1884:07DB|Canal-plus|BBC Lifestyle Polska HD
-0B01,1884:200C|Canal-plus|BBC News Europe
-0B01,1884:42EA|Canal-plus|BBC News Europe
-0B01,1884:3D57|Canal-plus|Biznes 24 HD
-0B01,1884:1140|Canal-plus|Blue Hustler Europe
-0B01,1884:114A|Canal-plus|Blue Hustler Europe
-0B01,1884:113D|Canal-plus|Canal 4K Ultra HD
-0B01,1884:13ED|Canal-plus|Canal At1 HD
-0B01,1884:3A99|Canal-plus|Canal Dokument HD
-0B01,1884:13EF|Canal-plus|Canal Domo Polska HD
-0B01,1884:1421|Canal-plus|Canal Domo Polska HD
-0B01,1884:377B|Canal-plus|Canal Family Polska HD
-0B01,1884:3779|Canal-plus|Canal Film HD
-0B01,1884:377F|Canal-plus|Canal Kuchnia HD
-0B01,1884:37B1|Canal-plus|Canal Kuchnia HD
-0B01,1884:32CD|Canal-plus|Canal Now HD
-0B01,1884:32FF|Canal-plus|Canal Now HD
-0B01,1884:32DC|Canal-plus|Canal Premium HD
-0B01,1884:3782|Canal-plus|Canal Seriale HD
-0B01,1884:13EE|Canal-plus|Canal Sport 2 Polska HD
-0B01,1884:3AA0|Canal-plus|Canal Sport 3 Polska HD
-0B01,1884:3AD2|Canal-plus|Canal Sport 3 Polska HD
-0B01,1884:3AA1|Canal-plus|Canal Sport 4 Polska HD
-0B01,1884:3AD3|Canal-plus|Canal Sport 4 Polska HD
-0B01,1884:3AA5|Canal-plus|Canal Sport 5 Polska HD
-0B01,1884:3AB9|Canal-plus|Canal Sport 5 Polska HD
-0B01,1884:3AE1|Canal-plus|Canal Sport 5 Polska HD
-0B01,1884:32DE|Canal-plus|Canal Sport Polska HD
-0B01,1884:2906|Canal-plus|Cartoon Network Polska HD
-0B01,1884:10E4|Canal-plus|Cartoonito Polska HD
+## CREATE: 2025.05.27 11:26:00
+0B01,1884:0001|Canal-plus|MTV Live
+0B01,1884:0002|Canal-plus|NickMusic
+0B01,1884:0003|Canal-plus|Nick Jr Central & Eastern Europe
+0B01,1884:0008|Canal-plus|MTV 00s
+0B01,1884:0009|Canal-plus|Nickelodeon Polska
+0B01,1884:000C|Canal-plus|Comedy Central Polska
+0B01,1884:000D|Canal-plus|Paramount Network Polska
+0B01,1884:000E|Canal-plus|Nicktoons Polska
+0B01,1884:000F|Canal-plus|MTV Polska
+0B01,1884:0010|Canal-plus|Comedy Central Extra Polsat
+0B01,1884:0021|Canal-plus|Paramount Network Polska
+0B01,1884:0045|Canal-plus|Nicktoons Polska
+0B01,1884:0321|Canal-plus|EuroNews English
+0B01,1884:0327|Canal-plus|France 24 Français
+0B01,1884:0328|Canal-plus|France 24 English
+0B01,1884:0368|Canal-plus|CGTN
+0B01,1884:053B|Canal-plus|Baby TV Europe
+0B01,1884:07D6|Canal-plus|BBC Brit Polska
 0B01,1884:07D9|Canal-plus|CBeebies Polska
-0B01,1884:290B|Canal-plus|CBS Europa HD
-0B01,1884:3D5B|Canal-plus|CBS Reality Polska HD
-0B01,1884:3D8D|Canal-plus|CBS Reality Polska HD
-0B01,1884:0368|Canal-plus|CGTN HD
-0B01,1884:0C26|Canal-plus|Cinemax 2 Central Europe HD
-0B01,1884:3A9F|Canal-plus|Cinemax Central Europe HD
-0B01,1884:3AD1|Canal-plus|Cinemax Central Europe HD
-0B01,1884:0010|Canal-plus|Comedy Central Extra Polsat HD
-0B01,1884:000C|Canal-plus|Comedy Central Polska HD
-0B01,1884:0C30|Canal-plus|Crime Investigation Polsat HD
-0B01,1884:4280|Canal-plus|Da Vinci Polska
-0B01,1884:1C8C|Canal-plus|Disco Polo Music
-0B01,1884:1C8E|Canal-plus|Disco Polo Music
+0B01,1884:07DB|Canal-plus|BBC Lifestyle Polska
+0B01,1884:0C1F|Canal-plus|FX Comedy Polska
+0B01,1884:0C20|Canal-plus|Viasat History Polsat
+0B01,1884:0C22|Canal-plus|TVP 2
+0B01,1884:0C25|Canal-plus|AXN Polska
+0B01,1884:0C26|Canal-plus|Cinemax 2 Central Europe
+0B01,1884:0C27|Canal-plus|FX Polska
+0B01,1884:0C2F|Canal-plus|History Polska
+0B01,1884:0C30|Canal-plus|Crime + Investigation Polsat
+0B01,1884:0E83|Canal-plus|TVP Polonia
+0B01,1884:10DE|Canal-plus|TLC Polska
 0B01,1884:10DF|Canal-plus|Discovery Historia
-0B01,1884:10E0|Canal-plus|Discovery Life Polska HD
-0B01,1884:3B6A|Canal-plus|Discovery Science Polska HD
-0B01,1884:1CB6|Canal-plus|Disney Channel Polska HD
-0B01,1884:1CC5|Canal-plus|Disney Channel Polska HD
-0B01,1884:2938|Canal-plus|Disney Junior TAzrkiye & Polska
-0B01,1884:1CB5|Canal-plus|Disney XD Polska
-0B01,1884:4206|Canal-plus|Dorcel TV HD
-0B01,1884:3E1E|Canal-plus|E! Polska HD
-0B01,1884:13F3|Canal-plus|Eleven Sports 1 Polska HD
-0B01,1884:1425|Canal-plus|Eleven Sports 1 Polska HD
-0B01,1884:13F5|Canal-plus|Eleven Sports 2 Polska HD
-0B01,1884:1427|Canal-plus|Eleven Sports 2 Polska HD
-0B01,1884:13F8|Canal-plus|Eleven Sports 3 Polska HD
-0B01,1884:143E|Canal-plus|Eleven Sports 3 Polska HD
-0B01,1884:32CE|Canal-plus|Eleven Sports 4 Polska HD
-0B01,1884:4290|Canal-plus|Epic Drama HD
-0B01,1884:429B|Canal-plus|Eska TV Extra
-0B01,1884:429C|Canal-plus|Eska TV HD
-0B01,1884:0321|Canal-plus|EuroNews English HD
-0B01,1884:3B67|Canal-plus|Eurosport 1 Polska HD
-0B01,1884:3B68|Canal-plus|Eurosport 2 Polska HD
-0B01,1884:290A|Canal-plus|Extreme Sports Channel Polska HD
-0B01,1884:113B|Canal-plus|Fight Klub HD
-0B01,1884:3E24|Canal-plus|FightBox HD
-0B01,1884:3D65|Canal-plus|FilmBox Action
-0B01,1884:3D97|Canal-plus|FilmBox Action
-0B01,1884:428A|Canal-plus|FilmBox Arthouse Worldwide
-0B01,1884:3D68|Canal-plus|FilmBox Extra HD Polska
-0B01,1884:3D9A|Canal-plus|FilmBox Extra HD Polska
-0B01,1884:3D62|Canal-plus|FilmBox Family
-0B01,1884:3D94|Canal-plus|FilmBox Family
-0B01,1884:3D5D|Canal-plus|FilmBox Premium Polska HD
-0B01,1884:3D8F|Canal-plus|FilmBox Premium Polska HD
-0B01,1884:429D|Canal-plus|Fokus TV HD
-0B01,1884:3DD9|Canal-plus|Food Network Polska HD
-0B01,1884:3DEC|Canal-plus|Food Network Polska HD
-0B01,1884:0328|Canal-plus|France 24 English HD
-0B01,1884:0327|Canal-plus|France 24 FranAais HD
-0B01,1884:421C|Canal-plus|Freedom
-0B01,1884:0C1F|Canal-plus|FX Comedy Polska HD
-0B01,1884:0C27|Canal-plus|FX Polska HD
-0B01,1884:13F4|Canal-plus|HBO 2 Polska HD
-0B01,1884:1426|Canal-plus|HBO 2 Polska HD
-0B01,1884:13F9|Canal-plus|HBO 3 Polska HD
-0B01,1884:142B|Canal-plus|HBO 3 Polska HD
-0B01,1884:290E|Canal-plus|HBO Polska HD
-0B01,1884:10EB|Canal-plus|HGTV Polska HD
-0B01,1884:3E22|Canal-plus|History 2 Polska HD
-0B01,1884:0C2F|Canal-plus|History Polska HD
-0B01,1884:32D0|Canal-plus|Home TV
+0B01,1884:10E0|Canal-plus|Discovery Life Polska
+0B01,1884:10E4|Canal-plus|Cartoonito Polska
+0B01,1884:10EA|Canal-plus|TVN 24 BiS
+0B01,1884:10EB|Canal-plus|HGTV Polska
+0B01,1884:1133|Canal-plus|BBC First Polska
+0B01,1884:1134|Canal-plus|BBC Earth Polska
+0B01,1884:1135|Canal-plus|TVS (Poland)
+0B01,1884:1138|Canal-plus|TVP HD
+0B01,1884:1139|Canal-plus|TVP Info
+0B01,1884:113A|Canal-plus|Sport Klub Polska
+0B01,1884:113B|Canal-plus|Fight Klub
+0B01,1884:113C|Canal-plus|Viasat True Crime
 0B01,1884:113F|Canal-plus|Hustler HD Europe
+0B01,1884:1140|Canal-plus|Blue Hustler Europe
+0B01,1884:1141|Canal-plus|Private TV
 0B01,1884:1147|Canal-plus|Hustler HD Europe
 0B01,1884:1148|Canal-plus|Hustler HD Europe
+0B01,1884:1149|Canal-plus|Private TV
+0B01,1884:114A|Canal-plus|Blue Hustler Europe
+0B01,1884:114B|Canal-plus|Private TV
+0B01,1884:114C|Canal-plus|Adventure HD
+0B01,1884:114D|Canal-plus|Antena HD
+0B01,1884:114E|Canal-plus|Home TV (Poland)
+0B01,1884:114F|Canal-plus|Nuta Gold
+0B01,1884:1150|Canal-plus|Nuta TV
+0B01,1884:1151|Canal-plus|Power TV (Poland)
+0B01,1884:1152|Canal-plus|Szlagier TV
+0B01,1884:1153|Canal-plus|TVC
+0B01,1884:1154|Canal-plus|Blue Hustler Europe
+0B01,1884:1155|Canal-plus|TVC Super
+0B01,1884:1165|Canal-plus|BBC First Polska
+0B01,1884:1166|Canal-plus|BBC Earth Polska
+0B01,1884:11FC|Canal-plus|Museum TV International
+0B01,1884:1325|Canal-plus|KBS World
+0B01,1884:13ED|Canal-plus|Canal + »1
+0B01,1884:13EE|Canal-plus|Canal + Sport 2 Polska
+0B01,1884:13EF|Canal-plus|Canal + Domo Polska
+0B01,1884:13F2|Canal-plus|Kino Polska
+0B01,1884:13F3|Canal-plus|Eleven Sports 1 Polska
+0B01,1884:13F4|Canal-plus|HBO 2 Polska
+0B01,1884:13F5|Canal-plus|Eleven Sports 2 Polska
+0B01,1884:13F6|Canal-plus|National Geographic Wild Polska
+0B01,1884:13F7|Canal-plus|TVP 3 Warszawa
+0B01,1884:13F8|Canal-plus|Eleven Sports 3 Polska
+0B01,1884:13F9|Canal-plus|HBO 3 Polska
+0B01,1884:13FA|Canal-plus|Eleven Sports 4 Polska
+0B01,1884:13FB|Canal-plus|StudioMed TV
+0B01,1884:13FD|Canal-plus|ViDoc TV
+0B01,1884:1421|Canal-plus|Canal + Domo Polska
+0B01,1884:1424|Canal-plus|Kino Polska
+0B01,1884:1425|Canal-plus|Eleven Sports 1 Polska
+0B01,1884:1426|Canal-plus|HBO 2 Polska
+0B01,1884:1427|Canal-plus|Eleven Sports 2 Polska
+0B01,1884:1428|Canal-plus|National Geographic Wild Polska
+0B01,1884:142B|Canal-plus|HBO 3 Polska
+0B01,1884:143E|Canal-plus|Eleven Sports 3 Polska
+0B01,1884:1C86|Canal-plus|Bloomberg TV Europe
+0B01,1884:1C86|Canal-plus|AXN White Polska
+0B01,1884:1C87|Canal-plus|AXN Black Polska
+0B01,1884:1C8A|Canal-plus|Aljazeera English
+0B01,1884:1C8C|Canal-plus|Disco Polo Music
+0B01,1884:1C8E|Canal-plus|Disco Polo Music
+0B01,1884:1C96|Canal-plus|AXN Polska
+0B01,1884:1CAC|Canal-plus|Polsat Seriale
+0B01,1884:1CAD|Canal-plus|Polsat Seriale
+0B01,1884:1CB5|Canal-plus|Disney XD Polska
+0B01,1884:1CB6|Canal-plus|Disney Channel Polska
 0B01,1884:1CB7|Canal-plus|JimJam Polsat
-0B01,1884:1325|Canal-plus|KBS World HD
-0B01,1884:13F2|Canal-plus|Kino Polska HD
-0B01,1884:1424|Canal-plus|Kino Polska HD
-0B01,1884:3D60|Canal-plus|Kino Polska Muzyka
-0B01,1884:3D61|Canal-plus|Kino TV HD
-0B01,1884:3D93|Canal-plus|Kino TV HD
-0B01,1884:1411|Canal-plus|Meloradio
-0B01,1884:3DD4|Canal-plus|Metro TV HD
-0B01,1884:422B|Canal-plus|Mezzo
-0B01,1884:32E0|Canal-plus|MiniMini HD
-0B01,1884:32FE|Canal-plus|MiniMini HD
-0B01,1884:3D56|Canal-plus|Motowizja HD
-0B01,1884:0008|Canal-plus|MTV 00s
 0B01,1884:1CB9|Canal-plus|MTV 90s
-0B01,1884:0001|Canal-plus|MTV Live HD
-0B01,1884:000F|Canal-plus|MTV Polska HD
-0B01,1884:0019|Canal-plus|MTV Polska HD
-0B01,1884:11FC|Canal-plus|Museum TV International HD
-0B01,1884:2907|Canal-plus|Nat Geo People Polska HD
-0B01,1884:32DF|Canal-plus|National Geographic Polska HD
-0B01,1884:13F6|Canal-plus|National Geographic Wild Polska HD
-0B01,1884:1428|Canal-plus|National Geographic Wild Polska HD
-0B01,1884:0003|Canal-plus|Nick Jr Central & Eastern Europe
-0B01,1884:0009|Canal-plus|Nickelodeon Polska
-0B01,1884:0002|Canal-plus|NickMusic
-0B01,1884:000E|Canal-plus|Nicktoons Polska HD
-0B01,1884:0045|Canal-plus|Nicktoons Polska HD
-0B01,1884:3A9A|Canal-plus|Novelas HD
-0B01,1884:3ACC|Canal-plus|Novelas HD
-0B01,1884:429E|Canal-plus|Nowa TV HD
-0B01,1884:32D2|Canal-plus|Nuta TV
-0B01,1884:000D|Canal-plus|Paramount Network Polska HD
-0B01,1884:0021|Canal-plus|Paramount Network Polska HD
-0B01,1884:377E|Canal-plus|Planete Polska HD
-0B01,1884:37B0|Canal-plus|Planete Polska HD
-0B01,1884:429A|Canal-plus|Polo TV HD
-0B01,1884:423C|Canal-plus|Polonia 1
-0B01,1884:339A|Canal-plus|Polsat 2 HD
-0B01,1884:3396|Canal-plus|Polsat cafe HD
-0B01,1884:3398|Canal-plus|Polsat Film HD
-0B01,1884:3391|Canal-plus|Polsat HD
-0B01,1884:4293|Canal-plus|Polsat Music HD
-0B01,1884:3333|Canal-plus|Polsat News 2 HD
-0B01,1884:3399|Canal-plus|Polsat News HD
-0B01,1884:3392|Canal-plus|Polsat Play HD
-0B01,1884:1CAC|Canal-plus|Polsat Seriale HD
-0B01,1884:1418|Canal-plus|Polskie Radio 24
-0B01,1884:32D1|Canal-plus|Power TV
-0B01,1884:1141|Canal-plus|Private TV HD
-0B01,1884:1149|Canal-plus|Private TV HD
-0B01,1884:114B|Canal-plus|Private TV HD
-0B01,1884:3D5E|Canal-plus|Puls 2 HD
-0B01,1884:1419|Canal-plus|Radio Jasna GAra
-0B01,1884:1410|Canal-plus|Radio Zet
-0B01,1884:1412|Canal-plus|Radio Zet Chilli
-0B01,1884:2149|Canal-plus|Rai Scuola HD
-0B01,1884:2146|Canal-plus|Rai Storia HD
-0B01,1884:3D63|Canal-plus|Red Carpet HD
-0B01,1884:4224|Canal-plus|Redlight HD
-0B01,1884:3ABE|Canal-plus|Romance TV Polska HD
-0B01,1884:3E20|Canal-plus|Scifi Polska HD
-0B01,1884:113A|Canal-plus|Sport Klub Polska HD
-0B01,1884:427F|Canal-plus|Stars TV
-0B01,1884:427B|Canal-plus|Stopklatka TV
-0B01,1884:377C|Canal-plus|StudioMed TV HD
-0B01,1884:3E1D|Canal-plus|Sundance TV Europe HD
-0B01,1884:339B|Canal-plus|Super Polsat HD
-0B01,1884:3784|Canal-plus|TeenNick Polska HD
-0B01,1884:423B|Canal-plus|Tele 5
-0B01,1884:377D|Canal-plus|Teletoon HD Polska
-0B01,1884:37AF|Canal-plus|Teletoon HD Polska
-0B01,1884:10DE|Canal-plus|TLC Polska HD
-0B01,1884:142A|Canal-plus|Tok FM
-0B01,1884:3DD8|Canal-plus|Travel Channel Polska HD
-0B01,1884:3DD7|Canal-plus|TTV HD
-0B01,1884:3393|Canal-plus|TV 4 HD
-0B01,1884:3394|Canal-plus|TV 6 HD
-0B01,1884:3D66|Canal-plus|TV Puls HD
-0B01,1884:4289|Canal-plus|TV Republika HD
-0B01,1884:32D4|Canal-plus|TVC
-0B01,1884:10EA|Canal-plus|TVN 24 BiS HD
-0B01,1884:3DD2|Canal-plus|TVN 24 HD
-0B01,1884:3DED|Canal-plus|TVN 24 HD
-0B01,1884:3DD3|Canal-plus|TVN 7 HD
-0B01,1884:3DEB|Canal-plus|TVN 7 HD
-0B01,1884:3DD6|Canal-plus|TVN Fabula HD
-0B01,1884:3DCD|Canal-plus|TVN HD
-0B01,1884:3DCE|Canal-plus|TVN Style HD
-0B01,1884:3DCF|Canal-plus|TVN Style HD
-0B01,1884:3DD0|Canal-plus|TVN Turbo HD
-0B01,1884:3DD1|Canal-plus|TVN Turbo HD
-0B01,1884:3ABD|Canal-plus|TVP 1 HD
-0B01,1884:3ADB|Canal-plus|TVP 1 HD
-0B01,1884:0C22|Canal-plus|TVP 2 HD
-0B01,1884:13F7|Canal-plus|TVP 3 Warszawa HD
-0B01,1884:3D5F|Canal-plus|TVP ABC
-0B01,1884:3A9D|Canal-plus|TVP Dokument HD
-0B01,1884:1138|Canal-plus|TVP HD
-0B01,1884:3D67|Canal-plus|TVP Historia
-0B01,1884:3D99|Canal-plus|TVP Historia
-0B01,1884:1139|Canal-plus|TVP Info HD
-0B01,1884:3D59|Canal-plus|TVP Kultura HD
-0B01,1884:0E83|Canal-plus|TVP Polonia HD
-0B01,1884:4288|Canal-plus|TVP Rozrywka
-0B01,1884:3D5C|Canal-plus|TVP Seriale HD
-0B01,1884:3D8E|Canal-plus|TVP Seriale HD
-0B01,1884:3A9E|Canal-plus|TVP Sport HD
-0B01,1884:3AD0|Canal-plus|TVP Sport HD
-0B01,1884:3D58|Canal-plus|TVS
-0B01,1884:1CCA|Canal-plus|Viasat Explore Polsat HD
-0B01,1884:0C20|Canal-plus|Viasat History Polsat HD
-0B01,1884:2908|Canal-plus|Viasat Nature Polsat HD
-0B01,1884:3DD5|Canal-plus|Warner TV Polska HD
+0B01,1884:1CC5|Canal-plus|Disney Channel Polska
+0B01,1884:1CCA|Canal-plus|Viasat Explore Polsat
+0B01,1884:2146|Canal-plus|Rai Storia
+0B01,1884:2149|Canal-plus|Rai Scuola
+0B01,1884:2906|Canal-plus|Cartoon Network Polska
+0B01,1884:2907|Canal-plus|Nat Geo People Polska
+0B01,1884:2908|Canal-plus|Viasat Nature Polsat
+0B01,1884:290A|Canal-plus|Extreme Sports Channel Polska
+0B01,1884:290B|Canal-plus|Film Café Polska
+0B01,1884:290C|Canal-plus|Wydarzenia 24
+0B01,1884:290D|Canal-plus|Eska TV Extra
+0B01,1884:290E|Canal-plus|HBO Polska
+0B01,1884:2938|Canal-plus|Disney Jr Türkiye & Polska
+0B01,1884:32CC|Canal-plus|AXN Spin Polska
+0B01,1884:32CD|Canal-plus|Canal + Now
+0B01,1884:32D8|Canal-plus|Active Family
+0B01,1884:32DB|Canal-plus|Canal + 4K Ultra HD
+0B01,1884:32DC|Canal-plus|Canal + Premium
+0B01,1884:32DE|Canal-plus|Canal + Sport Polska
+0B01,1884:32DF|Canal-plus|National Geographic Polska
+0B01,1884:32E0|Canal-plus|MiniMini +
+0B01,1884:32E1|Canal-plus|Canal + Extra 1
+0B01,1884:32E2|Canal-plus|Canal + Extra 2
+0B01,1884:32E3|Canal-plus|Canal + Extra 3
+0B01,1884:32FD|Canal-plus|National Geographic Polska
+0B01,1884:32FE|Canal-plus|MiniMini +
+0B01,1884:331C|Canal-plus|AXN Spin Polska
+0B01,1884:3330|Canal-plus|BBC News Europe
+0B01,1884:3333|Canal-plus|Polsat News 2
+0B01,1884:3391|Canal-plus|Polsat
+0B01,1884:3392|Canal-plus|Polsat Play
+0B01,1884:3393|Canal-plus|TV 4 (Poland)
+0B01,1884:3394|Canal-plus|TV 6 (Poland)
+0B01,1884:3396|Canal-plus|Polsat Café
+0B01,1884:3398|Canal-plus|Polsat Film
+0B01,1884:3399|Canal-plus|Polsat News
+0B01,1884:339A|Canal-plus|Polsat 2
+0B01,1884:339B|Canal-plus|Super Polsat
+0B01,1884:3779|Canal-plus|Canal + Film
+0B01,1884:377A|Canal-plus|Canal + Dokument
+0B01,1884:377B|Canal-plus|Canal + 360
+0B01,1884:377C|Canal-plus|StudioMed TV
+0B01,1884:377E|Canal-plus|Planete + Polska
+0B01,1884:377F|Canal-plus|Canal + Kuchnia
+0B01,1884:3781|Canal-plus|Ale Kino +
+0B01,1884:3782|Canal-plus|Canal + Seriale
+0B01,1884:3784|Canal-plus|TeenNick Polska
+0B01,1884:379F|Canal-plus|Ale Kino +
+0B01,1884:37B0|Canal-plus|Planete + Polska
+0B01,1884:37B1|Canal-plus|Canal + Kuchnia
+0B01,1884:3A9A|Canal-plus|Novelas +
+0B01,1884:3A9B|Canal-plus|Teletoon + HD Polska
+0B01,1884:3A9D|Canal-plus|TVP Dokument
+0B01,1884:3A9E|Canal-plus|TVP Sport
+0B01,1884:3A9F|Canal-plus|Cinemax Central Europe
+0B01,1884:3AA0|Canal-plus|Canal + Sport 3 Polska
+0B01,1884:3AA1|Canal-plus|Canal + Sport 4 Polska
+0B01,1884:3AA3|Canal-plus|Canal + Extra 4
+0B01,1884:3AA5|Canal-plus|Canal + Sport 5 Polska
+0B01,1884:3AB7|Canal-plus|AMC Polska
+0B01,1884:3AB9|Canal-plus|Canal + Sport 5 Polska
+0B01,1884:3ABD|Canal-plus|TVP 1
+0B01,1884:3ABE|Canal-plus|Romance TV Polska
+0B01,1884:3ABF|Canal-plus|[test card]
+0B01,1884:3ACC|Canal-plus|Novelas +
+0B01,1884:3ACD|Canal-plus|Teletoon + HD Polska
+0B01,1884:3AD0|Canal-plus|TVP Sport
+0B01,1884:3AD1|Canal-plus|Cinemax Central Europe
+0B01,1884:3AD2|Canal-plus|Canal + Sport 3 Polska
+0B01,1884:3AD3|Canal-plus|Canal + Sport 4 Polska
+0B01,1884:3ADB|Canal-plus|TVP 1
+0B01,1884:3AE1|Canal-plus|Canal + Sport 5 Polska
+0B01,1884:3AE9|Canal-plus|AMC Polska
+0B01,1884:3B66|Canal-plus|Animal Planet Polska
+0B01,1884:3B67|Canal-plus|Eurosport 1 Polska
+0B01,1884:3B68|Canal-plus|Eurosport 2 Polska
+0B01,1884:3B6A|Canal-plus|Discovery Science Polska
+0B01,1884:3D56|Canal-plus|Motowizja
+0B01,1884:3D59|Canal-plus|TVP Kultura
 0B01,1884:3D5A|Canal-plus|WP TV
-0B01,1884:290C|Canal-plus|Wydarzenia 24 HD
+0B01,1884:3D5B|Canal-plus|CBS Reality Polska
+0B01,1884:3D5C|Canal-plus|TVP Seriale
+0B01,1884:3D5D|Canal-plus|FilmBox Premium Polska
+0B01,1884:3D5E|Canal-plus|Puls 2
+0B01,1884:3D5F|Canal-plus|TVP ABC
+0B01,1884:3D60|Canal-plus|Kino Polska Muzyka
+0B01,1884:3D61|Canal-plus|Kino TV
+0B01,1884:3D62|Canal-plus|FilmBox Family
+0B01,1884:3D63|Canal-plus|Red Carpet
+0B01,1884:3D64|Canal-plus|Kino Polska
+0B01,1884:3D65|Canal-plus|FilmBox Action
+0B01,1884:3D66|Canal-plus|TV Puls (Poland)
+0B01,1884:3D67|Canal-plus|TVP Historia
+0B01,1884:3D68|Canal-plus|FilmBox Extra HD Polska
+0B01,1884:3D8D|Canal-plus|CBS Reality Polska
+0B01,1884:3D8E|Canal-plus|TVP Seriale
+0B01,1884:3D8F|Canal-plus|FilmBox Premium Polska
+0B01,1884:3D93|Canal-plus|Kino TV
+0B01,1884:3D94|Canal-plus|FilmBox Family
+0B01,1884:3D96|Canal-plus|Kino Polska
+0B01,1884:3D97|Canal-plus|FilmBox Action
+0B01,1884:3D99|Canal-plus|TVP Historia
+0B01,1884:3D9A|Canal-plus|FilmBox Extra HD Polska
+0B01,1884:3DCD|Canal-plus|TVN (Poland)
+0B01,1884:3DCE|Canal-plus|TVN Style
+0B01,1884:3DCF|Canal-plus|TVN Style
+0B01,1884:3DD0|Canal-plus|TVN Turbo
+0B01,1884:3DD1|Canal-plus|TVN Turbo
+0B01,1884:3DD2|Canal-plus|TVN 24
+0B01,1884:3DD3|Canal-plus|TVN 7
+0B01,1884:3DD4|Canal-plus|Metro TV (Poland)
+0B01,1884:3DD5|Canal-plus|Warner TV Polska
+0B01,1884:3DD6|Canal-plus|TVN Fabula
+0B01,1884:3DD7|Canal-plus|TTV
+0B01,1884:3DD8|Canal-plus|Travel Channel Polska
+0B01,1884:3DD9|Canal-plus|Food Network Polska
+0B01,1884:3DEB|Canal-plus|TVN 7
+0B01,1884:3DEC|Canal-plus|Food Network Polska
+0B01,1884:3DED|Canal-plus|TVN 24
+0B01,1884:3E1D|Canal-plus|Sundance TV Europe
+0B01,1884:3E1E|Canal-plus|E! Polska
+0B01,1884:3E20|Canal-plus|Scifi Polska
+0B01,1884:3E22|Canal-plus|History 2 Polska
+0B01,1884:3E24|Canal-plus|FightBox HD
+0B01,1884:3E26|Canal-plus|13 Ulica
+0B01,1884:4206|Canal-plus|Dorcel TV
+0B01,1884:421C|Canal-plus|Freedom
+0B01,1884:4224|Canal-plus|Redlight HD
+0B01,1884:422B|Canal-plus|Mezzo
+0B01,1884:423B|Canal-plus|Tele 5 (Poland)
+0B01,1884:423C|Canal-plus|Polonia 1
+0B01,1884:427B|Canal-plus|Stopklatka TV
+0B01,1884:427C|Canal-plus|Stopklatka TV
+0B01,1884:427F|Canal-plus|Stars TV
+0B01,1884:4280|Canal-plus|Da Vinci Polska
+0B01,1884:4288|Canal-plus|TVP Rozrywka
+0B01,1884:4289|Canal-plus|TV Republika
+0B01,1884:428A|Canal-plus|FilmBox Arthouse Worldwide
+0B01,1884:428D|Canal-plus|4 Fun TV
+0B01,1884:428E|Canal-plus|4 Fun Kids
+0B01,1884:428F|Canal-plus|4 Fun Dance
+0B01,1884:4290|Canal-plus|Epic Drama
+0B01,1884:4293|Canal-plus|Polsat Music
+0B01,1884:429A|Canal-plus|Polo TV
+0B01,1884:429C|Canal-plus|Eska TV
+0B01,1884:429D|Canal-plus|Fokus TV
+0B01,1884:429E|Canal-plus|Nowa TV
+0B01,1884:42C2|Canal-plus|Polo TV
+0B01,1884:42C5|Canal-plus|Fokus TV
+0B01,1884:42EA|Canal-plus|BBC News Europe
 
 ## PROVIDER: Polsat-Box
 ## CAID: 1803,1861,186C,06ED,1870
 ## PROVID: 000000,007001,007101
-## CREATE: 2025.03.15 11:26:03
-1803,1861,186C,06ED,1870:3E26|Polsat-Box|13 Ulica HD
-1803,1861,186C,06ED,1870:428F|Polsat-Box|4 Fun Dance
-1803,1861,186C,06ED,1870:428E|Polsat-Box|4 Fun Kids
-1803,1861,186C,06ED,1870:428D|Polsat-Box|4 Fun TV
-1803,1861,186C,06ED,1870:3AB7|Polsat-Box|AMC Polska HD
-1803,1861,186C,06ED,1870:3AE9|Polsat-Box|AMC Polska HD
-1803,1861,186C,06ED,1870:3B66|Polsat-Box|Animal Planet Polska HD
-1803,1861,186C,06ED,1870:0133|Polsat-Box|ARTE FranAais HD
-1803,1861,186C,06ED,1870:1C87|Polsat-Box|AXN Black Polska
-1803,1861,186C,06ED,1870:1C96|Polsat-Box|AXN Polska
-1803,1861,186C,06ED,1870:0C25|Polsat-Box|AXN Polska HD
-1803,1861,186C,06ED,1870:32CC|Polsat-Box|AXN Spin Polska HD
-1803,1861,186C,06ED,1870:331C|Polsat-Box|AXN Spin Polska HD
-1803,1861,186C,06ED,1870:1C86|Polsat-Box|AXN White Polska
-1803,1861,186C,06ED,1870:07D6|Polsat-Box|BBC Brit Polska HD
-1803,1861,186C,06ED,1870:1134|Polsat-Box|BBC Earth Polska HD
-1803,1861,186C,06ED,1870:1166|Polsat-Box|BBC Earth Polska HD
-1803,1861,186C,06ED,1870:1133|Polsat-Box|BBC First Polska HD
-1803,1861,186C,06ED,1870:1165|Polsat-Box|BBC First Polska HD
-1803,1861,186C,06ED,1870:07DB|Polsat-Box|BBC Lifestyle Polska HD
-1803,1861,186C,06ED,1870:42EA|Polsat-Box|BBC News Europe
-1803,1861,186C,06ED,1870:2906|Polsat-Box|Cartoon Network Polska HD
-1803,1861,186C,06ED,1870:10E4|Polsat-Box|Cartoonito Polska HD
-1803,1861,186C,06ED,1870:07D9|Polsat-Box|CBeebies Polska
-1803,1861,186C,06ED,1870:3D5B|Polsat-Box|CBS Reality Polska HD
-1803,1861,186C,06ED,1870:3D8D|Polsat-Box|CBS Reality Polska HD
-1803,1861,186C,06ED,1870:06AA|Polsat-Box|CGTN
-1803,1861,186C,06ED,1870:0C26|Polsat-Box|Cinemax 2 Central Europe HD
-1803,1861,186C,06ED,1870:3A9F|Polsat-Box|Cinemax Central Europe HD
-1803,1861,186C,06ED,1870:3AD1|Polsat-Box|Cinemax Central Europe HD
-1803,1861,186C,06ED,1870:422D|Polsat-Box|Class TV Moda HD
-1803,1861,186C,06ED,1870:3B6D|Polsat-Box|CNN International Europe HD
-1803,1861,186C,06ED,1870:0010|Polsat-Box|Comedy Central Extra Polsat HD
-1803,1861,186C,06ED,1870:000C|Polsat-Box|Comedy Central Polska HD
-1803,1861,186C,06ED,1870:0020|Polsat-Box|Comedy Central Polska HD
-1803,1861,186C,06ED,1870:0C30|Polsat-Box|Crime Investigation Polsat HD
-1803,1861,186C,06ED,1870:4280|Polsat-Box|Da Vinci Polska
-1803,1861,186C,06ED,1870:1C8C|Polsat-Box|Disco Polo Music HD
-1803,1861,186C,06ED,1870:1C8E|Polsat-Box|Disco Polo Music HD
-1803,1861,186C,06ED,1870:10DD|Polsat-Box|Discovery Channel Polska HD
-1803,1861,186C,06ED,1870:10DF|Polsat-Box|Discovery Historia
-1803,1861,186C,06ED,1870:10E0|Polsat-Box|Discovery Life Polska HD
-1803,1861,186C,06ED,1870:3B6A|Polsat-Box|Discovery Science Polska HD
-1803,1861,186C,06ED,1870:1CB6|Polsat-Box|Disney Channel Polska HD
-1803,1861,186C,06ED,1870:1CC5|Polsat-Box|Disney Channel Polska HD
-1803,1861,186C,06ED,1870:2938|Polsat-Box|Disney Junior TAzrkiye & Polska
-1803,1861,186C,06ED,1870:1CB5|Polsat-Box|Disney XD Polska
-1803,1861,186C,06ED,1870:3B6B|Polsat-Box|DTX Polska HD
-1803,1861,186C,06ED,1870:3E1E|Polsat-Box|E! Polska HD
-1803,1861,186C,06ED,1870:070F|Polsat-Box|Eleven Sports 1 Polska HD
-1803,1861,186C,06ED,1870:13F3|Polsat-Box|Eleven Sports 1 Polska HD
-1803,1861,186C,06ED,1870:1425|Polsat-Box|Eleven Sports 1 Polska HD
-1803,1861,186C,06ED,1870:13F5|Polsat-Box|Eleven Sports 2 Polska HD
-1803,1861,186C,06ED,1870:1427|Polsat-Box|Eleven Sports 2 Polska HD
-1803,1861,186C,06ED,1870:13F8|Polsat-Box|Eleven Sports 3 Polska HD
-1803,1861,186C,06ED,1870:143E|Polsat-Box|Eleven Sports 3 Polska HD
-1803,1861,186C,06ED,1870:4290|Polsat-Box|Epic Drama HD
-1803,1861,186C,06ED,1870:2909|Polsat-Box|Eska Rock TV HD
-1803,1861,186C,06ED,1870:290D|Polsat-Box|Eska TV Extra HD
-1803,1861,186C,06ED,1870:429C|Polsat-Box|Eska TV HD
-1803,1861,186C,06ED,1870:3B67|Polsat-Box|Eurosport 1 Polska HD
-1803,1861,186C,06ED,1870:3B68|Polsat-Box|Eurosport 2 Polska HD
-1803,1861,186C,06ED,1870:290A|Polsat-Box|Extreme Sports Channel Polska HD
-1803,1861,186C,06ED,1870:0BC2|Polsat-Box|FashionTV Europe
-1803,1861,186C,06ED,1870:3E24|Polsat-Box|FightBox HD
-1803,1861,186C,06ED,1870:290B|Polsat-Box|Film cafe Polska HD
-1803,1861,186C,06ED,1870:3D65|Polsat-Box|FilmBox Action
-1803,1861,186C,06ED,1870:3D97|Polsat-Box|FilmBox Action
-1803,1861,186C,06ED,1870:428A|Polsat-Box|FilmBox Arthouse Worldwide
-1803,1861,186C,06ED,1870:3D68|Polsat-Box|FilmBox Extra HD Polska
-1803,1861,186C,06ED,1870:3D9A|Polsat-Box|FilmBox Extra HD Polska
-1803,1861,186C,06ED,1870:3D62|Polsat-Box|FilmBox Family
-1803,1861,186C,06ED,1870:3D94|Polsat-Box|FilmBox Family
-1803,1861,186C,06ED,1870:3D5D|Polsat-Box|FilmBox Premium Polska HD
-1803,1861,186C,06ED,1870:3D8F|Polsat-Box|FilmBox Premium Polska HD
-1803,1861,186C,06ED,1870:429D|Polsat-Box|Fokus TV HD
-1803,1861,186C,06ED,1870:42C5|Polsat-Box|Fokus TV HD
-1803,1861,186C,06ED,1870:3DD9|Polsat-Box|Food Network Polska HD
-1803,1861,186C,06ED,1870:3DEC|Polsat-Box|Food Network Polska HD
-1803,1861,186C,06ED,1870:0C1F|Polsat-Box|FX Comedy Polska HD
-1803,1861,186C,06ED,1870:0C27|Polsat-Box|FX Polska HD
-1803,1861,186C,06ED,1870:3E23|Polsat-Box|Golf Zone HD
-1803,1861,186C,06ED,1870:13F4|Polsat-Box|HBO 2 Polska HD
-1803,1861,186C,06ED,1870:1426|Polsat-Box|HBO 2 Polska HD
-1803,1861,186C,06ED,1870:13F9|Polsat-Box|HBO 3 Polska HD
-1803,1861,186C,06ED,1870:142B|Polsat-Box|HBO 3 Polska HD
-1803,1861,186C,06ED,1870:290E|Polsat-Box|HBO Polska HD
-1803,1861,186C,06ED,1870:10EB|Polsat-Box|HGTV Polska HD
-1803,1861,186C,06ED,1870:3E22|Polsat-Box|History 2 Polska HD
-1803,1861,186C,06ED,1870:0C2F|Polsat-Box|History Polska HD
-1803,1861,186C,06ED,1870:422E|Polsat-Box|Horse TV HD
-1803,1861,186C,06ED,1870:113F|Polsat-Box|Hustler HD Europe
-1803,1861,186C,06ED,1870:0BEA|Polsat-Box|Inultra HD
-1803,1861,186C,06ED,1870:3B69|Polsat-Box|Investigation Discovery Polska HD
-1803,1861,186C,06ED,1870:1CB7|Polsat-Box|JimJam Polsat
-1803,1861,186C,06ED,1870:1325|Polsat-Box|KBS World HD
-1803,1861,186C,06ED,1870:13F2|Polsat-Box|Kino Polska HD
-1803,1861,186C,06ED,1870:1424|Polsat-Box|Kino Polska HD
-1803,1861,186C,06ED,1870:3D60|Polsat-Box|Kino Polska Muzyka
-1803,1861,186C,06ED,1870:3D61|Polsat-Box|Kino TV HD
-1803,1861,186C,06ED,1870:3D93|Polsat-Box|Kino TV HD
-1803,1861,186C,06ED,1870:3DD4|Polsat-Box|Metro TV HD
-1803,1861,186C,06ED,1870:0008|Polsat-Box|MTV 00s
-1803,1861,186C,06ED,1870:1CB9|Polsat-Box|MTV 90s
-1803,1861,186C,06ED,1870:0001|Polsat-Box|MTV Live HD
-1803,1861,186C,06ED,1870:000F|Polsat-Box|MTV Polska HD
-1803,1861,186C,06ED,1870:2907|Polsat-Box|Nat Geo People Polska HD
-1803,1861,186C,06ED,1870:32DF|Polsat-Box|National Geographic Polska HD
-1803,1861,186C,06ED,1870:13F6|Polsat-Box|National Geographic Wild Polska HD
-1803,1861,186C,06ED,1870:1428|Polsat-Box|National Geographic Wild Polska HD
-1803,1861,186C,06ED,1870:0003|Polsat-Box|Nick Jr Central & Eastern Europe
-1803,1861,186C,06ED,1870:0009|Polsat-Box|Nickelodeon Polska
-1803,1861,186C,06ED,1870:0002|Polsat-Box|NickMusic
-1803,1861,186C,06ED,1870:000E|Polsat-Box|Nicktoons Polska HD
-1803,1861,186C,06ED,1870:0045|Polsat-Box|Nicktoons Polska HD
-1803,1861,186C,06ED,1870:423F|Polsat-Box|Novela TV
-1803,1861,186C,06ED,1870:429E|Polsat-Box|Nowa TV HD
-1803,1861,186C,06ED,1870:4238|Polsat-Box|Padre Pio TV HD
-1803,1861,186C,06ED,1870:000D|Polsat-Box|Paramount Network Polska HD
-1803,1861,186C,06ED,1870:0021|Polsat-Box|Paramount Network Polska HD
-1803,1861,186C,06ED,1870:429A|Polsat-Box|Polo TV HD
-1803,1861,186C,06ED,1870:42C2|Polsat-Box|Polo TV HD
-1803,1861,186C,06ED,1870:423C|Polsat-Box|Polonia 1
-1803,1861,186C,06ED,1870:339A|Polsat-Box|Polsat 2 HD
-1803,1861,186C,06ED,1870:3396|Polsat-Box|Polsat cafe HD
-1803,1861,186C,06ED,1870:0C23|Polsat-Box|Polsat Doku HD
-1803,1861,186C,06ED,1870:1CCF|Polsat-Box|Polsat Film 2
-1803,1861,186C,06ED,1870:3398|Polsat-Box|Polsat Film HD
-1803,1861,186C,06ED,1870:4284|Polsat-Box|Polsat Games HD
-1803,1861,186C,06ED,1870:4285|Polsat-Box|Polsat Games HD
-1803,1861,186C,06ED,1870:3391|Polsat-Box|Polsat HD
-1803,1861,186C,06ED,1870:4293|Polsat-Box|Polsat Music HD
-1803,1861,186C,06ED,1870:4294|Polsat-Box|Polsat Music HD
-1803,1861,186C,06ED,1870:3333|Polsat-Box|Polsat News 2 HD
-1803,1861,186C,06ED,1870:3399|Polsat-Box|Polsat News HD
-1803,1861,186C,06ED,1870:1CBE|Polsat-Box|Polsat News Polityka HD
-1803,1861,186C,06ED,1870:3392|Polsat-Box|Polsat Play HD
-1803,1861,186C,06ED,1870:1CCD|Polsat-Box|Polsat Reality
-1803,1861,186C,06ED,1870:1C8F|Polsat-Box|Polsat Rodzina HD
-1803,1861,186C,06ED,1870:1CAC|Polsat-Box|Polsat Seriale HD
-1803,1861,186C,06ED,1870:1CAD|Polsat-Box|Polsat Seriale HD
-1803,1861,186C,06ED,1870:0C1D|Polsat-Box|Polsat Sport 1 HD
-1803,1861,186C,06ED,1870:0C24|Polsat-Box|Polsat Sport 2 HD
-1803,1861,186C,06ED,1870:2913|Polsat-Box|Polsat Sport 3 HD
-1803,1861,186C,06ED,1870:2911|Polsat-Box|Polsat Sport Fight HD
-1803,1861,186C,06ED,1870:0709|Polsat-Box|Polsat Sport Premium 1 PPV Super HD
-1803,1861,186C,06ED,1870:070A|Polsat-Box|Polsat Sport Premium 2 HD
-1803,1861,186C,06ED,1870:3E2B|Polsat-Box|Polsat Sport Premium 3 PPV HD
-1803,1861,186C,06ED,1870:3E2C|Polsat-Box|Polsat Sport Premium 4 PPV HD
-1803,1861,186C,06ED,1870:0C33|Polsat-Box|Polsat Sport Premium 5 PPV HD
-1803,1861,186C,06ED,1870:0C34|Polsat-Box|Polsat Sport Premium 6 PPV HD
-1803,1861,186C,06ED,1870:1C8B|Polsat-Box|Polsat X
-1803,1861,186C,06ED,1870:1C9B|Polsat-Box|Polskie Radio Jedynka
-1803,1861,186C,06ED,1870:1CA5|Polsat-Box|Polskie Radio Jedynka
-1803,1861,186C,06ED,1870:1C9C|Polsat-Box|Polskie Radio TrAjka
-1803,1861,186C,06ED,1870:1CA6|Polsat-Box|Polskie Radio TrAjka
-1803,1861,186C,06ED,1870:1141|Polsat-Box|Private TV HD
-1803,1861,186C,06ED,1870:3D5E|Polsat-Box|Puls 2 HD
-1803,1861,186C,06ED,1870:051F|Polsat-Box|Radio Norba TV HD
-1803,1861,186C,06ED,1870:1CA0|Polsat-Box|Radio Zlote Przeboje
-1803,1861,186C,06ED,1870:2149|Polsat-Box|Rai Scuola HD
-1803,1861,186C,06ED,1870:2146|Polsat-Box|Rai Storia HD
-1803,1861,186C,06ED,1870:4224|Polsat-Box|Redlight HD
-1803,1861,186C,06ED,1870:132A|Polsat-Box|RIK Sat HD
-1803,1861,186C,06ED,1870:1C9A|Polsat-Box|RMF Classic
-1803,1861,186C,06ED,1870:1C98|Polsat-Box|RMF FM
-1803,1861,186C,06ED,1870:1CA2|Polsat-Box|RMF FM
-1803,1861,186C,06ED,1870:1C9E|Polsat-Box|RMF Maxx
-1803,1861,186C,06ED,1870:3ABE|Polsat-Box|Romance TV Polska HD
-1803,1861,186C,06ED,1870:02C9|Polsat-Box|RTP Internacional Europa
-1803,1861,186C,06ED,1870:3E20|Polsat-Box|Scifi Polska HD
-1803,1861,186C,06ED,1870:2340|Polsat-Box|Silk Way HD
-1803,1861,186C,06ED,1870:427F|Polsat-Box|Stars TV HD
-1803,1861,186C,06ED,1870:427B|Polsat-Box|Stopklatka TV
-1803,1861,186C,06ED,1870:427C|Polsat-Box|Stopklatka TV
-1803,1861,186C,06ED,1870:3E1D|Polsat-Box|Sundance TV Europe HD
-1803,1861,186C,06ED,1870:339B|Polsat-Box|Super Polsat HD
-1803,1861,186C,06ED,1870:423B|Polsat-Box|Tele 5
-1803,1861,186C,06ED,1870:10DE|Polsat-Box|TLC Polska HD
-1803,1861,186C,06ED,1870:3DD8|Polsat-Box|Travel Channel Polska HD
-1803,1861,186C,06ED,1870:3DD7|Polsat-Box|TTV HD
-1803,1861,186C,06ED,1870:3393|Polsat-Box|TV 4 HD
-1803,1861,186C,06ED,1870:3394|Polsat-Box|TV 6 HD
-1803,1861,186C,06ED,1870:1C8D|Polsat-Box|TV Okazje
-1803,1861,186C,06ED,1870:3D66|Polsat-Box|TV Puls HD
-1803,1861,186C,06ED,1870:4289|Polsat-Box|TV Republika HD
-1803,1861,186C,06ED,1870:10EA|Polsat-Box|TVN 24 BiS HD
-1803,1861,186C,06ED,1870:3DD2|Polsat-Box|TVN 24 HD
-1803,1861,186C,06ED,1870:3DED|Polsat-Box|TVN 24 HD
-1803,1861,186C,06ED,1870:3DD3|Polsat-Box|TVN 7 HD
-1803,1861,186C,06ED,1870:3DEB|Polsat-Box|TVN 7 HD
-1803,1861,186C,06ED,1870:3DD6|Polsat-Box|TVN Fabula HD
-1803,1861,186C,06ED,1870:3DCD|Polsat-Box|TVN HD
-1803,1861,186C,06ED,1870:3DCE|Polsat-Box|TVN Style HD
-1803,1861,186C,06ED,1870:3DCF|Polsat-Box|TVN Style HD
-1803,1861,186C,06ED,1870:3DD0|Polsat-Box|TVN Turbo HD
-1803,1861,186C,06ED,1870:3DD1|Polsat-Box|TVN Turbo HD
-1803,1861,186C,06ED,1870:3ABD|Polsat-Box|TVP 1 HD
-1803,1861,186C,06ED,1870:3ADB|Polsat-Box|TVP 1 HD
-1803,1861,186C,06ED,1870:0C22|Polsat-Box|TVP 2 HD
-1803,1861,186C,06ED,1870:13F7|Polsat-Box|TVP 3 Warszawa HD
-1803,1861,186C,06ED,1870:3D5F|Polsat-Box|TVP ABC
-1803,1861,186C,06ED,1870:1138|Polsat-Box|TVP HD
-1803,1861,186C,06ED,1870:3D67|Polsat-Box|TVP Historia
-1803,1861,186C,06ED,1870:3D99|Polsat-Box|TVP Historia
-1803,1861,186C,06ED,1870:1139|Polsat-Box|TVP Info HD
-1803,1861,186C,06ED,1870:3D59|Polsat-Box|TVP Kultura HD
-1803,1861,186C,06ED,1870:0E83|Polsat-Box|TVP Polonia HD
-1803,1861,186C,06ED,1870:4288|Polsat-Box|TVP Rozrywka
-1803,1861,186C,06ED,1870:3D5C|Polsat-Box|TVP Seriale HD
-1803,1861,186C,06ED,1870:3D8E|Polsat-Box|TVP Seriale HD
-1803,1861,186C,06ED,1870:3A9E|Polsat-Box|TVP Sport HD
-1803,1861,186C,06ED,1870:3AD0|Polsat-Box|TVP Sport HD
-1803,1861,186C,06ED,1870:3D58|Polsat-Box|TVS
-1803,1861,186C,06ED,1870:4536|Polsat-Box|Uninettuno University TV
-1803,1861,186C,06ED,1870:1CCA|Polsat-Box|Viasat Explore Polsat HD
-1803,1861,186C,06ED,1870:0C20|Polsat-Box|Viasat History Polsat HD
-1803,1861,186C,06ED,1870:2908|Polsat-Box|Viasat Nature Polsat HD
-1803,1861,186C,06ED,1870:4267|Polsat-Box|Vivid Red HD
-1803,1861,186C,06ED,1870:1CBB|Polsat-Box|Vivid Touch
-1803,1861,186C,06ED,1870:003C|Polsat-Box|VOD 202
-1803,1861,186C,06ED,1870:003D|Polsat-Box|VOD 203
-1803,1861,186C,06ED,1870:003E|Polsat-Box|VOD 204
-1803,1861,186C,06ED,1870:003F|Polsat-Box|VOD 205
-1803,1861,186C,06ED,1870:0040|Polsat-Box|VOD 206
-1803,1861,186C,06ED,1870:0041|Polsat-Box|VOD 207
-1803,1861,186C,06ED,1870:0042|Polsat-Box|VOD 208
-1803,1861,186C,06ED,1870:2910|Polsat-Box|Vox Music TV HD
-1803,1861,186C,06ED,1870:4279|Polsat-Box|W Polsce 24
-1803,1861,186C,06ED,1870:3DD5|Polsat-Box|Warner TV Polska HD
-1803,1861,186C,06ED,1870:1C22|Polsat-Box|Watania 1
-1803,1861,186C,06ED,1870:423D|Polsat-Box|Water Planet TV
-1803,1861,186C,06ED,1870:290C|Polsat-Box|Wydarzenia 24 HD
-1803,1861,186C,06ED,1870:4291|Polsat-Box|Zoom TV
+## CREATE: 2025.05.27 11:26:03
+1803,1861,186C,1870:0001|Polsat-Box|MTV Live
+1803,1861,186C,1870:0002|Polsat-Box|NickMusic
+1803,1861,186C,1870:0003|Polsat-Box|Nick Jr Central & Eastern Europe
+1803,1861,186C,1870:0008|Polsat-Box|MTV 00s
+1803,1861,186C,1870:0009|Polsat-Box|Nickelodeon Polska
+1803,1861,186C,1870:000C|Polsat-Box|Comedy Central Polska
+1803,1861,186C,1870:000D|Polsat-Box|Paramount Network Polska
+1803,1861,186C,1870:000E|Polsat-Box|Nicktoons Polska
+1803,1861,186C,1870:000F|Polsat-Box|MTV Polska
+1803,1861,186C,1870:0010|Polsat-Box|Comedy Central Extra Polsat
+1803,1861,186C,1870:0020|Polsat-Box|Comedy Central Polska
+1803,1861,186C,1870:0021|Polsat-Box|Paramount Network Polska
+1803,1861,186C,1870:003F|Polsat-Box|VOD 205
+1803,1861,186C,1870:0040|Polsat-Box|VOD 206
+1803,1861,186C,1870:0041|Polsat-Box|VOD 207
+1803,1861,186C,1870:0042|Polsat-Box|VOD 208
+1803,1861,186C,1870:0045|Polsat-Box|Nicktoons Polska
+1803,1861,186C,1870:0133|Polsat-Box|ARTE Français
+1803,1861,186C,1870:02C9|Polsat-Box|RTP Internacional Europa
+1803,1861,186C,1870:051F|Polsat-Box|Radio Norba TV
+1803,1861,186C,1870:06AA|Polsat-Box|CGTN
+1803,1861,186C,1870:0709|Polsat-Box|Polsat Sport Premium 1 PPV Super HD
+1803,1861,186C,1870:070A|Polsat-Box|Polsat Sport Premium 2
+1803,1861,186C,1870:070F|Polsat-Box|Eleven Sports 1 Polska
+1803,1861,186C,1870:0711|Polsat-Box|Polsat tests
+1803,1861,186C,1870:07D6|Polsat-Box|BBC Brit Polska
+1803,1861,186C,1870:07D9|Polsat-Box|CBeebies Polska
+1803,1861,186C,1870:07DB|Polsat-Box|BBC Lifestyle Polska
+1803,1861,186C,1870:0BC2|Polsat-Box|FashionTV Europe
+1803,1861,186C,1870:0BEA|Polsat-Box|Inultra
+1803,1861,186C,1870:0C1D|Polsat-Box|Polsat Sport 1
+1803,1861,186C,1870:0C1F|Polsat-Box|FX Comedy Polska
+1803,1861,186C,1870:0C20|Polsat-Box|Viasat History Polsat
+1803,1861,186C,1870:0C22|Polsat-Box|TVP 2
+1803,1861,186C,1870:0C23|Polsat-Box|Polsat Doku
+1803,1861,186C,1870:0C24|Polsat-Box|Polsat Sport 2
+1803,1861,186C,1870:0C25|Polsat-Box|AXN Polska
+1803,1861,186C,1870:0C26|Polsat-Box|Cinemax 2 Central Europe
+1803,1861,186C,1870:0C27|Polsat-Box|FX Polska
+1803,1861,186C,1870:0C2F|Polsat-Box|History Polska
+1803,1861,186C,1870:0C30|Polsat-Box|Crime + Investigation Polsat
+1803,1861,186C,1870:0C33|Polsat-Box|Polsat Sport Premium 5 PPV
+1803,1861,186C,1870:0C34|Polsat-Box|Polsat Sport Premium 6 PPV
+1803,1861,186C,1870:0E83|Polsat-Box|TVP Polonia
+1803,1861,186C,1870:10DD|Polsat-Box|Discovery Channel Polska
+1803,1861,186C,1870:10DE|Polsat-Box|TLC Polska
+1803,1861,186C,1870:10DF|Polsat-Box|Discovery Historia
+1803,1861,186C,1870:10E0|Polsat-Box|Discovery Life Polska
+1803,1861,186C,1870:10E4|Polsat-Box|Cartoonito Polska
+1803,1861,186C,1870:10EA|Polsat-Box|TVN 24 BiS
+1803,1861,186C,1870:10EB|Polsat-Box|HGTV Polska
+1803,1861,186C,1870:1133|Polsat-Box|BBC First Polska
+1803,1861,186C,1870:1134|Polsat-Box|BBC Earth Polska
+1803,1861,186C,1870:1138|Polsat-Box|TVP HD
+1803,1861,186C,1870:1139|Polsat-Box|TVP Info
+1803,1861,186C,1870:113F|Polsat-Box|Hustler HD Europe
+1803,1861,186C,1870:1141|Polsat-Box|Private TV
+1803,1861,186C,1870:1165|Polsat-Box|BBC First Polska
+1803,1861,186C,1870:1166|Polsat-Box|BBC Earth Polska
+1803,1861,186C,1870:1325|Polsat-Box|KBS World
+1803,1861,186C,1870:132A|Polsat-Box|RIK Sat
+1803,1861,186C,1870:13F2|Polsat-Box|Kino Polska
+1803,1861,186C,1870:13F3|Polsat-Box|Eleven Sports 1 Polska
+1803,1861,186C,1870:13F4|Polsat-Box|HBO 2 Polska
+1803,1861,186C,1870:13F5|Polsat-Box|Eleven Sports 2 Polska
+1803,1861,186C,1870:13F6|Polsat-Box|National Geographic Wild Polska
+1803,1861,186C,1870:13F7|Polsat-Box|TVP 3 Warszawa
+1803,1861,186C,1870:13F8|Polsat-Box|Eleven Sports 3 Polska
+1803,1861,186C,1870:13F9|Polsat-Box|HBO 3 Polska
+1803,1861,186C,1870:1424|Polsat-Box|Kino Polska
+1803,1861,186C,1870:1425|Polsat-Box|Eleven Sports 1 Polska
+1803,1861,186C,1870:1426|Polsat-Box|HBO 2 Polska
+1803,1861,186C,1870:1427|Polsat-Box|Eleven Sports 2 Polska
+1803,1861,186C,1870:1428|Polsat-Box|National Geographic Wild Polska
+1803,1861,186C,1870:142B|Polsat-Box|HBO 3 Polska
+1803,1861,186C,1870:143E|Polsat-Box|Eleven Sports 3 Polska
+1803,1861,186C,1870:1C22|Polsat-Box|Watania 1
+1803,1861,186C,1870:1C86|Polsat-Box|Bloomberg TV Europe
+1803,1861,186C,1870:1C86|Polsat-Box|AXN White Polska
+1803,1861,186C,1870:1C87|Polsat-Box|AXN Black Polska
+1803,1861,186C,1870:1C8B|Polsat-Box|Polsat X
+1803,1861,186C,1870:1C8C|Polsat-Box|Disco Polo Music
+1803,1861,186C,1870:1C8D|Polsat-Box|TV Okazje
+1803,1861,186C,1870:1C8E|Polsat-Box|Disco Polo Music
+1803,1861,186C,1870:1C8F|Polsat-Box|Polsat Rodzina
+1803,1861,186C,1870:1C96|Polsat-Box|AXN Polska
+1803,1861,186C,1870:1CAC|Polsat-Box|Polsat Seriale
+1803,1861,186C,1870:1CAD|Polsat-Box|Polsat Seriale
+1803,1861,186C,1870:1CB5|Polsat-Box|Disney XD Polska
+1803,1861,186C,1870:1CB6|Polsat-Box|Disney Channel Polska
+1803,1861,186C,1870:1CB7|Polsat-Box|JimJam Polsat
+1803,1861,186C,1870:1CB9|Polsat-Box|MTV 90s
+1803,1861,186C,1870:1CBB|Polsat-Box|Vivid Touch
+1803,1861,186C,1870:1CBE|Polsat-Box|Polsat News Polityka
+1803,1861,186C,1870:1CC5|Polsat-Box|Disney Channel Polska
+1803,1861,186C,1870:1CCA|Polsat-Box|Viasat Explore Polsat
+1803,1861,186C,1870:2146|Polsat-Box|Rai Storia
+1803,1861,186C,1870:2149|Polsat-Box|Rai Scuola
+1803,1861,186C,1870:2340|Polsat-Box|Silk Way
+1803,1861,186C,1870:2906|Polsat-Box|Cartoon Network Polska
+1803,1861,186C,1870:2907|Polsat-Box|Nat Geo People Polska
+1803,1861,186C,1870:2908|Polsat-Box|Viasat Nature Polsat
+1803,1861,186C,1870:2909|Polsat-Box|Eska Rock TV
+1803,1861,186C,1870:290A|Polsat-Box|Extreme Sports Channel Polska
+1803,1861,186C,1870:290B|Polsat-Box|Film Café Polska
+1803,1861,186C,1870:290C|Polsat-Box|Wydarzenia 24
+1803,1861,186C,1870:290D|Polsat-Box|Eska TV Extra
+1803,1861,186C,1870:290E|Polsat-Box|HBO Polska
+1803,1861,186C,1870:2910|Polsat-Box|Vox Music TV
+1803,1861,186C,1870:2911|Polsat-Box|Polsat Sport Fight
+1803,1861,186C,1870:2913|Polsat-Box|Polsat Sport 3
+1803,1861,186C,1870:2938|Polsat-Box|Disney Jr Türkiye & Polska
+1803,1861,186C,1870:32CC|Polsat-Box|AXN Spin Polska
+1803,1861,186C,1870:32DF|Polsat-Box|National Geographic Polska
+1803,1861,186C,1870:331C|Polsat-Box|AXN Spin Polska
+1803,1861,186C,1870:3330|Polsat-Box|BBC News Europe
+1803,1861,186C,1870:3333|Polsat-Box|Polsat News 2
+1803,1861,186C,1870:3391|Polsat-Box|Polsat
+1803,1861,186C,1870:3392|Polsat-Box|Polsat Play
+1803,1861,186C,1870:3393|Polsat-Box|TV 4 (Poland)
+1803,1861,186C,1870:3394|Polsat-Box|TV 6 (Poland)
+1803,1861,186C,1870:3396|Polsat-Box|Polsat Café
+1803,1861,186C,1870:3398|Polsat-Box|Polsat Film
+1803,1861,186C,1870:3399|Polsat-Box|Polsat News
+1803,1861,186C,1870:339A|Polsat-Box|Polsat 2
+1803,1861,186C,1870:339B|Polsat-Box|Super Polsat
+1803,1861,186C,1870:3A9E|Polsat-Box|TVP Sport
+1803,1861,186C,1870:3A9F|Polsat-Box|Cinemax Central Europe
+1803,1861,186C,1870:3AB7|Polsat-Box|AMC Polska
+1803,1861,186C,1870:3ABD|Polsat-Box|TVP 1
+1803,1861,186C,1870:3ABE|Polsat-Box|Romance TV Polska
+1803,1861,186C,1870:3AD0|Polsat-Box|TVP Sport
+1803,1861,186C,1870:3AD1|Polsat-Box|Cinemax Central Europe
+1803,1861,186C,1870:3ADB|Polsat-Box|TVP 1
+1803,1861,186C,1870:3AE9|Polsat-Box|AMC Polska
+1803,1861,186C,1870:3B66|Polsat-Box|Animal Planet Polska
+1803,1861,186C,1870:3B67|Polsat-Box|Eurosport 1 Polska
+1803,1861,186C,1870:3B68|Polsat-Box|Eurosport 2 Polska
+1803,1861,186C,1870:3B69|Polsat-Box|Investigation Discovery Polska
+1803,1861,186C,1870:3B6A|Polsat-Box|Discovery Science Polska
+1803,1861,186C,1870:3B6B|Polsat-Box|DTX Polska
+1803,1861,186C,1870:3B6D|Polsat-Box|CNN International Europe
+1803,1861,186C,1870:3D59|Polsat-Box|TVP Kultura
+1803,1861,186C,1870:3D5B|Polsat-Box|CBS Reality Polska
+1803,1861,186C,1870:3D5C|Polsat-Box|TVP Seriale
+1803,1861,186C,1870:3D5D|Polsat-Box|FilmBox Premium Polska
+1803,1861,186C,1870:3D5E|Polsat-Box|Puls 2
+1803,1861,186C,1870:3D5F|Polsat-Box|TVP ABC
+1803,1861,186C,1870:3D60|Polsat-Box|Kino Polska Muzyka
+1803,1861,186C,1870:3D61|Polsat-Box|Kino TV
+1803,1861,186C,1870:3D62|Polsat-Box|FilmBox Family
+1803,1861,186C,1870:3D64|Polsat-Box|Kino Polska
+1803,1861,186C,1870:3D65|Polsat-Box|FilmBox Action
+1803,1861,186C,1870:3D66|Polsat-Box|TV Puls (Poland)
+1803,1861,186C,1870:3D67|Polsat-Box|TVP Historia
+1803,1861,186C,1870:3D68|Polsat-Box|FilmBox Extra HD Polska
+1803,1861,186C,1870:3D8D|Polsat-Box|CBS Reality Polska
+1803,1861,186C,1870:3D8E|Polsat-Box|TVP Seriale
+1803,1861,186C,1870:3D8F|Polsat-Box|FilmBox Premium Polska
+1803,1861,186C,1870:3D93|Polsat-Box|Kino TV
+1803,1861,186C,1870:3D94|Polsat-Box|FilmBox Family
+1803,1861,186C,1870:3D96|Polsat-Box|Kino Polska
+1803,1861,186C,1870:3D97|Polsat-Box|FilmBox Action
+1803,1861,186C,1870:3D99|Polsat-Box|TVP Historia
+1803,1861,186C,1870:3D9A|Polsat-Box|FilmBox Extra HD Polska
+1803,1861,186C,1870:3DCD|Polsat-Box|TVN (Poland)
+1803,1861,186C,1870:3DCE|Polsat-Box|TVN Style
+1803,1861,186C,1870:3DCF|Polsat-Box|TVN Style
+1803,1861,186C,1870:3DD0|Polsat-Box|TVN Turbo
+1803,1861,186C,1870:3DD1|Polsat-Box|TVN Turbo
+1803,1861,186C,1870:3DD2|Polsat-Box|TVN 24
+1803,1861,186C,1870:3DD3|Polsat-Box|TVN 7
+1803,1861,186C,1870:3DD4|Polsat-Box|Metro TV (Poland)
+1803,1861,186C,1870:3DD5|Polsat-Box|Warner TV Polska
+1803,1861,186C,1870:3DD6|Polsat-Box|TVN Fabula
+1803,1861,186C,1870:3DD7|Polsat-Box|TTV
+1803,1861,186C,1870:3DD8|Polsat-Box|Travel Channel Polska
+1803,1861,186C,1870:3DD9|Polsat-Box|Food Network Polska
+1803,1861,186C,1870:3DEB|Polsat-Box|TVN 7
+1803,1861,186C,1870:3DEC|Polsat-Box|Food Network Polska
+1803,1861,186C,1870:3DED|Polsat-Box|TVN 24
+1803,1861,186C,1870:3E1D|Polsat-Box|Sundance TV Europe
+1803,1861,186C,1870:3E1E|Polsat-Box|E! Polska
+1803,1861,186C,1870:3E1F|Polsat-Box|Polsat Film 2
+1803,1861,186C,1870:3E20|Polsat-Box|Scifi Polska
+1803,1861,186C,1870:3E21|Polsat-Box|Polsat Reality
+1803,1861,186C,1870:3E22|Polsat-Box|History 2 Polska
+1803,1861,186C,1870:3E23|Polsat-Box|Golf Zone
+1803,1861,186C,1870:3E24|Polsat-Box|FightBox HD
+1803,1861,186C,1870:3E26|Polsat-Box|13 Ulica
+1803,1861,186C,1870:3E27|Polsat-Box|SkyShowtime 1
+1803,1861,186C,1870:3E28|Polsat-Box|SkyShowtime 2
+1803,1861,186C,1870:3E2B|Polsat-Box|Polsat Sport Premium 3 PPV
+1803,1861,186C,1870:3E2C|Polsat-Box|Polsat Sport Premium 4 PPV
+1803,1861,186C,1870:4224|Polsat-Box|Redlight HD
+1803,1861,186C,1870:422D|Polsat-Box|Class TV Moda
+1803,1861,186C,1870:422E|Polsat-Box|Horse TV
+1803,1861,186C,1870:4238|Polsat-Box|Padre Pio TV
+1803,1861,186C,1870:423B|Polsat-Box|Tele 5 (Poland)
+1803,1861,186C,1870:423C|Polsat-Box|Polonia 1
+1803,1861,186C,1870:423D|Polsat-Box|Water Planet TV
+1803,1861,186C,1870:423F|Polsat-Box|Novela TV
+1803,1861,186C,1870:4267|Polsat-Box|Vivid Red
+1803,1861,186C,1870:4279|Polsat-Box|W Polsce 24
+1803,1861,186C,1870:427B|Polsat-Box|Stopklatka TV
+1803,1861,186C,1870:427C|Polsat-Box|Stopklatka TV
+1803,1861,186C,1870:427F|Polsat-Box|Stars TV
+1803,1861,186C,1870:4280|Polsat-Box|Da Vinci Polska
+1803,1861,186C,1870:4284|Polsat-Box|Polsat Games
+1803,1861,186C,1870:4285|Polsat-Box|Polsat Games
+1803,1861,186C,1870:4288|Polsat-Box|TVP Rozrywka
+1803,1861,186C,1870:4289|Polsat-Box|TV Republika
+1803,1861,186C,1870:428A|Polsat-Box|FilmBox Arthouse Worldwide
+1803,1861,186C,1870:428D|Polsat-Box|4 Fun TV
+1803,1861,186C,1870:428E|Polsat-Box|4 Fun Kids
+1803,1861,186C,1870:428F|Polsat-Box|4 Fun Dance
+1803,1861,186C,1870:4290|Polsat-Box|Epic Drama
+1803,1861,186C,1870:4291|Polsat-Box|Zoom TV
+1803,1861,186C,1870:4293|Polsat-Box|Polsat Music
+1803,1861,186C,1870:4294|Polsat-Box|Polsat Music
+1803,1861,186C,1870:429A|Polsat-Box|Polo TV
+1803,1861,186C,1870:429C|Polsat-Box|Eska TV
+1803,1861,186C,1870:429D|Polsat-Box|Fokus TV
+1803,1861,186C,1870:429E|Polsat-Box|Nowa TV
+1803,1861,186C,1870:42C2|Polsat-Box|Polo TV
+1803,1861,186C,1870:42C5|Polsat-Box|Fokus TV
+1803,1861,186C,1870:42EA|Polsat-Box|BBC News Europe
+1803,1861,186C,1870:4536|Polsat-Box|Uninettuno University TV
 
 ## PROVIDER: Orange-PL
 ## CAID: 0500
