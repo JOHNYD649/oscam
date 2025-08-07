@@ -5426,1142 +5426,816 @@
 0B00,0B01,0B02:006D|New-World-TV|Zik FM
 
 ## PROVIDER: Canal-plus-seca
-## CAID: 0100,1813
+## CAID: 0100,1813,0B01,1884
 ## PROVID: 000000,000068
-## CREATE: 2025.03.15 11:25:59
-0100,1813:3E26|Canal-plus-seca|13 Ulica HD
-0100,1813:428F|Canal-plus-seca|4 Fun Dance
-0100,1813:428E|Canal-plus-seca|4 Fun Kids
-0100,1813:428D|Canal-plus-seca|4 Fun TV
-0100,1813:32D8|Canal-plus-seca|Active Family
-0100,1813:32D5|Canal-plus-seca|Adventure HD
-0100,1813:3781|Canal-plus-seca|Ale Kino HD
-0100,1813:379F|Canal-plus-seca|Ale Kino HD
-0100,1813:1C8A|Canal-plus-seca|Aljazeera English HD
-0100,1813:3AB7|Canal-plus-seca|AMC Polska HD
-0100,1813:3AE9|Canal-plus-seca|AMC Polska HD
-0100,1813:3B66|Canal-plus-seca|Animal Planet Polska HD
-0100,1813:1413|Canal-plus-seca|Antyradio
-0100,1813:1C87|Canal-plus-seca|AXN Black Polska
-0100,1813:1C96|Canal-plus-seca|AXN Polska
-0100,1813:0C25|Canal-plus-seca|AXN Polska HD
-0100,1813:32CC|Canal-plus-seca|AXN Spin Polska HD
-0100,1813:331C|Canal-plus-seca|AXN Spin Polska HD
-0100,1813:1C86|Canal-plus-seca|AXN White Polska
-0100,1813:421D|Canal-plus-seca|Baby TV Europe
-0100,1813:07D6|Canal-plus-seca|BBC Brit Polska HD
-0100,1813:1134|Canal-plus-seca|BBC Earth Polska HD
-0100,1813:1166|Canal-plus-seca|BBC Earth Polska HD
-0100,1813:1133|Canal-plus-seca|BBC First Polska HD
-0100,1813:1165|Canal-plus-seca|BBC First Polska HD
-0100,1813:07DB|Canal-plus-seca|BBC Lifestyle Polska HD
-0100,1813:200C|Canal-plus-seca|BBC News Europe
-0100,1813:42EA|Canal-plus-seca|BBC News Europe
-0100,1813:3D57|Canal-plus-seca|Biznes 24 HD
-0100,1813:1140|Canal-plus-seca|Blue Hustler Europe
-0100,1813:114A|Canal-plus-seca|Blue Hustler Europe
-0100,1813:113D|Canal-plus-seca|Canal 4K Ultra HD
-0100,1813:13ED|Canal-plus-seca|Canal At1 HD
-0100,1813:3A99|Canal-plus-seca|Canal Dokument HD
-0100,1813:13EF|Canal-plus-seca|Canal Domo Polska HD
-0100,1813:1421|Canal-plus-seca|Canal Domo Polska HD
-0100,1813:377B|Canal-plus-seca|Canal Family Polska HD
-0100,1813:3779|Canal-plus-seca|Canal Film HD
-0100,1813:377F|Canal-plus-seca|Canal Kuchnia HD
-0100,1813:37B1|Canal-plus-seca|Canal Kuchnia HD
-0100,1813:32CD|Canal-plus-seca|Canal Now HD
-0100,1813:32FF|Canal-plus-seca|Canal Now HD
-0100,1813:32DC|Canal-plus-seca|Canal Premium HD
-0100,1813:3782|Canal-plus-seca|Canal Seriale HD
-0100,1813:13EE|Canal-plus-seca|Canal Sport 2 Polska HD
-0100,1813:3AA0|Canal-plus-seca|Canal Sport 3 Polska HD
-0100,1813:3AD2|Canal-plus-seca|Canal Sport 3 Polska HD
-0100,1813:3AA1|Canal-plus-seca|Canal Sport 4 Polska HD
-0100,1813:3AD3|Canal-plus-seca|Canal Sport 4 Polska HD
-0100,1813:3AA5|Canal-plus-seca|Canal Sport 5 Polska HD
-0100,1813:3AB9|Canal-plus-seca|Canal Sport 5 Polska HD
-0100,1813:3AE1|Canal-plus-seca|Canal Sport 5 Polska HD
-0100,1813:32DE|Canal-plus-seca|Canal Sport Polska HD
-0100,1813:2906|Canal-plus-seca|Cartoon Network Polska HD
-0100,1813:10E4|Canal-plus-seca|Cartoonito Polska HD
-0100,1813:07D9|Canal-plus-seca|CBeebies Polska
-0100,1813:290B|Canal-plus-seca|CBS Europa HD
-0100,1813:3D5B|Canal-plus-seca|CBS Reality Polska HD
-0100,1813:3D8D|Canal-plus-seca|CBS Reality Polska HD
-0100,1813:0368|Canal-plus-seca|CGTN HD
-0100,1813:0C26|Canal-plus-seca|Cinemax 2 Central Europe HD
-0100,1813:3A9F|Canal-plus-seca|Cinemax Central Europe HD
-0100,1813:3AD1|Canal-plus-seca|Cinemax Central Europe HD
-0100,1813:0010|Canal-plus-seca|Comedy Central Extra Polsat HD
-0100,1813:000C|Canal-plus-seca|Comedy Central Polska HD
-0100,1813:0C30|Canal-plus-seca|Crime Investigation Polsat HD
-0100,1813:4280|Canal-plus-seca|Da Vinci Polska
-0100,1813:1C8C|Canal-plus-seca|Disco Polo Music
-0100,1813:1C8E|Canal-plus-seca|Disco Polo Music
-0100,1813:10DF|Canal-plus-seca|Discovery Historia
-0100,1813:10E0|Canal-plus-seca|Discovery Life Polska HD
-0100,1813:3B6A|Canal-plus-seca|Discovery Science Polska HD
-0100,1813:1CB6|Canal-plus-seca|Disney Channel Polska HD
-0100,1813:1CC5|Canal-plus-seca|Disney Channel Polska HD
-0100,1813:2938|Canal-plus-seca|Disney Junior TAzrkiye & Polska
-0100,1813:1CB5|Canal-plus-seca|Disney XD Polska
-0100,1813:4206|Canal-plus-seca|Dorcel TV HD
-0100,1813:3E1E|Canal-plus-seca|E! Polska HD
-0100,1813:13F3|Canal-plus-seca|Eleven Sports 1 Polska HD
-0100,1813:1425|Canal-plus-seca|Eleven Sports 1 Polska HD
-0100,1813:13F5|Canal-plus-seca|Eleven Sports 2 Polska HD
-0100,1813:1427|Canal-plus-seca|Eleven Sports 2 Polska HD
-0100,1813:13F8|Canal-plus-seca|Eleven Sports 3 Polska HD
-0100,1813:143E|Canal-plus-seca|Eleven Sports 3 Polska HD
-0100,1813:32CE|Canal-plus-seca|Eleven Sports 4 Polska HD
-0100,1813:4290|Canal-plus-seca|Epic Drama HD
-0100,1813:429B|Canal-plus-seca|Eska TV Extra
-0100,1813:429C|Canal-plus-seca|Eska TV HD
-0100,1813:0321|Canal-plus-seca|EuroNews English HD
-0100,1813:3B67|Canal-plus-seca|Eurosport 1 Polska HD
-0100,1813:3B68|Canal-plus-seca|Eurosport 2 Polska HD
-0100,1813:290A|Canal-plus-seca|Extreme Sports Channel Polska HD
-0100,1813:113B|Canal-plus-seca|Fight Klub HD
-0100,1813:3E24|Canal-plus-seca|FightBox HD
-0100,1813:3D65|Canal-plus-seca|FilmBox Action
-0100,1813:3D97|Canal-plus-seca|FilmBox Action
-0100,1813:428A|Canal-plus-seca|FilmBox Arthouse Worldwide
-0100,1813:3D68|Canal-plus-seca|FilmBox Extra HD Polska
-0100,1813:3D9A|Canal-plus-seca|FilmBox Extra HD Polska
-0100,1813:3D62|Canal-plus-seca|FilmBox Family
-0100,1813:3D94|Canal-plus-seca|FilmBox Family
-0100,1813:3D5D|Canal-plus-seca|FilmBox Premium Polska HD
-0100,1813:3D8F|Canal-plus-seca|FilmBox Premium Polska HD
-0100,1813:429D|Canal-plus-seca|Fokus TV HD
-0100,1813:3DD9|Canal-plus-seca|Food Network Polska HD
-0100,1813:3DEC|Canal-plus-seca|Food Network Polska HD
-0100,1813:0328|Canal-plus-seca|France 24 English HD
-0100,1813:0327|Canal-plus-seca|France 24 FranAais HD
-0100,1813:421C|Canal-plus-seca|Freedom
-0100,1813:0C1F|Canal-plus-seca|FX Comedy Polska HD
-0100,1813:0C27|Canal-plus-seca|FX Polska HD
-0100,1813:13F4|Canal-plus-seca|HBO 2 Polska HD
-0100,1813:1426|Canal-plus-seca|HBO 2 Polska HD
-0100,1813:13F9|Canal-plus-seca|HBO 3 Polska HD
-0100,1813:142B|Canal-plus-seca|HBO 3 Polska HD
-0100,1813:290E|Canal-plus-seca|HBO Polska HD
-0100,1813:10EB|Canal-plus-seca|HGTV Polska HD
-0100,1813:3E22|Canal-plus-seca|History 2 Polska HD
-0100,1813:0C2F|Canal-plus-seca|History Polska HD
-0100,1813:32D0|Canal-plus-seca|Home TV
-0100,1813:113F|Canal-plus-seca|Hustler HD Europe
-0100,1813:1147|Canal-plus-seca|Hustler HD Europe
-0100,1813:1148|Canal-plus-seca|Hustler HD Europe
-0100,1813:1CB7|Canal-plus-seca|JimJam Polsat
-0100,1813:1325|Canal-plus-seca|KBS World HD
-0100,1813:13F2|Canal-plus-seca|Kino Polska HD
-0100,1813:1424|Canal-plus-seca|Kino Polska HD
-0100,1813:3D60|Canal-plus-seca|Kino Polska Muzyka
-0100,1813:3D61|Canal-plus-seca|Kino TV HD
-0100,1813:3D93|Canal-plus-seca|Kino TV HD
-0100,1813:1411|Canal-plus-seca|Meloradio
-0100,1813:3DD4|Canal-plus-seca|Metro TV HD
-0100,1813:422B|Canal-plus-seca|Mezzo
-0100,1813:32E0|Canal-plus-seca|MiniMini HD
-0100,1813:32FE|Canal-plus-seca|MiniMini HD
-0100,1813:3D56|Canal-plus-seca|Motowizja HD
-0100,1813:0008|Canal-plus-seca|MTV 00s
-0100,1813:1CB9|Canal-plus-seca|MTV 90s
-0100,1813:0001|Canal-plus-seca|MTV Live HD
-0100,1813:000F|Canal-plus-seca|MTV Polska HD
-0100,1813:0019|Canal-plus-seca|MTV Polska HD
-0100,1813:11FC|Canal-plus-seca|Museum TV International HD
-0100,1813:2907|Canal-plus-seca|Nat Geo People Polska HD
-0100,1813:32DF|Canal-plus-seca|National Geographic Polska HD
-0100,1813:13F6|Canal-plus-seca|National Geographic Wild Polska HD
-0100,1813:1428|Canal-plus-seca|National Geographic Wild Polska HD
-0100,1813:0003|Canal-plus-seca|Nick Jr Central & Eastern Europe
-0100,1813:0009|Canal-plus-seca|Nickelodeon Polska
-0100,1813:0002|Canal-plus-seca|NickMusic
-0100,1813:000E|Canal-plus-seca|Nicktoons Polska HD
-0100,1813:0045|Canal-plus-seca|Nicktoons Polska HD
-0100,1813:3A9A|Canal-plus-seca|Novelas HD
-0100,1813:3ACC|Canal-plus-seca|Novelas HD
-0100,1813:429E|Canal-plus-seca|Nowa TV HD
-0100,1813:32D2|Canal-plus-seca|Nuta TV
-0100,1813:000D|Canal-plus-seca|Paramount Network Polska HD
-0100,1813:0021|Canal-plus-seca|Paramount Network Polska HD
-0100,1813:377E|Canal-plus-seca|Planete Polska HD
-0100,1813:37B0|Canal-plus-seca|Planete Polska HD
-0100,1813:429A|Canal-plus-seca|Polo TV HD
-0100,1813:423C|Canal-plus-seca|Polonia 1
-0100,1813:339A|Canal-plus-seca|Polsat 2 HD
-0100,1813:3396|Canal-plus-seca|Polsat cafe HD
-0100,1813:3398|Canal-plus-seca|Polsat Film HD
-0100,1813:3391|Canal-plus-seca|Polsat HD
-0100,1813:4293|Canal-plus-seca|Polsat Music HD
-0100,1813:3333|Canal-plus-seca|Polsat News 2 HD
-0100,1813:3399|Canal-plus-seca|Polsat News HD
-0100,1813:3392|Canal-plus-seca|Polsat Play HD
-0100,1813:1CAC|Canal-plus-seca|Polsat Seriale HD
-0100,1813:1418|Canal-plus-seca|Polskie Radio 24
-0100,1813:32D1|Canal-plus-seca|Power TV
-0100,1813:1141|Canal-plus-seca|Private TV HD
-0100,1813:1149|Canal-plus-seca|Private TV HD
-0100,1813:114B|Canal-plus-seca|Private TV HD
-0100,1813:3D5E|Canal-plus-seca|Puls 2 HD
-0100,1813:1419|Canal-plus-seca|Radio Jasna GAra
-0100,1813:1410|Canal-plus-seca|Radio Zet
-0100,1813:1412|Canal-plus-seca|Radio Zet Chilli
-0100,1813:2149|Canal-plus-seca|Rai Scuola HD
-0100,1813:2146|Canal-plus-seca|Rai Storia HD
-0100,1813:3D63|Canal-plus-seca|Red Carpet HD
-0100,1813:4224|Canal-plus-seca|Redlight HD
-0100,1813:3ABE|Canal-plus-seca|Romance TV Polska HD
-0100,1813:3E20|Canal-plus-seca|Scifi Polska HD
-0100,1813:113A|Canal-plus-seca|Sport Klub Polska HD
-0100,1813:427F|Canal-plus-seca|Stars TV
-0100,1813:427B|Canal-plus-seca|Stopklatka TV
-0100,1813:377C|Canal-plus-seca|StudioMed TV HD
-0100,1813:3E1D|Canal-plus-seca|Sundance TV Europe HD
-0100,1813:339B|Canal-plus-seca|Super Polsat HD
-0100,1813:3784|Canal-plus-seca|TeenNick Polska HD
-0100,1813:423B|Canal-plus-seca|Tele 5
-0100,1813:377D|Canal-plus-seca|Teletoon HD Polska
-0100,1813:37AF|Canal-plus-seca|Teletoon HD Polska
-0100,1813:10DE|Canal-plus-seca|TLC Polska HD
-0100,1813:142A|Canal-plus-seca|Tok FM
-0100,1813:3DD8|Canal-plus-seca|Travel Channel Polska HD
-0100,1813:3DD7|Canal-plus-seca|TTV HD
-0100,1813:3393|Canal-plus-seca|TV 4 HD
-0100,1813:3394|Canal-plus-seca|TV 6 HD
-0100,1813:3D66|Canal-plus-seca|TV Puls HD
-0100,1813:4289|Canal-plus-seca|TV Republika HD
-0100,1813:32D4|Canal-plus-seca|TVC
-0100,1813:10EA|Canal-plus-seca|TVN 24 BiS HD
-0100,1813:3DD2|Canal-plus-seca|TVN 24 HD
-0100,1813:3DED|Canal-plus-seca|TVN 24 HD
-0100,1813:3DD3|Canal-plus-seca|TVN 7 HD
-0100,1813:3DEB|Canal-plus-seca|TVN 7 HD
-0100,1813:3DD6|Canal-plus-seca|TVN Fabula HD
-0100,1813:3DCD|Canal-plus-seca|TVN HD
-0100,1813:3DCE|Canal-plus-seca|TVN Style HD
-0100,1813:3DCF|Canal-plus-seca|TVN Style HD
-0100,1813:3DD0|Canal-plus-seca|TVN Turbo HD
-0100,1813:3DD1|Canal-plus-seca|TVN Turbo HD
-0100,1813:3ABD|Canal-plus-seca|TVP 1 HD
-0100,1813:3ADB|Canal-plus-seca|TVP 1 HD
-0100,1813:0C22|Canal-plus-seca|TVP 2 HD
-0100,1813:13F7|Canal-plus-seca|TVP 3 Warszawa HD
-0100,1813:3D5F|Canal-plus-seca|TVP ABC
-0100,1813:3A9D|Canal-plus-seca|TVP Dokument HD
-0100,1813:1138|Canal-plus-seca|TVP HD
-0100,1813:3D67|Canal-plus-seca|TVP Historia
-0100,1813:3D99|Canal-plus-seca|TVP Historia
-0100,1813:1139|Canal-plus-seca|TVP Info HD
-0100,1813:3D59|Canal-plus-seca|TVP Kultura HD
-0100,1813:0E83|Canal-plus-seca|TVP Polonia HD
-0100,1813:4288|Canal-plus-seca|TVP Rozrywka
-0100,1813:3D5C|Canal-plus-seca|TVP Seriale HD
-0100,1813:3D8E|Canal-plus-seca|TVP Seriale HD
-0100,1813:3A9E|Canal-plus-seca|TVP Sport HD
-0100,1813:3AD0|Canal-plus-seca|TVP Sport HD
-0100,1813:3D58|Canal-plus-seca|TVS
-0100,1813:1CCA|Canal-plus-seca|Viasat Explore Polsat HD
-0100,1813:0C20|Canal-plus-seca|Viasat History Polsat HD
-0100,1813:2908|Canal-plus-seca|Viasat Nature Polsat HD
-0100,1813:3DD5|Canal-plus-seca|Warner TV Polska HD
-0100,1813:3D5A|Canal-plus-seca|WP TV
-0100,1813:290C|Canal-plus-seca|Wydarzenia 24 HD
-
-## PROVIDER: Canal-plus
-## CAID: 0B01,1884
-## PROVID: 000000
-## CREATE: 2025.07.31 11:26:00
-0B01,1884:1133|Canal-plus|BBC First HD
-0B01,1884:1134|Canal-plus|BBC Earth HD
-0B01,1884:1138|Canal-plus|TVP HD
-0B01,1884:113a|Canal-plus|Sport Klub HD Poland
-0B01,1884:113b|Canal-plus|Fight Klub HD
-0B01,1884:113c|Canal-plus|Viasat True Crime
-0B01,1884:113f|Canal-plus|Hustler HD
-0B01,1884:1140|Canal-plus|Blue Hustler
-0B01,1884:1141|Canal-plus|Private TV HD
-0B01,1884:114c|Canal-plus|Adventure HD
-0B01,1884:114e|Canal-plus|Home TV Polska
-0B01,1884:1201|Canal-plus|Baby TV
-0B01,1884:4279|Canal-plus|wPolsce.pl
-0B01,1884:427b|Canal-plus|Stopklatka TV
-0B01,1884:427c|Canal-plus|Stopklatka
-0B01,1884:4284|Canal-plus|Polsat Games HD
-0B01,1884:4285|Canal-plus|Polsat Games
-0B01,1884:4288|Canal-plus|TVP Rozrywka
-0B01,1884:4289|Canal-plus|TV Republika
-0B01,1884:428a|Canal-plus|Filmbox Arthouse
-0B01,1884:4290|Canal-plus|Epic Drama HD
-0B01,1884:4291|Canal-plus|Zoom TV (Poland)
-0B01,1884:4293|Canal-plus|Polsat Music HD
-0B01,1884:4294|Canal-plus|Polsat Music HD
-0B01,1884:429a|Canal-plus|Polo TV
-0B01,1884:429c|Canal-plus|Eska TV
-0B01,1884:429d|Canal-plus|Fokus TV
-0B01,1884:429e|Canal-plus|Nowa TV
-0B01,1884:42c2|Canal-plus|Polo TV
-0B01,1884:42c5|Canal-plus|Fokus TV HD
-0B01,1884:3d56|Canal-plus|Motowizja TV HD
-0B01,1884:3d59|Canal-plus|TVP Kultura
-0B01,1884:3d5a|Canal-plus|WP
-0B01,1884:3d5b|Canal-plus|CBS Reality
-0B01,1884:3d5c|Canal-plus|TVP Seriale
-0B01,1884:3d5d|Canal-plus|Filmbox Premium HD Poland
-0B01,1884:3d5e|Canal-plus|Puls 2 HD
-0B01,1884:3d5f|Canal-plus|TVP ABC
-0B01,1884:3d60|Canal-plus|Kino Polska Muzyka
-0B01,1884:3d61|Canal-plus|Kino TV HD
-0B01,1884:3d62|Canal-plus|Filmbox Family
-0B01,1884:3d64|Canal-plus|Kino Polska HD
-0B01,1884:3d65|Canal-plus|Filmbox Action
-0B01,1884:3d66|Canal-plus|TV Puls HD
-0B01,1884:3d67|Canal-plus|TVP Historia
-0B01,1884:3d68|Canal-plus|Filmbox Extra HD Poland
-0B01,1884:3d93|Canal-plus|Kino TV HD
-0B01,1884:3d96|Canal-plus|Kino Polska HD
-0B01,1884:0000|Canal-plus|Nazwa
-0B01,1884:3e1d|Canal-plus|Sundance Channel HD
-0B01,1884:3e1e|Canal-plus|E! Polska
-0B01,1884:3e20|Canal-plus|SciFi HD Poland
-0B01,1884:3e22|Canal-plus|H2 HD
-0B01,1884:3e23|Canal-plus|Golf Zone
-0B01,1884:3e24|Canal-plus|FightBOX HD
-0B01,1884:3e26|Canal-plus|13 Ulica HD
-0B01,1884:3e3e|Canal-plus|SciFi HD
-0B01,1884:3e44|Canal-plus|13 Ulica HD
-0B01,1884:4206|Canal-plus|Dorcel TV HD
-0B01,1884:422b|Canal-plus|Mezzo
-0B01,1884:3333|Canal-plus|Polsat News 2
-0B01,1884:3343|Canal-plus|Polsat News 2 HD
-0B01,1884:3353|Canal-plus|Polsat News 2 HD
-0B01,1884:3363|Canal-plus|Polsat News 2 HD
-0B01,1884:3391|Canal-plus|Polsat HD
-0B01,1884:3392|Canal-plus|Polsat Play HD
-0B01,1884:3393|Canal-plus|TV 4 HD Poland
-0B01,1884:3394|Canal-plus|TV6 Polska
-0B01,1884:3396|Canal-plus|Polsat Cafe HD
-0B01,1884:3398|Canal-plus|Polsat Film HD
-0B01,1884:3399|Canal-plus|Polsat News HD
-0B01,1884:339a|Canal-plus|Polsat 2 HD
-0B01,1884:339b|Canal-plus|Superpolsat
-0B01,1884:33a1|Canal-plus|Polsat HD
-0B01,1884:33a2|Canal-plus|Polsat Play HD
-0B01,1884:33a3|Canal-plus|TV4 HD
-0B01,1884:33a6|Canal-plus|Polsat Cafe HD
-0B01,1884:33a8|Canal-plus|Polsat Film HD
-0B01,1884:33a9|Canal-plus|Polsat News HD
-0B01,1884:33aa|Canal-plus|Polsat 2 HD
-0B01,1884:33ab|Canal-plus|Super Polsat HD
-0B01,1884:33b1|Canal-plus|Polsat HD
-0B01,1884:33b2|Canal-plus|Polsat Play HD
-0B01,1884:33b6|Canal-plus|Polsat Cafe HD
-0B01,1884:33b8|Canal-plus|Polsat Film HD
-0B01,1884:33b9|Canal-plus|Polsat News HD
-0B01,1884:33ba|Canal-plus|Polsat 2 HD
-0B01,1884:33c2|Canal-plus|Polsat Play HD
-0B01,1884:33c6|Canal-plus|Polsat Cafe HD
-0B01,1884:33c8|Canal-plus|Polsat Film HD
-0B01,1884:33c9|Canal-plus|Polsat News HD
-0B01,1884:33d2|Canal-plus|Polsat Play HD
-0B01,1884:33d6|Canal-plus|Polsat Cafe HD
-0B01,1884:33d9|Canal-plus|Polsat News HD
-0B01,1884:33e9|Canal-plus|Polsat News HD
-0B01,1884:33f9|Canal-plus|Polsat News HD
-0B01,1884:3b66|Canal-plus|Animal Planet Poland HD
-0B01,1884:3b67|Canal-plus|Eurosport 1 Poland HD
-0B01,1884:3b68|Canal-plus|Eurosport 2 Poland HD
-0B01,1884:3b69|Canal-plus|Investigation Discovery Poland HD
-0B01,1884:3b6a|Canal-plus|Discovery Science Poland HD
-0B01,1884:3b6b|Canal-plus|Discovery Turbo Xtra Poland HD
-0B01,1884:3b6d|Canal-plus|CNN International HD
-0B01,1884:32cc|Canal-plus|AXN Spin HD
-0B01,1884:32cd|Canal-plus|Canal+ Now
-0B01,1884:32d8|Canal-plus|Active Family
-0B01,1884:32dc|Canal-plus|Canal+ HD Polska
-0B01,1884:32de|Canal-plus|Canal+ Sport HD Polska
-0B01,1884:32df|Canal-plus|National Geographic HD Polska
-0B01,1884:32e0|Canal-plus|MiniMini+ HD
-0B01,1884:32e1|Canal-plus|CANAL+ EXTRA 1
-0B01,1884:32e3|Canal-plus|CANAL+ EXTRA 3
-0B01,1884:32e4|Canal-plus|Canal+ Extra 4
-0B01,1884:32f0|Canal-plus|CANAL+ PREMIUM HD
-0B01,1884:32fa|Canal-plus|CANAL+ PREMIUM HD
-0B01,1884:32fc|Canal-plus|CANAL+ SPORT HD
-0B01,1884:32fe|Canal-plus|MiniMini+ HD
-0B01,1884:3304|Canal-plus|CANAL+ PREMIUM HD
-0B01,1884:3308|Canal-plus|MiniMini+ HD
-0B01,1884:3313|Canal-plus|CANAL+ EXTRA 1
-0B01,1884:3315|Canal-plus|CANAL+ EXTRA 3
-0B01,1884:3316|Canal-plus|Canal+ Extra 4
-0B01,1884:3322|Canal-plus|CANAL+ PREMIUM HD
-0B01,1884:3324|Canal-plus|CANAL+ SPORT HD
-0B01,1884:0000|Canal-plus|Nazwa
-0B01,1884:10dd|Canal-plus|Discovery Poland HD
-0B01,1884:10de|Canal-plus|TLC Poland HD
-0B01,1884:10df|Canal-plus|Historia Poland
-0B01,1884:10e0|Canal-plus|Discovery Life HD Poland
-0B01,1884:10e4|Canal-plus|Cartoonito Poland HD
-0B01,1884:10e5|Canal-plus|Cartoon Network Poland HD
-0B01,1884:10ea|Canal-plus|TVN 24 Bizness HD
-0B01,1884:10eb|Canal-plus|HGTV HD
-0B01,1884:3779|Canal-plus|Canal+ Film HD Polska
-0B01,1884:377a|Canal-plus|Canal+ Dokument HD
-0B01,1884:377b|Canal-plus|Canal+ 360
-0B01,1884:377e|Canal-plus|Planete+ HD Polska
-0B01,1884:377f|Canal-plus|Canal+ Kuchnia HD
-0B01,1884:3781|Canal-plus|Ale kino+ HD
-0B01,1884:3782|Canal-plus|Canal+ Seriale HD
-0B01,1884:3783|Canal-plus|Canal+ Extra 2
-0B01,1884:379f|Canal-plus|Ale Kino+ HD
-0B01,1884:37ab|Canal-plus|Canal+ Film HD Polska
-0B01,1884:37ac|Canal-plus|CANAL+ DOKUMENT HD
-0B01,1884:37ad|Canal-plus|CANAL+ 360
-0B01,1884:37b0|Canal-plus|Planete+ HD
-0B01,1884:37b1|Canal-plus|CANAL+ KUCHNIA
-0B01,1884:37b4|Canal-plus|Canal+ Seriale HD
-0B01,1884:37b5|Canal-plus|Canal+ Extra 2
-0B01,1884:37b7|Canal-plus|CANAL+ 360
-0B01,1884:37bd|Canal-plus|Ale Kino+ HD
-0B01,1884:37c1|Canal-plus|CANAL+ 360
-0B01,1884:3a9a|Canal-plus|Novelas+
-0B01,1884:3a9b|Canal-plus|Teletoon+ HD Polska
-0B01,1884:3a9d|Canal-plus|TVP Dokument HD
-0B01,1884:3a9e|Canal-plus|TVP Sport HD
-0B01,1884:3a9f|Canal-plus|Cinemax HD Eastern Europe
-0B01,1884:3aa0|Canal-plus|Canal+ Sport 3 HD Polska
-0B01,1884:3aa1|Canal-plus|Canal+ Sport 4 HD Polska
-0B01,1884:3aa5|Canal-plus|CANAL+ SPORT 5 HD
-0B01,1884:3ab7|Canal-plus|AMC Poland
-0B01,1884:3ab9|Canal-plus|Canal+ Sport 5 HD Poland
-0B01,1884:3abd|Canal-plus|TVP 1 HD
-0B01,1884:3abe|Canal-plus|Romance TV Polska
-0B01,1884:3abf|Canal-plus|KANAL TESTOWY
-0B01,1884:3acc|Canal-plus|Novelas+
-0B01,1884:3acd|Canal-plus|teleTOON+ HD
-0B01,1884:3ad2|Canal-plus|Canal+ Sport 3 HD Polska
-0B01,1884:3ad3|Canal-plus|Canal+ Sport 4 HD Polska
-0B01,1884:3ad6|Canal-plus|Novelas+
-0B01,1884:3ad7|Canal-plus|teleTOON+ HD
-0B01,1884:3adb|Canal-plus|TVP 1 HD
-0B01,1884:3adc|Canal-plus|Romance TV
-0B01,1884:3ae1|Canal-plus|CANAL+ SPORT 5 HD
-0B01,1884:3af0|Canal-plus|Canal+ Sport 3 HD Polska
-0B01,1884:3af1|Canal-plus|Canal+ Sport 4 HD Polska
-0B01,1884:3ad4|Canal-plus|Faktura
-0B01,1884:13ed|Canal-plus|Canal+ 1 HD Polska
-0B01,1884:13ee|Canal-plus|Canal+ Sport 2 HD
-0B01,1884:13ef|Canal-plus|Canal+ Domo HD
-0B01,1884:13f3|Canal-plus|Eleven Sports 1 HD
-0B01,1884:13f4|Canal-plus|HBO 2 HD Polska
-0B01,1884:13f5|Canal-plus|Eleven Sports 2 HD
-0B01,1884:13f6|Canal-plus|National Geographic Wild HD Polska
-0B01,1884:13f7|Canal-plus|TVP 2
-0B01,1884:13f8|Canal-plus|Eleven Sports 3 HD
-0B01,1884:13f9|Canal-plus|HBO 3 HD Central Europe
-0B01,1884:13fa|Canal-plus|Eleven Sports 4 HD
-0B01,1884:13fb|Canal-plus|StudioMed TV HD
-0B01,1884:13fc|Canal-plus|TeenNick Poland
-0B01,1884:141f|Canal-plus|CANAL+1 HD
-0B01,1884:1420|Canal-plus|CANAL+ SPORT 2 HD
-0B01,1884:1421|Canal-plus|CANAL+ DOMO HD
-0B01,1884:1434|Canal-plus|CANAL+ SPORT 2 HD
-0B01,1884:3dcd|Canal-plus|TVN HD
-0B01,1884:3dce|Canal-plus|TVN Style HD
-0B01,1884:3dcf|Canal-plus|TVN Style HD
-0B01,1884:3dd0|Canal-plus|TVN Turbo HD
-0B01,1884:3dd1|Canal-plus|TVN Turbo HD
-0B01,1884:3dd2|Canal-plus|TVN 24 HD
-0B01,1884:3dd3|Canal-plus|TVN 7 HD
-0B01,1884:3dd4|Canal-plus|Metro HD
-0B01,1884:3dd5|Canal-plus|Warner TV Poland HD
-0B01,1884:3dd6|Canal-plus|TVN Fabula
-0B01,1884:3dd7|Canal-plus|TTV HD
-0B01,1884:3dd8|Canal-plus|Travel Channel HD
-0B01,1884:3dd9|Canal-plus|The Food Network EMEA HD
-0B01,1884:3dec|Canal-plus|Food Network HD_
-0B01,1884:3ded|Canal-plus|TVN 24 HD_
-0B01,1884:0000|Canal-plus|Nazwa
-0B01,1884:053b|Canal-plus|Baby TV
-0B01,1884:4224|Canal-plus|Redlight HD
-0B01,1884:4267|Canal-plus|Vivid Red HD
-0B01,1884:012e|Canal-plus|France 2 HD
-0B01,1884:012f|Canal-plus|France 3 Sat
-0B01,1884:0131|Canal-plus|France 5
-0B01,1884:013a|Canal-plus|France 4
-0B01,1884:0001|Canal-plus|MTV Live HD
-0B01,1884:0002|Canal-plus|Nick Music Euro
-0B01,1884:0003|Canal-plus|Nick Jr Polska
-0B01,1884:0008|Canal-plus|MTV 00s
-0B01,1884:0009|Canal-plus|Nickelodeon Polska
-0B01,1884:000c|Canal-plus|Comedy Central Poland HD
-0B01,1884:000d|Canal-plus|Paramount Channel HD Poland
-0B01,1884:000e|Canal-plus|Nick Toons HD Poland
-0B01,1884:000f|Canal-plus|MTV Polska HD
-0B01,1884:0010|Canal-plus|Polsat Comedy Central Extra
-0B01,1884:0021|Canal-plus|Paramount Network Polska
-0B01,1884:0045|Canal-plus|Nicktoons HD
-0B01,1884:1c86|Canal-plus|AXN White Poland
-0B01,1884:1c87|Canal-plus|AXN Black Poland
-0B01,1884:1c8c|Canal-plus|Disco Polo Music
-0B01,1884:1c8f|Canal-plus|Polsat Rodzina
-0B01,1884:1cac|Canal-plus|Polsat Seriale HD
-0B01,1884:1cad|Canal-plus|Polsat Seriale HD
-0B01,1884:1cb5|Canal-plus|Disney XD Polska
-0B01,1884:1cb6|Canal-plus|Disney Channel HD Poland
-0B01,1884:1cb7|Canal-plus|Polsat Jim Jam
-0B01,1884:1cb9|Canal-plus|MTV 90s
-0B01,1884:1cbb|Canal-plus|Vivid Touch
-0B01,1884:1cbe|Canal-plus|Polsat News Polityka
-0B01,1884:1cbf|Canal-plus|Polsat News Polityka
-0B01,1884:1cca|Canal-plus|Polsat Viasat Explore HD
-0B01,1884:1c98|Canal-plus|RMF FM
-0B01,1884:1ca2|Canal-plus|RMF FM
-0B01,1884:0000|Canal-plus|Nazwa
-0B01,1884:0c1f|Canal-plus|Fx Comedy HD
-0B01,1884:0c20|Canal-plus|Polsat Viasat History HD
-0B01,1884:0c22|Canal-plus|TVP 2 HD
-0B01,1884:0c23|Canal-plus|Polsat Doku HD
-0B01,1884:0c25|Canal-plus|AXN HD
-0B01,1884:0c26|Canal-plus|Cinemax 2 HD
-0B01,1884:0c27|Canal-plus|FX HD
-0B01,1884:0c29|Canal-plus|Cinemax 2 HD
-0B01,1884:0c2a|Canal-plus|AXN HD Polska
-0B01,1884:0c2b|Canal-plus|Fx Comedy HD Polska
-0B01,1884:0c2c|Canal-plus|TVP 2 HD
-0B01,1884:0c2d|Canal-plus|FX HD Polska
-0B01,1884:0c2f|Canal-plus|History Channel HD Polska
-0B01,1884:0c30|Canal-plus|CI Polsat HD
-0B01,1884:0c31|Canal-plus|CI Polsat HD
-0B01,1884:0c32|Canal-plus|History HD
-0B01,1884:2907|Canal-plus|Nat Geo People HD Poland
-0B01,1884:2908|Canal-plus|Viasat Nature CEE
-0B01,1884:2909|Canal-plus|Eska Rock HD
-0B01,1884:290a|Canal-plus|Extreme Sports HD
-0B01,1884:290b|Canal-plus|Film Café
-0B01,1884:290c|Canal-plus|Wydarzenia 24
-0B01,1884:290d|Canal-plus|Eska TV Extra HD
-0B01,1884:290e|Canal-plus|HBO HD Polska
-0B01,1884:290f|Canal-plus|HBO HD Polska
-0B01,1884:2910|Canal-plus|Vox Music TV HD
-0B01,1884:2938|Canal-plus|Disney Junior Middle-East &amp; Africa
-0B01,1884:07d6|Canal-plus|BBC Brit
-0B01,1884:07d9|Canal-plus|BBC CBeebies Poland
-0B01,1884:07db|Canal-plus|BBC Lifestyle HD Poland
-0B01,1884:07e0|Canal-plus|BBC Brit
-0B01,1884:07e3|Canal-plus|BBC CBeebies
-0B01,1884:07e5|Canal-plus|BBC Lifestyle HD
-0B01,1884:07e6|Canal-plus|BBC Brit
+## CREATE: 2025.08.07 11:25:59
+0100,1813,0B01,1884:0001|Canal-plus|MTV Live
+0100,1813,0B01,1884:0002|Canal-plus|NickMusic
+0100,1813,0B01,1884:0003|Canal-plus|Nick Jr Central & Eastern Europe
+0100,1813,0B01,1884:0008|Canal-plus|MTV 00s
+0100,1813,0B01,1884:0009|Canal-plus|Nickelodeon Polska
+0100,1813,0B01,1884:000C|Canal-plus|Comedy Central Polska
+0100,1813,0B01,1884:000D|Canal-plus|Paramount Network Polska
+0100,1813,0B01,1884:000E|Canal-plus|Nicktoons Polska
+0100,1813,0B01,1884:000F|Canal-plus|MTV Polska
+0100,1813,0B01,1884:0010|Canal-plus|Comedy Central Extra Polsat
+0100,1813,0B01,1884:0021|Canal-plus|Paramount Network Polska
+0100,1813,0B01,1884:0045|Canal-plus|Nicktoons Polska
+0100,1813,0B01,1884:0321|Canal-plus|EuroNews English
+0100,1813,0B01,1884:0327|Canal-plus|France 24 Français
+0100,1813,0B01,1884:0328|Canal-plus|France 24 English
+0100,1813,0B01,1884:0368|Canal-plus|CGTN
+0100,1813,0B01,1884:053B|Canal-plus|Baby TV Europe
+0100,1813,0B01,1884:07D6|Canal-plus|BBC Brit Polska
+0100,1813,0B01,1884:07D9|Canal-plus|CBeebies Polska
+0100,1813,0B01,1884:07DB|Canal-plus|BBC Lifestyle Polska
+0100,1813,0B01,1884:0C1F|Canal-plus|FX Comedy Polska
+0100,1813,0B01,1884:0C20|Canal-plus|Viasat History Polsat
+0100,1813,0B01,1884:0C22|Canal-plus|TVP 2
+0100,1813,0B01,1884:0C25|Canal-plus|AXN Polska
+0100,1813,0B01,1884:0C26|Canal-plus|Cinemax 2 Central Europe
+0100,1813,0B01,1884:0C27|Canal-plus|FX Polska
+0100,1813,0B01,1884:0C2F|Canal-plus|History Polska
+0100,1813,0B01,1884:0C30|Canal-plus|Crime + Investigation Polsat
+0100,1813,0B01,1884:0E83|Canal-plus|TVP Polonia
+0100,1813,0B01,1884:10DE|Canal-plus|TLC Polska
+0100,1813,0B01,1884:10DF|Canal-plus|Discovery Historia
+0100,1813,0B01,1884:10E0|Canal-plus|Discovery Life Polska
+0100,1813,0B01,1884:10E4|Canal-plus|Cartoonito Polska
+0100,1813,0B01,1884:10E5|Canal-plus|Cartoon Network Polska
+0100,1813,0B01,1884:10EA|Canal-plus|TVN 24 BiS
+0100,1813,0B01,1884:10EB|Canal-plus|HGTV Polska
+0100,1813,0B01,1884:1133|Canal-plus|BBC First Polska
+0100,1813,0B01,1884:1134|Canal-plus|BBC Earth Polska
+0100,1813,0B01,1884:1135|Canal-plus|TVS (Poland)
+0100,1813,0B01,1884:1138|Canal-plus|TVP HD
+0100,1813,0B01,1884:1139|Canal-plus|TVP Info
+0100,1813,0B01,1884:113A|Canal-plus|Sport Klub Polska
+0100,1813,0B01,1884:113B|Canal-plus|Fight Klub
+0100,1813,0B01,1884:113C|Canal-plus|Viasat True Crime
+0100,1813,0B01,1884:113F|Canal-plus|Hustler HD Europe
+0100,1813,0B01,1884:1140|Canal-plus|Blue Hustler Europe
+0100,1813,0B01,1884:1141|Canal-plus|Private TV
+0100,1813,0B01,1884:1147|Canal-plus|Hustler HD Europe
+0100,1813,0B01,1884:1148|Canal-plus|Hustler HD Europe
+0100,1813,0B01,1884:1149|Canal-plus|Private TV
+0100,1813,0B01,1884:114A|Canal-plus|Blue Hustler Europe
+0100,1813,0B01,1884:114B|Canal-plus|Private TV
+0100,1813,0B01,1884:114C|Canal-plus|Adventure HD
+0100,1813,0B01,1884:114D|Canal-plus|Antena HD
+0100,1813,0B01,1884:114E|Canal-plus|Home TV (Poland)
+0100,1813,0B01,1884:114F|Canal-plus|Nuta Gold
+0100,1813,0B01,1884:1150|Canal-plus|Nuta TV
+0100,1813,0B01,1884:1151|Canal-plus|Power TV (Poland)
+0100,1813,0B01,1884:1152|Canal-plus|Szlagier TV
+0100,1813,0B01,1884:1153|Canal-plus|TVC
+0100,1813,0B01,1884:1154|Canal-plus|Blue Hustler Europe
+0100,1813,0B01,1884:1155|Canal-plus|TVC Super
+0100,1813,0B01,1884:1165|Canal-plus|BBC First Polska
+0100,1813,0B01,1884:1166|Canal-plus|BBC Earth Polska
+0100,1813,0B01,1884:11FC|Canal-plus|Museum TV International
+0100,1813,0B01,1884:1201|Canal-plus|Baby TV Europe
+0100,1813,0B01,1884:1325|Canal-plus|KBS World
+0100,1813,0B01,1884:13ED|Canal-plus|Canal + »1
+0100,1813,0B01,1884:13EE|Canal-plus|Canal + Sport 2 Polska
+0100,1813,0B01,1884:13EF|Canal-plus|Canal + Domo Polska
+0100,1813,0B01,1884:13F3|Canal-plus|Eleven Sports 1 Polska
+0100,1813,0B01,1884:13F4|Canal-plus|HBO 2 Polska
+0100,1813,0B01,1884:13F5|Canal-plus|Eleven Sports 2 Polska
+0100,1813,0B01,1884:13F6|Canal-plus|National Geographic Wild Polska
+0100,1813,0B01,1884:13F7|Canal-plus|TVP 3 Warszawa
+0100,1813,0B01,1884:13F8|Canal-plus|Eleven Sports 3 Polska
+0100,1813,0B01,1884:13F9|Canal-plus|HBO 3 Polska
+0100,1813,0B01,1884:13FA|Canal-plus|Eleven Sports 4 Polska
+0100,1813,0B01,1884:13FB|Canal-plus|StudioMed TV
+0100,1813,0B01,1884:13FC|Canal-plus|TeenNick Polska
+0100,1813,0B01,1884:1421|Canal-plus|Canal + Domo Polska
+0100,1813,0B01,1884:1425|Canal-plus|Eleven Sports 1 Polska
+0100,1813,0B01,1884:1426|Canal-plus|HBO 2 Polska
+0100,1813,0B01,1884:1427|Canal-plus|Eleven Sports 2 Polska
+0100,1813,0B01,1884:1428|Canal-plus|National Geographic Wild Polska
+0100,1813,0B01,1884:142B|Canal-plus|HBO 3 Polska
+0100,1813,0B01,1884:143E|Canal-plus|Eleven Sports 3 Polska
+0100,1813,0B01,1884:1C86|Canal-plus|Bloomberg TV Europe
+0100,1813,0B01,1884:1C86|Canal-plus|AXN White Polska
+0100,1813,0B01,1884:1C87|Canal-plus|AXN Black Polska
+0100,1813,0B01,1884:1C8A|Canal-plus|Aljazeera English
+0100,1813,0B01,1884:1C8C|Canal-plus|Disco Polo Music
+0100,1813,0B01,1884:1C8E|Canal-plus|Disco Polo Music
+0100,1813,0B01,1884:1C96|Canal-plus|AXN Polska
+0100,1813,0B01,1884:1CAC|Canal-plus|Polsat Seriale
+0100,1813,0B01,1884:1CAD|Canal-plus|Polsat Seriale
+0100,1813,0B01,1884:1CB5|Canal-plus|Disney XD Polska
+0100,1813,0B01,1884:1CB6|Canal-plus|Disney Channel Polska
+0100,1813,0B01,1884:1CB7|Canal-plus|JimJam Polsat
+0100,1813,0B01,1884:1CB9|Canal-plus|MTV 90s
+0100,1813,0B01,1884:1CC5|Canal-plus|Disney Channel Polska
+0100,1813,0B01,1884:1CCA|Canal-plus|Viasat Explore Polsat
+0100,1813,0B01,1884:2146|Canal-plus|Rai Storia
+0100,1813,0B01,1884:2149|Canal-plus|Rai Scuola
+0100,1813,0B01,1884:2907|Canal-plus|Nat Geo People Polska
+0100,1813,0B01,1884:2908|Canal-plus|Viasat Nature Polsat
+0100,1813,0B01,1884:290A|Canal-plus|Extreme Sports Channel Polska
+0100,1813,0B01,1884:290B|Canal-plus|Film Café Polska
+0100,1813,0B01,1884:290C|Canal-plus|Wydarzenia 24
+0100,1813,0B01,1884:290D|Canal-plus|Eska TV Extra
+0100,1813,0B01,1884:290E|Canal-plus|HBO Polska
+0100,1813,0B01,1884:2938|Canal-plus|Disney Jr Türkiye & Polska
+0100,1813,0B01,1884:32CC|Canal-plus|AXN Spin Polska
+0100,1813,0B01,1884:32CD|Canal-plus|Canal + Now
+0100,1813,0B01,1884:32D8|Canal-plus|Active Family
+0100,1813,0B01,1884:32DB|Canal-plus|Canal + 4K Ultra HD
+0100,1813,0B01,1884:32DC|Canal-plus|Canal + Premium
+0100,1813,0B01,1884:32DE|Canal-plus|Canal + Sport Polska
+0100,1813,0B01,1884:32DF|Canal-plus|National Geographic Polska
+0100,1813,0B01,1884:32E0|Canal-plus|MiniMini +
+0100,1813,0B01,1884:32E1|Canal-plus|Canal + Extra 1
+0100,1813,0B01,1884:32E3|Canal-plus|Canal + Extra 3
+0100,1813,0B01,1884:32E4|Canal-plus|Canal + Extra 4
+0100,1813,0B01,1884:32FE|Canal-plus|MiniMini +
+0100,1813,0B01,1884:331C|Canal-plus|AXN Spin Polska
+0100,1813,0B01,1884:3330|Canal-plus|BBC News Europe
+0100,1813,0B01,1884:3333|Canal-plus|Polsat News 2
+0100,1813,0B01,1884:3391|Canal-plus|Polsat
+0100,1813,0B01,1884:3392|Canal-plus|Polsat Play
+0100,1813,0B01,1884:3393|Canal-plus|TV 4 (Poland)
+0100,1813,0B01,1884:3394|Canal-plus|TV 6 (Poland)
+0100,1813,0B01,1884:3396|Canal-plus|Polsat Café
+0100,1813,0B01,1884:3398|Canal-plus|Polsat Film
+0100,1813,0B01,1884:3399|Canal-plus|Polsat News
+0100,1813,0B01,1884:339A|Canal-plus|Polsat 2
+0100,1813,0B01,1884:339B|Canal-plus|Super Polsat
+0100,1813,0B01,1884:3779|Canal-plus|Canal + Film
+0100,1813,0B01,1884:377A|Canal-plus|Canal + Dokument
+0100,1813,0B01,1884:377B|Canal-plus|Canal + 360
+0100,1813,0B01,1884:377E|Canal-plus|Planete + Polska
+0100,1813,0B01,1884:377F|Canal-plus|Canal + Kuchnia
+0100,1813,0B01,1884:3781|Canal-plus|Ale Kino +
+0100,1813,0B01,1884:3782|Canal-plus|Canal + Seriale
+0100,1813,0B01,1884:379F|Canal-plus|Ale Kino +
+0100,1813,0B01,1884:37B0|Canal-plus|Planete + Polska
+0100,1813,0B01,1884:37B1|Canal-plus|Canal + Kuchnia
+0100,1813,0B01,1884:3A9A|Canal-plus|Novelas +
+0100,1813,0B01,1884:3A9B|Canal-plus|Teletoon + HD Polska
+0100,1813,0B01,1884:3A9D|Canal-plus|TVP Dokument
+0100,1813,0B01,1884:3A9E|Canal-plus|TVP Sport
+0100,1813,0B01,1884:3A9F|Canal-plus|Cinemax Central Europe
+0100,1813,0B01,1884:3AA0|Canal-plus|Canal + Sport 3 Polska
+0100,1813,0B01,1884:3AA1|Canal-plus|Canal + Sport 4 Polska
+0100,1813,0B01,1884:3AA5|Canal-plus|Canal + Sport 5 Polska
+0100,1813,0B01,1884:3AB7|Canal-plus|AMC Polska
+0100,1813,0B01,1884:3AB9|Canal-plus|Canal + Sport 5 Polska
+0100,1813,0B01,1884:3ABD|Canal-plus|TVP 1
+0100,1813,0B01,1884:3ABE|Canal-plus|Romance TV Polska
+0100,1813,0B01,1884:3ABF|Canal-plus|[test card]
+0100,1813,0B01,1884:3ACC|Canal-plus|Novelas +
+0100,1813,0B01,1884:3ACD|Canal-plus|Teletoon + HD Polska
+0100,1813,0B01,1884:3AD1|Canal-plus|Cinemax Central Europe
+0100,1813,0B01,1884:3AD2|Canal-plus|Canal + Sport 3 Polska
+0100,1813,0B01,1884:3AD3|Canal-plus|Canal + Sport 4 Polska
+0100,1813,0B01,1884:3ADB|Canal-plus|TVP 1
+0100,1813,0B01,1884:3AE1|Canal-plus|Canal + Sport 5 Polska
+0100,1813,0B01,1884:3AE9|Canal-plus|AMC Polska
+0100,1813,0B01,1884:3B66|Canal-plus|Animal Planet Polska
+0100,1813,0B01,1884:3B67|Canal-plus|Eurosport 1 Polska
+0100,1813,0B01,1884:3B68|Canal-plus|Eurosport 2 Polska
+0100,1813,0B01,1884:3B6A|Canal-plus|Discovery Science Polska
+0100,1813,0B01,1884:3D56|Canal-plus|Motowizja
+0100,1813,0B01,1884:3D59|Canal-plus|TVP Kultura
+0100,1813,0B01,1884:3D5A|Canal-plus|WP TV
+0100,1813,0B01,1884:3D5B|Canal-plus|CBS Reality Polska
+0100,1813,0B01,1884:3D5C|Canal-plus|TVP Seriale
+0100,1813,0B01,1884:3D5D|Canal-plus|FilmBox Premium Polska
+0100,1813,0B01,1884:3D5E|Canal-plus|Puls 2
+0100,1813,0B01,1884:3D5F|Canal-plus|TVP ABC
+0100,1813,0B01,1884:3D60|Canal-plus|Kino Polska Muzyka
+0100,1813,0B01,1884:3D61|Canal-plus|Kino TV
+0100,1813,0B01,1884:3D62|Canal-plus|FilmBox Family
+0100,1813,0B01,1884:3D64|Canal-plus|Kino Polska
+0100,1813,0B01,1884:3D65|Canal-plus|FilmBox Action
+0100,1813,0B01,1884:3D66|Canal-plus|TV Puls (Poland)
+0100,1813,0B01,1884:3D67|Canal-plus|TVP Historia
+0100,1813,0B01,1884:3D68|Canal-plus|FilmBox Extra HD Polska
+0100,1813,0B01,1884:3D8D|Canal-plus|CBS Reality Polska
+0100,1813,0B01,1884:3D8E|Canal-plus|TVP Seriale
+0100,1813,0B01,1884:3D8F|Canal-plus|FilmBox Premium Polska
+0100,1813,0B01,1884:3D93|Canal-plus|Kino TV
+0100,1813,0B01,1884:3D94|Canal-plus|FilmBox Family
+0100,1813,0B01,1884:3D96|Canal-plus|Kino Polska
+0100,1813,0B01,1884:3D97|Canal-plus|FilmBox Action
+0100,1813,0B01,1884:3D99|Canal-plus|TVP Historia
+0100,1813,0B01,1884:3D9A|Canal-plus|FilmBox Extra HD Polska
+0100,1813,0B01,1884:3DCD|Canal-plus|TVN (Poland)
+0100,1813,0B01,1884:3DCE|Canal-plus|TVN Style
+0100,1813,0B01,1884:3DCF|Canal-plus|TVN Style
+0100,1813,0B01,1884:3DD0|Canal-plus|TVN Turbo
+0100,1813,0B01,1884:3DD1|Canal-plus|TVN Turbo
+0100,1813,0B01,1884:3DD2|Canal-plus|TVN 24
+0100,1813,0B01,1884:3DD3|Canal-plus|TVN 7
+0100,1813,0B01,1884:3DD4|Canal-plus|Metro TV (Poland)
+0100,1813,0B01,1884:3DD5|Canal-plus|Warner TV Polska
+0100,1813,0B01,1884:3DD6|Canal-plus|TVN Fabula
+0100,1813,0B01,1884:3DD7|Canal-plus|TTV
+0100,1813,0B01,1884:3DD8|Canal-plus|Travel Channel Polska
+0100,1813,0B01,1884:3DD9|Canal-plus|Food Network Polska
+0100,1813,0B01,1884:3DEB|Canal-plus|TVN 7
+0100,1813,0B01,1884:3DEC|Canal-plus|Food Network Polska
+0100,1813,0B01,1884:3DED|Canal-plus|TVN 24
+0100,1813,0B01,1884:3E1D|Canal-plus|Sundance TV Europe
+0100,1813,0B01,1884:3E1E|Canal-plus|E! Polska
+0100,1813,0B01,1884:3E20|Canal-plus|Scifi Polska
+0100,1813,0B01,1884:3E22|Canal-plus|History 2 Polska
+0100,1813,0B01,1884:3E24|Canal-plus|FightBox HD
+0100,1813,0B01,1884:3E26|Canal-plus|13 Ulica
+0100,1813,0B01,1884:4206|Canal-plus|Dorcel TV
+0100,1813,0B01,1884:421C|Canal-plus|Freedom
+0100,1813,0B01,1884:4224|Canal-plus|Redlight HD
+0100,1813,0B01,1884:422B|Canal-plus|Mezzo
+0100,1813,0B01,1884:423B|Canal-plus|Tele 5 (Poland)
+0100,1813,0B01,1884:423C|Canal-plus|Polonia 1
+0100,1813,0B01,1884:427B|Canal-plus|Stopklatka TV
+0100,1813,0B01,1884:427C|Canal-plus|Stopklatka TV
+0100,1813,0B01,1884:427F|Canal-plus|Stars TV
+0100,1813,0B01,1884:4280|Canal-plus|Da Vinci Polska
+0100,1813,0B01,1884:4288|Canal-plus|TVP Rozrywka
+0100,1813,0B01,1884:4289|Canal-plus|TV Republika
+0100,1813,0B01,1884:428A|Canal-plus|FilmBox Arthouse Worldwide
+0100,1813,0B01,1884:428D|Canal-plus|4 Fun TV
+0100,1813,0B01,1884:428E|Canal-plus|4 Fun Kids
+0100,1813,0B01,1884:428F|Canal-plus|4 Fun Dance
+0100,1813,0B01,1884:4290|Canal-plus|Epic Drama
+0100,1813,0B01,1884:4293|Canal-plus|Polsat Music
+0100,1813,0B01,1884:429A|Canal-plus|Polo TV
+0100,1813,0B01,1884:429C|Canal-plus|Eska TV
+0100,1813,0B01,1884:429D|Canal-plus|Fokus TV
+0100,1813,0B01,1884:429E|Canal-plus|Nowa TV
+0100,1813,0B01,1884:42C2|Canal-plus|Polo TV
+0100,1813,0B01,1884:42C5|Canal-plus|Fokus TV
 
 ## PROVIDER: Polsat-Box
 ## CAID: 1803,1861,186C,06ED,1870
 ## PROVID: 000000,007001,007101
-## CREATE: 2025.07.31 11:26:03
-1803,1861,186C,06ED,1870:1133|Polsat-Box|BBC First HD
-1803,1861,186C,06ED,1870:1134|Polsat-Box|BBC Earth HD
-1803,1861,186C,06ED,1870:1138|Polsat-Box|TVP HD
-1803,1861,186C,06ED,1870:113f|Polsat-Box|Hustler HD
-1803,1861,186C,06ED,1870:1140|Polsat-Box|Blue Hustler
-1803,1861,186C,06ED,1870:1141|Polsat-Box|Private TV HD
-1803,1861,186C,06ED,1870:1165|Polsat-Box|BBC FIRST
-1803,1861,186C,06ED,1870:1166|Polsat-Box|BBC Earth HD
-1803,1861,186C,06ED,1870:1183|Polsat-Box|BBC FIRST
-1803,1861,186C,06ED,1870:1184|Polsat-Box|BBC Earth HD
-1803,1861,186C,06ED,1870:11fb|Polsat-Box|TravelXP 4K
-1803,1861,186C,06ED,1870:11fc|Polsat-Box|Museum 4K
-1803,1861,186C,06ED,1870:11fd|Polsat-Box|MyZen 4K
-1803,1861,186C,06ED,1870:4279|Polsat-Box|wPolsce.pl
-1803,1861,186C,06ED,1870:427b|Polsat-Box|Stopklatka TV
-1803,1861,186C,06ED,1870:427c|Polsat-Box|Stopklatka
-1803,1861,186C,06ED,1870:4280|Polsat-Box|Da Vinci Learning
-1803,1861,186C,06ED,1870:4284|Polsat-Box|Polsat Games HD
-1803,1861,186C,06ED,1870:4285|Polsat-Box|Polsat Games
-1803,1861,186C,06ED,1870:4288|Polsat-Box|TVP Rozrywka
-1803,1861,186C,06ED,1870:4289|Polsat-Box|TV Republika
-1803,1861,186C,06ED,1870:428a|Polsat-Box|Filmbox Arthouse
-1803,1861,186C,06ED,1870:4290|Polsat-Box|Epic Drama HD
-1803,1861,186C,06ED,1870:4291|Polsat-Box|Zoom TV (Poland)
-1803,1861,186C,06ED,1870:4293|Polsat-Box|Polsat Music HD
-1803,1861,186C,06ED,1870:4294|Polsat-Box|Polsat Music HD
-1803,1861,186C,06ED,1870:429a|Polsat-Box|Polo TV
-1803,1861,186C,06ED,1870:429c|Polsat-Box|Eska TV
-1803,1861,186C,06ED,1870:429d|Polsat-Box|Fokus TV
-1803,1861,186C,06ED,1870:429e|Polsat-Box|Nowa TV
-1803,1861,186C,06ED,1870:42c2|Polsat-Box|Polo TV
-1803,1861,186C,06ED,1870:42c5|Polsat-Box|Fokus TV HD
-1803,1861,186C,06ED,1870:3d56|Polsat-Box|Motowizja TV HD
-1803,1861,186C,06ED,1870:3d59|Polsat-Box|TVP Kultura
-1803,1861,186C,06ED,1870:3d5a|Polsat-Box|WP
-1803,1861,186C,06ED,1870:3d5b|Polsat-Box|CBS Reality
-1803,1861,186C,06ED,1870:3d5c|Polsat-Box|TVP Seriale
-1803,1861,186C,06ED,1870:3d5d|Polsat-Box|Filmbox Premium HD Poland
-1803,1861,186C,06ED,1870:3d5e|Polsat-Box|Puls 2 HD
-1803,1861,186C,06ED,1870:3d5f|Polsat-Box|TVP ABC
-1803,1861,186C,06ED,1870:3d60|Polsat-Box|Kino Polska Muzyka
-1803,1861,186C,06ED,1870:3d61|Polsat-Box|Kino TV HD
-1803,1861,186C,06ED,1870:3d62|Polsat-Box|Filmbox Family
-1803,1861,186C,06ED,1870:3d64|Polsat-Box|Kino Polska HD
-1803,1861,186C,06ED,1870:3d65|Polsat-Box|Filmbox Action
-1803,1861,186C,06ED,1870:3d66|Polsat-Box|TV Puls HD
-1803,1861,186C,06ED,1870:3d67|Polsat-Box|TVP Historia
-1803,1861,186C,06ED,1870:3d68|Polsat-Box|Filmbox Extra HD Poland
-1803,1861,186C,06ED,1870:3d8d|Polsat-Box|CBS Reality HD
-1803,1861,186C,06ED,1870:3d8e|Polsat-Box|TVP SERIALE
-1803,1861,186C,06ED,1870:3d8f|Polsat-Box|Filmbox Premium HD
-1803,1861,186C,06ED,1870:3d93|Polsat-Box|Kino TV HD
-1803,1861,186C,06ED,1870:3d94|Polsat-Box|FilmBox Family
-1803,1861,186C,06ED,1870:3d97|Polsat-Box|FilmBox Action
-1803,1861,186C,06ED,1870:3d99|Polsat-Box|TVP Historia
-1803,1861,186C,06ED,1870:3d9a|Polsat-Box|FilmBox Extra HD
-1803,1861,186C,06ED,1870:3da4|Polsat-Box|FilmBox Extra HD
-1803,1861,186C,06ED,1870:3da8|Polsat-Box|Filmbox Family
-1803,1861,186C,06ED,1870:3dab|Polsat-Box|FilmBox Action
-1803,1861,186C,06ED,1870:3dad|Polsat-Box|Filmbox Premium HD
-1803,1861,186C,06ED,1870:0000|Polsat-Box|Nazwa
-1803,1861,186C,06ED,1870:3e1d|Polsat-Box|Sundance Channel HD
-1803,1861,186C,06ED,1870:3e1e|Polsat-Box|E! Polska
-1803,1861,186C,06ED,1870:3e1f|Polsat-Box|Polsat Film 2 HD
-1803,1861,186C,06ED,1870:3e20|Polsat-Box|SciFi HD Poland
-1803,1861,186C,06ED,1870:3e21|Polsat-Box|Polsat Reality HD
-1803,1861,186C,06ED,1870:3e22|Polsat-Box|H2 HD
-1803,1861,186C,06ED,1870:3e23|Polsat-Box|Golf Zone
-1803,1861,186C,06ED,1870:3e24|Polsat-Box|FightBOX HD
-1803,1861,186C,06ED,1870:3e26|Polsat-Box|13 Ulica HD
-1803,1861,186C,06ED,1870:3e27|Polsat-Box|SkyShowtime 1 HD
-1803,1861,186C,06ED,1870:3e28|Polsat-Box|SkyShowtime 2 HD
-1803,1861,186C,06ED,1870:3e2b|Polsat-Box|Polsat Sport Premium PPV3
-1803,1861,186C,06ED,1870:3e2c|Polsat-Box|Polsat Sport Premium PPV4
-1803,1861,186C,06ED,1870:3e30|Polsat-Box|Polsat-Box PPV
-1803,1861,186C,06ED,1870:3e3e|Polsat-Box|SciFi HD
-1803,1861,186C,06ED,1870:3e44|Polsat-Box|13 Ulica HD
-1803,1861,186C,06ED,1870:4206|Polsat-Box|Dorcel TV HD
-1803,1861,186C,06ED,1870:422c|Polsat-Box|Brazzers TV
-1803,1861,186C,06ED,1870:0709|Polsat-Box|Polsat Sport Premium 1
-1803,1861,186C,06ED,1870:070a|Polsat-Box|Polsat Sport Premium 2
-1803,1861,186C,06ED,1870:070f|Polsat-Box|Eleven Sports 1 4K
-1803,1861,186C,06ED,1870:0711|Polsat-Box|Karuhaq Ak
-1803,1861,186C,06ED,1870:3333|Polsat-Box|Polsat News 2
-1803,1861,186C,06ED,1870:3343|Polsat-Box|Polsat News 2 HD
-1803,1861,186C,06ED,1870:3353|Polsat-Box|Polsat News 2 HD
-1803,1861,186C,06ED,1870:3363|Polsat-Box|Polsat News 2 HD
-1803,1861,186C,06ED,1870:3391|Polsat-Box|Polsat HD
-1803,1861,186C,06ED,1870:3392|Polsat-Box|Polsat Play HD
-1803,1861,186C,06ED,1870:3393|Polsat-Box|TV 4 HD Poland
-1803,1861,186C,06ED,1870:3394|Polsat-Box|TV6 Polska
-1803,1861,186C,06ED,1870:3396|Polsat-Box|Polsat Cafe HD
-1803,1861,186C,06ED,1870:3398|Polsat-Box|Polsat Film HD
-1803,1861,186C,06ED,1870:3399|Polsat-Box|Polsat News HD
-1803,1861,186C,06ED,1870:339a|Polsat-Box|Polsat 2 HD
-1803,1861,186C,06ED,1870:339b|Polsat-Box|Superpolsat
-1803,1861,186C,06ED,1870:33a1|Polsat-Box|Polsat HD
-1803,1861,186C,06ED,1870:33a2|Polsat-Box|Polsat Play HD
-1803,1861,186C,06ED,1870:33a3|Polsat-Box|TV4 HD
-1803,1861,186C,06ED,1870:33a6|Polsat-Box|Polsat Cafe HD
-1803,1861,186C,06ED,1870:33a8|Polsat-Box|Polsat Film HD
-1803,1861,186C,06ED,1870:33a9|Polsat-Box|Polsat News HD
-1803,1861,186C,06ED,1870:33aa|Polsat-Box|Polsat 2 HD
-1803,1861,186C,06ED,1870:33ab|Polsat-Box|Super Polsat HD
-1803,1861,186C,06ED,1870:33b1|Polsat-Box|Polsat HD
-1803,1861,186C,06ED,1870:33b2|Polsat-Box|Polsat Play HD
-1803,1861,186C,06ED,1870:33b6|Polsat-Box|Polsat Cafe HD
-1803,1861,186C,06ED,1870:33b8|Polsat-Box|Polsat Film HD
-1803,1861,186C,06ED,1870:33b9|Polsat-Box|Polsat News HD
-1803,1861,186C,06ED,1870:33ba|Polsat-Box|Polsat 2 HD
-1803,1861,186C,06ED,1870:33c2|Polsat-Box|Polsat Play HD
-1803,1861,186C,06ED,1870:33c6|Polsat-Box|Polsat Cafe HD
-1803,1861,186C,06ED,1870:33c8|Polsat-Box|Polsat Film HD
-1803,1861,186C,06ED,1870:33c9|Polsat-Box|Polsat News HD
-1803,1861,186C,06ED,1870:33d2|Polsat-Box|Polsat Play HD
-1803,1861,186C,06ED,1870:33d6|Polsat-Box|Polsat Cafe HD
-1803,1861,186C,06ED,1870:33d9|Polsat-Box|Polsat News HD
-1803,1861,186C,06ED,1870:33e9|Polsat-Box|Polsat News HD
-1803,1861,186C,06ED,1870:33f9|Polsat-Box|Polsat News HD
-1803,1861,186C,06ED,1870:3b66|Polsat-Box|Animal Planet Poland HD
-1803,1861,186C,06ED,1870:3b67|Polsat-Box|Eurosport 1 Poland HD
-1803,1861,186C,06ED,1870:3b68|Polsat-Box|Eurosport 2 Poland HD
-1803,1861,186C,06ED,1870:3b69|Polsat-Box|Investigation Discovery Poland HD
-1803,1861,186C,06ED,1870:3b6a|Polsat-Box|Discovery Science Poland HD
-1803,1861,186C,06ED,1870:3b6b|Polsat-Box|Discovery Turbo Xtra Poland HD
-1803,1861,186C,06ED,1870:3b6d|Polsat-Box|CNN International HD
-1803,1861,186C,06ED,1870:0000|Polsat-Box|Nazwa
-1803,1861,186C,06ED,1870:32cc|Polsat-Box|AXN Spin HD
-1803,1861,186C,06ED,1870:32df|Polsat-Box|National Geographic HD Polska
-1803,1861,186C,06ED,1870:32e0|Polsat-Box|MiniMini+ HD
-1803,1861,186C,06ED,1870:3308|Polsat-Box|MiniMini+ HD
-1803,1861,186C,06ED,1870:331c|Polsat-Box|AXN SPIN HD
-1803,1861,186C,06ED,1870:08b5|Polsat-Box|Love Nature 4K
-1803,1861,186C,06ED,1870:10dd|Polsat-Box|Discovery Poland HD
-1803,1861,186C,06ED,1870:10de|Polsat-Box|TLC Poland HD
-1803,1861,186C,06ED,1870:10df|Polsat-Box|Historia Poland
-1803,1861,186C,06ED,1870:10e0|Polsat-Box|Discovery Life HD Poland
-1803,1861,186C,06ED,1870:10e4|Polsat-Box|Cartoonito Poland HD
-1803,1861,186C,06ED,1870:10e5|Polsat-Box|Cartoon Network Poland HD
-1803,1861,186C,06ED,1870:10ea|Polsat-Box|TVN 24 Bizness HD
-1803,1861,186C,06ED,1870:10eb|Polsat-Box|HGTV HD
-1803,1861,186C,06ED,1870:377e|Polsat-Box|Planete+ HD Polska
-1803,1861,186C,06ED,1870:377f|Polsat-Box|Canal+ Kuchnia HD
-1803,1861,186C,06ED,1870:3781|Polsat-Box|Ale kino+ HD
-1803,1861,186C,06ED,1870:37bd|Polsat-Box|Ale Kino+ HD
-1803,1861,186C,06ED,1870:3a9a|Polsat-Box|Novelas+
-1803,1861,186C,06ED,1870:3a9b|Polsat-Box|Teletoon+ HD Polska
-1803,1861,186C,06ED,1870:3a9e|Polsat-Box|TVP Sport HD
-1803,1861,186C,06ED,1870:3a9f|Polsat-Box|Cinemax HD Eastern Europe
-1803,1861,186C,06ED,1870:3ab7|Polsat-Box|AMC Poland
-1803,1861,186C,06ED,1870:3abd|Polsat-Box|TVP 1 HD
-1803,1861,186C,06ED,1870:3abe|Polsat-Box|Romance TV Polska
-1803,1861,186C,06ED,1870:3ad1|Polsat-Box|Cinemax HD Eastern Europe
-1803,1861,186C,06ED,1870:3adb|Polsat-Box|TVP 1 HD
-1803,1861,186C,06ED,1870:3adc|Polsat-Box|Romance TV
-1803,1861,186C,06ED,1870:3ae9|Polsat-Box|AMC
-1803,1861,186C,06ED,1870:3aef|Polsat-Box|Cinemax HD Eastern Europe
-1803,1861,186C,06ED,1870:0000|Polsat-Box|Nazwa
-1803,1861,186C,06ED,1870:13ef|Polsat-Box|Canal+ Domo HD
-1803,1861,186C,06ED,1870:13f3|Polsat-Box|Eleven Sports 1 HD
-1803,1861,186C,06ED,1870:13f4|Polsat-Box|HBO 2 HD Polska
-1803,1861,186C,06ED,1870:13f5|Polsat-Box|Eleven Sports 2 HD
-1803,1861,186C,06ED,1870:13f6|Polsat-Box|National Geographic Wild HD Polska
-1803,1861,186C,06ED,1870:13f7|Polsat-Box|TVP 2
-1803,1861,186C,06ED,1870:13f8|Polsat-Box|Eleven Sports 3 HD
-1803,1861,186C,06ED,1870:13f9|Polsat-Box|HBO 3 HD Central Europe
-1803,1861,186C,06ED,1870:13fc|Polsat-Box|TeenNick Poland
-1803,1861,186C,06ED,1870:1425|Polsat-Box|Eleven Sports 1 HD
-1803,1861,186C,06ED,1870:1426|Polsat-Box|HBO2 HD
-1803,1861,186C,06ED,1870:1427|Polsat-Box|Eleven Sports 2 HD
-1803,1861,186C,06ED,1870:1428|Polsat-Box|National Geographic Wild HD
-1803,1861,186C,06ED,1870:142b|Polsat-Box|HBO3 HD
-1803,1861,186C,06ED,1870:143a|Polsat-Box|HBO2 HD
-1803,1861,186C,06ED,1870:143e|Polsat-Box|Eleven Sports 3 HD
-1803,1861,186C,06ED,1870:143f|Polsat-Box|HBO3 HD
-1803,1861,186C,06ED,1870:1444|Polsat-Box|HBO2 HD
-1803,1861,186C,06ED,1870:1446|Polsat-Box|National Geographic Wild HD
-1803,1861,186C,06ED,1870:1448|Polsat-Box|Eleven Sports 3 HD
-1803,1861,186C,06ED,1870:1449|Polsat-Box|HBO3 HD
-1803,1861,186C,06ED,1870:144d|Polsat-Box|Eleven Sports 1 HD
-1803,1861,186C,06ED,1870:144f|Polsat-Box|Eleven Sports 2 HD
-1803,1861,186C,06ED,1870:3dcd|Polsat-Box|TVN HD
-1803,1861,186C,06ED,1870:3dce|Polsat-Box|TVN Style HD
-1803,1861,186C,06ED,1870:3dd0|Polsat-Box|TVN Turbo HD
-1803,1861,186C,06ED,1870:3dd2|Polsat-Box|TVN 24 HD
-1803,1861,186C,06ED,1870:3dd3|Polsat-Box|TVN 7 HD
-1803,1861,186C,06ED,1870:3dd4|Polsat-Box|Metro HD
-1803,1861,186C,06ED,1870:3dd5|Polsat-Box|Warner TV Poland HD
-1803,1861,186C,06ED,1870:3dd6|Polsat-Box|TVN Fabula
-1803,1861,186C,06ED,1870:3dd7|Polsat-Box|TTV HD
-1803,1861,186C,06ED,1870:3dd8|Polsat-Box|Travel Channel HD
-1803,1861,186C,06ED,1870:3dd9|Polsat-Box|The Food Network EMEA HD
-1803,1861,186C,06ED,1870:3dea|Polsat-Box|TVN HD_
-1803,1861,186C,06ED,1870:3deb|Polsat-Box|TVN 7 HD_
-1803,1861,186C,06ED,1870:4224|Polsat-Box|Redlight HD
-1803,1861,186C,06ED,1870:423d|Polsat-Box|Water Planet V1
-1803,1861,186C,06ED,1870:423e|Polsat-Box|Water Planet
-1803,1861,186C,06ED,1870:423f|Polsat-Box|Novela Tv V1
-1803,1861,186C,06ED,1870:4240|Polsat-Box|Novela TV
-1803,1861,186C,06ED,1870:4267|Polsat-Box|Vivid Red HD
-1803,1861,186C,06ED,1870:0001|Polsat-Box|MTV Live HD
-1803,1861,186C,06ED,1870:0002|Polsat-Box|Nick Music Euro
-1803,1861,186C,06ED,1870:0003|Polsat-Box|Nick Jr Polska
+## CREATE: 2025.08.07 11:26:03
+1803,1861,186C,06ED,1870:0001|Polsat-Box|MTV Live
+1803,1861,186C,06ED,1870:0002|Polsat-Box|NickMusic
+1803,1861,186C,06ED,1870:0003|Polsat-Box|Nick Jr Central & Eastern Europe
 1803,1861,186C,06ED,1870:0008|Polsat-Box|MTV 00s
 1803,1861,186C,06ED,1870:0009|Polsat-Box|Nickelodeon Polska
-1803,1861,186C,06ED,1870:000c|Polsat-Box|Comedy Central Poland HD
-1803,1861,186C,06ED,1870:000d|Polsat-Box|Paramount Channel HD Poland
-1803,1861,186C,06ED,1870:000e|Polsat-Box|Nick Toons HD Poland
-1803,1861,186C,06ED,1870:000f|Polsat-Box|MTV Polska HD
-1803,1861,186C,06ED,1870:0010|Polsat-Box|Polsat Comedy Central Extra
-1803,1861,186C,06ED,1870:0020|Polsat-Box|Comedy Central HD
+1803,1861,186C,06ED,1870:000C|Polsat-Box|Comedy Central Polska
+1803,1861,186C,06ED,1870:000D|Polsat-Box|Paramount Network Polska
+1803,1861,186C,06ED,1870:000E|Polsat-Box|Nicktoons Polska
+1803,1861,186C,06ED,1870:000F|Polsat-Box|MTV Polska
+1803,1861,186C,06ED,1870:0010|Polsat-Box|Comedy Central Extra Polsat
+1803,1861,186C,06ED,1870:0020|Polsat-Box|Comedy Central Polska
 1803,1861,186C,06ED,1870:0021|Polsat-Box|Paramount Network Polska
-1803,1861,186C,06ED,1870:003f|Polsat-Box|VOD 205
+1803,1861,186C,06ED,1870:003F|Polsat-Box|VOD 205
 1803,1861,186C,06ED,1870:0040|Polsat-Box|VOD 206
 1803,1861,186C,06ED,1870:0041|Polsat-Box|VOD 207
 1803,1861,186C,06ED,1870:0042|Polsat-Box|VOD 208
-1803,1861,186C,06ED,1870:0045|Polsat-Box|Nicktoons HD
-1803,1861,186C,06ED,1870:1c86|Polsat-Box|AXN White Poland
-1803,1861,186C,06ED,1870:1c87|Polsat-Box|AXN Black Poland
-1803,1861,186C,06ED,1870:1c88|Polsat-Box|Dla Abonentow
-1803,1861,186C,06ED,1870:1c89|Polsat-Box|Dla Abonentow
-1803,1861,186C,06ED,1870:1c8b|Polsat-Box|Polsat X
-1803,1861,186C,06ED,1870:1c8c|Polsat-Box|Disco Polo Music
-1803,1861,186C,06ED,1870:1c8e|Polsat-Box|Disco Polo Music
-1803,1861,186C,06ED,1870:1c8f|Polsat-Box|Polsat Rodzina
-1803,1861,186C,06ED,1870:1c96|Polsat-Box|AXN Polska
-1803,1861,186C,06ED,1870:1cac|Polsat-Box|Polsat Seriale HD
-1803,1861,186C,06ED,1870:1cb5|Polsat-Box|Disney XD Polska
-1803,1861,186C,06ED,1870:1cb6|Polsat-Box|Disney Channel HD Poland
-1803,1861,186C,06ED,1870:1cb7|Polsat-Box|Polsat Jim Jam
-1803,1861,186C,06ED,1870:1cb9|Polsat-Box|MTV 90s
-1803,1861,186C,06ED,1870:1cbb|Polsat-Box|Vivid Touch
-1803,1861,186C,06ED,1870:1cbe|Polsat-Box|Polsat News Polityka
-1803,1861,186C,06ED,1870:1cbf|Polsat-Box|Polsat News Polityka
-1803,1861,186C,06ED,1870:1cc5|Polsat-Box|Disney Channel HD
-1803,1861,186C,06ED,1870:1cca|Polsat-Box|Polsat Viasat Explore HD
-1803,1861,186C,06ED,1870:1c98|Polsat-Box|RMF FM
-1803,1861,186C,06ED,1870:1c9b|Polsat-Box|Jedynka - PR
-1803,1861,186C,06ED,1870:1c9c|Polsat-Box|Trójka - PR
-1803,1861,186C,06ED,1870:1ca2|Polsat-Box|RMF FM
-1803,1861,186C,06ED,1870:1ca5|Polsat-Box|Jedynka - PR
-1803,1861,186C,06ED,1870:1ca6|Polsat-Box|Trójka - PR
-1803,1861,186C,06ED,1870:1cd4|Polsat-Box|Strefa Abonenta
-1803,1861,186C,06ED,1870:1cd7|Polsat-Box|Ap
-1803,1861,186C,06ED,1870:0000|Polsat-Box|Nazwa
-1803,1861,186C,06ED,1870:0c1d|Polsat-Box|Polsat Sport 1
-1803,1861,186C,06ED,1870:0c1e|Polsat-Box|Polsat Sport HD
-1803,1861,186C,06ED,1870:0c1f|Polsat-Box|Fx Comedy HD
-1803,1861,186C,06ED,1870:0c20|Polsat-Box|Polsat Viasat History HD
-1803,1861,186C,06ED,1870:0c22|Polsat-Box|TVP 2 HD
-1803,1861,186C,06ED,1870:0c23|Polsat-Box|Polsat Doku HD
-1803,1861,186C,06ED,1870:0c24|Polsat-Box|Polsat Sport 2
-1803,1861,186C,06ED,1870:0c25|Polsat-Box|AXN HD
-1803,1861,186C,06ED,1870:0c26|Polsat-Box|Cinemax 2 HD
-1803,1861,186C,06ED,1870:0c27|Polsat-Box|FX HD
-1803,1861,186C,06ED,1870:0c28|Polsat-Box|Polsat Sport 2
-1803,1861,186C,06ED,1870:0c29|Polsat-Box|Cinemax 2 HD
-1803,1861,186C,06ED,1870:0c2a|Polsat-Box|AXN HD Polska
-1803,1861,186C,06ED,1870:0c2b|Polsat-Box|Fx Comedy HD Polska
-1803,1861,186C,06ED,1870:0c2c|Polsat-Box|TVP 2 HD
-1803,1861,186C,06ED,1870:0c2d|Polsat-Box|FX HD Polska
-1803,1861,186C,06ED,1870:0c2e|Polsat-Box|Polsat Sport 1
-1803,1861,186C,06ED,1870:0c2f|Polsat-Box|History Channel HD Polska
-1803,1861,186C,06ED,1870:0c30|Polsat-Box|CI Polsat HD
-1803,1861,186C,06ED,1870:0c31|Polsat-Box|CI Polsat HD
-1803,1861,186C,06ED,1870:0c32|Polsat-Box|History HD
-1803,1861,186C,06ED,1870:0c33|Polsat-Box|Polsat Sport Premium PPV5
-1803,1861,186C,06ED,1870:0c34|Polsat-Box|Polsat Sport Premium PPV6
-1803,1861,186C,06ED,1870:0c37|Polsat-Box|Polsat Doku HD
-1803,1861,186C,06ED,1870:2907|Polsat-Box|Nat Geo People HD Poland
-1803,1861,186C,06ED,1870:2908|Polsat-Box|Viasat Nature CEE
-1803,1861,186C,06ED,1870:2909|Polsat-Box|Eska Rock HD
-1803,1861,186C,06ED,1870:290a|Polsat-Box|Extreme Sports HD
-1803,1861,186C,06ED,1870:290b|Polsat-Box|Film Café
-1803,1861,186C,06ED,1870:290c|Polsat-Box|Wydarzenia 24
-1803,1861,186C,06ED,1870:290d|Polsat-Box|Eska TV Extra HD
-1803,1861,186C,06ED,1870:290e|Polsat-Box|HBO HD Polska
-1803,1861,186C,06ED,1870:290f|Polsat-Box|HBO HD Polska
-1803,1861,186C,06ED,1870:2910|Polsat-Box|Vox Music TV HD
-1803,1861,186C,06ED,1870:2911|Polsat-Box|Polsat Sport Fight HD
+1803,1861,186C,06ED,1870:0045|Polsat-Box|Nicktoons Polska
+1803,1861,186C,06ED,1870:0133|Polsat-Box|ARTE Français
+1803,1861,186C,06ED,1870:0201|Polsat-Box|Radio Norba TV
+1803,1861,186C,06ED,1870:02C9|Polsat-Box|RTP Internacional Europa
+1803,1861,186C,06ED,1870:051F|Polsat-Box|Radio Norba TV
+1803,1861,186C,06ED,1870:06AA|Polsat-Box|CGTN
+1803,1861,186C,06ED,1870:0709|Polsat-Box|Polsat Sport Premium 1 PPV Super HD
+1803,1861,186C,06ED,1870:070A|Polsat-Box|Polsat Sport Premium 2
+1803,1861,186C,06ED,1870:070F|Polsat-Box|Eleven Sports 1 Polska
+1803,1861,186C,06ED,1870:0711|Polsat-Box|Polsat Sport Extra 1 tests
+1803,1861,186C,06ED,1870:07D6|Polsat-Box|BBC Brit Polska
+1803,1861,186C,06ED,1870:07D9|Polsat-Box|CBeebies Polska
+1803,1861,186C,06ED,1870:07DB|Polsat-Box|BBC Lifestyle Polska
+1803,1861,186C,06ED,1870:0BC2|Polsat-Box|FashionTV Europe
+1803,1861,186C,06ED,1870:0BEA|Polsat-Box|Inultra
+1803,1861,186C,06ED,1870:0C1D|Polsat-Box|Polsat Sport 1
+1803,1861,186C,06ED,1870:0C1F|Polsat-Box|FX Comedy Polska
+1803,1861,186C,06ED,1870:0C20|Polsat-Box|Viasat History Polsat
+1803,1861,186C,06ED,1870:0C22|Polsat-Box|TVP 2
+1803,1861,186C,06ED,1870:0C23|Polsat-Box|Polsat Doku
+1803,1861,186C,06ED,1870:0C24|Polsat-Box|Polsat Sport 2
+1803,1861,186C,06ED,1870:0C25|Polsat-Box|AXN Polska
+1803,1861,186C,06ED,1870:0C26|Polsat-Box|Cinemax 2 Central Europe
+1803,1861,186C,06ED,1870:0C27|Polsat-Box|FX Polska
+1803,1861,186C,06ED,1870:0C2F|Polsat-Box|History Polska
+1803,1861,186C,06ED,1870:0C30|Polsat-Box|Crime + Investigation Polsat
+1803,1861,186C,06ED,1870:0C33|Polsat-Box|Polsat Sport Premium 5 PPV
+1803,1861,186C,06ED,1870:0C34|Polsat-Box|Polsat Sport Premium 6 PPV
+1803,1861,186C,06ED,1870:0E83|Polsat-Box|TVP Polonia
+1803,1861,186C,06ED,1870:10DD|Polsat-Box|Discovery Channel Polska
+1803,1861,186C,06ED,1870:10DE|Polsat-Box|TLC Polska
+1803,1861,186C,06ED,1870:10DF|Polsat-Box|Discovery Historia
+1803,1861,186C,06ED,1870:10E0|Polsat-Box|Discovery Life Polska
+1803,1861,186C,06ED,1870:10E4|Polsat-Box|Cartoonito Polska
+1803,1861,186C,06ED,1870:10E5|Polsat-Box|Cartoon Network Polska
+1803,1861,186C,06ED,1870:10EA|Polsat-Box|TVN 24 BiS
+1803,1861,186C,06ED,1870:10EB|Polsat-Box|HGTV Polska
+1803,1861,186C,06ED,1870:1133|Polsat-Box|BBC First Polska
+1803,1861,186C,06ED,1870:1134|Polsat-Box|BBC Earth Polska
+1803,1861,186C,06ED,1870:1138|Polsat-Box|TVP HD
+1803,1861,186C,06ED,1870:1139|Polsat-Box|TVP Info
+1803,1861,186C,06ED,1870:113F|Polsat-Box|Hustler HD Europe
+1803,1861,186C,06ED,1870:1141|Polsat-Box|Private TV
+1803,1861,186C,06ED,1870:1165|Polsat-Box|BBC First Polska
+1803,1861,186C,06ED,1870:1166|Polsat-Box|BBC Earth Polska
+1803,1861,186C,06ED,1870:1325|Polsat-Box|KBS World
+1803,1861,186C,06ED,1870:132A|Polsat-Box|RIK Sat
+1803,1861,186C,06ED,1870:13F3|Polsat-Box|Eleven Sports 1 Polska
+1803,1861,186C,06ED,1870:13F4|Polsat-Box|HBO 2 Polska
+1803,1861,186C,06ED,1870:13F5|Polsat-Box|Eleven Sports 2 Polska
+1803,1861,186C,06ED,1870:13F6|Polsat-Box|National Geographic Wild Polska
+1803,1861,186C,06ED,1870:13F7|Polsat-Box|TVP 3 Warszawa
+1803,1861,186C,06ED,1870:13F8|Polsat-Box|Eleven Sports 3 Polska
+1803,1861,186C,06ED,1870:13F9|Polsat-Box|HBO 3 Polska
+1803,1861,186C,06ED,1870:1425|Polsat-Box|Eleven Sports 1 Polska
+1803,1861,186C,06ED,1870:1426|Polsat-Box|HBO 2 Polska
+1803,1861,186C,06ED,1870:1427|Polsat-Box|Eleven Sports 2 Polska
+1803,1861,186C,06ED,1870:1428|Polsat-Box|National Geographic Wild Polska
+1803,1861,186C,06ED,1870:142B|Polsat-Box|HBO 3 Polska
+1803,1861,186C,06ED,1870:143E|Polsat-Box|Eleven Sports 3 Polska
+1803,1861,186C,06ED,1870:1C22|Polsat-Box|Watania 1
+1803,1861,186C,06ED,1870:1C86|Polsat-Box|Bloomberg TV Europe
+1803,1861,186C,06ED,1870:1C86|Polsat-Box|AXN White Polska
+1803,1861,186C,06ED,1870:1C87|Polsat-Box|AXN Black Polska
+1803,1861,186C,06ED,1870:1C8B|Polsat-Box|Polsat X
+1803,1861,186C,06ED,1870:1C8C|Polsat-Box|Disco Polo Music
+1803,1861,186C,06ED,1870:1C8D|Polsat-Box|TV Okazje
+1803,1861,186C,06ED,1870:1C8E|Polsat-Box|Disco Polo Music
+1803,1861,186C,06ED,1870:1C8F|Polsat-Box|Polsat Rodzina
+1803,1861,186C,06ED,1870:1C96|Polsat-Box|AXN Polska
+1803,1861,186C,06ED,1870:1CAC|Polsat-Box|Polsat Seriale
+1803,1861,186C,06ED,1870:1CAD|Polsat-Box|Polsat Seriale
+1803,1861,186C,06ED,1870:1CB5|Polsat-Box|Disney XD Polska
+1803,1861,186C,06ED,1870:1CB6|Polsat-Box|Disney Channel Polska
+1803,1861,186C,06ED,1870:1CB7|Polsat-Box|JimJam Polsat
+1803,1861,186C,06ED,1870:1CB9|Polsat-Box|MTV 90s
+1803,1861,186C,06ED,1870:1CBB|Polsat-Box|Vivid Touch
+1803,1861,186C,06ED,1870:1CBE|Polsat-Box|Polsat News Polityka
+1803,1861,186C,06ED,1870:1CC5|Polsat-Box|Disney Channel Polska
+1803,1861,186C,06ED,1870:1CCA|Polsat-Box|Viasat Explore Polsat
+1803,1861,186C,06ED,1870:2146|Polsat-Box|Rai Storia
+1803,1861,186C,06ED,1870:2149|Polsat-Box|Rai Scuola
+1803,1861,186C,06ED,1870:2340|Polsat-Box|Silk Way
+1803,1861,186C,06ED,1870:2907|Polsat-Box|Nat Geo People Polska
+1803,1861,186C,06ED,1870:2908|Polsat-Box|Viasat Nature Polsat
+1803,1861,186C,06ED,1870:2909|Polsat-Box|Eska Rock TV
+1803,1861,186C,06ED,1870:290A|Polsat-Box|Extreme Sports Channel Polska
+1803,1861,186C,06ED,1870:290B|Polsat-Box|Film Café Polska
+1803,1861,186C,06ED,1870:290C|Polsat-Box|Wydarzenia 24
+1803,1861,186C,06ED,1870:290D|Polsat-Box|Eska TV Extra
+1803,1861,186C,06ED,1870:290E|Polsat-Box|HBO Polska
+1803,1861,186C,06ED,1870:2910|Polsat-Box|Vox Music TV
+1803,1861,186C,06ED,1870:2911|Polsat-Box|Polsat Sport Fight
 1803,1861,186C,06ED,1870:2913|Polsat-Box|Polsat Sport 3
-1803,1861,186C,06ED,1870:2938|Polsat-Box|Disney Junior Middle-East &amp; Africa
-1803,1861,186C,06ED,1870:0bea|Polsat-Box|Insight UHD
-1803,1861,186C,06ED,1870:07d6|Polsat-Box|BBC Brit
-1803,1861,186C,06ED,1870:07d9|Polsat-Box|BBC CBeebies Poland
-1803,1861,186C,06ED,1870:07db|Polsat-Box|BBC Lifestyle HD Poland
-1803,1861,186C,06ED,1870:07e0|Polsat-Box|BBC Brit
-1803,1861,186C,06ED,1870:07e3|Polsat-Box|BBC CBeebies
-1803,1861,186C,06ED,1870:07e5|Polsat-Box|BBC Lifestyle HD
-1803,1861,186C,06ED,1870:07e6|Polsat-Box|BBC Brit
+1803,1861,186C,06ED,1870:2938|Polsat-Box|Disney Jr Türkiye & Polska
+1803,1861,186C,06ED,1870:32CC|Polsat-Box|AXN Spin Polska
+1803,1861,186C,06ED,1870:32DF|Polsat-Box|National Geographic Polska
+1803,1861,186C,06ED,1870:331C|Polsat-Box|AXN Spin Polska
+1803,1861,186C,06ED,1870:3330|Polsat-Box|BBC News Europe
+1803,1861,186C,06ED,1870:3333|Polsat-Box|Polsat News 2
+1803,1861,186C,06ED,1870:3391|Polsat-Box|Polsat
+1803,1861,186C,06ED,1870:3392|Polsat-Box|Polsat Play
+1803,1861,186C,06ED,1870:3393|Polsat-Box|TV 4 (Poland)
+1803,1861,186C,06ED,1870:3394|Polsat-Box|TV 6 (Poland)
+1803,1861,186C,06ED,1870:3396|Polsat-Box|Polsat Café
+1803,1861,186C,06ED,1870:3398|Polsat-Box|Polsat Film
+1803,1861,186C,06ED,1870:3399|Polsat-Box|Polsat News
+1803,1861,186C,06ED,1870:339A|Polsat-Box|Polsat 2
+1803,1861,186C,06ED,1870:339B|Polsat-Box|Super Polsat
+1803,1861,186C,06ED,1870:3A9E|Polsat-Box|TVP Sport
+1803,1861,186C,06ED,1870:3A9F|Polsat-Box|Cinemax Central Europe
+1803,1861,186C,06ED,1870:3AB7|Polsat-Box|AMC Polska
+1803,1861,186C,06ED,1870:3ABD|Polsat-Box|TVP 1
+1803,1861,186C,06ED,1870:3ABE|Polsat-Box|Romance TV Polska
+1803,1861,186C,06ED,1870:3AD1|Polsat-Box|Cinemax Central Europe
+1803,1861,186C,06ED,1870:3ADB|Polsat-Box|TVP 1
+1803,1861,186C,06ED,1870:3AE9|Polsat-Box|AMC Polska
+1803,1861,186C,06ED,1870:3B66|Polsat-Box|Animal Planet Polska
+1803,1861,186C,06ED,1870:3B67|Polsat-Box|Eurosport 1 Polska
+1803,1861,186C,06ED,1870:3B68|Polsat-Box|Eurosport 2 Polska
+1803,1861,186C,06ED,1870:3B69|Polsat-Box|Investigation Discovery Polska
+1803,1861,186C,06ED,1870:3B6A|Polsat-Box|Discovery Science Polska
+1803,1861,186C,06ED,1870:3B6B|Polsat-Box|DTX Polska
+1803,1861,186C,06ED,1870:3B6D|Polsat-Box|CNN International Europe
+1803,1861,186C,06ED,1870:3D59|Polsat-Box|TVP Kultura
+1803,1861,186C,06ED,1870:3D5B|Polsat-Box|CBS Reality Polska
+1803,1861,186C,06ED,1870:3D5C|Polsat-Box|TVP Seriale
+1803,1861,186C,06ED,1870:3D5D|Polsat-Box|FilmBox Premium Polska
+1803,1861,186C,06ED,1870:3D5E|Polsat-Box|Puls 2
+1803,1861,186C,06ED,1870:3D5F|Polsat-Box|TVP ABC
+1803,1861,186C,06ED,1870:3D60|Polsat-Box|Kino Polska Muzyka
+1803,1861,186C,06ED,1870:3D61|Polsat-Box|Kino TV
+1803,1861,186C,06ED,1870:3D62|Polsat-Box|FilmBox Family
+1803,1861,186C,06ED,1870:3D64|Polsat-Box|Kino Polska
+1803,1861,186C,06ED,1870:3D65|Polsat-Box|FilmBox Action
+1803,1861,186C,06ED,1870:3D66|Polsat-Box|TV Puls (Poland)
+1803,1861,186C,06ED,1870:3D67|Polsat-Box|TVP Historia
+1803,1861,186C,06ED,1870:3D68|Polsat-Box|FilmBox Extra HD Polska
+1803,1861,186C,06ED,1870:3D8D|Polsat-Box|CBS Reality Polska
+1803,1861,186C,06ED,1870:3D8E|Polsat-Box|TVP Seriale
+1803,1861,186C,06ED,1870:3D8F|Polsat-Box|FilmBox Premium Polska
+1803,1861,186C,06ED,1870:3D93|Polsat-Box|Kino TV
+1803,1861,186C,06ED,1870:3D94|Polsat-Box|FilmBox Family
+1803,1861,186C,06ED,1870:3D96|Polsat-Box|Kino Polska
+1803,1861,186C,06ED,1870:3D97|Polsat-Box|FilmBox Action
+1803,1861,186C,06ED,1870:3D99|Polsat-Box|TVP Historia
+1803,1861,186C,06ED,1870:3D9A|Polsat-Box|FilmBox Extra HD Polska
+1803,1861,186C,06ED,1870:3DCD|Polsat-Box|TVN (Poland)
+1803,1861,186C,06ED,1870:3DCE|Polsat-Box|TVN Style
+1803,1861,186C,06ED,1870:3DCF|Polsat-Box|TVN Style
+1803,1861,186C,06ED,1870:3DD0|Polsat-Box|TVN Turbo
+1803,1861,186C,06ED,1870:3DD1|Polsat-Box|TVN Turbo
+1803,1861,186C,06ED,1870:3DD2|Polsat-Box|TVN 24
+1803,1861,186C,06ED,1870:3DD3|Polsat-Box|TVN 7
+1803,1861,186C,06ED,1870:3DD4|Polsat-Box|Metro TV (Poland)
+1803,1861,186C,06ED,1870:3DD5|Polsat-Box|Warner TV Polska
+1803,1861,186C,06ED,1870:3DD6|Polsat-Box|TVN Fabula
+1803,1861,186C,06ED,1870:3DD7|Polsat-Box|TTV
+1803,1861,186C,06ED,1870:3DD8|Polsat-Box|Travel Channel Polska
+1803,1861,186C,06ED,1870:3DD9|Polsat-Box|Food Network Polska
+1803,1861,186C,06ED,1870:3DEB|Polsat-Box|TVN 7
+1803,1861,186C,06ED,1870:3DEC|Polsat-Box|Food Network Polska
+1803,1861,186C,06ED,1870:3DED|Polsat-Box|TVN 24
+1803,1861,186C,06ED,1870:3E1D|Polsat-Box|Sundance TV Europe
+1803,1861,186C,06ED,1870:3E1E|Polsat-Box|E! Polska
+1803,1861,186C,06ED,1870:3E1F|Polsat-Box|Polsat Film 2
+1803,1861,186C,06ED,1870:3E20|Polsat-Box|Scifi Polska
+1803,1861,186C,06ED,1870:3E21|Polsat-Box|Polsat Reality
+1803,1861,186C,06ED,1870:3E22|Polsat-Box|History 2 Polska
+1803,1861,186C,06ED,1870:3E23|Polsat-Box|Golf Zone
+1803,1861,186C,06ED,1870:3E24|Polsat-Box|FightBox HD
+1803,1861,186C,06ED,1870:3E26|Polsat-Box|13 Ulica
+1803,1861,186C,06ED,1870:3E27|Polsat-Box|SkyShowtime 1
+1803,1861,186C,06ED,1870:3E28|Polsat-Box|SkyShowtime 2
+1803,1861,186C,06ED,1870:3E2B|Polsat-Box|Polsat Sport Premium 3 PPV
+1803,1861,186C,06ED,1870:3E2C|Polsat-Box|Polsat Sport Premium 4 PPV
+1803,1861,186C,06ED,1870:4224|Polsat-Box|Redlight HD
+1803,1861,186C,06ED,1870:422D|Polsat-Box|Class TV Moda
+1803,1861,186C,06ED,1870:422E|Polsat-Box|Horse TV
+1803,1861,186C,06ED,1870:4238|Polsat-Box|Padre Pio TV
+1803,1861,186C,06ED,1870:423B|Polsat-Box|Tele 5 (Poland)
+1803,1861,186C,06ED,1870:423C|Polsat-Box|Polonia 1
+1803,1861,186C,06ED,1870:423D|Polsat-Box|Water Planet TV
+1803,1861,186C,06ED,1870:423F|Polsat-Box|Novela TV
+1803,1861,186C,06ED,1870:4267|Polsat-Box|Vivid Red
+1803,1861,186C,06ED,1870:4279|Polsat-Box|W Polsce 24
+1803,1861,186C,06ED,1870:427B|Polsat-Box|Stopklatka TV
+1803,1861,186C,06ED,1870:427C|Polsat-Box|Stopklatka TV
+1803,1861,186C,06ED,1870:427F|Polsat-Box|Stars TV
+1803,1861,186C,06ED,1870:4280|Polsat-Box|Da Vinci Polska
+1803,1861,186C,06ED,1870:4284|Polsat-Box|Polsat Games
+1803,1861,186C,06ED,1870:4285|Polsat-Box|Polsat Games
+1803,1861,186C,06ED,1870:4288|Polsat-Box|TVP Rozrywka
+1803,1861,186C,06ED,1870:4289|Polsat-Box|TV Republika
+1803,1861,186C,06ED,1870:428A|Polsat-Box|FilmBox Arthouse Worldwide
+1803,1861,186C,06ED,1870:428D|Polsat-Box|4 Fun TV
+1803,1861,186C,06ED,1870:428E|Polsat-Box|4 Fun Kids
+1803,1861,186C,06ED,1870:428F|Polsat-Box|4 Fun Dance
+1803,1861,186C,06ED,1870:4290|Polsat-Box|Epic Drama
+1803,1861,186C,06ED,1870:4291|Polsat-Box|Zoom TV
+1803,1861,186C,06ED,1870:4293|Polsat-Box|Polsat Music
+1803,1861,186C,06ED,1870:4294|Polsat-Box|Polsat Music
+1803,1861,186C,06ED,1870:429A|Polsat-Box|Polo TV
+1803,1861,186C,06ED,1870:429C|Polsat-Box|Eska TV
+1803,1861,186C,06ED,1870:429D|Polsat-Box|Fokus TV
+1803,1861,186C,06ED,1870:429E|Polsat-Box|Nowa TV
+1803,1861,186C,06ED,1870:42C2|Polsat-Box|Polo TV
+1803,1861,186C,06ED,1870:42C5|Polsat-Box|Fokus TV
+1803,1861,186C,06ED,1870:4536|Polsat-Box|Uninettuno University TV
 
 ## PROVIDER: Orange-PL
 ## CAID: 0500
 ## PROVID: 032A00
-## CREATE: 2025.03.15 11:26:05
-0500:3E26|Orange-PL|13 Ulica HD
-0500:428F|Orange-PL|4 Fun Dance
-0500:428E|Orange-PL|4 Fun Kids
-0500:428D|Orange-PL|4 Fun TV
-0500:32D8|Orange-PL|Active Family
-0500:114C|Orange-PL|Adventure HD
-0500:3781|Orange-PL|Ale Kino HD
-0500:379F|Orange-PL|Ale Kino HD
-0500:3AB7|Orange-PL|AMC Polska HD
-0500:3AE9|Orange-PL|AMC Polska HD
-0500:3B66|Orange-PL|Animal Planet Polska HD
-0500:1C87|Orange-PL|AXN Black Polska
-0500:0C25|Orange-PL|AXN Polska HD
-0500:32CC|Orange-PL|AXN Spin Polska HD
-0500:331C|Orange-PL|AXN Spin Polska HD
-0500:1C86|Orange-PL|AXN White Polska
-0500:053B|Orange-PL|Baby TV Europe
-0500:07D6|Orange-PL|BBC Brit Polska HD
-0500:1134|Orange-PL|BBC Earth Polska HD
-0500:1166|Orange-PL|BBC Earth Polska HD
-0500:1133|Orange-PL|BBC First Polska HD
-0500:1165|Orange-PL|BBC First Polska HD
-0500:07DB|Orange-PL|BBC Lifestyle Polska HD
-0500:42EA|Orange-PL|BBC News Europe
-0500:377B|Orange-PL|Canal 360 HD
-0500:13ED|Orange-PL|Canal At1 HD
-0500:377A|Orange-PL|Canal Dokument HD
-0500:13EF|Orange-PL|Canal Domo Polska HD
-0500:1421|Orange-PL|Canal Domo Polska HD
-0500:3779|Orange-PL|Canal Film HD
-0500:377F|Orange-PL|Canal Kuchnia HD
-0500:37B1|Orange-PL|Canal Kuchnia HD
-0500:32DC|Orange-PL|Canal Premium HD
-0500:3782|Orange-PL|Canal Seriale HD
-0500:13EE|Orange-PL|Canal Sport 2 Polska HD
-0500:3AA5|Orange-PL|Canal Sport 5 Polska HD
-0500:3AB9|Orange-PL|Canal Sport 5 Polska HD
-0500:3AE1|Orange-PL|Canal Sport 5 Polska HD
-0500:32DE|Orange-PL|Canal Sport Polska HD
-0500:07D9|Orange-PL|CBeebies Polska
-0500:3D5B|Orange-PL|CBS Reality Polska HD
-0500:3D8D|Orange-PL|CBS Reality Polska HD
-0500:0C26|Orange-PL|Cinemax 2 Central Europe HD
-0500:3A9F|Orange-PL|Cinemax Central Europe HD
-0500:3AD1|Orange-PL|Cinemax Central Europe HD
-0500:000C|Orange-PL|Comedy Central Polska HD
-0500:0C30|Orange-PL|Crime Investigation Polsat HD
-0500:4280|Orange-PL|Da Vinci Polska
-0500:1C8C|Orange-PL|Disco Polo Music HD
-0500:1C8E|Orange-PL|Disco Polo Music HD
-0500:10DF|Orange-PL|Discovery Historia
-0500:10E0|Orange-PL|Discovery Life Polska HD
-0500:3B6A|Orange-PL|Discovery Science Polska HD
-0500:1CB6|Orange-PL|Disney Channel Polska HD
-0500:1CC5|Orange-PL|Disney Channel Polska HD
-0500:2938|Orange-PL|Disney Junior TAzrkiye & Polska
-0500:1CB5|Orange-PL|Disney XD Polska
-0500:3E1E|Orange-PL|E! Polska HD
-0500:13F3|Orange-PL|Eleven Sports 1 Polska HD
-0500:1425|Orange-PL|Eleven Sports 1 Polska HD
-0500:13F5|Orange-PL|Eleven Sports 2 Polska HD
-0500:1427|Orange-PL|Eleven Sports 2 Polska HD
-0500:429C|Orange-PL|Eska TV HD
-0500:3B68|Orange-PL|Eurosport 2 Polska HD
-0500:290A|Orange-PL|Extreme Sports Channel Polska HD
-0500:0BC2|Orange-PL|FashionTV Europe
-0500:3E24|Orange-PL|FightBox HD
-0500:290B|Orange-PL|Film cafe Polska HD
-0500:3D65|Orange-PL|FilmBox Action
-0500:3D97|Orange-PL|FilmBox Action
-0500:3D62|Orange-PL|FilmBox Family
-0500:3D94|Orange-PL|FilmBox Family
-0500:3D5D|Orange-PL|FilmBox Premium Polska HD
-0500:3D8F|Orange-PL|FilmBox Premium Polska HD
-0500:429D|Orange-PL|Fokus TV HD
-0500:42C5|Orange-PL|Fokus TV HD
-0500:3DD9|Orange-PL|Food Network Polska HD
-0500:3DEC|Orange-PL|Food Network Polska HD
-0500:0C1F|Orange-PL|FX Comedy Polska HD
-0500:0C27|Orange-PL|FX Polska HD
-0500:290E|Orange-PL|HBO Polska HD
-0500:3E22|Orange-PL|History 2 Polska HD
-0500:0C2F|Orange-PL|History Polska HD
-0500:1CB7|Orange-PL|JimJam Polsat
-0500:13F2|Orange-PL|Kino Polska HD
-0500:1424|Orange-PL|Kino Polska HD
-0500:3D60|Orange-PL|Kino Polska Muzyka
-0500:3D61|Orange-PL|Kino TV HD
-0500:3D93|Orange-PL|Kino TV HD
-0500:3DD4|Orange-PL|Metro TV HD
-0500:32E0|Orange-PL|MiniMini HD
-0500:32FE|Orange-PL|MiniMini HD
-0500:1CB9|Orange-PL|MTV 90s
-0500:0001|Orange-PL|MTV Live HD
-0500:000F|Orange-PL|MTV Polska HD
-0500:2907|Orange-PL|Nat Geo People Polska HD
-0500:32DF|Orange-PL|National Geographic Polska HD
+## CREATE: 2025.08.07 11:26:05
+0500:0001|Orange-PL|MTV Live
+0500:0002|Orange-PL|NickMusic
 0500:0003|Orange-PL|Nick Jr Central & Eastern Europe
 0500:0009|Orange-PL|Nickelodeon Polska
-0500:0002|Orange-PL|NickMusic
-0500:429E|Orange-PL|Nowa TV HD
-0500:000D|Orange-PL|Paramount Network Polska HD
-0500:0021|Orange-PL|Paramount Network Polska HD
-0500:377E|Orange-PL|Planete Polska HD
-0500:37B0|Orange-PL|Planete Polska HD
-0500:429A|Orange-PL|Polo TV HD
-0500:42C2|Orange-PL|Polo TV HD
+0500:000C|Orange-PL|Comedy Central Polska
+0500:000D|Orange-PL|Paramount Network Polska
+0500:000F|Orange-PL|MTV Polska
+0500:0021|Orange-PL|Paramount Network Polska
+0500:053B|Orange-PL|Baby TV Europe
+0500:07D6|Orange-PL|BBC Brit Polska
+0500:07D9|Orange-PL|CBeebies Polska
+0500:07DB|Orange-PL|BBC Lifestyle Polska
+0500:0BC2|Orange-PL|FashionTV Europe
+0500:0C1F|Orange-PL|FX Comedy Polska
+0500:0C22|Orange-PL|TVP 2
+0500:0C25|Orange-PL|AXN Polska
+0500:0C26|Orange-PL|Cinemax 2 Central Europe
+0500:0C27|Orange-PL|FX Polska
+0500:0C2F|Orange-PL|History Polska
+0500:0C30|Orange-PL|Crime + Investigation Polsat
+0500:0E83|Orange-PL|TVP Polonia
+0500:10DE|Orange-PL|TLC Polska
+0500:10DF|Orange-PL|Discovery Historia
+0500:10E0|Orange-PL|Discovery Life Polska
+0500:10EA|Orange-PL|TVN 24 BiS
+0500:1133|Orange-PL|BBC First Polska
+0500:1134|Orange-PL|BBC Earth Polska
+0500:1138|Orange-PL|TVP HD
+0500:1139|Orange-PL|TVP Info
+0500:114C|Orange-PL|Adventure HD
+0500:1151|Orange-PL|Power TV (Poland)
+0500:1153|Orange-PL|TVC
+0500:1165|Orange-PL|BBC First Polska
+0500:1166|Orange-PL|BBC Earth Polska
+0500:1201|Orange-PL|Baby TV Europe
+0500:13ED|Orange-PL|Canal + »1
+0500:13EE|Orange-PL|Canal + Sport 2 Polska
+0500:13EF|Orange-PL|Canal + Domo Polska
+0500:13F3|Orange-PL|Eleven Sports 1 Polska
+0500:13F5|Orange-PL|Eleven Sports 2 Polska
+0500:13F7|Orange-PL|TVP 3 Warszawa
+0500:1421|Orange-PL|Canal + Domo Polska
+0500:1425|Orange-PL|Eleven Sports 1 Polska
+0500:1427|Orange-PL|Eleven Sports 2 Polska
+0500:1C86|Orange-PL|Bloomberg TV Europe
+0500:1C86|Orange-PL|AXN White Polska
+0500:1C87|Orange-PL|AXN Black Polska
+0500:1C8C|Orange-PL|Disco Polo Music
+0500:1C8E|Orange-PL|Disco Polo Music
+0500:1CAC|Orange-PL|Polsat Seriale
+0500:1CAD|Orange-PL|Polsat Seriale
+0500:1CB5|Orange-PL|Disney XD Polska
+0500:1CB6|Orange-PL|Disney Channel Polska
+0500:1CB7|Orange-PL|JimJam Polsat
+0500:1CB9|Orange-PL|MTV 90s
+0500:1CC5|Orange-PL|Disney Channel Polska
+0500:2907|Orange-PL|Nat Geo People Polska
+0500:290A|Orange-PL|Extreme Sports Channel Polska
+0500:290B|Orange-PL|Film Café Polska
+0500:290C|Orange-PL|Wydarzenia 24
+0500:290E|Orange-PL|HBO Polska
+0500:2910|Orange-PL|Vox Music TV
+0500:2938|Orange-PL|Disney Jr Türkiye & Polska
+0500:32CC|Orange-PL|AXN Spin Polska
+0500:32D8|Orange-PL|Active Family
+0500:32DC|Orange-PL|Canal + Premium
+0500:32DE|Orange-PL|Canal + Sport Polska
+0500:32DF|Orange-PL|National Geographic Polska
+0500:32E0|Orange-PL|MiniMini +
+0500:32FE|Orange-PL|MiniMini +
+0500:331C|Orange-PL|AXN Spin Polska
+0500:3330|Orange-PL|BBC News Europe
+0500:3333|Orange-PL|Polsat News 2
+0500:3391|Orange-PL|Polsat
+0500:3392|Orange-PL|Polsat Play
+0500:3393|Orange-PL|TV 4 (Poland)
+0500:3396|Orange-PL|Polsat Café
+0500:3398|Orange-PL|Polsat Film
+0500:3399|Orange-PL|Polsat News
+0500:339A|Orange-PL|Polsat 2
+0500:3779|Orange-PL|Canal + Film
+0500:377A|Orange-PL|Canal + Dokument
+0500:377B|Orange-PL|Canal + 360
+0500:377E|Orange-PL|Planete + Polska
+0500:377F|Orange-PL|Canal + Kuchnia
+0500:3781|Orange-PL|Ale Kino +
+0500:3782|Orange-PL|Canal + Seriale
+0500:379F|Orange-PL|Ale Kino +
+0500:37B0|Orange-PL|Planete + Polska
+0500:37B1|Orange-PL|Canal + Kuchnia
+0500:3A9B|Orange-PL|Teletoon + HD Polska
+0500:3A9E|Orange-PL|TVP Sport
+0500:3A9F|Orange-PL|Cinemax Central Europe
+0500:3AA5|Orange-PL|Canal + Sport 5 Polska
+0500:3AB7|Orange-PL|AMC Polska
+0500:3AB9|Orange-PL|Canal + Sport 5 Polska
+0500:3ABD|Orange-PL|TVP 1
+0500:3ABE|Orange-PL|Romance TV Polska
+0500:3ACD|Orange-PL|Teletoon + HD Polska
+0500:3AD1|Orange-PL|Cinemax Central Europe
+0500:3ADB|Orange-PL|TVP 1
+0500:3AE1|Orange-PL|Canal + Sport 5 Polska
+0500:3AE9|Orange-PL|AMC Polska
+0500:3B66|Orange-PL|Animal Planet Polska
+0500:3B68|Orange-PL|Eurosport 2 Polska
+0500:3B6A|Orange-PL|Discovery Science Polska
+0500:3D59|Orange-PL|TVP Kultura
+0500:3D5B|Orange-PL|CBS Reality Polska
+0500:3D5C|Orange-PL|TVP Seriale
+0500:3D5D|Orange-PL|FilmBox Premium Polska
+0500:3D5E|Orange-PL|Puls 2
+0500:3D5F|Orange-PL|TVP ABC
+0500:3D60|Orange-PL|Kino Polska Muzyka
+0500:3D61|Orange-PL|Kino TV
+0500:3D62|Orange-PL|FilmBox Family
+0500:3D64|Orange-PL|Kino Polska
+0500:3D65|Orange-PL|FilmBox Action
+0500:3D66|Orange-PL|TV Puls (Poland)
+0500:3D67|Orange-PL|TVP Historia
+0500:3D8D|Orange-PL|CBS Reality Polska
+0500:3D8E|Orange-PL|TVP Seriale
+0500:3D8F|Orange-PL|FilmBox Premium Polska
+0500:3D93|Orange-PL|Kino TV
+0500:3D94|Orange-PL|FilmBox Family
+0500:3D96|Orange-PL|Kino Polska
+0500:3D97|Orange-PL|FilmBox Action
+0500:3D99|Orange-PL|TVP Historia
+0500:3DCD|Orange-PL|TVN (Poland)
+0500:3DCE|Orange-PL|TVN Style
+0500:3DCF|Orange-PL|TVN Style
+0500:3DD0|Orange-PL|TVN Turbo
+0500:3DD1|Orange-PL|TVN Turbo
+0500:3DD2|Orange-PL|TVN 24
+0500:3DD3|Orange-PL|TVN 7
+0500:3DD4|Orange-PL|Metro TV (Poland)
+0500:3DD5|Orange-PL|Warner TV Polska
+0500:3DD6|Orange-PL|TVN Fabula
+0500:3DD7|Orange-PL|TTV
+0500:3DD8|Orange-PL|Travel Channel Polska
+0500:3DD9|Orange-PL|Food Network Polska
+0500:3DEB|Orange-PL|TVN 7
+0500:3DEC|Orange-PL|Food Network Polska
+0500:3DED|Orange-PL|TVN 24
+0500:3E1D|Orange-PL|Sundance TV Europe
+0500:3E1E|Orange-PL|E! Polska
+0500:3E20|Orange-PL|Scifi Polska
+0500:3E22|Orange-PL|History 2 Polska
+0500:3E24|Orange-PL|FightBox HD
+0500:3E26|Orange-PL|13 Ulica
+0500:423B|Orange-PL|Tele 5 (Poland)
 0500:423C|Orange-PL|Polonia 1
-0500:339A|Orange-PL|Polsat 2 HD
-0500:3396|Orange-PL|Polsat cafe HD
-0500:3398|Orange-PL|Polsat Film HD
-0500:3391|Orange-PL|Polsat HD
-0500:3333|Orange-PL|Polsat News 2 HD
-0500:3399|Orange-PL|Polsat News HD
-0500:3392|Orange-PL|Polsat Play HD
-0500:1CAC|Orange-PL|Polsat Seriale HD
-0500:1CAD|Orange-PL|Polsat Seriale HD
-0500:1151|Orange-PL|Power TV
-0500:3D5E|Orange-PL|Puls 2 HD
-0500:3ABE|Orange-PL|Romance TV Polska HD
-0500:3E20|Orange-PL|Scifi Polska HD
-0500:427F|Orange-PL|Stars TV HD
 0500:427B|Orange-PL|Stopklatka TV
 0500:427C|Orange-PL|Stopklatka TV
-0500:3E1D|Orange-PL|Sundance TV Europe HD
-0500:423B|Orange-PL|Tele 5
-0500:3A9B|Orange-PL|Teletoon HD Polska
-0500:3ACD|Orange-PL|Teletoon HD Polska
-0500:10DE|Orange-PL|TLC Polska HD
-0500:3DD8|Orange-PL|Travel Channel Polska HD
-0500:3DD7|Orange-PL|TTV HD
-0500:3393|Orange-PL|TV 4 HD
-0500:3D66|Orange-PL|TV Puls HD
-0500:4289|Orange-PL|TV Republika HD
-0500:1153|Orange-PL|TVC
-0500:10EA|Orange-PL|TVN 24 BiS HD
-0500:3DD2|Orange-PL|TVN 24 HD
-0500:3DED|Orange-PL|TVN 24 HD
-0500:3DD3|Orange-PL|TVN 7 HD
-0500:3DEB|Orange-PL|TVN 7 HD
-0500:3DD6|Orange-PL|TVN Fabula HD
-0500:3DCD|Orange-PL|TVN HD
-0500:3DCE|Orange-PL|TVN Style HD
-0500:3DCF|Orange-PL|TVN Style HD
-0500:3DD0|Orange-PL|TVN Turbo HD
-0500:3DD1|Orange-PL|TVN Turbo HD
-0500:3ABD|Orange-PL|TVP 1 HD
-0500:3ADB|Orange-PL|TVP 1 HD
-0500:0C22|Orange-PL|TVP 2 HD
-0500:13F7|Orange-PL|TVP 3 Warszawa HD
-0500:3D5F|Orange-PL|TVP ABC
-0500:1138|Orange-PL|TVP HD
-0500:3D67|Orange-PL|TVP Historia
-0500:3D99|Orange-PL|TVP Historia
-0500:1139|Orange-PL|TVP Info HD
-0500:3D59|Orange-PL|TVP Kultura HD
-0500:0E83|Orange-PL|TVP Polonia HD
+0500:427F|Orange-PL|Stars TV
+0500:4280|Orange-PL|Da Vinci Polska
 0500:4288|Orange-PL|TVP Rozrywka
-0500:3D5C|Orange-PL|TVP Seriale HD
-0500:3D8E|Orange-PL|TVP Seriale HD
-0500:3A9E|Orange-PL|TVP Sport HD
-0500:3AD0|Orange-PL|TVP Sport HD
-0500:3D58|Orange-PL|TVS
-0500:2910|Orange-PL|Vox Music TV HD
-0500:3DD5|Orange-PL|Warner TV Polska HD
-0500:290C|Orange-PL|Wydarzenia 24 HD
+0500:4289|Orange-PL|TV Republika
+0500:428D|Orange-PL|4 Fun TV
+0500:428E|Orange-PL|4 Fun Kids
+0500:428F|Orange-PL|4 Fun Dance
 0500:4291|Orange-PL|Zoom TV
+0500:429A|Orange-PL|Polo TV
+0500:429C|Orange-PL|Eska TV
+0500:429D|Orange-PL|Fokus TV
+0500:429E|Orange-PL|Nowa TV
+0500:42C2|Orange-PL|Polo TV
+0500:42C5|Orange-PL|Fokus TV
 
 ## PROVIDER: Kabelio
 ## CAID: 4AFC
 ## PROVID: 000000
-## CREATE: 2025.03.15 11:26:06
-4AFC:0064|Kabelio|3 HD
-4AFC:0065|Kabelio|4 HD
-4AFC:0066|Kabelio|5 HD
-4AFC:00E6|Kabelio|5 HD
-4AFC:0069|Kabelio|6 HD
-4AFC:0142|Kabelio|6ter
-4AFC:00D4|Kabelio|Auftanken TV HD
-4AFC:00E0|Kabelio|BBC Four HD
-4AFC:00DD|Kabelio|BBC One HD
-4AFC:00DF|Kabelio|BBC Three HD
-4AFC:00DE|Kabelio|BBC Two HD
-4AFC:00D5|Kabelio|Blue Zoom D HD
-4AFC:00FC|Kabelio|BVN Europa
-4AFC:00FB|Kabelio|Canale 5 HD
-4AFC:00D0|Kabelio|Carac 1 HD
-4AFC:00E5|Kabelio|Channel 4 UK HD
-4AFC:0084|Kabelio|Das Erste HD
-4AFC:00E7|Kabelio|Film 4 UK HD
-4AFC:012E|Kabelio|France 2 HD
-4AFC:012F|Kabelio|France 3
-4AFC:013A|Kabelio|France 4
-4AFC:0131|Kabelio|France 5
-4AFC:01A2|Kabelio|Gulli
-4AFC:00E1|Kabelio|ITV 1 London HD
-4AFC:00E2|Kabelio|ITV 2 HD
-4AFC:00E3|Kabelio|ITV 3 HD
-4AFC:00E4|Kabelio|ITV 4 HD
-4AFC:007F|Kabelio|Kabel Eins Schweiz HD
-4AFC:0088|Kabelio|Kabelio Infokanal HD
-4AFC:00CF|Kabelio|LASman Bleu TV
-4AFC:0132|Kabelio|M6 HD
-4AFC:00F2|Kabelio|M6 Music HD
+## CREATE: 2025.08.07 11:26:06
+4AFC:0064|Kabelio|3+
+4AFC:0065|Kabelio|4+
+4AFC:0066|Kabelio|5+
+4AFC:0067|Kabelio|TV 24
+4AFC:0068|Kabelio|TV 25
+4AFC:0069|Kabelio|6+
+4AFC:006B|Kabelio|TeleZüri
+4AFC:006C|Kabelio|Puls Acht
+4AFC:006D|Kabelio|ORF 1 Südtirol
+4AFC:006E|Kabelio|ORF 2 Tirol
+4AFC:006F|Kabelio|RTL Schweiz
+4AFC:0070|Kabelio|RTL Zwei Schweiz
+4AFC:0071|Kabelio|Vox Schweiz
+4AFC:0072|Kabelio|Sat. 1 Schweiz
+4AFC:0073|Kabelio|ProSieben Schweiz
+4AFC:0074|Kabelio|ORF III
+4AFC:0075|Kabelio|Servus TV
+4AFC:0076|Kabelio|ORF Sport +
+4AFC:007F|Kabelio|Kabel Eins Schweiz
+4AFC:0082|Kabelio|Toggo Schweiz (05.30-20.15)
+4AFC:0082|Kabelio|RTL Super Schweiz (20.15-05.30)
+4AFC:0084|Kabelio|Das Erste
+4AFC:0085|Kabelio|ZDF
 4AFC:0087|Kabelio|N-TV
-4AFC:006D|Kabelio|ORF 1 SAzdtirol HD
-4AFC:006E|Kabelio|ORF 2 Tirol HD
-4AFC:0074|Kabelio|ORF III HD
-4AFC:0076|Kabelio|ORF Sport HD
-4AFC:0073|Kabelio|ProSieben Schweiz HD
-4AFC:006C|Kabelio|Puls Acht HD
-4AFC:434A|Kabelio|Radio RTR
-4AFC:4345|Kabelio|Radio SRF 1
-4AFC:4358|Kabelio|Radio SRF 1 Aargau Solothurn
-4AFC:4359|Kabelio|Radio SRF 1 Basel Baselland
-4AFC:435A|Kabelio|Radio SRF 1 Bern Freiburg Wallis
-4AFC:435E|Kabelio|Radio SRF 1 GraubAznden
-4AFC:435C|Kabelio|Radio SRF 1 Ostschweiz
-4AFC:435D|Kabelio|Radio SRF 1 ZAzrich Schaffhausen
-4AFC:435B|Kabelio|Radio SRF 1 Zentralschweiz
-4AFC:4346|Kabelio|Radio SRF 2 Kultur
-4AFC:4347|Kabelio|Radio SRF 3
-4AFC:4355|Kabelio|Radio SRF 4 News
-4AFC:4349|Kabelio|Radio SRF Musikwelle
-4AFC:4348|Kabelio|Radio SRF Virus
-4AFC:4352|Kabelio|Radio Swiss Classic Deutsch
-4AFC:4357|Kabelio|Radio Swiss Classic FranAais
-4AFC:435F|Kabelio|Radio Swiss Classic Italiano
-4AFC:4354|Kabelio|Radio Swiss Jazz
-4AFC:4353|Kabelio|Radio Swiss Pop
-4AFC:4337|Kabelio|RSI La 1 HD
-4AFC:4338|Kabelio|RSI La 2 HD
-4AFC:4350|Kabelio|RSI Rete Due
-4AFC:4351|Kabelio|RSI Rete Tre
-4AFC:434F|Kabelio|RSI Rete Uno
-4AFC:00F3|Kabelio|RTL 9 Suisse HD
-4AFC:006F|Kabelio|RTL Schweiz HD
-4AFC:0082|Kabelio|RTL Super Schweiz HD
-4AFC:0070|Kabelio|RTL Zwei Schweiz HD
-4AFC:4333|Kabelio|RTS 1 HD
-4AFC:4334|Kabelio|RTS 2 HD
-4AFC:434D|Kabelio|RTS Couleur 3
-4AFC:434C|Kabelio|RTS Espace 2
-4AFC:434E|Kabelio|RTS Option Musique
-4AFC:434B|Kabelio|RTS PremiAre
-4AFC:00FD|Kabelio|S1 HD
-4AFC:0072|Kabelio|Sat 1 Schweiz HD
-4AFC:00CD|Kabelio|SAzdostschweiz
-4AFC:0075|Kabelio|Servus TV HD
-4AFC:0100|Kabelio|Sky News International
-4AFC:4331|Kabelio|SRF 1 HD
-4AFC:4336|Kabelio|SRF Info HD
-4AFC:4332|Kabelio|SRF Zwei HD
-4AFC:00D3|Kabelio|Swiss 1 HD
-4AFC:00CB|Kabelio|Tele 1
-4AFC:00CE|Kabelio|Tele M1
-4AFC:00C9|Kabelio|TeleBArn
+4AFC:0088|Kabelio|Kabelio Infokanal
+4AFC:00C9|Kabelio|TeleBärn
+4AFC:00C9|Kabelio|TeleBärn
 4AFC:00CA|Kabelio|TeleBasel
-4AFC:006B|Kabelio|TeleZAzri
-4AFC:00F1|Kabelio|TF 1 Suisse HD
-4AFC:00FE|Kabelio|TMC Suisse HD
-4AFC:0067|Kabelio|TV 24 HD
-4AFC:0068|Kabelio|TV 25 HD
-4AFC:0101|Kabelio|TV 8 HD
-4AFC:00CC|Kabelio|TVO
-4AFC:0071|Kabelio|Vox Schweiz HD
+4AFC:00CA|Kabelio|TeleBasel
+4AFC:00CB|Kabelio|Tele 1 (Switzerland)
+4AFC:00CB|Kabelio|Tele 1 (Switzerland)
+4AFC:00CC|Kabelio|TVO (Switzerland)
+4AFC:00CC|Kabelio|TVO (Switzerland)
+4AFC:00CD|Kabelio|Südostschweiz
+4AFC:00CD|Kabelio|Südostschweiz
+4AFC:00CE|Kabelio|Tele M1
+4AFC:00CE|Kabelio|Tele M1
+4AFC:00CF|Kabelio|Léman Bleu TV
+4AFC:00CF|Kabelio|Léman Bleu TV
+4AFC:00D0|Kabelio|Carac 1
+4AFC:00D0|Kabelio|Carac 1
+4AFC:00D3|Kabelio|Swiss 1
+4AFC:00D3|Kabelio|Swiss 1
+4AFC:00D4|Kabelio|Auftanken TV
+4AFC:00D4|Kabelio|Auftanken TV
+4AFC:00D5|Kabelio|Blue Zoom D
+4AFC:00D5|Kabelio|Blue Zoom D
+4AFC:00DD|Kabelio|BBC One
+4AFC:00DD|Kabelio|BBC One
+4AFC:00DE|Kabelio|BBC Two
+4AFC:00DE|Kabelio|BBC Two
+4AFC:00DF|Kabelio|BBC Three (19-04)
+4AFC:00DF|Kabelio|CBBC (07-19)
+4AFC:00DF|Kabelio|BBC Three (19-04)
+4AFC:00DF|Kabelio|CBBC (07-19)
+4AFC:00E0|Kabelio|BBC Four (20-05)
+4AFC:00E0|Kabelio|CBeebies UK (17-20)
+4AFC:00E0|Kabelio|BBC Four (20-05)
+4AFC:00E0|Kabelio|CBeebies UK (17-20)
+4AFC:00E1|Kabelio|ITV 1 London
+4AFC:00E1|Kabelio|ITV 1 London
+4AFC:00E2|Kabelio|ITV 2
+4AFC:00E2|Kabelio|ITV 2
+4AFC:00E3|Kabelio|ITV 3
+4AFC:00E3|Kabelio|ITV 3
+4AFC:00E4|Kabelio|ITV 4
+4AFC:00E4|Kabelio|ITV 4
+4AFC:00E5|Kabelio|Channel 4 UK
+4AFC:00E5|Kabelio|Channel 4 UK
+4AFC:00E6|Kabelio|5
+4AFC:00E6|Kabelio|5
+4AFC:00E7|Kabelio|Film 4 UK (12-05)
+4AFC:00E7|Kabelio|Kronehit TV (05-12)
+4AFC:00E7|Kabelio|Film 4 UK (12-05)
+4AFC:00E7|Kabelio|Kronehit TV (05-12)
+4AFC:00F1|Kabelio|TF 1 Suisse
+4AFC:00F1|Kabelio|TF 1 Suisse
+4AFC:00F2|Kabelio|M6 Music
+4AFC:00F2|Kabelio|M6 Music
+4AFC:00F3|Kabelio|RTL 9 Suisse
+4AFC:00F3|Kabelio|RTL 9 Suisse
+4AFC:00FB|Kabelio|Canale 5
+4AFC:00FB|Kabelio|Canale 5
+4AFC:00FC|Kabelio|BVN Europa
+4AFC:00FC|Kabelio|BVN Europa
+4AFC:00FD|Kabelio|S1
+4AFC:00FD|Kabelio|S1
+4AFC:00FE|Kabelio|TMC Suisse
+4AFC:00FE|Kabelio|TMC Suisse
+4AFC:0100|Kabelio|Sky News International
+4AFC:0100|Kabelio|Sky News International
+4AFC:0101|Kabelio|TV 8 (Italy)
+4AFC:0101|Kabelio|TV 8 (Italy)
+4AFC:0104|Kabelio|WedoTV Movies
+4AFC:0104|Kabelio|WedoTV Movies
+4AFC:0105|Kabelio|WedoTV Sports
+4AFC:0105|Kabelio|WedoTV Sports
+4AFC:0106|Kabelio|WedoTV Big Stories
+4AFC:0106|Kabelio|WedoTV Big Stories
+4AFC:012E|Kabelio|France 2
+4AFC:012F|Kabelio|France 3
+4AFC:0131|Kabelio|France 5
+4AFC:0132|Kabelio|M6
 4AFC:0135|Kabelio|W9
-4AFC:0085|Kabelio|ZDF HD
+4AFC:013A|Kabelio|France 4
+4AFC:0142|Kabelio|6ter
+4AFC:01A2|Kabelio|Gulli
+4AFC:4331|Kabelio|SRF 1
+4AFC:4332|Kabelio|SRF Zwei
+4AFC:4333|Kabelio|RTS 1 (Switzerland)
+4AFC:4334|Kabelio|RTS 2 (Switzerland)
+4AFC:4336|Kabelio|SRF Info
+4AFC:4337|Kabelio|RSI La 1
+4AFC:4338|Kabelio|RSI La 2
 
 ## PROVIDER: Bis-TV-13E
 ## CAID: 0500
 ## PROVID: 033A00,042820,051900,051A40
-## CREATE: 2025.03.15 11:26:07
-0500:0142|Bis-TV-13E|6ter
-0500:01C4|Bis-TV-13E|AB 1
-0500:01CD|Bis-TV-13E|Action HD
-0500:01C6|Bis-TV-13E|Animaux
-0500:0133|Bis-TV-13E|ARTE FranAais HD
-0500:01C5|Bis-TV-13E|Automoto la chaAZne HD
-0500:019F|Bis-TV-13E|BFM TV
-0500:013C|Bis-TV-13E|C News
-0500:01A1|Bis-TV-13E|C Star
-0500:0145|Bis-TV-13E|ChASrie 25
-0500:01C7|Bis-TV-13E|Chasse & PASche
-0500:4206|Bis-TV-13E|Dorcel TV HD
-0500:01A5|Bis-TV-13E|Equidia
-0500:012E|Bis-TV-13E|France 2 HD
+## CREATE: 2025.08.07 11:26:07
+0500:012D|Bis-TV-13E|TF 1
+0500:012E|Bis-TV-13E|France 2
 0500:012F|Bis-TV-13E|France 3
-0500:013A|Bis-TV-13E|France 4
 0500:0131|Bis-TV-13E|France 5
-0500:01A2|Bis-TV-13E|Gulli
-0500:0141|Bis-TV-13E|LAquipe
-0500:0146|Bis-TV-13E|LCI
-0500:0139|Bis-TV-13E|LCP AssemblASe Nationale
-0500:0132|Bis-TV-13E|M6 HD
-0500:01CE|Bis-TV-13E|Mangas
-0500:0144|Bis-TV-13E|RMC DAScouverte
-0500:0143|Bis-TV-13E|RMC Story
-0500:01C3|Bis-TV-13E|RTL 9 HD
-0500:01CF|Bis-TV-13E|Science & Vie TV HD
-0500:01D2|Bis-TV-13E|TASva
-0500:012D|Bis-TV-13E|TF 1 HD
-0500:0140|Bis-TV-13E|TF 1 SASries Films
-0500:0137|Bis-TV-13E|TFX
-0500:0136|Bis-TV-13E|TMC
-0500:01CB|Bis-TV-13E|Toute lHistoire
-0500:01CA|Bis-TV-13E|Trek HD
+0500:0132|Bis-TV-13E|M6
+0500:0133|Bis-TV-13E|ARTE Français
+0500:0134|Bis-TV-13E|T18
 0500:0135|Bis-TV-13E|W9
+0500:0136|Bis-TV-13E|TMC
+0500:0137|Bis-TV-13E|TFX
+0500:0138|Bis-TV-13E|[Novo 19 info card]
+0500:0139|Bis-TV-13E|LCP Assemblée Nationale
+0500:0139|Bis-TV-13E|Public Sénat
+0500:013A|Bis-TV-13E|France 4
+0500:013C|Bis-TV-13E|C News
+0500:0140|Bis-TV-13E|TF 1 Séries Films
+0500:0141|Bis-TV-13E|L'Équipe
+0500:0142|Bis-TV-13E|6ter
+0500:0143|Bis-TV-13E|RMC Story
+0500:0144|Bis-TV-13E|RMC Découverte
+0500:0145|Bis-TV-13E|Chérie 25
+0500:0146|Bis-TV-13E|LCI
+0500:019F|Bis-TV-13E|BFM TV
+0500:01A1|Bis-TV-13E|C Star
+0500:01A2|Bis-TV-13E|Gulli
+0500:01A5|Bis-TV-13E|Equidia
+0500:01C3|Bis-TV-13E|RTL 9
+0500:01C4|Bis-TV-13E|AB 1
+0500:01C5|Bis-TV-13E|Automoto la chaîne
+0500:01C6|Bis-TV-13E|Animaux
+0500:01C7|Bis-TV-13E|Chasse & Pêche
+0500:01CA|Bis-TV-13E|Trek
+0500:01CB|Bis-TV-13E|Toute l'Histoire
+0500:01CD|Bis-TV-13E|Action (France)
+0500:01CE|Bis-TV-13E|Mangas
+0500:01CF|Bis-TV-13E|Science & Vie TV
+0500:01D2|Bis-TV-13E|Téva
 0500:01D4|Bis-TV-13E|XXL TV
+0500:4206|Bis-TV-13E|Dorcel TV
 
 ## PROVIDER: Bis-TV-5W
 ## CAID: 0500
@@ -7030,818 +6704,630 @@
 ## PROVIDER: Vivacom
 ## CAID: 09BD,06E1
 ## PROVID: 000000
-## CREATE: 2025.03.15 11:26:14
-09BD,06E1:001C|Vivacom|24 Kitchen Bulgaria
-09BD,06E1:00D2|Vivacom|78 TV
-09BD,06E1:025B|Vivacom|Action Box
-09BD,06E1:00C8|Vivacom|Agro TV
-09BD,06E1:0076|Vivacom|AMC Balkan
-09BD,06E1:00DF|Vivacom|Animal Planet Europe
-09BD,06E1:13A6|Vivacom|Antena 3 Internacional
-09BD,06E1:00F1|Vivacom|Auto Motor und Sport
-09BD,06E1:000F|Vivacom|Avtoradio
-09BD,06E1:001F|Vivacom|B Radio
-09BD,06E1:00E8|Vivacom|Baby TV Europe
-09BD,06E1:006F|Vivacom|Balkanika Music TV
-09BD,06E1:138C|Vivacom|BeIn Movies Turk
-09BD,06E1:139A|Vivacom|BG
-09BD,06E1:139C|Vivacom|BG Music Channel
-09BD,06E1:000A|Vivacom|BG Radio
-09BD,06E1:0023|Vivacom|Bloomberg TV Bulgaria
-09BD,06E1:0013|Vivacom|BNR Horizont
-09BD,06E1:002C|Vivacom|BNR Horizont
-09BD,06E1:0014|Vivacom|BNR Hristo Botev
-09BD,06E1:0030|Vivacom|BNR Radio Blagoevgrad
-09BD,06E1:0025|Vivacom|BNR Radio Burgas
-09BD,06E1:001B|Vivacom|BNR Radio Kardzali
-09BD,06E1:002D|Vivacom|BNR Radio Plovdiv
-09BD,06E1:0031|Vivacom|BNR Radio Shumen
-09BD,06E1:0032|Vivacom|BNR Radio Sofia
-09BD,06E1:0027|Vivacom|BNR Radio Stara Zagora
-09BD,06E1:0028|Vivacom|BNR Radio Varna
-09BD,06E1:0026|Vivacom|BNR Radio Vidin
-09BD,06E1:0067|Vivacom|BNT 1
-09BD,06E1:0072|Vivacom|BNT 2
-09BD,06E1:0138|Vivacom|BNT 3 HD
-09BD,06E1:0021|Vivacom|BNT 4
-09BD,06E1:00ED|Vivacom|Box TV
-09BD,06E1:0001|Vivacom|BTV
-09BD,06E1:0007|Vivacom|BTV Action
-09BD,06E1:013F|Vivacom|BTV Action HD
-09BD,06E1:0004|Vivacom|BTV Cinema
+## CREATE: 2025.08.07 11:26:14
+09BD,06E1:0001|Vivacom|BTV (Bulgaria)
+09BD,06E1:0002|Vivacom|Nova TV (Bulgaria)
 09BD,06E1:0003|Vivacom|BTV Comedy
-09BD,06E1:013E|Vivacom|BTV HD
+09BD,06E1:0004|Vivacom|BTV Cinema
+09BD,06E1:0005|Vivacom|Nova TV (Bulgaria)
 09BD,06E1:0006|Vivacom|BTV Story
-09BD,06E1:0109|Vivacom|Bulgaria 24
+09BD,06E1:0007|Vivacom|BTV Action
+09BD,06E1:0008|Vivacom|City TV (Bulgaria)
+09BD,06E1:0010|Vivacom|Ring
+09BD,06E1:0015|Vivacom|Star Life Bulgaria
+09BD,06E1:0016|Vivacom|Star Crime Bulgaria
+09BD,06E1:001C|Vivacom|24 Kitchen Bulgaria
+09BD,06E1:001D|Vivacom|VTK BTK
+09BD,06E1:0020|Vivacom|Star Channel Bulgaria
+09BD,06E1:0021|Vivacom|BNT 4 БНТ 4
 09BD,06E1:0022|Vivacom|Bulgaria On Air
-09BD,06E1:00C9|Vivacom|Cartoon Network Bulgaria
-09BD,06E1:00E4|Vivacom|Cartoonito Central & Eastern Europe
-09BD,06E1:008B|Vivacom|Chasse & PASche
-09BD,06E1:0259|Vivacom|Cine Box
-09BD,06E1:1398|Vivacom|Cinemania
-09BD,06E1:0105|Vivacom|Cinemax 2 Central Europe
-09BD,06E1:00E2|Vivacom|Cinemax Central Europe
+09BD,06E1:0023|Vivacom|Bloomberg TV Bulgaria
+09BD,06E1:0024|Vivacom|National Geographic Bulgaria
+09BD,06E1:0029|Vivacom|Plovdivska Pravoslavna TV
+09BD,06E1:002A|Vivacom|National Geographic Wild Europe
+09BD,06E1:0065|Vivacom|Travel Channel Europe
+09BD,06E1:0067|Vivacom|BNT 1 БНТ 1
+09BD,06E1:0068|Vivacom|Dizi
+09BD,06E1:006A|Vivacom|DSTV
+09BD,06E1:006F|Vivacom|Balkanika Music TV
+09BD,06E1:0070|Vivacom|MTV 00s
+09BD,06E1:0071|Vivacom|Investigation Discovery Europe
+09BD,06E1:0072|Vivacom|BNT 2 БНТ 2
+09BD,06E1:0074|Vivacom|Diema Диема
+09BD,06E1:0075|Vivacom|Diema Family Диема Фемили
+09BD,06E1:0076|Vivacom|AMC Balkan
+09BD,06E1:0078|Vivacom|Fantazzy TV (23-05)
+09BD,06E1:0078|Vivacom|Viasat Explore East (05-23)
+09BD,06E1:0079|Vivacom|Viasat History East
+09BD,06E1:007A|Vivacom|Epic Drama
+09BD,06E1:007B|Vivacom|TLC Balkan
+09BD,06E1:007E|Vivacom|Viasat Kino Balkan
+09BD,06E1:007F|Vivacom|Hustler TV Europe
+09BD,06E1:0080|Vivacom|Nickelodeon Europe
+09BD,06E1:0081|Vivacom|MTV 90s
+09BD,06E1:0082|Vivacom|Disney Channel Bulgaria
+09BD,06E1:0083|Vivacom|Disney Jr Romania & Bulgaria
+09BD,06E1:0086|Vivacom|Lovno-Ribarski Klub Ловно-рибарски клуб
+09BD,06E1:0087|Vivacom|Dom Kino Premium Дом кино Премиум
+09BD,06E1:0088|Vivacom|Kino Nova
+09BD,06E1:008B|Vivacom|Chasse & Pêche
+09BD,06E1:008C|Vivacom|History 2 Europe
+09BD,06E1:008D|Vivacom|DW English
+09BD,06E1:008E|Vivacom|Peretz International Перец
+09BD,06E1:008F|Vivacom|Extreme Sports Channel
+09BD,06E1:0092|Vivacom|Nova News
 09BD,06E1:0093|Vivacom|CineStar 1
 09BD,06E1:0094|Vivacom|CineStar Action
-09BD,06E1:0008|Vivacom|City TV
-09BD,06E1:0053|Vivacom|Classic FM
-09BD,06E1:138B|Vivacom|CNN International Europe
-09BD,06E1:139F|Vivacom|Code Health TV
-09BD,06E1:025A|Vivacom|Comedy Box
-09BD,06E1:012E|Vivacom|Crime Investigation UK
-09BD,06E1:1393|Vivacom|Da Vinci
-09BD,06E1:005A|Vivacom|Darik Nostalgie
-09BD,06E1:0017|Vivacom|Darik Radio
-09BD,06E1:0019|Vivacom|Darik Radio Burgas
-09BD,06E1:0057|Vivacom|Darik Radio Kiustendil
-09BD,06E1:0018|Vivacom|Darik Radio Plovdiv
-09BD,06E1:0058|Vivacom|Darik Radio Ruse
-09BD,06E1:0042|Vivacom|Darik Radio Sofia
-09BD,06E1:0046|Vivacom|Darik Radio Stara Zagora
-09BD,06E1:0056|Vivacom|Darik Radio Varna
-09BD,06E1:0059|Vivacom|Darik Radio Vraca
-09BD,06E1:0075|Vivacom|Diema Family HD
-09BD,06E1:0074|Vivacom|Diema HD
-09BD,06E1:014A|Vivacom|Diema Sport 2 HD
-09BD,06E1:0145|Vivacom|Diema Sport 3 HD
-09BD,06E1:0130|Vivacom|Diema Sport HD
-09BD,06E1:13B3|Vivacom|Discovery Channel Bulgaria
-09BD,06E1:0082|Vivacom|Disney Channel Bulgaria
-09BD,06E1:0083|Vivacom|Disney Junior Romania & Bulgaria
-09BD,06E1:0068|Vivacom|Dizi
-09BD,06E1:0136|Vivacom|DM Sat
-09BD,06E1:0087|Vivacom|Dom Kino Premium
-09BD,06E1:0146|Vivacom|Domashniy International
-09BD,06E1:13A0|Vivacom|Dorcel XXX
-09BD,06E1:006A|Vivacom|DSTV
-09BD,06E1:008D|Vivacom|DW English
-09BD,06E1:0104|Vivacom|EKids
-09BD,06E1:1394|Vivacom|English Club TV
-09BD,06E1:001A|Vivacom|Eparkhiiski Glas
-09BD,06E1:007A|Vivacom|Epic Drama
-09BD,06E1:0106|Vivacom|EuroNews Bulgaria
-09BD,06E1:00E9|Vivacom|Eurosport 1
-09BD,06E1:00D7|Vivacom|Eurosport 2
-09BD,06E1:00D8|Vivacom|Evrokom
-09BD,06E1:008F|Vivacom|Extreme Sports Channel
-09BD,06E1:0078|Vivacom|Fantazzy TV
-09BD,06E1:00D6|Vivacom|FashionTV Europe
-09BD,06E1:139B|Vivacom|Fen Folk
-09BD,06E1:00F5|Vivacom|Fen TV
-09BD,06E1:00DE|Vivacom|Fight Klub HD
-09BD,06E1:13A5|Vivacom|FilmBox Arthouse Worldwide
-09BD,06E1:13A9|Vivacom|FilmBox Central Europe
-09BD,06E1:13A4|Vivacom|FilmBox Extra HD Bulgaria
+09BD,06E1:0095|Vivacom|Super Toons Супер Туунс
+09BD,06E1:00C8|Vivacom|Agro TV (Bulgaria)
+09BD,06E1:00C9|Vivacom|Cartoon Network Bulgaria
 09BD,06E1:00CA|Vivacom|FilmBox Stars Adria
-09BD,06E1:00D3|Vivacom|Folklor TV
 09BD,06E1:00CB|Vivacom|Food Network EMEA
-09BD,06E1:1396|Vivacom|Freedom
-09BD,06E1:13B0|Vivacom|HabertAzrk
-09BD,06E1:00E6|Vivacom|HBO 2 Central Europe
-09BD,06E1:00E0|Vivacom|HBO 3 Central Europe
-09BD,06E1:00E5|Vivacom|HBO Adria
-09BD,06E1:0137|Vivacom|HGTV Pan Regional HD
-09BD,06E1:008C|Vivacom|History 2 Europe
-09BD,06E1:010D|Vivacom|History HD Europe
-09BD,06E1:13A1|Vivacom|Hit Mix Channel
-09BD,06E1:007F|Vivacom|Hustler TV Europe
-09BD,06E1:0071|Vivacom|Investigation Discovery Europe
-09BD,06E1:0051|Vivacom|Jazz FM
-09BD,06E1:13AE|Vivacom|Kanal 7 Avrupa
-09BD,06E1:0088|Vivacom|Kino Nova HD
-09BD,06E1:0086|Vivacom|Lovno-Ribarski Klub
-09BD,06E1:003F|Vivacom|Magic FM
-09BD,06E1:010B|Vivacom|Magic TV
-09BD,06E1:00F8|Vivacom|Marquee TV info card
-09BD,06E1:13AC|Vivacom|Max Sport 1 HD
-09BD,06E1:13AD|Vivacom|Max Sport 2 HD
-09BD,06E1:0139|Vivacom|Max Sport 3 HD
-09BD,06E1:138A|Vivacom|Max Sport 4 HD
-09BD,06E1:1390|Vivacom|Mediaset Italia
-09BD,06E1:00F7|Vivacom|Movie Star
-09BD,06E1:0070|Vivacom|MTV 00s
-09BD,06E1:1399|Vivacom|MTV 80s
-09BD,06E1:0081|Vivacom|MTV 90s
-09BD,06E1:00F0|Vivacom|MTV Global
-09BD,06E1:1391|Vivacom|MTV Hits Europe
-09BD,06E1:13B2|Vivacom|Nastoyashcheye Vremya
-09BD,06E1:0024|Vivacom|National Geographic Bulgaria
-09BD,06E1:013C|Vivacom|National Geographic Bulgaria HD
-09BD,06E1:002A|Vivacom|National Geographic Wild Europe
-09BD,06E1:013B|Vivacom|National Geographic Wild Europe HD
-09BD,06E1:1392|Vivacom|Nick Jr Central & Eastern Europe
-09BD,06E1:0080|Vivacom|Nickelodeon Europe
-09BD,06E1:010E|Vivacom|Nicktoons Bulgaria
-09BD,06E1:00DC|Vivacom|Nostalgia
-09BD,06E1:0092|Vivacom|Nova News HD
-09BD,06E1:00D0|Vivacom|Nova Sport
-09BD,06E1:0002|Vivacom|Nova TV
-09BD,06E1:0005|Vivacom|Nova TV HD
-09BD,06E1:000C|Vivacom|NRJ Bulgaria
-09BD,06E1:00E3|Vivacom|Okhota i Rybalka
-09BD,06E1:008E|Vivacom|Peretz International
-09BD,06E1:00E1|Vivacom|Pickbox TV Bulgaria
-09BD,06E1:00D1|Vivacom|Planeta Folk
-09BD,06E1:013D|Vivacom|Planeta HD
-09BD,06E1:0029|Vivacom|Plovdivska Pravoslavna TV
-09BD,06E1:13A8|Vivacom|Private TV
-09BD,06E1:0009|Vivacom|Radio 1
-09BD,06E1:000E|Vivacom|Radio 1 Rock
-09BD,06E1:001E|Vivacom|Radio Bulgaria On Air
-09BD,06E1:000B|Vivacom|Radio City
-09BD,06E1:002F|Vivacom|Radio FM
-09BD,06E1:004C|Vivacom|Radio Focus Burgas
-09BD,06E1:0012|Vivacom|Radio Focus Pirin
-09BD,06E1:0011|Vivacom|Radio Focus Sofia
-09BD,06E1:004D|Vivacom|Radio Focus Varna
-09BD,06E1:003B|Vivacom|Radio Focus Veliko Tarnovo
-09BD,06E1:002E|Vivacom|Radio Fresh!
-09BD,06E1:0040|Vivacom|Radio N-Joy
-09BD,06E1:0054|Vivacom|Radio N-Joy
-09BD,06E1:0043|Vivacom|Radio Nova News
-09BD,06E1:000D|Vivacom|Radio Veronika
-09BD,06E1:005E|Vivacom|Radio Veselina East
-09BD,06E1:005C|Vivacom|Radio Veselina North
-09BD,06E1:003E|Vivacom|Radio Veselina South
-09BD,06E1:005D|Vivacom|Radio Veselina West
-09BD,06E1:003C|Vivacom|Radio Vitosha East
-09BD,06E1:005B|Vivacom|Radio Vitosha West
-09BD,06E1:0041|Vivacom|Radio Z-Rock
-09BD,06E1:0052|Vivacom|Radio Z-Rock
-09BD,06E1:0055|Vivacom|Radio Z-Rock
-09BD,06E1:0010|Vivacom|Ring
-09BD,06E1:0140|Vivacom|Ring HD
-09BD,06E1:010F|Vivacom|Rodina
-09BD,06E1:00D5|Vivacom|RTG International
-09BD,06E1:13AB|Vivacom|RTL Deutschland
-09BD,06E1:13AF|Vivacom|Show Max
-09BD,06E1:138D|Vivacom|Show Turk
-09BD,06E1:00EA|Vivacom|SKAT
-09BD,06E1:13B4|Vivacom|Soul & Pepper TV Channel
-09BD,06E1:0020|Vivacom|Star Channel Bulgaria
-09BD,06E1:0016|Vivacom|Star Crime Bulgaria
-09BD,06E1:0015|Vivacom|Star Life Bulgaria
-09BD,06E1:0144|Vivacom|STS International
-09BD,06E1:0147|Vivacom|STS Kids
-09BD,06E1:0095|Vivacom|Super Toons
-09BD,06E1:003D|Vivacom|The Voice Bulgaria
-09BD,06E1:010A|Vivacom|The Voice TV
-09BD,06E1:139D|Vivacom|The World
 09BD,06E1:00CC|Vivacom|Tiankov Folk
-09BD,06E1:007B|Vivacom|TLC Balkan
-09BD,06E1:0065|Vivacom|Travel Channel Europe
-09BD,06E1:139E|Vivacom|Travel TV
-09BD,06E1:1389|Vivacom|TV 1
-09BD,06E1:007E|Vivacom|TV 1000 Balkan
-09BD,06E1:00DB|Vivacom|TV 1000 Russkoe Kino
-09BD,06E1:010C|Vivacom|TV 8 International
-09BD,06E1:13AA|Vivacom|TV5Monde Europe
-09BD,06E1:0079|Vivacom|Viasat History
+09BD,06E1:00D0|Vivacom|Nova Sport (Bulgaria)
+09BD,06E1:00D1|Vivacom|Planeta Folk Планета Фолк
+09BD,06E1:00D2|Vivacom|7/8 TV
+09BD,06E1:00D3|Vivacom|Folklor TV Фолклор ТВ
 09BD,06E1:00D4|Vivacom|Viasat Nature East
-09BD,06E1:0131|Vivacom|Viasat True Crime
-09BD,06E1:138F|Vivacom|Vivacom Arena HD
+09BD,06E1:00D5|Vivacom|RTG International
+09BD,06E1:00D6|Vivacom|FashionTV Europe
+09BD,06E1:00D7|Vivacom|Eurosport 2
+09BD,06E1:00D8|Vivacom|Evrokom Евроком
+09BD,06E1:00DB|Vivacom|TV 1000 Russkoe Kino
+09BD,06E1:00DC|Vivacom|Nostalgia (Bulgaria)
+09BD,06E1:00DE|Vivacom|Fight Klub
+09BD,06E1:00DF|Vivacom|Animal Planet Europe
+09BD,06E1:00E0|Vivacom|HBO 3 Central Europe
+09BD,06E1:00E1|Vivacom|Pickbox TV Bulgaria
+09BD,06E1:00E2|Vivacom|Cinemax Central Europe
+09BD,06E1:00E3|Vivacom|Okhota i Rybalka Охота и рыбалка
+09BD,06E1:00E4|Vivacom|Cartoonito Central & Eastern Europe
+09BD,06E1:00E5|Vivacom|HBO Adria
+09BD,06E1:00E6|Vivacom|HBO 2 Central Europe
+09BD,06E1:00E8|Vivacom|Baby TV Europe
+09BD,06E1:00E9|Vivacom|Eurosport 1
+09BD,06E1:00EA|Vivacom|SKAT СКАТ
+09BD,06E1:00ED|Vivacom|Box TV
+09BD,06E1:00F0|Vivacom|MTV Global
+09BD,06E1:00F1|Vivacom|Auto Motor und Sport
+09BD,06E1:00F5|Vivacom|Fen TV
+09BD,06E1:00F7|Vivacom|Movie Star
+09BD,06E1:00F8|Vivacom|[Marquee TV info card]
+09BD,06E1:0104|Vivacom|EKids
+09BD,06E1:0105|Vivacom|Cinemax 2 Central Europe
+09BD,06E1:0106|Vivacom|EuroNews Bulgaria
+09BD,06E1:0109|Vivacom|Bulgaria 24 България 24
+09BD,06E1:010A|Vivacom|The Voice TV
+09BD,06E1:010B|Vivacom|Magic TV (Bulgaria)
+09BD,06E1:010C|Vivacom|TV 8 International
+09BD,06E1:010D|Vivacom|History HD Europe
+09BD,06E1:010E|Vivacom|Nicktoons Bulgaria
+09BD,06E1:010F|Vivacom|Rodina
 09BD,06E1:0110|Vivacom|Vivid TV Europe
-09BD,06E1:001D|Vivacom|VTK
-09BD,06E1:13A3|Vivacom|Wness TV
+09BD,06E1:012E|Vivacom|Crime + Investigation UK
+09BD,06E1:0130|Vivacom|Diema Sport
+09BD,06E1:0131|Vivacom|Viasat True Crime
+09BD,06E1:0136|Vivacom|DM Sat
+09BD,06E1:0137|Vivacom|HGTV Pan Regional
+09BD,06E1:0138|Vivacom|BNT 3 БНТ 3
+09BD,06E1:0139|Vivacom|Max Sport 3
+09BD,06E1:013B|Vivacom|National Geographic Wild Europe
+09BD,06E1:013C|Vivacom|National Geographic Bulgaria
+09BD,06E1:013D|Vivacom|Planeta Планета
+09BD,06E1:013E|Vivacom|BTV (Bulgaria)
+09BD,06E1:013F|Vivacom|BTV Action
+09BD,06E1:0140|Vivacom|Ring
+09BD,06E1:0145|Vivacom|Diema Sport 3
+09BD,06E1:0146|Vivacom|Domashniy International Домашний
+09BD,06E1:0147|Vivacom|STS Kids
+09BD,06E1:014A|Vivacom|Diema Sport 2
+09BD,06E1:0259|Vivacom|Cine Box
+09BD,06E1:025A|Vivacom|Comedy Box
+09BD,06E1:025B|Vivacom|Action Box
+09BD,06E1:1389|Vivacom|TV 1 (Bulgaria)
+09BD,06E1:138A|Vivacom|Max Sport 4
+09BD,06E1:138B|Vivacom|CNN International Europe
+09BD,06E1:138C|Vivacom|BeIn Movies Turk
+09BD,06E1:138D|Vivacom|Show Turk
+09BD,06E1:138F|Vivacom|Vivacom Arena
+09BD,06E1:1390|Vivacom|Mediaset Italia
+09BD,06E1:1391|Vivacom|MTV Hits Europe
+09BD,06E1:1392|Vivacom|Nick Jr Central & Eastern Europe
+09BD,06E1:1393|Vivacom|Da Vinci
+09BD,06E1:1394|Vivacom|English Club TV
+09BD,06E1:1396|Vivacom|Freedom
 09BD,06E1:1397|Vivacom|XY Plus
+09BD,06E1:1398|Vivacom|Cinemania (Bulgaria)
+09BD,06E1:1399|Vivacom|MTV 80s
+09BD,06E1:139A|Vivacom|BG+ БГ+
+09BD,06E1:139B|Vivacom|Fen Folk
+09BD,06E1:139C|Vivacom|BG Music Channel
+09BD,06E1:139D|Vivacom|The World
+09BD,06E1:139E|Vivacom|Travel TV Гледай
+09BD,06E1:139F|Vivacom|Code Health TV
+09BD,06E1:13A0|Vivacom|Dorcel XXX
+09BD,06E1:13A1|Vivacom|Hit Mix Music
+09BD,06E1:13A3|Vivacom|Wness TV
+09BD,06E1:13A4|Vivacom|FilmBox Extra HD Bulgaria
+09BD,06E1:13A5|Vivacom|FilmBox Arthouse Worldwide
+09BD,06E1:13A6|Vivacom|Antena 3 Internacional
+09BD,06E1:13A8|Vivacom|Private TV
+09BD,06E1:13A9|Vivacom|FilmBox Central Europe
+09BD,06E1:13AA|Vivacom|TV5Monde Europe
+09BD,06E1:13AB|Vivacom|RTL Deutschland
+09BD,06E1:13AC|Vivacom|Max Sport 1 (Bulgaria)
+09BD,06E1:13AD|Vivacom|Max Sport 2 (Bulgaria)
+09BD,06E1:13AE|Vivacom|Kanal 7 Avrupa
+09BD,06E1:13AF|Vivacom|Show Max
+09BD,06E1:13B0|Vivacom|Habertürk
 09BD,06E1:13B1|Vivacom|Yaban
+09BD,06E1:13B2|Vivacom|Nastoyashcheye Vremya Настоящее Время
+09BD,06E1:13B3|Vivacom|Discovery Channel Bulgaria
+09BD,06E1:13B4|Vivacom|Soul & Pepper TV Channel
 
 ## PROVIDER: Nova
 ## CAID: 0604,0699
 ## PROVID: 000000
-## CREATE: 2025.03.15 11:26:15
-0604,0699:0175|Nova|Action 24
-0604,0699:1BC1|Nova|Adult Pack info card
-0604,0699:1C8A|Nova|Aljazeera English HD
-0604,0699:0151|Nova|Alpha TV HD
-0604,0699:3C9E|Nova|Alpha TV HD
-0604,0699:01A2|Nova|Animal Planet Africa HD
-0604,0699:3332|Nova|Arirang World HD
-0604,0699:0133|Nova|ARTE FranAais HD
-0604,0699:3C98|Nova|Attica TV
-0604,0699:1C86|Nova|Bloomberg TV Europe
-0604,0699:114A|Nova|Blue Hustler Europe
-0604,0699:3C9F|Nova|Blue Sky
-0604,0699:0168|Nova|BNT 4
-0604,0699:1BD2|Nova|Cartoonito Middle East HD
-0604,0699:06AA|Nova|CGTN
-0604,0699:3B6D|Nova|CNN International Europe HD
-0604,0699:012F|Nova|Cosmote Sport 1 HD
-0604,0699:3C9D|Nova|Cosmote Sport 1 HD
-0604,0699:1BD3|Nova|Cosmote Sport 2 HD
-0604,0699:0165|Nova|Cosmote Sport 3 HD
-0604,0699:1BCB|Nova|Cosmote Sport 4 HD
-0604,0699:1BCC|Nova|Cosmote Sport 5 HD
-0604,0699:1BCE|Nova|Cosmote Sport 6 HD
-0604,0699:3C93|Nova|Cosmote Sport 7 HD
-0604,0699:3C94|Nova|Cosmote Sport 8 HD
-0604,0699:3C96|Nova|Cosmote Sport 9 HD
-0604,0699:0193|Nova|Cosmote Sport Highlights HD
-0604,0699:025E|Nova|Crime Investigation UK
-0604,0699:0172|Nova|Da Vinci HD
-0604,0699:0186|Nova|Da Vinci HD
-0604,0699:015F|Nova|Discovery Channel Europe HD
-0604,0699:01A1|Nova|Disney Channel Middle East
-0604,0699:01A3|Nova|Disney Channel Middle East
-0604,0699:019E|Nova|Disney Junior Middle East
-0604,0699:4206|Nova|Dorcel TV HD
-0604,0699:1BC0|Nova|Duck TV SD
-0604,0699:3C97|Nova|E! Europe HD
-0604,0699:0136|Nova|Ecclesia Radio
-0604,0699:1BC8|Nova|Epic Drama HD
-0604,0699:017A|Nova|ERT 1 HD
-0604,0699:0185|Nova|ERT 2 HD
-0604,0699:0183|Nova|ERT 3 HD
-0604,0699:1BBD|Nova|ERT News
+## CREATE: 2025.08.07 11:26:15
+0604,0699:0001|Nova|MTV Live
+0604,0699:0133|Nova|ARTE Français
 0604,0699:0139|Nova|ERT World
-0604,0699:0161|Nova|ERT World
-0604,0699:3C9C|Nova|EuroNews Ellinika
-0604,0699:0321|Nova|EuroNews English HD
-0604,0699:07E1|Nova|EuroNews Italiano
-0604,0699:02EF|Nova|Eurosport 1 HD
-0604,0699:02F2|Nova|Eurosport 2 HD
-0604,0699:0BC2|Nova|FashionTV Europe
-0604,0699:3C9A|Nova|Food Network EMEA HD
-0604,0699:0328|Nova|France 24 English HD
-0604,0699:0327|Nova|France 24 FranAais HD
-0604,0699:025A|Nova|FX Greece HD
-0604,0699:0259|Nova|FX Life Greece HD
-0604,0699:016A|Nova|History Europe HD
-0604,0699:1148|Nova|Hustler HD Europe
-0604,0699:013C|Nova|I Foni tis Elladas
-0604,0699:016D|Nova|I Foni tis Elladas
-0604,0699:019D|Nova|IDJ Kids HD
-0604,0699:025D|Nova|Inplus HD
-0604,0699:016B|Nova|Kontra
-0604,0699:0135|Nova|Love Radio 975
-0604,0699:013B|Nova|Mad Greekz
-0604,0699:1BCD|Nova|Mad Radio 1062
-0604,0699:0179|Nova|Mad TV
-0604,0699:0138|Nova|Melodia 992
-0604,0699:0191|Nova|MTV 00s
-0604,0699:0196|Nova|MTV Global
-0604,0699:0192|Nova|MTV Hits Europe
-0604,0699:0001|Nova|MTV Live HD
-0604,0699:025B|Nova|MyZen TV HD
-0604,0699:0160|Nova|Naftemporiki TV HD
-0604,0699:025F|Nova|National Geographic Ellada HD
-0604,0699:0195|Nova|National Geographic Wild Europe HD
 0604,0699:013A|Nova|Nickelodeon Greece
-0604,0699:3C95|Nova|Nova Cinema 1 HD
-0604,0699:1BCA|Nova|Nova Cinema 2 HD
-0604,0699:1BC2|Nova|Nova Cinema 3 HD
-0604,0699:016E|Nova|Nova Cinema 4 HD
-0604,0699:0170|Nova|Nova Life HD
-0604,0699:0197|Nova|Nova Sports 1 HD
-0604,0699:3C90|Nova|Nova Sports 2 HD
-0604,0699:014B|Nova|Nova Sports 3 HD
-0604,0699:3CA0|Nova|Nova Sports 3 HD
-0604,0699:0162|Nova|Nova Sports 4 HD
-0604,0699:0143|Nova|Nova Sports 5 HD
-0604,0699:01A0|Nova|Nova Sports 5 HD
-0604,0699:0199|Nova|Nova Sports 6 HD
-0604,0699:0169|Nova|Nova Sports Extra 1 HD
-0604,0699:013E|Nova|Nova Sports Extra 2 HD
-0604,0699:0198|Nova|Nova Sports Extra 2 HD
-0604,0699:017D|Nova|Nova Sports Extra 3 HD
-0604,0699:1BBE|Nova|Nova Sports Extra 4 HD
-0604,0699:1BC4|Nova|Nova Sports News HD
-0604,0699:019F|Nova|Nova Sports Premier League HD
-0604,0699:01A4|Nova|Nova Sports Prime HD
-0604,0699:019B|Nova|Nova Sports Start HD
-0604,0699:3C8E|Nova|Nova Stars HD
-0604,0699:025C|Nova|Number 1 Greece HD
-0604,0699:1BC5|Nova|One Channel HD
-0604,0699:0166|Nova|Open Beyond TV HD
-0604,0699:0176|Nova|Parapolitika 901 FM
-0604,0699:114B|Nova|Private TV HD
-0604,0699:016C|Nova|Real FM
-0604,0699:4224|Nova|Redlight HD
-0604,0699:0137|Nova|SKAA 1003 FM
-0604,0699:017F|Nova|SKAA HD
-0604,0699:0149|Nova|Smile TV
-0604,0699:01A7|Nova|Smile TV
-0604,0699:017B|Nova|Spor FM
-0604,0699:3C91|Nova|Star Channel HD
-0604,0699:0174|Nova|Sto Kokkino
+0604,0699:013B|Nova|Mad Greekz
+0604,0699:015F|Nova|Discovery Channel Europe
+0604,0699:0160|Nova|Naftemporiki TV
+0604,0699:0162|Nova|Nova Sports 4
+0604,0699:0165|Nova|Cosmote Sport 3
+0604,0699:0166|Nova|Open Beyond TV
+0604,0699:0168|Nova|BNT 4 БНТ 4
+0604,0699:0169|Nova|Nova Sports Extra 1
+0604,0699:016A|Nova|History Europe
+0604,0699:016B|Nova|Kontra
+0604,0699:016E|Nova|Nova Cinema 4
+0604,0699:0170|Nova|Nova Life
+0604,0699:0172|Nova|Da Vinci
+0604,0699:0175|Nova|Action 24
+0604,0699:0179|Nova|Mad TV
+0604,0699:017A|Nova|ERT 1 ΕΡΤ 1
+0604,0699:017D|Nova|Nova Sports Extra 3
+0604,0699:017F|Nova|SKAÏ
+0604,0699:0180|Nova|Vouli TV Βουλή TV
+0604,0699:0183|Nova|ERT 3 ΕΡΤ 3
+0604,0699:0185|Nova|ERT 2 ΕΡΤ 2
+0604,0699:0186|Nova|Da Vinci
+0604,0699:0191|Nova|MTV 00s
+0604,0699:0192|Nova|MTV Hits Europe
+0604,0699:0193|Nova|Cosmote Sport Highlights
+0604,0699:0194|Nova|Travel Channel Europe
+0604,0699:0195|Nova|National Geographic Wild Europe
+0604,0699:0196|Nova|MTV Global
+0604,0699:0197|Nova|Nova Sports 1
+0604,0699:0198|Nova|Nova Sports Extra 2
+0604,0699:0199|Nova|Nova Sports 6
+0604,0699:019B|Nova|Nova Sports Start
+0604,0699:019D|Nova|IDJ Kids
+0604,0699:019E|Nova|Disney Jr Middle East
+0604,0699:019F|Nova|Nova Sports Premier League
+0604,0699:01A0|Nova|Nova Sports 5
+0604,0699:01A1|Nova|Disney Channel Middle East
+0604,0699:01A2|Nova|Animal Planet Africa
+0604,0699:01A3|Nova|Disney Channel Middle East
+0604,0699:01A4|Nova|Nova Sports Prime
+0604,0699:01A7|Nova|Smile TV (Greece)
+0604,0699:0259|Nova|FX Life Greece
+0604,0699:025A|Nova|FX Greece
+0604,0699:025B|Nova|MyZen TV
+0604,0699:025C|Nova|Number 1 Greece
+0604,0699:025D|Nova|Inplus
+0604,0699:025E|Nova|Crime + Investigation UK
+0604,0699:025F|Nova|National Geographic Ellada
+0604,0699:0260|Nova|Viasat History East
+0604,0699:0261|Nova|Viasat Nature East
+0604,0699:0262|Nova|Viasat Explore East
+0604,0699:02EF|Nova|Eurosport 1
+0604,0699:02F2|Nova|Eurosport 2
+0604,0699:0321|Nova|EuroNews English
+0604,0699:0327|Nova|France 24 Français
+0604,0699:0328|Nova|France 24 English
+0604,0699:06AA|Nova|CGTN
+0604,0699:07E1|Nova|EuroNews Italiano
+0604,0699:0BC2|Nova|FashionTV Europe
+0604,0699:1148|Nova|Hustler HD Europe
+0604,0699:114A|Nova|Blue Hustler Europe
+0604,0699:114B|Nova|Private TV
+0604,0699:1BBD|Nova|ERT News
+0604,0699:1BBE|Nova|Nova Sports Extra 4
+0604,0699:1BC0|Nova|Duck TV SD
+0604,0699:1BC1|Nova|[Adult Pack info card]
+0604,0699:1BC2|Nova|Nova Cinema 3
+0604,0699:1BC4|Nova|Nova Sports News
+0604,0699:1BC5|Nova|One Channel
+0604,0699:1BC8|Nova|Epic Drama
+0604,0699:1BCA|Nova|Nova Cinema 2
+0604,0699:1BCB|Nova|Cosmote Sport 4
+0604,0699:1BCC|Nova|Cosmote Sport 5
+0604,0699:1BCE|Nova|Cosmote Sport 6
+0604,0699:1BD2|Nova|Cartoonito Middle East
+0604,0699:1BD3|Nova|Cosmote Sport 2
+0604,0699:1C86|Nova|Bloomberg TV Europe
+0604,0699:1C8A|Nova|Aljazeera English
+0604,0699:3332|Nova|Arirang World
+0604,0699:3B6D|Nova|CNN International Europe
+0604,0699:3C8E|Nova|Nova Stars
+0604,0699:3C90|Nova|Nova Sports 2
+0604,0699:3C91|Nova|Star Channel (Greece)
 0604,0699:3C92|Nova|TLC Pan Regional
-0604,0699:0194|Nova|Travel Channel Europe HD
-0604,0699:0262|Nova|Viasat Explore HD
-0604,0699:0260|Nova|Viasat History HD
-0604,0699:0261|Nova|Viasat Nature HD
-0604,0699:0180|Nova|Vouli TV
+0604,0699:3C93|Nova|Cosmote Sport 7
+0604,0699:3C94|Nova|Cosmote Sport 8
+0604,0699:3C95|Nova|Nova Cinema 1
+0604,0699:3C96|Nova|Cosmote Sport 9
+0604,0699:3C97|Nova|E! Europe
+0604,0699:3C98|Nova|Attica TV
+0604,0699:3C9A|Nova|Food Network EMEA
+0604,0699:3C9C|Nova|EuroNews Ellinika
+0604,0699:3C9D|Nova|Cosmote Sport 1
+0604,0699:3C9E|Nova|Alpha TV
+0604,0699:3C9F|Nova|Blue Sky
+0604,0699:3CA0|Nova|Nova Sports 3
+0604,0699:4206|Nova|Dorcel TV
+0604,0699:4224|Nova|Redlight HD
+0604,0699:4230|Nova|Brazzers TV Europe
 
 ## PROVIDER: SkyIT
 ## CAID: 09CD
 ## PROVID: 000000
-## CREATE: 2025.03.15 11:26:16
-09CD:0078|SkyIT|20 Mediaset HD
-09CD:0087|SkyIT|27 Twentyseven HD
-09CD:064D|SkyIT|ACI Sport TV HD
-09CD:1C8A|SkyIT|Aljazeera English HD
-09CD:4244|SkyIT|Arte Atelier
-09CD:1381|SkyIT|Arte Investimenti HD
-09CD:42EA|SkyIT|BBC News Europe
-09CD:3348|SkyIT|BBC World Service English Europe
-09CD:1006|SkyIT|Bike Channel HD
-09CD:1C86|SkyIT|Bloomberg TV Europe
-09CD:2C4F|SkyIT|Boomerang Italia 1
-09CD:3C07|SkyIT|Boomerang Italia HD
-09CD:3BF0|SkyIT|Caccia
-09CD:2147|SkyIT|Camera dei Deputati
-09CD:007A|SkyIT|Canale 5 HD
-09CD:2C5B|SkyIT|Cartoon Network Italia 1
-09CD:37B2|SkyIT|Cartoon Network Italia HD
-09CD:38C9|SkyIT|Cento X Cento TV
-09CD:1018|SkyIT|Cielo HD
-09CD:006F|SkyIT|Cine 34 HD
-09CD:0599|SkyIT|Class CNBC
-09CD:422D|SkyIT|Class TV Moda HD
-09CD:1C4D|SkyIT|CNBC Europe HD
-09CD:2BCB|SkyIT|CNN International Europe
-09CD:057C|SkyIT|Comedy Central Italia
-09CD:38C5|SkyIT|Comedy Central Italia 1
-09CD:0526|SkyIT|Daystar TV HD
-09CD:0DEE|SkyIT|DAZN 1 Italia HD
-09CD:0DCF|SkyIT|DAZN 2 Italia HD
-09CD:2C31|SkyIT|DeA Junior
-09CD:2CC4|SkyIT|DeA Kids
-09CD:0FBF|SkyIT|DeA Kids 1
-09CD:02E1|SkyIT|Dimensione Suono Roma
-09CD:02FF|SkyIT|Dimensione Suono Soft Centro
-09CD:0300|SkyIT|DiscoRadio
-09CD:2C3A|SkyIT|Discovery Channel Italia 1
-09CD:1015|SkyIT|Discovery Channel Italia HD
-09CD:3B62|SkyIT|DMAX Italia HD
-09CD:38FA|SkyIT|Dorcel Club
-09CD:4243|SkyIT|Equ TV HD
-09CD:07E1|SkyIT|EuroNews Italiano
-09CD:0F4F|SkyIT|Eurosport 1 Italia HD
-09CD:1036|SkyIT|Eurosport 2 Italia HD
-09CD:29D1|SkyIT|EWTN Europe
-09CD:0BC2|SkyIT|FashionTV Europe
-09CD:0086|SkyIT|Focus HD
-09CD:3B63|SkyIT|Food Network Italia HD
-09CD:38D0|SkyIT|Fox Business
-09CD:1FA7|SkyIT|Fox News Channel
-09CD:0328|SkyIT|France 24 English HD
-09CD:0327|SkyIT|France 24 FranAais HD
-09CD:3B65|SkyIT|Frisbee
-09CD:2FC4|SkyIT|Gambero Rosso Channel HD
-09CD:10E2|SkyIT|Giallo HD
-09CD:2336|SkyIT|Go-TV Channel
-09CD:10EE|SkyIT|HGTV Italia HD
-09CD:0DEF|SkyIT|History Italia 1
-09CD:0DB9|SkyIT|History Italia HD
-09CD:422E|SkyIT|Horse TV HD
-09CD:2BA6|SkyIT|InBlu 2000
-09CD:250F|SkyIT|Inter TV HD
-09CD:007C|SkyIT|Iris HD
-09CD:0079|SkyIT|Italia 1 HD
-09CD:0082|SkyIT|Italia 2 HD
-09CD:0642|SkyIT|Italian Fishing TV
-09CD:3B64|SkyIT|K2
-09CD:4250|SkyIT|Kiss Kiss TV HD
-09CD:007F|SkyIT|La 5 HD
-09CD:004F|SkyIT|La 7 HD
-09CD:0049|SkyIT|La 7d HD
-09CD:0E45|SkyIT|M2o
-09CD:0081|SkyIT|Mediaset Extra HD
-09CD:37B5|SkyIT|Milan TV
-09CD:10E1|SkyIT|Motor Trend HD
-09CD:1E53|SkyIT|MTV Italia HD
-09CD:0594|SkyIT|MTV Music Italia
-09CD:132E|SkyIT|New Jerusalem
-09CD:0215|SkyIT|NHK World Japan HD
-09CD:0590|SkyIT|Nick Jr Italia
-09CD:0FC6|SkyIT|Nick Jr Italia 1
-09CD:2C38|SkyIT|Nickelodeon Italia
-09CD:38C4|SkyIT|Nickelodeon Italia 1
-09CD:2152|SkyIT|No Name Radio
-09CD:10E3|SkyIT|Nove HD
-09CD:232D|SkyIT|Orler TV
-09CD:4238|SkyIT|Padre Pio TV HD
+## CREATE: 2025.08.07 11:26:16
+09CD:0049|SkyIT|La 7d
+09CD:004F|SkyIT|La 7
+09CD:006F|SkyIT|Cine 34
+09CD:0076|SkyIT|Virgin Radio TV
+09CD:0077|SkyIT|Radio Monte Carlo TV
+09CD:0078|SkyIT|20 Mediaset
+09CD:0079|SkyIT|Italia 1
+09CD:007A|SkyIT|Canale 5
+09CD:007B|SkyIT|Rete 4
+09CD:007C|SkyIT|Iris
+09CD:007F|SkyIT|La 5
+09CD:0080|SkyIT|TGCom 24
+09CD:0081|SkyIT|Mediaset Extra
+09CD:0082|SkyIT|Italia 2
+09CD:0084|SkyIT|Top Crime (Italy)
+09CD:0086|SkyIT|Focus
+09CD:0087|SkyIT|27 Twentyseven
 09CD:01FE|SkyIT|Parole di Vita
+09CD:0201|SkyIT|Radio Norba TV
+09CD:0202|SkyIT|RTL 102.5 RadioVisione
+09CD:0203|SkyIT|Radio Freccia TV
+09CD:0204|SkyIT|Radio Zeta Radiovisione
+09CD:0205|SkyIT|RTL 102.5 Caliente
+09CD:0206|SkyIT|ReteSette
+09CD:0215|SkyIT|NHK World Japan
+09CD:0327|SkyIT|France 24 Français
+09CD:0328|SkyIT|France 24 English
+09CD:051B|SkyIT|RTL 102.5 RadioVisione
+09CD:051C|SkyIT|Radio Freccia TV
+09CD:051F|SkyIT|Radio Norba TV
+09CD:0526|SkyIT|Daystar TV
+09CD:0529|SkyIT|Radio Zeta Radiovisione
+09CD:052B|SkyIT|RTL 102.5 Caliente
+09CD:0530|SkyIT|ReteSette
+09CD:057C|SkyIT|Comedy Central Italia
+09CD:0590|SkyIT|Nick Jr Italia
+09CD:0594|SkyIT|MTV Music Italia
+09CD:0599|SkyIT|Class CNBC
+09CD:059A|SkyIT|Value 24 TV
+09CD:064D|SkyIT|ACI Sport TV
+09CD:07D4|SkyIT|Vatican Media
+09CD:07E1|SkyIT|EuroNews Italiano
+09CD:0BC2|SkyIT|FashionTV Europe
+09CD:0D49|SkyIT|Rai 1
+09CD:0D4A|SkyIT|Rai 2
+09CD:0D4B|SkyIT|Rai 3
+09CD:0DB9|SkyIT|History Italia
+09CD:0DBF|SkyIT|Sky TG 24
+09CD:0DCF|SkyIT|DAZN 2 Italia
+09CD:0DE7|SkyIT|Sky Sport Tennis
+09CD:0DE9|SkyIT|Sky Sport Business 1
+09CD:0DEA|SkyIT|Sky Sport Business 2
+09CD:0DEC|SkyIT|Sky Cinema Due
+09CD:0DED|SkyIT|Sky Sport Business 3
+09CD:0DEE|SkyIT|DAZN 1 Italia
+09CD:0DEF|SkyIT|History Italia +1
+09CD:0DF0|SkyIT|Super!
+09CD:0DFA|SkyIT|Sky Sport Legend
+09CD:0DFB|SkyIT|Sky Sport Mix
+09CD:0F46|SkyIT|Sky Sport 5
+09CD:0F48|SkyIT|Sky Sport 6
+09CD:0F4D|SkyIT|Sky Sport
+09CD:0F5D|SkyIT|Sky Investigation +1
+09CD:0F6F|SkyIT|Sky Sport 2
+09CD:0F79|SkyIT|Sky Adventure
+09CD:0FBF|SkyIT|DeA Kids +1
+09CD:0FC6|SkyIT|Nick Jr Italia +1
+09CD:1006|SkyIT|Bike Channel
+09CD:1016|SkyIT|Prime Video Sportsbar Italia
+09CD:1018|SkyIT|Cielo
+09CD:101C|SkyIT|Sky Crime +1
+09CD:1020|SkyIT|Sky Crime
+09CD:104A|SkyIT|Sky Classica
+09CD:106A|SkyIT|Sky Cinema Uno
+09CD:106C|SkyIT|Sky Cinema Collection
+09CD:106E|SkyIT|Sky Cinema Action
+09CD:1089|SkyIT|Sky Sport 3
+09CD:108A|SkyIT|Sky Sport 4
+09CD:1090|SkyIT|Sky Serie +1
+09CD:10E1|SkyIT|Sky Meteo 24
+09CD:10E8|SkyIT|Sky TG 24 Primo Piano
 09CD:10FE|SkyIT|Pesca
-09CD:1016|SkyIT|Prime Video Sportsbar Italia HD
-09CD:4253|SkyIT|QVC Italia HD
-09CD:0065|SkyIT|R101
-09CD:0069|SkyIT|Radio 105
-09CD:0E3C|SkyIT|Radio 24
-09CD:0E44|SkyIT|Radio Capital
-09CD:0E43|SkyIT|Radio Deejay
-09CD:02E0|SkyIT|Radio Dimensione Suono
-09CD:0E2E|SkyIT|Radio Freccia
-09CD:051C|SkyIT|Radio Freccia TV HD
-09CD:135B|SkyIT|Radio Gamma Stereo
-09CD:0E46|SkyIT|Radio Iglesias
-09CD:2B7B|SkyIT|Radio InBlu
-09CD:0E30|SkyIT|Radio Italia
-09CD:02E2|SkyIT|Radio Italia Anni 60
-09CD:4246|SkyIT|Radio Italia Trend TV HD
-09CD:4242|SkyIT|Radio Italia TV HD
-09CD:02E6|SkyIT|Radio Kiss Kiss
-09CD:135D|SkyIT|Radio Margherita
-09CD:02DC|SkyIT|Radio Maria Italia
-09CD:0066|SkyIT|Radio Monte Carlo
-09CD:0077|SkyIT|Radio Monte Carlo TV HD
-09CD:051F|SkyIT|Radio Norba TV HD
-09CD:4255|SkyIT|Radio Number One
-09CD:02E8|SkyIT|Radio Padre Pio
-09CD:0E48|SkyIT|Radio Popolare
-09CD:02F9|SkyIT|Radio Radicale
-09CD:1C57|SkyIT|Radio San Marino
-09CD:0E35|SkyIT|Radio Sportiva
-09CD:006A|SkyIT|Radio Subasio
-09CD:135A|SkyIT|Radio Supersound
-09CD:435F|SkyIT|Radio Swiss Classic Italiano
-09CD:4354|SkyIT|Radio Swiss Jazz
-09CD:4353|SkyIT|Radio Swiss Pop
-09CD:110E|SkyIT|Radio Vaticana Europa
-09CD:0E3B|SkyIT|Radio Zeta FM
-09CD:0529|SkyIT|Radio Zeta Radiovisione HD
-09CD:0D49|SkyIT|Rai 1 HD
-09CD:0D4A|SkyIT|Rai 2 HD
-09CD:0D4B|SkyIT|Rai 3 HD
-09CD:214D|SkyIT|Rai Gr Parlamento
-09CD:4530|SkyIT|Rai Gulp HD
-09CD:214E|SkyIT|Rai Isoradio
-09CD:452F|SkyIT|Rai News 24 HD
-09CD:0D71|SkyIT|Rai Radio 1
-09CD:2155|SkyIT|Rai Radio 1 Sport
-09CD:0D72|SkyIT|Rai Radio 2
-09CD:0D73|SkyIT|Rai Radio 3
-09CD:214C|SkyIT|Rai Radio 3 Classica
-09CD:2151|SkyIT|Rai Radio Kids
-09CD:2150|SkyIT|Rai Radio Live Napoli
-09CD:214F|SkyIT|Rai Radio Techete
-09CD:2153|SkyIT|Rai Radio Tutta Italiana
-09CD:2149|SkyIT|Rai Scuola HD
-09CD:4532|SkyIT|Rai Sport HD
-09CD:2146|SkyIT|Rai Storia HD
-09CD:424F|SkyIT|RDS Social TV HD
-09CD:3B61|SkyIT|Real Time Italia HD
-09CD:007B|SkyIT|Rete 4 HD
-09CD:0530|SkyIT|ReteSette HD
-09CD:334A|SkyIT|RFI FranAais
-09CD:4350|SkyIT|RSI Rete Due
-09CD:4351|SkyIT|RSI Rete Tre
-09CD:434F|SkyIT|RSI Rete Uno
-09CD:0E3A|SkyIT|RTL 1025
-09CD:052B|SkyIT|RTL 1025 Caliente HD
-09CD:051B|SkyIT|RTL 1025 RadioVisione HD
-09CD:1C56|SkyIT|San Marino RTV HD
-09CD:39D9|SkyIT|SBN International
-09CD:2B42|SkyIT|Sky Arte HD
-09CD:2D00|SkyIT|Sky Atlantic 1 HD
-09CD:3792|SkyIT|Sky Atlantic HD
-09CD:106E|SkyIT|Sky Cinema Action HD
-09CD:106C|SkyIT|Sky Cinema Collection HD
-09CD:2B16|SkyIT|Sky Cinema Comedy HD
-09CD:1E59|SkyIT|Sky Cinema Drama HD
-09CD:1E63|SkyIT|Sky Cinema Due 24 HD
-09CD:0DEC|SkyIT|Sky Cinema Due HD
-09CD:1C3F|SkyIT|Sky Cinema Romance HD
-09CD:2B27|SkyIT|Sky Cinema Suspense HD
-09CD:1C38|SkyIT|Sky Cinema Uno 24 HD
-09CD:106A|SkyIT|Sky Cinema Uno HD
-09CD:104A|SkyIT|Sky Classica HD
-09CD:109A|SkyIT|Sky Classica HD
-09CD:101C|SkyIT|Sky Crime 1 HD
-09CD:1020|SkyIT|Sky Crime HD
-09CD:0F58|SkyIT|Sky Documentaries 1 HD
-09CD:2DB1|SkyIT|Sky Documentaries HD
-09CD:2C2B|SkyIT|Sky info card
-09CD:0F5D|SkyIT|Sky Investigation 1 HD
-09CD:2DA6|SkyIT|Sky Investigation HD
-09CD:2DAF|SkyIT|Sky Nature HD
+09CD:110D|SkyIT|TV 2000
+09CD:1200|SkyIT|Daystar TV
+09CD:132E|SkyIT|New Jerusalem
+09CD:1381|SkyIT|Arte Investimenti
+09CD:1382|SkyIT|Telecupole
+09CD:1384|SkyIT|Sportitalia SoloCalcio
+09CD:1C29|SkyIT|Sky Sport Calcio
+09CD:1C38|SkyIT|Sky Cinema Uno +24
+09CD:1C3F|SkyIT|Sky Cinema Romance
+09CD:1C4D|SkyIT|CNBC Europe
+09CD:1C50|SkyIT|Sky Sport Max
+09CD:1C56|SkyIT|San Marino RTV
+09CD:1C57|SkyIT|Sky Cinema Family
+09CD:1C5C|SkyIT|TV 8 (Italy)
+09CD:1C73|SkyIT|TG Norba 24
+09CD:1C86|SkyIT|Bloomberg TV Europe
+09CD:1C8A|SkyIT|Aljazeera English
+09CD:1E53|SkyIT|MTV Italia
+09CD:1E54|SkyIT|Sky Sport Basket
+09CD:1E58|SkyIT|Sky Sport Golf
+09CD:1E59|SkyIT|Sky Cinema Drama
+09CD:1E5C|SkyIT|Sky Sport 8
+09CD:1E5F|SkyIT|Sky Sport 7
+09CD:1E63|SkyIT|Sky Cinema Due +24
+09CD:1FA7|SkyIT|Fox News Channel
 09CD:1FAC|SkyIT|Sky News International
+09CD:2146|SkyIT|Rai Storia
+09CD:2147|SkyIT|Camera dei Deputati
+09CD:2149|SkyIT|Rai Scuola
+09CD:232D|SkyIT|Orler TV
+09CD:2336|SkyIT|Go-TV Channel
+09CD:2505|SkyIT|Sky Uno
+09CD:2506|SkyIT|Sky Sport F1
+09CD:250B|SkyIT|Sky Sport Moto GP
+09CD:250F|SkyIT|Inter TV
+09CD:29D1|SkyIT|EWTN Europe
+09CD:2B0F|SkyIT|Sky Sport Uno
+09CD:2B10|SkyIT|Sky Sport Arena
+09CD:2B16|SkyIT|Sky Cinema Comedy
+09CD:2B1B|SkyIT|Sky Sport 24
+09CD:2B27|SkyIT|Sky Cinema Suspense
+09CD:2B42|SkyIT|Sky Arte
+09CD:2BCB|SkyIT|CNN International Europe
+09CD:2C29|SkyIT|Super Tennis
+09CD:2C2B|SkyIT|[Sky info card]
+09CD:2C2F|SkyIT|[Sky Sport info card]
+09CD:2C31|SkyIT|DeA Junior
+09CD:2C38|SkyIT|Nickelodeon Italia
+09CD:2C4F|SkyIT|Boomerang Italia +1
+09CD:2C5B|SkyIT|Cartoon Network Italia +1
+09CD:2CC4|SkyIT|DeA Kids
+09CD:2D5D|SkyIT|Sky Sport 9
+09CD:2D6C|SkyIT|Sky Sport 4K
+09CD:2DA4|SkyIT|Sky Serie
+09CD:2DA6|SkyIT|Sky Investigation
+09CD:2DAF|SkyIT|Sky Nature
+09CD:2DB1|SkyIT|Sky Documentaries
+09CD:2FC4|SkyIT|Gambero Rosso Channel
+09CD:3330|SkyIT|BBC News Europe
+09CD:341E|SkyIT|Sky Primafila 5
 09CD:3421|SkyIT|Sky Primafila 3
 09CD:3423|SkyIT|Sky Primafila 4
-09CD:341E|SkyIT|Sky Primafila 5
-09CD:1090|SkyIT|Sky Serie 1 HD
-09CD:2DA4|SkyIT|Sky Serie HD
-09CD:0F6F|SkyIT|Sky Sport 2 HD
-09CD:2B1B|SkyIT|Sky Sport 24 HD
-09CD:1089|SkyIT|Sky Sport 3 HD
-09CD:108A|SkyIT|Sky Sport 4 HD
-09CD:2D6C|SkyIT|Sky Sport 4K HD
-09CD:0F46|SkyIT|Sky Sport 5 HD
-09CD:0F48|SkyIT|Sky Sport 6 HD
-09CD:1E5F|SkyIT|Sky Sport 7 HD
-09CD:1E5C|SkyIT|Sky Sport 8 HD
-09CD:2D5D|SkyIT|Sky Sport 9
-09CD:2B10|SkyIT|Sky Sport Arena HD
-09CD:0DE9|SkyIT|Sky Sport Bar 1 HD
-09CD:0DEA|SkyIT|Sky Sport Bar 2 HD
-09CD:1C29|SkyIT|Sky Sport Calcio HD
-09CD:2506|SkyIT|Sky Sport F1 HD
-09CD:1E58|SkyIT|Sky Sport Golf HD
-09CD:0F4D|SkyIT|Sky Sport HD
-09CD:2C2F|SkyIT|Sky Sport info card
-09CD:1C50|SkyIT|Sky Sport Max HD
-09CD:250B|SkyIT|Sky Sport Moto GP HD
-09CD:1E54|SkyIT|Sky Sport NBA HD
-09CD:0DE7|SkyIT|Sky Sport Tennis HD
-09CD:2B0F|SkyIT|Sky Sport Uno HD
-09CD:0DBF|SkyIT|Sky TG 24 HD
-09CD:10E8|SkyIT|Sky TG 24 Primo Piano
-09CD:37BA|SkyIT|Sky Uno 1 HD
-09CD:2505|SkyIT|Sky Uno HD
-09CD:1384|SkyIT|Sportitalia SoloCalcio HD
-09CD:2C29|SkyIT|Super Tennis HD
-09CD:0DF0|SkyIT|Super!
-09CD:1382|SkyIT|Telecupole
-09CD:1C73|SkyIT|TG Norba 24 HD
-09CD:0080|SkyIT|TGCom 24 HD
-09CD:1C91|SkyIT|The Word Network
-09CD:0084|SkyIT|Top Crime HD
+09CD:3792|SkyIT|Sky Atlantic (Italy)
+09CD:37B2|SkyIT|Cartoon Network Italia
+09CD:37B5|SkyIT|Milan TV
+09CD:37BA|SkyIT|Sky Uno +1
+09CD:38C4|SkyIT|Nickelodeon Italia +1
+09CD:38C5|SkyIT|Comedy Central Italia +1
+09CD:38C9|SkyIT|Cento X Cento TV
+09CD:38D0|SkyIT|Fox Business
+09CD:38FA|SkyIT|Dorcel Club
+09CD:39D9|SkyIT|SBN International
+09CD:3BF0|SkyIT|Caccia
+09CD:3C07|SkyIT|Boomerang Italia
 09CD:421A|SkyIT|TRM h24
-09CD:110D|SkyIT|TV 2000 HD
-09CD:1C5C|SkyIT|TV 8 HD
+09CD:422D|SkyIT|Class TV Moda
+09CD:422E|SkyIT|Horse TV
+09CD:4238|SkyIT|Padre Pio TV
+09CD:4242|SkyIT|Radio Italia TV
+09CD:4243|SkyIT|Equ TV
+09CD:4244|SkyIT|Arte Atelier
+09CD:4246|SkyIT|Radio Italia Trend TV
+09CD:424F|SkyIT|RDS Social TV
+09CD:4250|SkyIT|Kiss Kiss TV
+09CD:4253|SkyIT|QVC Italia
 09CD:425C|SkyIT|TVA Vicenza
-09CD:4536|SkyIT|Uninettuno University TV
-09CD:059A|SkyIT|Value 24 TV HD
-09CD:07D4|SkyIT|Vatican Media HD
 09CD:4260|SkyIT|Videolina
-09CD:0068|SkyIT|Virgin Radio Italy
-09CD:0076|SkyIT|Virgin Radio TV HD
+09CD:452F|SkyIT|Rai News 24
+09CD:4530|SkyIT|Rai Gulp
+09CD:4532|SkyIT|Rai Sport
+09CD:4536|SkyIT|Uninettuno University TV
 
 ## PROVIDER: Tivusat
 ## CAID: 1856,183D,183E
 ## PROVID: 000000
-## CREATE: 2025.03.15 11:26:18
-1856,183D,183E:0078|Tivusat|20 Mediaset HD
-1856,183D,183E:0087|Tivusat|27 Twentyseven HD
-1856,183D,183E:064D|Tivusat|ACI Sport TV HD
-1856,183D,183E:1C8A|Tivusat|Aljazeera English HD
-1856,183D,183E:4244|Tivusat|Arte Atelier
-1856,183D,183E:1381|Tivusat|Arte Investimenti HD
-1856,183D,183E:42EA|Tivusat|BBC News Europe
-1856,183D,183E:3348|Tivusat|BBC World Service English Europe
-1856,183D,183E:1006|Tivusat|Bike Channel HD
-1856,183D,183E:1C86|Tivusat|Bloomberg TV Europe
-1856,183D,183E:2C4F|Tivusat|Boomerang Italia 1
-1856,183D,183E:3C07|Tivusat|Boomerang Italia HD
-1856,183D,183E:3BF0|Tivusat|Caccia
-1856,183D,183E:2147|Tivusat|Camera dei Deputati
-1856,183D,183E:007A|Tivusat|Canale 5 HD
-1856,183D,183E:2C5B|Tivusat|Cartoon Network Italia 1
-1856,183D,183E:37B2|Tivusat|Cartoon Network Italia HD
-1856,183D,183E:38C9|Tivusat|Cento X Cento TV
-1856,183D,183E:1018|Tivusat|Cielo HD
-1856,183D,183E:006F|Tivusat|Cine 34 HD
-1856,183D,183E:0599|Tivusat|Class CNBC
-1856,183D,183E:422D|Tivusat|Class TV Moda HD
-1856,183D,183E:1C4D|Tivusat|CNBC Europe HD
-1856,183D,183E:2BCB|Tivusat|CNN International Europe
-1856,183D,183E:057C|Tivusat|Comedy Central Italia
-1856,183D,183E:38C5|Tivusat|Comedy Central Italia 1
-1856,183D,183E:0526|Tivusat|Daystar TV HD
-1856,183D,183E:0DEE|Tivusat|DAZN 1 Italia HD
-1856,183D,183E:0DCF|Tivusat|DAZN 2 Italia HD
-1856,183D,183E:2C31|Tivusat|DeA Junior
-1856,183D,183E:2CC4|Tivusat|DeA Kids
-1856,183D,183E:0FBF|Tivusat|DeA Kids 1
-1856,183D,183E:02E1|Tivusat|Dimensione Suono Roma
-1856,183D,183E:02FF|Tivusat|Dimensione Suono Soft Centro
-1856,183D,183E:0300|Tivusat|DiscoRadio
-1856,183D,183E:2C3A|Tivusat|Discovery Channel Italia 1
-1856,183D,183E:1015|Tivusat|Discovery Channel Italia HD
-1856,183D,183E:3B62|Tivusat|DMAX Italia HD
-1856,183D,183E:38FA|Tivusat|Dorcel Club
-1856,183D,183E:4243|Tivusat|Equ TV HD
-1856,183D,183E:07E1|Tivusat|EuroNews Italiano
-1856,183D,183E:0F4F|Tivusat|Eurosport 1 Italia HD
-1856,183D,183E:1036|Tivusat|Eurosport 2 Italia HD
-1856,183D,183E:29D1|Tivusat|EWTN Europe
-1856,183D,183E:0BC2|Tivusat|FashionTV Europe
-1856,183D,183E:0086|Tivusat|Focus HD
-1856,183D,183E:3B63|Tivusat|Food Network Italia HD
-1856,183D,183E:38D0|Tivusat|Fox Business
-1856,183D,183E:1FA7|Tivusat|Fox News Channel
-1856,183D,183E:0328|Tivusat|France 24 English HD
-1856,183D,183E:0327|Tivusat|France 24 FranAais HD
-1856,183D,183E:3B65|Tivusat|Frisbee
-1856,183D,183E:2FC4|Tivusat|Gambero Rosso Channel HD
-1856,183D,183E:10E2|Tivusat|Giallo HD
-1856,183D,183E:2336|Tivusat|Go-TV Channel
-1856,183D,183E:10EE|Tivusat|HGTV Italia HD
-1856,183D,183E:0DEF|Tivusat|History Italia 1
-1856,183D,183E:0DB9|Tivusat|History Italia HD
-1856,183D,183E:422E|Tivusat|Horse TV HD
-1856,183D,183E:2BA6|Tivusat|InBlu 2000
-1856,183D,183E:250F|Tivusat|Inter TV HD
-1856,183D,183E:007C|Tivusat|Iris HD
-1856,183D,183E:0079|Tivusat|Italia 1 HD
-1856,183D,183E:0082|Tivusat|Italia 2 HD
-1856,183D,183E:0642|Tivusat|Italian Fishing TV
-1856,183D,183E:3B64|Tivusat|K2
-1856,183D,183E:4250|Tivusat|Kiss Kiss TV HD
-1856,183D,183E:007F|Tivusat|La 5 HD
-1856,183D,183E:004F|Tivusat|La 7 HD
-1856,183D,183E:0049|Tivusat|La 7d HD
-1856,183D,183E:0E45|Tivusat|M2o
-1856,183D,183E:0081|Tivusat|Mediaset Extra HD
-1856,183D,183E:37B5|Tivusat|Milan TV
-1856,183D,183E:10E1|Tivusat|Motor Trend HD
-1856,183D,183E:1E53|Tivusat|MTV Italia HD
-1856,183D,183E:0594|Tivusat|MTV Music Italia
-1856,183D,183E:132E|Tivusat|New Jerusalem
-1856,183D,183E:0215|Tivusat|NHK World Japan HD
-1856,183D,183E:0590|Tivusat|Nick Jr Italia
-1856,183D,183E:0FC6|Tivusat|Nick Jr Italia 1
-1856,183D,183E:2C38|Tivusat|Nickelodeon Italia
-1856,183D,183E:38C4|Tivusat|Nickelodeon Italia 1
-1856,183D,183E:2152|Tivusat|No Name Radio
-1856,183D,183E:10E3|Tivusat|Nove HD
-1856,183D,183E:232D|Tivusat|Orler TV
-1856,183D,183E:4238|Tivusat|Padre Pio TV HD
+## CREATE: 2025.08.07 11:26:18
+1856,183D,183E:0049|Tivusat|La 7d
+1856,183D,183E:004F|Tivusat|La 7
+1856,183D,183E:006F|Tivusat|Cine 34
+1856,183D,183E:0076|Tivusat|Virgin Radio TV
+1856,183D,183E:0077|Tivusat|Radio Monte Carlo TV
+1856,183D,183E:0078|Tivusat|20 Mediaset
+1856,183D,183E:0079|Tivusat|Italia 1
+1856,183D,183E:007A|Tivusat|Canale 5
+1856,183D,183E:007B|Tivusat|Rete 4
+1856,183D,183E:007C|Tivusat|Iris
+1856,183D,183E:007F|Tivusat|La 5
+1856,183D,183E:0080|Tivusat|TGCom 24
+1856,183D,183E:0081|Tivusat|Mediaset Extra
+1856,183D,183E:0082|Tivusat|Italia 2
+1856,183D,183E:0084|Tivusat|Top Crime (Italy)
+1856,183D,183E:0086|Tivusat|Focus
+1856,183D,183E:0087|Tivusat|27 Twentyseven
 1856,183D,183E:01FE|Tivusat|Parole di Vita
+1856,183D,183E:0201|Tivusat|Radio Norba TV
+1856,183D,183E:0202|Tivusat|RTL 102.5 RadioVisione
+1856,183D,183E:0203|Tivusat|Radio Freccia TV
+1856,183D,183E:0204|Tivusat|Radio Zeta Radiovisione
+1856,183D,183E:0205|Tivusat|RTL 102.5 Caliente
+1856,183D,183E:0206|Tivusat|ReteSette
+1856,183D,183E:0215|Tivusat|NHK World Japan
+1856,183D,183E:0327|Tivusat|France 24 Français
+1856,183D,183E:0328|Tivusat|France 24 English
+1856,183D,183E:051B|Tivusat|RTL 102.5 RadioVisione
+1856,183D,183E:051C|Tivusat|Radio Freccia TV
+1856,183D,183E:051F|Tivusat|Radio Norba TV
+1856,183D,183E:0526|Tivusat|Daystar TV
+1856,183D,183E:0529|Tivusat|Radio Zeta Radiovisione
+1856,183D,183E:052B|Tivusat|RTL 102.5 Caliente
+1856,183D,183E:0530|Tivusat|ReteSette
+1856,183D,183E:057C|Tivusat|Comedy Central Italia
+1856,183D,183E:0590|Tivusat|Nick Jr Italia
+1856,183D,183E:0594|Tivusat|MTV Music Italia
+1856,183D,183E:0599|Tivusat|Class CNBC
+1856,183D,183E:059A|Tivusat|Value 24 TV
+1856,183D,183E:064D|Tivusat|ACI Sport TV
+1856,183D,183E:07D4|Tivusat|Vatican Media
+1856,183D,183E:07E1|Tivusat|EuroNews Italiano
+1856,183D,183E:0BC2|Tivusat|FashionTV Europe
+1856,183D,183E:0D49|Tivusat|Rai 1
+1856,183D,183E:0D4A|Tivusat|Rai 2
+1856,183D,183E:0D4B|Tivusat|Rai 3
+1856,183D,183E:0DB9|Tivusat|History Italia
+1856,183D,183E:0DBF|Tivusat|Sky TG 24
+1856,183D,183E:0DCF|Tivusat|DAZN 2 Italia
+1856,183D,183E:0DE7|Tivusat|Sky Sport Tennis
+1856,183D,183E:0DE9|Tivusat|Sky Sport Business 1
+1856,183D,183E:0DEA|Tivusat|Sky Sport Business 2
+1856,183D,183E:0DEC|Tivusat|Sky Cinema Due
+1856,183D,183E:0DED|Tivusat|Sky Sport Business 3
+1856,183D,183E:0DEE|Tivusat|DAZN 1 Italia
+1856,183D,183E:0DEF|Tivusat|History Italia +1
+1856,183D,183E:0DF0|Tivusat|Super!
+1856,183D,183E:0DFA|Tivusat|Sky Sport Legend
+1856,183D,183E:0DFB|Tivusat|Sky Sport Mix
+1856,183D,183E:0F46|Tivusat|Sky Sport 5
+1856,183D,183E:0F48|Tivusat|Sky Sport 6
+1856,183D,183E:0F4D|Tivusat|Sky Sport
+1856,183D,183E:0F5D|Tivusat|Sky Investigation +1
+1856,183D,183E:0F6F|Tivusat|Sky Sport 2
+1856,183D,183E:0F79|Tivusat|Sky Adventure
+1856,183D,183E:0FBF|Tivusat|DeA Kids +1
+1856,183D,183E:0FC6|Tivusat|Nick Jr Italia +1
+1856,183D,183E:1006|Tivusat|Bike Channel
+1856,183D,183E:1016|Tivusat|Prime Video Sportsbar Italia
+1856,183D,183E:1018|Tivusat|Cielo
+1856,183D,183E:101C|Tivusat|Sky Crime +1
+1856,183D,183E:1020|Tivusat|Sky Crime
+1856,183D,183E:104A|Tivusat|Sky Classica
+1856,183D,183E:106A|Tivusat|Sky Cinema Uno
+1856,183D,183E:106C|Tivusat|Sky Cinema Collection
+1856,183D,183E:106E|Tivusat|Sky Cinema Action
+1856,183D,183E:1089|Tivusat|Sky Sport 3
+1856,183D,183E:108A|Tivusat|Sky Sport 4
+1856,183D,183E:1090|Tivusat|Sky Serie +1
+1856,183D,183E:10E1|Tivusat|Sky Meteo 24
+1856,183D,183E:10E8|Tivusat|Sky TG 24 Primo Piano
 1856,183D,183E:10FE|Tivusat|Pesca
-1856,183D,183E:1016|Tivusat|Prime Video Sportsbar Italia HD
-1856,183D,183E:4253|Tivusat|QVC Italia HD
-1856,183D,183E:0065|Tivusat|R101
-1856,183D,183E:0069|Tivusat|Radio 105
-1856,183D,183E:0E3C|Tivusat|Radio 24
-1856,183D,183E:0E44|Tivusat|Radio Capital
-1856,183D,183E:0E43|Tivusat|Radio Deejay
-1856,183D,183E:02E0|Tivusat|Radio Dimensione Suono
-1856,183D,183E:0E2E|Tivusat|Radio Freccia
-1856,183D,183E:051C|Tivusat|Radio Freccia TV HD
-1856,183D,183E:135B|Tivusat|Radio Gamma Stereo
-1856,183D,183E:0E46|Tivusat|Radio Iglesias
-1856,183D,183E:2B7B|Tivusat|Radio InBlu
-1856,183D,183E:0E30|Tivusat|Radio Italia
-1856,183D,183E:02E2|Tivusat|Radio Italia Anni 60
-1856,183D,183E:4246|Tivusat|Radio Italia Trend TV HD
-1856,183D,183E:4242|Tivusat|Radio Italia TV HD
-1856,183D,183E:02E6|Tivusat|Radio Kiss Kiss
-1856,183D,183E:135D|Tivusat|Radio Margherita
-1856,183D,183E:02DC|Tivusat|Radio Maria Italia
-1856,183D,183E:0066|Tivusat|Radio Monte Carlo
-1856,183D,183E:0077|Tivusat|Radio Monte Carlo TV HD
-1856,183D,183E:051F|Tivusat|Radio Norba TV HD
-1856,183D,183E:4255|Tivusat|Radio Number One
-1856,183D,183E:02E8|Tivusat|Radio Padre Pio
-1856,183D,183E:0E48|Tivusat|Radio Popolare
-1856,183D,183E:02F9|Tivusat|Radio Radicale
-1856,183D,183E:1C57|Tivusat|Radio San Marino
-1856,183D,183E:0E35|Tivusat|Radio Sportiva
-1856,183D,183E:006A|Tivusat|Radio Subasio
-1856,183D,183E:135A|Tivusat|Radio Supersound
-1856,183D,183E:435F|Tivusat|Radio Swiss Classic Italiano
-1856,183D,183E:4354|Tivusat|Radio Swiss Jazz
-1856,183D,183E:4353|Tivusat|Radio Swiss Pop
-1856,183D,183E:110E|Tivusat|Radio Vaticana Europa
-1856,183D,183E:0E3B|Tivusat|Radio Zeta FM
-1856,183D,183E:0529|Tivusat|Radio Zeta Radiovisione HD
-1856,183D,183E:0D49|Tivusat|Rai 1 HD
-1856,183D,183E:0D4A|Tivusat|Rai 2 HD
-1856,183D,183E:0D4B|Tivusat|Rai 3 HD
-1856,183D,183E:214D|Tivusat|Rai Gr Parlamento
-1856,183D,183E:4530|Tivusat|Rai Gulp HD
-1856,183D,183E:214E|Tivusat|Rai Isoradio
-1856,183D,183E:452F|Tivusat|Rai News 24 HD
-1856,183D,183E:0D71|Tivusat|Rai Radio 1
-1856,183D,183E:2155|Tivusat|Rai Radio 1 Sport
-1856,183D,183E:0D72|Tivusat|Rai Radio 2
-1856,183D,183E:0D73|Tivusat|Rai Radio 3
-1856,183D,183E:214C|Tivusat|Rai Radio 3 Classica
-1856,183D,183E:2151|Tivusat|Rai Radio Kids
-1856,183D,183E:2150|Tivusat|Rai Radio Live Napoli
-1856,183D,183E:214F|Tivusat|Rai Radio Techete
-1856,183D,183E:2153|Tivusat|Rai Radio Tutta Italiana
-1856,183D,183E:2149|Tivusat|Rai Scuola HD
-1856,183D,183E:4532|Tivusat|Rai Sport HD
-1856,183D,183E:2146|Tivusat|Rai Storia HD
-1856,183D,183E:424F|Tivusat|RDS Social TV HD
-1856,183D,183E:3B61|Tivusat|Real Time Italia HD
-1856,183D,183E:007B|Tivusat|Rete 4 HD
-1856,183D,183E:0530|Tivusat|ReteSette HD
-1856,183D,183E:334A|Tivusat|RFI FranAais
-1856,183D,183E:4350|Tivusat|RSI Rete Due
-1856,183D,183E:4351|Tivusat|RSI Rete Tre
-1856,183D,183E:434F|Tivusat|RSI Rete Uno
-1856,183D,183E:0E3A|Tivusat|RTL 1025
-1856,183D,183E:052B|Tivusat|RTL 1025 Caliente HD
-1856,183D,183E:051B|Tivusat|RTL 1025 RadioVisione HD
-1856,183D,183E:1C56|Tivusat|San Marino RTV HD
-1856,183D,183E:39D9|Tivusat|SBN International
-1856,183D,183E:2B42|Tivusat|Sky Arte HD
-1856,183D,183E:2D00|Tivusat|Sky Atlantic 1 HD
-1856,183D,183E:3792|Tivusat|Sky Atlantic HD
-1856,183D,183E:106E|Tivusat|Sky Cinema Action HD
-1856,183D,183E:106C|Tivusat|Sky Cinema Collection HD
-1856,183D,183E:2B16|Tivusat|Sky Cinema Comedy HD
-1856,183D,183E:1E59|Tivusat|Sky Cinema Drama HD
-1856,183D,183E:1E63|Tivusat|Sky Cinema Due 24 HD
-1856,183D,183E:0DEC|Tivusat|Sky Cinema Due HD
-1856,183D,183E:1C3F|Tivusat|Sky Cinema Romance HD
-1856,183D,183E:2B27|Tivusat|Sky Cinema Suspense HD
-1856,183D,183E:1C38|Tivusat|Sky Cinema Uno 24 HD
-1856,183D,183E:106A|Tivusat|Sky Cinema Uno HD
-1856,183D,183E:104A|Tivusat|Sky Classica HD
-1856,183D,183E:109A|Tivusat|Sky Classica HD
-1856,183D,183E:101C|Tivusat|Sky Crime 1 HD
-1856,183D,183E:1020|Tivusat|Sky Crime HD
-1856,183D,183E:0F58|Tivusat|Sky Documentaries 1 HD
-1856,183D,183E:2DB1|Tivusat|Sky Documentaries HD
-1856,183D,183E:2C2B|Tivusat|Sky info card
-1856,183D,183E:0F5D|Tivusat|Sky Investigation 1 HD
-1856,183D,183E:2DA6|Tivusat|Sky Investigation HD
-1856,183D,183E:2DAF|Tivusat|Sky Nature HD
+1856,183D,183E:110D|Tivusat|TV 2000
+1856,183D,183E:1200|Tivusat|Daystar TV
+1856,183D,183E:132E|Tivusat|New Jerusalem
+1856,183D,183E:1381|Tivusat|Arte Investimenti
+1856,183D,183E:1382|Tivusat|Telecupole
+1856,183D,183E:1384|Tivusat|Sportitalia SoloCalcio
+1856,183D,183E:1C29|Tivusat|Sky Sport Calcio
+1856,183D,183E:1C38|Tivusat|Sky Cinema Uno +24
+1856,183D,183E:1C3F|Tivusat|Sky Cinema Romance
+1856,183D,183E:1C4D|Tivusat|CNBC Europe
+1856,183D,183E:1C50|Tivusat|Sky Sport Max
+1856,183D,183E:1C56|Tivusat|San Marino RTV
+1856,183D,183E:1C57|Tivusat|Sky Cinema Family
+1856,183D,183E:1C5C|Tivusat|TV 8 (Italy)
+1856,183D,183E:1C73|Tivusat|TG Norba 24
+1856,183D,183E:1C86|Tivusat|Bloomberg TV Europe
+1856,183D,183E:1C8A|Tivusat|Aljazeera English
+1856,183D,183E:1E53|Tivusat|MTV Italia
+1856,183D,183E:1E54|Tivusat|Sky Sport Basket
+1856,183D,183E:1E58|Tivusat|Sky Sport Golf
+1856,183D,183E:1E59|Tivusat|Sky Cinema Drama
+1856,183D,183E:1E5C|Tivusat|Sky Sport 8
+1856,183D,183E:1E5F|Tivusat|Sky Sport 7
+1856,183D,183E:1E63|Tivusat|Sky Cinema Due +24
+1856,183D,183E:1FA7|Tivusat|Fox News Channel
 1856,183D,183E:1FAC|Tivusat|Sky News International
+1856,183D,183E:2146|Tivusat|Rai Storia
+1856,183D,183E:2147|Tivusat|Camera dei Deputati
+1856,183D,183E:2149|Tivusat|Rai Scuola
+1856,183D,183E:232D|Tivusat|Orler TV
+1856,183D,183E:2336|Tivusat|Go-TV Channel
+1856,183D,183E:2505|Tivusat|Sky Uno
+1856,183D,183E:2506|Tivusat|Sky Sport F1
+1856,183D,183E:250B|Tivusat|Sky Sport Moto GP
+1856,183D,183E:250F|Tivusat|Inter TV
+1856,183D,183E:29D1|Tivusat|EWTN Europe
+1856,183D,183E:2B0F|Tivusat|Sky Sport Uno
+1856,183D,183E:2B10|Tivusat|Sky Sport Arena
+1856,183D,183E:2B16|Tivusat|Sky Cinema Comedy
+1856,183D,183E:2B1B|Tivusat|Sky Sport 24
+1856,183D,183E:2B27|Tivusat|Sky Cinema Suspense
+1856,183D,183E:2B42|Tivusat|Sky Arte
+1856,183D,183E:2BCB|Tivusat|CNN International Europe
+1856,183D,183E:2C29|Tivusat|Super Tennis
+1856,183D,183E:2C2B|Tivusat|[Sky info card]
+1856,183D,183E:2C2F|Tivusat|[Sky Sport info card]
+1856,183D,183E:2C31|Tivusat|DeA Junior
+1856,183D,183E:2C38|Tivusat|Nickelodeon Italia
+1856,183D,183E:2C4F|Tivusat|Boomerang Italia +1
+1856,183D,183E:2C5B|Tivusat|Cartoon Network Italia +1
+1856,183D,183E:2CC4|Tivusat|DeA Kids
+1856,183D,183E:2D5D|Tivusat|Sky Sport 9
+1856,183D,183E:2D6C|Tivusat|Sky Sport 4K
+1856,183D,183E:2DA4|Tivusat|Sky Serie
+1856,183D,183E:2DA6|Tivusat|Sky Investigation
+1856,183D,183E:2DAF|Tivusat|Sky Nature
+1856,183D,183E:2DB1|Tivusat|Sky Documentaries
+1856,183D,183E:2FC4|Tivusat|Gambero Rosso Channel
+1856,183D,183E:3330|Tivusat|BBC News Europe
+1856,183D,183E:341E|Tivusat|Sky Primafila 5
 1856,183D,183E:3421|Tivusat|Sky Primafila 3
 1856,183D,183E:3423|Tivusat|Sky Primafila 4
-1856,183D,183E:341E|Tivusat|Sky Primafila 5
-1856,183D,183E:1090|Tivusat|Sky Serie 1 HD
-1856,183D,183E:2DA4|Tivusat|Sky Serie HD
-1856,183D,183E:0F6F|Tivusat|Sky Sport 2 HD
-1856,183D,183E:2B1B|Tivusat|Sky Sport 24 HD
-1856,183D,183E:1089|Tivusat|Sky Sport 3 HD
-1856,183D,183E:108A|Tivusat|Sky Sport 4 HD
-1856,183D,183E:2D6C|Tivusat|Sky Sport 4K HD
-1856,183D,183E:0F46|Tivusat|Sky Sport 5 HD
-1856,183D,183E:0F48|Tivusat|Sky Sport 6 HD
-1856,183D,183E:1E5F|Tivusat|Sky Sport 7 HD
-1856,183D,183E:1E5C|Tivusat|Sky Sport 8 HD
-1856,183D,183E:2D5D|Tivusat|Sky Sport 9
-1856,183D,183E:2B10|Tivusat|Sky Sport Arena HD
-1856,183D,183E:0DE9|Tivusat|Sky Sport Bar 1 HD
-1856,183D,183E:0DEA|Tivusat|Sky Sport Bar 2 HD
-1856,183D,183E:1C29|Tivusat|Sky Sport Calcio HD
-1856,183D,183E:2506|Tivusat|Sky Sport F1 HD
-1856,183D,183E:1E58|Tivusat|Sky Sport Golf HD
-1856,183D,183E:0F4D|Tivusat|Sky Sport HD
-1856,183D,183E:2C2F|Tivusat|Sky Sport info card
-1856,183D,183E:1C50|Tivusat|Sky Sport Max HD
-1856,183D,183E:250B|Tivusat|Sky Sport Moto GP HD
-1856,183D,183E:1E54|Tivusat|Sky Sport NBA HD
-1856,183D,183E:0DE7|Tivusat|Sky Sport Tennis HD
-1856,183D,183E:2B0F|Tivusat|Sky Sport Uno HD
-1856,183D,183E:0DBF|Tivusat|Sky TG 24 HD
-1856,183D,183E:10E8|Tivusat|Sky TG 24 Primo Piano
-1856,183D,183E:37BA|Tivusat|Sky Uno 1 HD
-1856,183D,183E:2505|Tivusat|Sky Uno HD
-1856,183D,183E:1384|Tivusat|Sportitalia SoloCalcio HD
-1856,183D,183E:2C29|Tivusat|Super Tennis HD
-1856,183D,183E:0DF0|Tivusat|Super!
-1856,183D,183E:1382|Tivusat|Telecupole
-1856,183D,183E:1C73|Tivusat|TG Norba 24 HD
-1856,183D,183E:0080|Tivusat|TGCom 24 HD
-1856,183D,183E:1C91|Tivusat|The Word Network
-1856,183D,183E:0084|Tivusat|Top Crime HD
+1856,183D,183E:3792|Tivusat|Sky Atlantic (Italy)
+1856,183D,183E:37B2|Tivusat|Cartoon Network Italia
+1856,183D,183E:37B5|Tivusat|Milan TV
+1856,183D,183E:37BA|Tivusat|Sky Uno +1
+1856,183D,183E:38C4|Tivusat|Nickelodeon Italia +1
+1856,183D,183E:38C5|Tivusat|Comedy Central Italia +1
+1856,183D,183E:38C9|Tivusat|Cento X Cento TV
+1856,183D,183E:38D0|Tivusat|Fox Business
+1856,183D,183E:38FA|Tivusat|Dorcel Club
+1856,183D,183E:39D9|Tivusat|SBN International
+1856,183D,183E:3BF0|Tivusat|Caccia
+1856,183D,183E:3C07|Tivusat|Boomerang Italia
 1856,183D,183E:421A|Tivusat|TRM h24
-1856,183D,183E:110D|Tivusat|TV 2000 HD
-1856,183D,183E:1C5C|Tivusat|TV 8 HD
+1856,183D,183E:422D|Tivusat|Class TV Moda
+1856,183D,183E:422E|Tivusat|Horse TV
+1856,183D,183E:4238|Tivusat|Padre Pio TV
+1856,183D,183E:4242|Tivusat|Radio Italia TV
+1856,183D,183E:4243|Tivusat|Equ TV
+1856,183D,183E:4244|Tivusat|Arte Atelier
+1856,183D,183E:4246|Tivusat|Radio Italia Trend TV
+1856,183D,183E:424F|Tivusat|RDS Social TV
+1856,183D,183E:4250|Tivusat|Kiss Kiss TV
+1856,183D,183E:4253|Tivusat|QVC Italia
 1856,183D,183E:425C|Tivusat|TVA Vicenza
-1856,183D,183E:4536|Tivusat|Uninettuno University TV
-1856,183D,183E:059A|Tivusat|Value 24 TV HD
-1856,183D,183E:07D4|Tivusat|Vatican Media HD
 1856,183D,183E:4260|Tivusat|Videolina
-1856,183D,183E:0068|Tivusat|Virgin Radio Italy
-1856,183D,183E:0076|Tivusat|Virgin Radio TV HD
+1856,183D,183E:452F|Tivusat|Rai News 24
+1856,183D,183E:4530|Tivusat|Rai Gulp
+1856,183D,183E:4532|Tivusat|Rai Sport
+1856,183D,183E:4536|Tivusat|Uninettuno University TV
 
 ## PROVIDER: MEO
 ## CAID: 1802,1814
